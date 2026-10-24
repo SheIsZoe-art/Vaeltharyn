@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-24",
+  "entries": 65007,
+  "distinct_spellings": 65006,
+  "verbs": 6533,
+  "translated_source_markdown_files": 415,
+  "english_index_entries": 65007,
+  "vaeltharyn_index_entries": 65007,
+  "english_index_volumes": 131,
+  "vaeltharyn_index_volumes": 131,
+  "machine_translation_model": "Argos Translate French–English 1.9 / CTranslate2, local CPU, greedy decoding",
+  "directly_translated_and_reviewed": [
+    "00_Accueil.md",
+    "01_Sons_et_chant.md",
+    "02_Grammaire.md",
+    "03_Conjugaison.md",
+    "04_Formation_des_mots.md",
+    "07_Textes_et_Suno.md",
+    "08_Canon_et_controles.md",
+    "10_Guide_du_dictionnaire.md",
+    "11_Couverture_et_limites.md",
+    "12_Exemples_et_distinctions.md",
+    "13_Journal_extension_1_1.md",
+    "15_Grand_dictionnaire.md",
+    "18_Sources_et_licences.md",
+    "20_Conjuguer_le_grand_lexique.md",
+    "21_Bilan_grande_edition.md",
+    "22_Complement_lexical_royaume.md",
+    "CONTRIBUTING.md",
+    "LICENSE.md",
+    "README.md",
+    "TRANSLATION.md"
+  ],
+  "mixed_translation_review": {
+    "19_Atelier_des_chansons.md": "Directly translated prose; bulk-translated lexical table definitions"
+  },
+  "source_definitions_preserved": true,
+  "individual_bulk_translation_review": false
+}

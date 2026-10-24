@@ -1,5 +1,7 @@
 # Vaeltharyn
 
+**Français** · [English edition](en/README.md)
+
 **Une langue construite pour le chant, la poésie et les récits.**
 
 Prononciation : **VAÈÈL-tha-rün**, /ˈvæːl.θa.ryn/.
