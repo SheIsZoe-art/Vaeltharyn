@@ -1,0 +1,11 @@
+.obsidian/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
+.env
+.env.*
+*.sqlite
+*.sqlite-journal

@@ -1,0 +1,758 @@
+{
+  "version": "1.1.0 (historique, avant grande édition)",
+  "date": "2026-10-24",
+  "entrees": 2918,
+  "entrees_initiales_preservees": 465,
+  "formes_lexicales_distinctes": 2917,
+  "categories": {
+    "n": 1627,
+    "adj": 758,
+    "v": 256,
+    "part": 62,
+    "adv": 204,
+    "num": 11
+  },
+  "natures": {
+    "héritage 1.0.0": 465,
+    "racine proposée": 1073,
+    "composé": 58,
+    "dérivé": 1322
+  },
+  "verbes": 256,
+  "formes_finies_generees": 13824,
+  "renvois_index_francais": 2982,
+  "homographes_declares": {
+    "thar": [
+      "adj",
+      "part"
+    ]
+  },
+  "verbes_invalides": [],
+  "graphies_nouvelles_invalides": [],
+  "doublons_meme_categorie": [],
+  "derives_mal_formes": [],
+  "liens_casses": [],
+  "collisions_derivation_evitees": [
+    {
+      "forme": "thaeror",
+      "base": "thaerar",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "naelor",
+      "base": "naelar",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "vaereth",
+      "base": "vaerar",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "raeveth",
+      "base": "raevar",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "thaemvareth",
+      "base": "thaemvarar",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "haelvareth",
+      "base": "haelvarar",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "naelvareth",
+      "base": "naelvarar",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "saeveth",
+      "base": "saev",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "saervis",
+      "base": "saerv",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "thaevlis",
+      "base": "thaevl",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "nythaleth",
+      "base": "nythal",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "raeveth",
+      "base": "raev",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "kaeraleth",
+      "base": "kaeral",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    },
+    {
+      "forme": "fraeneth",
+      "base": "fraen",
+      "raison": "forme déjà occupée ; aucune entrée existante écrasée"
+    }
+  ],
+  "homographies_flexion_lemme": [
+    {
+      "forme": "thyror",
+      "base": "thyr",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : assombrir"
+    },
+    {
+      "forme": "thavor",
+      "base": "thav",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : tenir"
+    },
+    {
+      "forme": "graelor",
+      "base": "grael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : protéger"
+    },
+    {
+      "forme": "kervor",
+      "base": "kerv",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : construire"
+    },
+    {
+      "forme": "nauren",
+      "base": "naur",
+      "analyse": "nom singulier en",
+      "lemme_homographe": "braise"
+    },
+    {
+      "forme": "kaenor",
+      "base": "kaen",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : toucher"
+    },
+    {
+      "forme": "thaemor",
+      "base": "thaem",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : appeler de la voix"
+    },
+    {
+      "forme": "miror",
+      "base": "mir",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : voir"
+    },
+    {
+      "forme": "lisor",
+      "base": "lis",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : écouter"
+    },
+    {
+      "forme": "thimor",
+      "base": "thim",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : saisir de la main"
+    },
+    {
+      "forme": "thalen",
+      "base": "thal",
+      "analyse": "nom singulier en",
+      "lemme_homographe": "personne"
+    },
+    {
+      "forme": "vaethor",
+      "base": "vaeth",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : ouvrir"
+    },
+    {
+      "forme": "naelor",
+      "base": "nael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "passé"
+    },
+    {
+      "forme": "maelor",
+      "base": "mael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : aimer"
+    },
+    {
+      "forme": "thraelor",
+      "base": "thrael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : espérer"
+    },
+    {
+      "forme": "kaethor",
+      "base": "kaeth",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : craindre"
+    },
+    {
+      "forme": "maerunor",
+      "base": "maerun",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : respecter une personne"
+    },
+    {
+      "forme": "vaethunor",
+      "base": "vaethun",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : oser"
+    },
+    {
+      "forme": "lyrenor",
+      "base": "lyren",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : aider une personne"
+    },
+    {
+      "forme": "kaeror",
+      "base": "kaer",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : garder, préserver"
+    },
+    {
+      "forme": "thaevunor",
+      "base": "thaevun",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : signifier"
+    },
+    {
+      "forme": "varithor",
+      "base": "varith",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : choisir"
+    },
+    {
+      "forme": "thiren",
+      "base": "thir",
+      "analyse": "nom singulier en",
+      "lemme_homographe": "présent temporel"
+    },
+    {
+      "forme": "threlor",
+      "base": "threl",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : lier, attacher"
+    },
+    {
+      "forme": "saelkor",
+      "base": "saelk",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "relique"
+    },
+    {
+      "forme": "naelkaror",
+      "base": "naelkar",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : détruire"
+    },
+    {
+      "forme": "thaelor",
+      "base": "thael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : créer"
+    },
+    {
+      "forme": "lyrelor",
+      "base": "lyrel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : jouer d'un instrument"
+    },
+    {
+      "forme": "naelvelor",
+      "base": "naelvel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : lire"
+    },
+    {
+      "forme": "thaelithor",
+      "base": "thaelith",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : composer un poème"
+    },
+    {
+      "forme": "thaelunor",
+      "base": "thaelun",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : invoquer"
+    },
+    {
+      "forme": "kaevor",
+      "base": "kaev",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : écrire, tracer des signes"
+    },
+    {
+      "forme": "vraekor",
+      "base": "vraek",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : couper avec une lame"
+    },
+    {
+      "forme": "grethor",
+      "base": "greth",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : nouer"
+    },
+    {
+      "forme": "maelvelor",
+      "base": "maelvel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : manger"
+    },
+    {
+      "forme": "vathunor",
+      "base": "vathun",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : boire"
+    },
+    {
+      "forme": "lyren",
+      "base": "lyrar",
+      "analyse": "verbe présent indicatif en",
+      "lemme_homographe": "lien entre êtres"
+    },
+    {
+      "forme": "thalem",
+      "base": "thalar",
+      "analyse": "verbe présent indicatif em",
+      "lemme_homographe": "jambe"
+    },
+    {
+      "forme": "thalen",
+      "base": "thalar",
+      "analyse": "verbe présent indicatif en",
+      "lemme_homographe": "personne"
+    },
+    {
+      "forme": "nauren",
+      "base": "naurar",
+      "analyse": "verbe présent indicatif en",
+      "lemme_homographe": "braise"
+    },
+    {
+      "forme": "thulem",
+      "base": "thular",
+      "analyse": "verbe présent indicatif em",
+      "lemme_homographe": "océan"
+    },
+    {
+      "forme": "franelor",
+      "base": "franel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : sentir par l'odorat"
+    },
+    {
+      "forme": "malenor",
+      "base": "malen",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : préparer de la nourriture"
+    },
+    {
+      "forme": "haermelor",
+      "base": "haermel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : cuire au four"
+    },
+    {
+      "forme": "naelgrelor",
+      "base": "naelgrel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : ranger un objet"
+    },
+    {
+      "forme": "kaerilor",
+      "base": "kaeril",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : verrouiller"
+    },
+    {
+      "forme": "vathkelor",
+      "base": "vathkel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : laver"
+    },
+    {
+      "forme": "maerelor",
+      "base": "maerel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : nettoyer"
+    },
+    {
+      "forme": "kaenvathor",
+      "base": "kaenvath",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : essuyer"
+    },
+    {
+      "forme": "thimvaror",
+      "base": "thimvar",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : coudre"
+    },
+    {
+      "forme": "vaerthalen",
+      "base": "vaerthal",
+      "analyse": "nom singulier en",
+      "lemme_homographe": "client, cliente"
+    },
+    {
+      "forme": "pelkaror",
+      "base": "pelkar",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : cultiver une plante"
+    },
+    {
+      "forme": "nelthiror",
+      "base": "nelthir",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : récolter des produits agricoles"
+    },
+    {
+      "forme": "karhaevor",
+      "base": "karhaev",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : restaurer un milieu écologique"
+    },
+    {
+      "forme": "karvathor",
+      "base": "karvath",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : irriguer une parcelle"
+    },
+    {
+      "forme": "nelkaror",
+      "base": "nelkar",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : semer des graines"
+    },
+    {
+      "forme": "karulhaevor",
+      "base": "karulhaev",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : polluer un milieu"
+    },
+    {
+      "forme": "thasknelor",
+      "base": "thasknel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : recycler un matériau"
+    },
+    {
+      "forme": "maelnayror",
+      "base": "maelnayr",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : épouser une personne"
+    },
+    {
+      "forme": "thaemlyren",
+      "base": "thaemlyr",
+      "analyse": "nom singulier en",
+      "lemme_homographe": "duo vocal"
+    },
+    {
+      "forme": "lyrenkaeror",
+      "base": "lyrenkaer",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : accueillir une personne"
+    },
+    {
+      "forme": "ulmaelor",
+      "base": "ulmael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : haïr"
+    },
+    {
+      "forme": "ulmaerunor",
+      "base": "ulmaerun",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : mépriser une personne"
+    },
+    {
+      "forme": "thaevlyrenor",
+      "base": "thaevlyren",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : consentir à une action"
+    },
+    {
+      "forme": "ulthaevlyrenor",
+      "base": "ulthaevlyren",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : refuser une action"
+    },
+    {
+      "forme": "vaermaror",
+      "base": "vaermar",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : acheter"
+    },
+    {
+      "forme": "thervalvaeror",
+      "base": "thervalvaer",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : employer une personne"
+    },
+    {
+      "forme": "thervalhaevor",
+      "base": "thervalhaev",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : réparer un objet"
+    },
+    {
+      "forme": "sendhaelor",
+      "base": "sendhael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : rechercher un élément"
+    },
+    {
+      "forme": "sendnelor",
+      "base": "sendnel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : classer"
+    },
+    {
+      "forme": "sendkaevor",
+      "base": "sendkaev",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : définir un terme"
+    },
+    {
+      "forme": "sendhaevor",
+      "base": "sendhaev",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : vérifier une affirmation"
+    },
+    {
+      "forme": "sendnaelor",
+      "base": "sendnael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : étudier méthodiquement"
+    },
+    {
+      "forme": "sendthrelor",
+      "base": "sendthrel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : comparer des choses"
+    },
+    {
+      "forme": "sendkaeror",
+      "base": "sendkaer",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : mémoriser un contenu"
+    },
+    {
+      "forme": "thaemvaror",
+      "base": "thaemvar",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : prononcer un mot"
+    },
+    {
+      "forme": "thaemraelor",
+      "base": "thaemrael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : annoncer une nouvelle"
+    },
+    {
+      "forme": "thaemthrelor",
+      "base": "thaemthrel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : assembler des segments sonores"
+    },
+    {
+      "forme": "thaelnaelor",
+      "base": "thaelnael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : écrire les paroles d'une chanson"
+    },
+    {
+      "forme": "thaelgrethor",
+      "base": "thaelgreth",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : arranger musicalement un morceau"
+    },
+    {
+      "forme": "thaemnaelor",
+      "base": "thaemnael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : enregistrer un son"
+    },
+    {
+      "forme": "thaemvaeror",
+      "base": "thaemvaer",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : mixer des sons"
+    },
+    {
+      "forme": "thaemkaeror",
+      "base": "thaemkaer",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : masteriser un enregistrement"
+    },
+    {
+      "forme": "thaemvyror",
+      "base": "thaemvyr",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : insulter une personne"
+    },
+    {
+      "forme": "thaemrelor",
+      "base": "thaemrel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : répondre à une personne"
+    },
+    {
+      "forme": "thaemlyrenor",
+      "base": "thaemlyren",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : harmoniser une mélodie"
+    },
+    {
+      "forme": "kaevvaror",
+      "base": "kaevvar",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : dessiner"
+    },
+    {
+      "forme": "kaevpelor",
+      "base": "kaevpel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : peindre une image"
+    },
+    {
+      "forme": "kaevkoror",
+      "base": "kaevkor",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : sculpter"
+    },
+    {
+      "forme": "kaevnaelor",
+      "base": "kaevnael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : photographier"
+    },
+    {
+      "forme": "kaevthalen",
+      "base": "kaevthal",
+      "analyse": "nom singulier en",
+      "lemme_homographe": "artiste"
+    },
+    {
+      "forme": "korlyrenor",
+      "base": "korlyren",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : mélanger des substances"
+    },
+    {
+      "forme": "korvaeror",
+      "base": "korvaer",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : convertir une énergie"
+    },
+    {
+      "forme": "naelraunor",
+      "base": "naelraun",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : créer un fichier informatique"
+    },
+    {
+      "forme": "naelkaenor",
+      "base": "naelkaen",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : programmer un ordinateur"
+    },
+    {
+      "forme": "naelvaeror",
+      "base": "naelvaer",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : téléverser des données"
+    },
+    {
+      "forme": "naellyrenor",
+      "base": "naellyren",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : partager des données"
+    },
+    {
+      "forme": "naelthrelor",
+      "base": "naelthrel",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : relier des données"
+    },
+    {
+      "forme": "naelthaemor",
+      "base": "naelthaem",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : envoyer un message"
+    },
+    {
+      "forme": "naelgraelor",
+      "base": "naelgrael",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : sauvegarder des données"
+    },
+    {
+      "forme": "naelvaethor",
+      "base": "naelvaeth",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : importer des données"
+    },
+    {
+      "forme": "naelmaevor",
+      "base": "naelmaev",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : générer artificiellement un contenu"
+    },
+    {
+      "forme": "naelmaelunor",
+      "base": "naelmaelun",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : commenter un contenu"
+    },
+    {
+      "forme": "naelvarunor",
+      "base": "naelvarun",
+      "analyse": "nom singulier or",
+      "lemme_homographe": "personne qui accomplit cette action : authentifier un utilisateur"
+    },
+    {
+      "forme": "naelvaren",
+      "base": "naelvarar",
+      "analyse": "verbe présent indicatif en",
+      "lemme_homographe": "page web"
+    }
+  ],
+  "controles_effectues": [
+    "égalité des 465 lignes initiales",
+    "unicité lemme/catégorie",
+    "absence de nouveaux homographes lexicaux",
+    "alphabet des ajouts et infinitifs en ar",
+    "reconstruction des dérivés",
+    "bases nominales des composés",
+    "couverture inverse de chaque définition",
+    "résolution des liens des livrables",
+    "inventaire des homographies flexion/lemme"
+  ],
+  "controles_non_effectues": [
+    "validation lexicale humaine de chaque proposition",
+    "analyse syntaxique automatique des exemples",
+    "écoute et tests Suno",
+    "revalidation du chant et des phrases de la version 1.0.0",
+    "comparaison avec toutes les langues existantes"
+  ],
+  "portee": "Contrôles structurels rejoués pour 1.1.0 ; les résultats antérieurs non rejoués ne sont pas revendiqués. Aucune garantie d’exhaustivité universelle ou de qualité audio."
+}
