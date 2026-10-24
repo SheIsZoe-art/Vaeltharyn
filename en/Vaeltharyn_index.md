@@ -2,7 +2,7 @@
 
 [English home](README.md) · [Other direction](English_index.md)
 
-All **65,007 current entries**, including the six later additions. English lookup labels and bulk definitions are provisional translations. Always read the full definition; a label does not extend the entry to every sense of an English word.
+Base index: **65,007 entries** as of 24 October 2026, including the six kingdom additions. The ten entries added on 25 October are indexed in [the expressive supplement](23_Jurons_insultes_expressions.md). English lookup labels and bulk definitions are provisional translations. Always read the full definition; a label does not extend the entry to every sense of an English word.
 
 | Volume | From | To | Entries |
 |---|---|---|---:|
@@ -137,3 +137,8 @@ All **65,007 current entries**, including the six later additions. English looku
 | [129](Indexes/VH/VH-129.md) | vrutumam | vumnoev | 500 |
 | [130](Indexes/VH/VH-130.md) | vumnudhirar | vyvoth | 500 |
 | [131](Indexes/VH/VH-131.md) | vyvothem | ya | 7 |
+
+
+## Swearing, insults and expressions — 25 October 2026
+
+[Bilingual expressive supplement](23_Jurons_insultes_expressions.md): 10 proposed entries and 79 expressions with literal readings. Current CSVs contain 65,017 entries; historical volumes retain their scope.

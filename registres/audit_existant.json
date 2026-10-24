@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-25",
+  "source_commit": "5705eba",
+  "entrees_fr": 65007,
+  "entrees_en": 65007,
+  "alignement_ids_et_formes": true,
+  "categories": {
+    "n": 41714,
+    "adj": 14629,
+    "v": 6533,
+    "part": 62,
+    "adv": 2058,
+    "num": 11
+  },
+  "registres_fr": {
+    "non précisé dans 1.1.0": 2918,
+    "neutre ou non marqué dans la source": 59457,
+    "figuré": 242,
+    "familier": 1500,
+    "argotique": 238,
+    "péjoratif": 287,
+    "littéraire": 112,
+    "figuré, péjoratif": 9,
+    "ironique": 24,
+    "littéraire, poétique": 5,
+    "familier, péjoratif": 79,
+    "poétique": 19,
+    "familier, argotique": 32,
+    "littéraire, péjoratif": 1,
+    "familier, figuré": 44,
+    "familier, ironique": 7,
+    "ironique, péjoratif": 3,
+    "familier, péjoratif, argotique": 3,
+    "péjoratif, argotique": 8,
+    "ironique, littéraire": 1,
+    "figuré, ironique": 4,
+    "familier, figuré, ironique, péjoratif": 2,
+    "figuré, littéraire": 3,
+    "figuré, argotique": 1,
+    "familier, figuré, péjoratif": 2,
+    "neutre": 5,
+    "familier, expressif": 1
+  },
+  "registres_en": {
+    "not specified in 1.1.0": 2918,
+    "neutral or unmarked in the source": 59457,
+    "figurative": 242,
+    "familiar": 1500,
+    "argotic": 238,
+    "pejorative": 287,
+    "Literary": 112,
+    "figuration, pejorative": 9,
+    "ironic": 24,
+    "literary, poetic": 5,
+    "familiar, pejorative": 79,
+    "poetic": 19,
+    "familiar, argotic": 32,
+    "literary, pejorative": 1,
+    "familiar, figurative": 44,
+    "familiar, ironic": 7,
+    "ironic, pejorative": 3,
+    "familiar, pejorative, argotic": 3,
+    "pejorative, argotic": 8,
+    "ironic, literary": 1,
+    "figurative, ironic": 4,
+    "familiar, figurative, ironic, pejorative": 2,
+    "figurative, literary": 3,
+    "figurative, argotic": 1,
+    "familiar, figurative, pejorative": 2,
+    "neutral": 5,
+    "familiar, expressive": 1
+  },
+  "anomalies_relevees": [
+    {
+      "mot": "rymvos",
+      "sens_existant": "Nom local donné aux rivières de pierres volcaniques.",
+      "distinction_fr": "chier : nom géologique, pas déféquer",
+      "distinction_en": "chier: a geological noun, not to defecate",
+      "action": "sens existant conservé sans modification"
+    },
+    {
+      "mot": "bridhoem",
+      "sens_existant": "Tampon d’étoupe ficelé dans la toile de la voile, permettant de l’empoigner pour la serrer.",
+      "distinction_fr": "couillon : élément de voile, pas une personne stupide",
+      "distinction_en": "couillon: a sail-handling part, not a fool",
+      "action": "sens existant conservé sans modification"
+    },
+    {
+      "mot": "himvos",
+      "sens_existant": "Établissement où se pratique la prostitution.",
+      "distinction_fr": "bordel : établissement, pas désordre ni juron",
+      "distinction_en": "bordel: a brothel, not a mess or an expletive",
+      "action": "sens existant conservé sans modification"
+    },
+    {
+      "mot": "bradhaek",
+      "sens_existant": "Celui qui est affecté de crétinisme ou, par extension, de myxœdème congénital.",
+      "distinction_fr": "crétin : sens médical historique, pas injure générique",
+      "distinction_en": "crétin: historical medical sense, not a generic insult",
+      "action": "sens existant conservé sans modification"
+    },
+    {
+      "mot": "vroepaer",
+      "sens_existant": "Qui n’est pas tendu, qui n’est pas serré comme il pourrait ou devrait l’être.",
+      "distinction_fr": "lâche : non tendu, pas une personne sans courage",
+      "distinction_en": "lâche: slack, not a coward",
+      "action": "sens existant conservé sans modification"
+    },
+    {
+      "mot": "fonul",
+      "sens_existant": "Organe mâle de copulation et de miction chez les mammifères, certains oiseaux ou d’autres animaux.",
+      "distinction_fr": "pénis : anatomie, pas automatiquement une insulte",
+      "distinction_en": "penis: anatomy, not automatically an insult",
+      "action": "sens existant conservé sans modification"
+    },
+    {
+      "mot": "lodys",
+      "sens_existant": "Bouche chez les animaux carnassiers, chez certains poissons et certains gros reptiles.",
+      "distinction_fr": "gueule : bouche animale ; ne pas lui attribuer toute la polysémie de gueule",
+      "distinction_en": "gueule: an animal mouth; do not import every slang sense",
+      "action": "sens existant conservé sans modification"
+    },
+    {
+      "mot": "thulsem",
+      "sens_existant": "Renforcement d’un énoncé négatif placé après le verbe.",
+      "distinction_fr": "foutre : renforcement négatif, pas verbe sexuel",
+      "distinction_en": "foutre: negative reinforcement, not a sexual verb",
+      "action": "sens existant conservé sans modification"
+    }
+  ],
+  "portee": "Balayage intégral des quatre CSV, alignement des identifiants et des formes, recherche des domaines et registres, puis lecture ciblée des définitions pertinentes. Ce contrôle ne revendique pas une relecture humaine de 65007 définitions.",
+  "candidat_rejete": {
+    "racine": "grak",
+    "collision_formes": [
+      "grakom (poppérien)",
+      "grakos (cueille-fruits)"
+    ],
+    "decision": "racine non publiée remplacée par grusk ; anciennes formes conservées"
+  }
+}

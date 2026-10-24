@@ -1,4 +1,4 @@
-word;category;domain;meaning;valency;id
+﻿word;category;domain;meaning;valency;id
 aelun;n;World and sky;light;;VX-cfacad28f8fc14a9
 nyr;n;World and sky;night;;VX-8ae9da0344f85ab8
 saun;n;World and sky;day;;VX-d0878fe2096e88ca
@@ -65006,3 +65006,13 @@ raelun-fodhath;n;lexical supplement — kingdom and common life;"sauna — A dry
 haedhoefovar;v;lexical supplement — kingdom and common life;"to need — To feel or have a requirement for a thing or an action; not merely to want it.";"tr/modal : objet direct nominal ou infinitif de même sujet ; dhe + proposition si les sujets diffèrent";VX-74a0af6f326db352
 garuniv;adj;lexical supplement — kingdom and common life;"damn (colloquial intensifier) — A colloquial emotional intensifier accompanying a noun, expressing excitement, wonder or irritation; the expressive sense of damn in whole damn night, without religious condemnation.";;VX-ed691156e48fb76d
 thimraenar;v;lexical supplement — kingdom and common life;"to reach towards — To move or extend one’s hand towards a person or thing in order to reach or grasp it; the target is the direct object.";"tr ; cible au direct";VX-100e0e43afdeebaa
+sketh;part;Expressive registers and insults;"darn — An invariant mild exclamation of annoyance or unwelcome surprise; not a label for a person or object.";;VX-62ee27b1c1ae19f3
+grusk;n;Expressive registers and insults;"shit (substance) — Faecal matter in vulgar speech; not automatically urine. The clinical term for excrement remains distinct.";;VX-ac715a2646bc65cb
+grusk;part;Expressive registers and insults;"shit! — A scatological exclamation of frustration, surprise or enthusiasm depending on context; not inherently an insult directed at someone.";;VX-6b1d3a5384bc50ec
+gruskar;v;Expressive registers and insults;"shit (defecate) — To defecate in vulgar speech. Intransitive; does not automatically mean to annoy, fail, deceive or be afraid.";intr;VX-3a6e4d7c6b1b782e
+vrask;adj;Expressive registers and insults;"fucking (intensifier) — A strong vulgar expressive adjective intensifying a noun in anger, surprise or admiration. It follows the noun; it does not describe a sexual act.";;VX-698513c5c68dc072
+vrask;part;Expressive registers and insults;fuck! — A very strong vulgar emotional exclamation. It is neither a sexual request or command nor a religious curse.;;VX-bcc0895b083109ae
+skarn;n;Expressive registers and insults;"asshole; bastard (contemptible person) — A person insulted for behaviour judged deliberately vile, harmful or disloyal. It describes neither anatomy, parentage, gender nor health.";;VX-71c873e47f68801b
+skarnar;v;Expressive registers and insults;"act like an asshole — To behave in a deliberately vile or harmful way. Intransitive; ko + person may identify the interpersonal setting.";intr;VX-8986f6880509a476
+grusk-tharel;n;Expressive registers and insults;bullshit (utterance) — An utterance dismissed as absurd, misleading or worthless. A lexicalised compound, not the name for a neutral discussion of faeces.;;VX-6e1ca81d64ca4a10
+graeth-naelkaror;n;Expressive registers and insults;"oathbreaker — A person accused of deliberately destroying a solemn commitment. A poetic accusation of betrayal; it does not assert a legal conviction or an invented historical taboo.";;VX-91adcaa2a34ff809

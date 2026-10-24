@@ -8,7 +8,7 @@ Prononciation : **VAÈÈL-tha-rün**, /ˈvæːl.θa.ryn/.
 
 Le Vaeltharyn possède une grammaire productive, une conjugaison régulière et un dictionnaire français ↔ Vaeltharyn. Son univers sonore évoque des inspirations nordiques et celtiques ; sa grammaire et ses racines sont des créations du projet.
 
-> **Édition de travail 1.2.0, avec complément lexical du 24 octobre 2026.** Le corpus comprend 65 007 entrées, 65 006 graphies distinctes et 6 533 verbes. Le grand supplément contient 62 083 propositions attribuées automatiquement, avec définitions sourcées, encore à relire individuellement. Le volume du lexique ne constitue pas une validation de chaque mot.
+> **Édition de travail 1.3.0, compléments lexicaux des 24 et 25 octobre 2026.** Le corpus comprend 65 017 entrées, 65 014 graphies distinctes et 6 535 verbes. Le grand supplément contient 62 083 propositions attribuées automatiquement, avec définitions sourcées, encore à relire individuellement. Le volume du lexique ne constitue pas une validation de chaque mot.
 
 ## Découvrir la langue
 
@@ -29,7 +29,7 @@ Je chante ; la lumière demeure dans mon âme.
 - [Complément lexical « royaume »](22_Complement_lexical_royaume.md)
 - [Lexique CSV](lexique.csv) et [lexique détaillé CSV](lexique_detaille.csv) : UTF-8, séparateur point-virgule. Le fichier détaillé se télécharge pour une consultation locale.
 
-Les volumes de la grande édition sont des instantanés historiques ; les CSV et le complément incluent les six ajouts ultérieurs.
+Les volumes de la grande édition sont des instantanés historiques ; les CSV incluent les six ajouts « royaume » et les dix entrées expressives ; leurs compléments servent d’index pour ces ajouts.
 
 ## Comprendre le statut des ressources
 
@@ -40,3 +40,8 @@ Les entrées héritées conservent leur statut antérieur. Les nouvelles proposi
 Les corrections et propositions sont bienvenues : voir [CONTRIBUTING.md](CONTRIBUTING.md). Une proposition devient une référence du projet après validation par sa personne responsable.
 
 Les créations originales du projet sont publiées sous **CC BY-SA 4.0**, selon le choix de leur titulaire. Les définitions issues du Wiktionnaire conservent leurs crédits et conditions propres. Voir [LICENSE.md](LICENSE.md) et [sources et attributions](18_Sources_et_licences.md).
+
+
+## Jurons, insultes et expressions — 25 octobre 2026
+
+[Complément expressif bilingue](23_Jurons_insultes_expressions.md) : 10 entrées proposées, 79 expressions et leurs lectures littérales. Les CSV actuels contiennent 65 017 entrées ; les volumes historiques gardent leur périmètre.

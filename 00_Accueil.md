@@ -1,6 +1,6 @@
 ---
 langue: Vaeltharyn
-version: 1.2.0
+version: 1.3.0
 date: 2026-10-24
 statut: canon initial et extensions proposés ; grand lexique de travail 1.2.0
 tags: [Suno, langue-construite, Vaeltharyn]
@@ -61,3 +61,8 @@ Le dictionnaire de travail contient **65 000 graphies lexicales distinctes**, 65
 ## Complément lexical du 24 octobre 2026 — royaume
 
 [22_Complement_lexical_royaume](22_Complement_lexical_royaume.md) : 6 entrées supplémentaires (aquaponie, serre horticole, sauna, avoir besoin de, fichu intensif, tendre la main vers), avec définitions et index dans les deux sens. Les deux CSV sont actualisés ; les volumes 1.2.0 ci-dessus restent des instantanés historiques.
+
+
+## Jurons, insultes et expressions — 25 octobre 2026
+
+[Complément expressif bilingue](23_Jurons_insultes_expressions.md) : 10 entrées proposées, 79 expressions et leurs lectures littérales. Les CSV actuels contiennent 65 017 entrées ; les volumes historiques gardent leur périmètre.

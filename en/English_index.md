@@ -2,7 +2,7 @@
 
 [English home](README.md) · [Other direction](Vaeltharyn_index.md)
 
-All **65,007 current entries**, including the six later additions. English lookup labels and bulk definitions are provisional translations. Always read the full definition; a label does not extend the entry to every sense of an English word.
+Base index: **65,007 entries** as of 24 October 2026, including the six kingdom additions. The ten entries added on 25 October are indexed in [the expressive supplement](23_Jurons_insultes_expressions.md). English lookup labels and bulk definitions are provisional translations. Always read the full definition; a label does not extend the entry to every sense of an English word.
 
 | Volume | From | To | Entries |
 |---|---|---|---:|
@@ -137,3 +137,8 @@ All **65,007 current entries**, including the six later additions. English looku
 | [129](Indexes/EN/EN-129.md) | wine | Yoctopascal | 500 |
 | [130](Indexes/EN/EN-130.md) | yoctoradian | − to inquire | 500 |
 | [131](Indexes/EN/EN-131.md) | ■ The need for a more flexible system of | ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ | 7 |
+
+
+## Swearing, insults and expressions — 25 October 2026
+
+[Bilingual expressive supplement](23_Jurons_insultes_expressions.md): 10 proposed entries and 79 expressions with literal readings. Current CSVs contain 65,017 entries; historical volumes retain their scope.

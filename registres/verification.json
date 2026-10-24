@@ -1,0 +1,13 @@
+{
+  "entries": 65017,
+  "distinct_spellings": 65014,
+  "new_lexical_entries": 10,
+  "expressions": 79,
+  "lookup_aliases": 20,
+  "old_entries_preserved": 65007,
+  "fr_en_alignment": "pass",
+  "lexical_and_morphological_coverage": "pass",
+  "older_lemma_collisions": "none",
+  "status": "written checks; no audio or creator validation claimed",
+  "date": "2026-10-25"
+}

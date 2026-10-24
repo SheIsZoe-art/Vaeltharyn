@@ -63,3 +63,8 @@ Les règles de formation, de cas et de conjugaison ne changent pas. La générat
 ## Complément lexical ciblé — 2026-10-24
 
 À la demande explicite du créateur, ajout de 6 entrées nécessaires à une traduction de chanson, sans changement de grammaire ni remplacement des formes existantes. Voir [22_Complement_lexical_royaume](22_Complement_lexical_royaume.md) pour les définitions, valences, statut et limites des contrôles. Le verbe haedhoefovar reçoit explicitement une valence transitive/modale par lexicalisation ; cela ne généralise pas cette valence à tous les dénominaux. Le verbe existant rurithar est conservé pour s’appuyer ; aucun synonyme redondant n’est ajouté. Les chansons existantes ne sont pas modifiées.
+
+
+## Jurons, insultes et expressions — 25 octobre 2026
+
+[Complément expressif bilingue](23_Jurons_insultes_expressions.md) : 10 entrées proposées, 79 expressions et leurs lectures littérales. Les CSV actuels contiennent 65 017 entrées ; les volumes historiques gardent leur périmètre.

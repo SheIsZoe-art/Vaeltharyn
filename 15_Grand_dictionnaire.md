@@ -32,3 +32,8 @@ Il n’est pas nécessaire d’approuver une par une toutes les entrées pour é
 ## Complément lexical du 24 octobre 2026 — royaume
 
 [22_Complement_lexical_royaume](22_Complement_lexical_royaume.md) : 6 entrées supplémentaires (aquaponie, serre horticole, sauna, avoir besoin de, fichu intensif, tendre la main vers), avec définitions et index dans les deux sens. Les deux CSV sont actualisés ; les volumes 1.2.0 ci-dessus restent des instantanés historiques.
+
+
+## Jurons, insultes et expressions — 25 octobre 2026
+
+[Complément expressif bilingue](23_Jurons_insultes_expressions.md) : 10 entrées proposées, 79 expressions et leurs lectures littérales. Les CSV actuels contiennent 65 017 entrées ; les volumes historiques gardent leur périmètre.

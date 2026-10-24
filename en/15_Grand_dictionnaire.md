@@ -36,3 +36,8 @@ There is no need to approve every entry individually before writing. Use the cor
 
 ---
 [French source](../15_Grand_dictionnaire.md). English working translation; see [translation status](TRANSLATION.md).
+
+
+## Swearing, insults and expressions — 25 October 2026
+
+[Bilingual expressive supplement](23_Jurons_insultes_expressions.md): 10 proposed entries and 79 expressions with literal readings. Current CSVs contain 65,017 entries; historical volumes retain their scope.
