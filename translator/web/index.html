@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vaeltharyn — Atelier de traduction</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui;background:#101720;color:#f2eee6}body{max-width:1080px;margin:auto;padding:24px}
+h1{font-family:Georgia,serif;font-size:clamp(2rem,6vw,4rem);margin-bottom:4px}p{color:#b8c7cd}
+main{display:grid;grid-template-columns:1fr 1fr;gap:18px}textarea{width:100%;box-sizing:border-box;min-height:230px;background:#1d2933;color:white;border:1px solid #52636c;border-radius:12px;padding:16px;font:1rem/1.6 inherit}
+section{min-width:0}button,select,input{background:#253642;color:white;border:1px solid #72888e;padding:12px;border-radius:8px}button{cursor:pointer}
+.controls{display:flex;flex-wrap:wrap;gap:12px;margin:20px 0}pre{white-space:pre-wrap;word-break:break-word;background:#1d2933;padding:14px;border-radius:10px}
+@media(max-width:720px){main{grid-template-columns:1fr}}
+</style></head><body>
+<h1>Vaeltharyn</h1><p>Atelier bilingue · Dictionnaire, morphologie et traduction assistée</p>
+<div class="controls"><select id="direction"><option value="fr-va">Français → Vaeltharyn</option><option value="va-fr">Vaeltharyn → Français</option></select><button id="run">Analyser et traduire</button><button id="swap">Inverser</button></div>
+<main><section><h2>Texte source</h2><textarea id="source" aria-label="Texte source" placeholder="Je chante."></textarea></section><section><h2>Résultat assisté</h2><textarea id="target" readonly aria-label="Résultat"></textarea></section></main>
+<h2>Ambiguïtés et mots à vérifier</h2><pre id="notes">Aucune analyse lancée.</pre>
+<p>Les traductions ne sont pas des phrases littéraires validées : les mots inconnus restent encadrés. Le canon GitHub reste la référence.</p>
+<script>
+const $=id=>document.getElementById(id);
+$('run').onclick=async()=>{try{const q=new URLSearchParams({q:$('source').value,direction:$('direction').value});const r=await fetch('/api/translate?'+q);const data=await r.json();if(!r.ok)throw Error(data.error);$('target').value=data.output;$('notes').textContent=JSON.stringify(data.unresolved,null,2)}catch(e){$('notes').textContent='Erreur : '+e.message}};
+$('swap').onclick=()=>{const a=$('source').value;$('source').value=$('target').value;$('target').value=a;$('direction').selectedIndex=1-$('direction').selectedIndex};
+</script></body></html>
