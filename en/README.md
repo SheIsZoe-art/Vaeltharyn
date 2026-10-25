@@ -2,6 +2,8 @@
 
 [Français](../README.md) · **English**
 
+**Translation plugin 0.4.0 — SheIsZoe:** [installation guide (French)](../INSTALLATION.md) · [download](../distributions/vaeltharyn-translator-0.4.0.zip). Bundled corpus: 1.5.0.
+
 **A constructed language for singing, poetry and storytelling.**
 
 Pronunciation: /ˈvæːl.θa.ryn/. Vaeltharyn has a productive grammar, regular conjugation and a bidirectional lexicon. Its sound evokes Nordic and Celtic inspirations; its grammar and roots are creations of this project.

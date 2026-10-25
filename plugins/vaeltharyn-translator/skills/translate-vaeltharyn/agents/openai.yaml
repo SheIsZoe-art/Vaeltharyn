@@ -1,0 +1,4 @@
+interface:
+  display_name: "Traducteur Vaeltharyn"
+  short_description: "Traduire entre vaeltharyn, français et anglais"
+  default_prompt: "Utilise $translate-vaeltharyn pour traduire mon texte en respectant le dictionnaire, la grammaire et les nuances du Vaeltharyn."

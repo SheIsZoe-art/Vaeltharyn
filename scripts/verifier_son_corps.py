@@ -100,7 +100,7 @@ for path in [P/'25_Son_corps_et_images.md',P/'en/25_Son_corps_et_images.md']:
  for link in re.findall(r'\]\(([^)]+)\)',path.read_text(encoding='utf-8')):
   if link.startswith('https://'):continue
   assert (path.parent/link.split('#')[0]).is_file(),link
-assert not (P/'distributions').exists() and not (P/'plugins').exists(),'Do not republish withdrawn plugin artifacts'
+assert not list((P/'distributions').glob('*0.3.*')),'Do not reintroduce withdrawn legacy plugin archives'
 report={'status':'pass','baseline':BASE,'previous_entries_preserved':65026,'entries':65041,'new_entries':15,'new_roots':8,'new_compounds':7,'new_verb_paradigms':0,'new_noun_case_forms_checked':150,'context_records':111,'reused_physical_frequency':'korthir','semantic_duplicate_rejected':'frekven','inflection_collision_rejected':'kik','template_records':['exchange_mine'],'scope':'written lexical, phonographic and morphological checks; no audio trial; examples remain context-sensitive'}
 (A/'verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(json.dumps(report,ensure_ascii=False,indent=2))

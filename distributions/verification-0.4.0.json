@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "plugin_version": "0.4.0",
+  "corpus_edition": "1.5.0",
+  "corpus_revision": "d30199ad5a2595aea63688881f301cb6988be21b",
+  "archive_sha256": "b9256de4e33827f5a3ae8fa6d84978625c47a8364ba95b8f0550b6e1f9f7c5e6",
+  "checks": [
+    "archive integrity",
+    "identical bundled source",
+    "installation in path with spaces",
+    "idempotent preparation",
+    "refusal to overwrite different files",
+    "embedded corpus hashes",
+    "FR/EN/Vaeltharyn queries",
+    "uncertain expression preserved",
+    "documentation local links"
+  ],
+  "scope": "package preparation and lookup verified; host installation commands follow official Codex documentation"
+}

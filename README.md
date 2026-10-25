@@ -2,6 +2,8 @@
 
 **Français** · [English edition](en/README.md)
 
+**Plugin de traduction 0.4.0 — SheIsZoe :** [installation](INSTALLATION.md) · [téléchargement](distributions/vaeltharyn-translator-0.4.0.zip). Corpus embarqué : 1.5.0.
+
 **Une langue construite pour le chant, la poésie et les récits.**
 
 Prononciation : **VAÈÈL-tha-rün**, /ˈvæːl.θa.ryn/.

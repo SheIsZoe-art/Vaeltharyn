@@ -5,3 +5,4 @@
 *.jsonl text eol=lf
 registres/inventaire-2026-10-25/references/inventaire-fourni.txt -text
 complements/son-corps-images-1.5.0/references/source_utilisateur.txt -text
+*.zip binary
