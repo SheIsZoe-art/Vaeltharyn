@@ -1,0 +1,98 @@
+[
+  {
+    "id": "REF-INPUT",
+    "titre": "Inventaire fourni par le créateur",
+    "url": "references/inventaire-fourni.txt",
+    "note_fr": "719 lignes tabulées ; correspondances à examiner, pas autorité lexicographique indépendante.",
+    "note_en": "719 tabulated rows; supplied correspondences are to be examined, not independent dictionary authority.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-CORE",
+    "titre": "Corpus Vaeltharyn avant extension",
+    "url": "../../../lexique_detaille.csv",
+    "note_fr": "Lecture des définitions et des valences ; identifiants existants conservés.",
+    "note_en": "Definitions and valencies consulted; existing identifiers retained.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-PISSED",
+    "titre": "Collins — pissed",
+    "url": "https://www.collinsdictionary.com/us/dictionary/english/pissed",
+    "note_fr": "Distingue colère américaine et ivresse britannique.",
+    "note_en": "Distinguishes American anger and British intoxication.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-BADASS",
+    "titre": "Cambridge — badass",
+    "url": "https://dictionary.cambridge.org/us/dictionary/english/badass",
+    "note_fr": "Distingue la lecture menaçante de la lecture admirative.",
+    "note_en": "Separates the intimidating and admiring readings.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-CUNT",
+    "titre": "Cambridge — cunt",
+    "url": "https://dictionary.cambridge.org/us/dictionary/english/cunt",
+    "note_fr": "Marque l’offense et distingue insulte personnelle et sens anatomique.",
+    "note_en": "Marks offensiveness and distinguishes personal abuse from the anatomical reading.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-JOBARD",
+    "titre": "Académie française — jobard",
+    "url": "https://www.dictionnaire-academie.fr/article/A9J0220",
+    "note_fr": "Le sens retenu vise une crédulité excessive ; la correspondance nutcase du document est corrigée.",
+    "note_en": "The selected sense is excessive gullibility; the supplied nutcase correspondence is corrected.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-CUISTRE",
+    "titre": "Académie française — cuistre",
+    "url": "https://www.dictionnaire-academie.fr/article/A9C5228",
+    "note_fr": "Pédanterie vaniteuse ; le terme hérité dafyv est réutilisé.",
+    "note_en": "Vain pedantry; inherited dafyv is reused.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-KNUCKLEHEAD",
+    "titre": "Dictionary.com — knucklehead",
+    "url": "https://www.dictionary.com/browse/knucklehead",
+    "note_fr": "L’idiotie ou la maladresse, plutôt que l’obstination, est retenue.",
+    "note_en": "Foolishness or ineptitude is selected rather than stubbornness.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-SNITCH",
+    "titre": "Cambridge — snitch",
+    "url": "https://dictionary.cambridge.org/dictionary/english/snitch",
+    "note_fr": "Dénonciation secrète à une autorité ; ne pas déduire le sens voler.",
+    "note_en": "Secretly informing an authority; the stealing sense is not inferred.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-SHITFACED",
+    "titre": "Oxford Learner’s — shit-faced",
+    "url": "https://www.oxfordlearnersdictionaries.com/definition/english/shit-faced",
+    "note_fr": "Le terme adjectival signifie très ivre ; ne pas l’appliquer automatiquement au nom injurieux shitface fourni.",
+    "note_en": "The adjective means very drunk; it is not automatically applied to the supplied insulting noun shitface.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-PEUCHERE",
+    "titre": "Académie française — peuchère",
+    "url": "https://www.dictionnaire-academie.fr/article/A9P1862",
+    "note_fr": "Peut exprimer compassion, étonnement ou admiration ; le mot n’est pas toujours un juron.",
+    "note_en": "May express compassion, surprise or admiration; not always a curse.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "REF-TRAILER",
+    "titre": "Cambridge — trailer trash",
+    "url": "https://dictionary.cambridge.org/dictionary/english/trailer-trash",
+    "note_fr": "Marque sociale et racialisée documentée ; aucun groupe équivalent dans la fiction n’est inventé.",
+    "note_en": "Documents class and racialised connotations; no equivalent fictional group is invented.",
+    "date_consultation": "2026-10-25"
+  }
+]

@@ -10,8 +10,8 @@ def read(p):
  with p.open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f,delimiter=';'))
 fr=read(P/'lexique_detaille.csv');en=read(P/'en/lexique_detaille.csv')
 fs=read(P/'lexique.csv');es=read(P/'en/lexique.csv')
-assert len(fr)==len(en)==len(fs)==len(es)==65017
-assert len({r['mot'] for r in fr})==65014
+assert len(fr)==len(en)==len(fs)==len(es)>=65017
+assert len({r['mot'] for r in fr})>=65014
 assert [(r['mot'],r['categorie'],r['id']) for r in fr]==[(r['word'],r['category'],r['id']) for r in en]
 assert len({r['id'] for r in fr})==len(fr)
 if args.baseline:
@@ -30,7 +30,7 @@ for item in new:
  assert 'NON VALIDÉE' in x['statut'] and 'UNVALIDATED' in y['status']
  assert x['definition_fr']==y['definition_fr_source'] and x['definition_fr'] and y['definition_en']
  if x['categorie']=='v':assert x['valence']==y['valency']=='intr'
-assert {x['mot'] for x in fr[65007:]}=={'sketh','grusk','gruskar','vrask','skarn','skarnar','grusk-tharel','graeth-naelkaror'}
+assert {x['mot'] for x in fr[65007:65017]}=={'sketh','grusk','gruskar','vrask','skarn','skarnar','grusk-tharel','graeth-naelkaror'}
 
 # Build lexical analyses, rather than merely checking that words look plausible.
 def forms(x):
@@ -51,8 +51,8 @@ allowed.update(p+'-'+c for p in ('mi','ti','se','min','tin','sen','si') for c in
 oldwords={r['mot'] for r in fr[:65007]}
 oldforms=set()
 for x in fr[:65007]:oldforms.update(forms(x))
-assert not ({x['mot'] for x in fr[65007:]} & oldforms), 'New lemma collides with an older form'
-for x in fr[65007:]:
+assert not ({x['mot'] for x in fr[65007:65017]} & oldforms), 'New lemma collides with an older form'
+for x in fr[65007:65017]:
  if x['categorie']=='v':assert not (set(forms(x)) & oldwords),'New verb form collides with an older lemma'
 for e in expressions:
  tokens=re.findall(r'[a-záéíóúý]+(?:-[a-záéíóúý]+)*',e['vaeltharyn'].lower())

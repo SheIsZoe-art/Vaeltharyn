@@ -1,0 +1,227 @@
+﻿key;vaeltharyn;francais_controle;english_checked;force;note_fr;note_en;expression_id
+idiot;Kofav!;Imbécile !;Idiot!;2;Jugement injurieux, pas diagnostic médical;Insult, not a medical diagnosis.;EX-c001c39dbac3
+idiot_strong;Kofav vrask!;Putain d'imbécile !;Fucking idiot!;4;L'intensif porte sur le nom;The intensifier modifies the noun.;EX-4a25890f6c81
+fool;Tronodaev!;Idiot !;Fool!;2;Manque de jugement attribué;Attributed lack of judgement.;EX-8d47d9547de9
+silly;Thalen basoel!;Personne sotte !;Silly person!;1;Peut être taquin, sans équivalence affectueuse automatique;May be teasing, not automatically affectionate.;EX-0600ebc29c25
+gullible;Thalen loemkyk!;Personne trop crédule !;Gullible fool!;1;Crédulité, non folie;Gullibility, not madness.;EX-01944b781a38
+old_fool;Kofav mamysem!;Vieil imbécile !;Old fool!;2;L'âge est conservé quand la source le vise;Retains the age reference when present in the source.;EX-ce5c7d44e3cc
+scatterbrain;Laelbek!;Distrait !;Scatterbrain!;1;Inattention, pas forcément manque d'intelligence;Inattention, not necessarily low intelligence.;EX-f20a9963ff18
+airhead;Brosol!;Écervelé !;Airhead!;2;Peu de jugement, sans genre grammatical;Poor judgement, no grammatical gender.;EX-a6b4fbb09902
+burden;Ti veles mersik min-or.;Tu es un fardeau pour nous.;You're a burden to us.;2;Métaphore de charge, pas un poids physique réel;Burden metaphor, not a literal physical weight.;EX-870c9c2eb460
+loser;Gydim-thalen!;Raté !;Loser!;2;"Désignation méprisante liée aux échecs; pas un constat de valeur humaine";Derogatory failure label, not an objective valuation of a person.;EX-f86b28d9bd20
+inept;Thalen slyllum!;Incapable !;Incompetent person!;2;Capacité dans le contexte, non inutilité générale;Ability in context, not universal worthlessness.;EX-723ac530ab83
+clown;Thalen thryrsom!;Guignol !;Ridiculous fool!;2;Ridicule, pas métier du cirque;Ridiculousness, not a circus profession.;EX-bc2e0348d56a
+puppet;Ti veles porvogok.;Tu es un pantin.;You're a puppet.;2;Métaphore explicite de manipulation, pas extension silencieuse du jouet;Explicit manipulation metaphor, not a silent rewrite of the toy sense.;EX-832ec0521a3e
+useless;Thalen ulhaevvaer!;Bon à rien !;Good-for-nothing!;2;Jugement de locuteur, non définition d'une personne;Speaker judgement, not a definition of a person's worth.;EX-36157ec3d39d
+lout;Goelvaek!;Malotru !;Lout!;2;Manque de savoir-vivre;Rude behaviour.;EX-08b5bda5ad57
+boor;Luthom!;Rustre !;Boor!;2;N'implique pas une origine rurale;Does not imply rural origin.;EX-a4477b137b5b
+cad;Boenrev!;Goujat !;Cad!;2;Conduite grossière, particulièrement envers les femmes dans le sens hérité;Rudeness, especially towards women in the inherited definition.;EX-151747fe66a7
+clumsy;Slaehoen!;Maladroit !;Clumsy fool!;1;Maladresse, pas stupidité générale;Clumsiness, not general stupidity.;EX-5069ee27fdbc
+boor_clumsy;Skaedhal!;Balourd !;Bumbling lout!;2;Grossièreté et maladresse;Rudeness and clumsiness.;EX-d8ac33931c2d
+country_sneer;Thalen thriroes!;Personne rustre !;Uncouth person!;2;Équivalence partielle: ne conserve pas le mépris d'origine sociale ou rurale;Partial: rural or class contempt is not encoded.;EX-f2ac439d2adf
+vile;Skarn!;Salopard !;Asshole!;3;"Mépris d'une conduite; pas anatomie ni filiation";Behavioural contempt, not anatomy or parentage.;EX-53ea4bdeaf3f
+vile_strong;Skarn vrask!;Putain de salopard !;Fucking asshole!;4;Équivalent de force pour invectives fortes, non récit sexuel ou familial;Strong invective equivalent, not a claim about sex or family.;EX-4d88e40cc392
+small_vile;Skarnil!;Petit merdeux !;Little shit!;3;Diminutif péjoratif contextuel, pas âge déduit;Contextual belittling diminutive, not inferred age.;EX-9bd3b9ce0b91
+old_vile;Skarn mamysem!;Vieux con !;Old asshole!;3;Âge explicite de l'insulte source;Explicit age reference in the source insult.;EX-9e686d8b1ec9
+worthless_vile;Skarn ulhaevvaer!;Ordure jugée bonne à rien !;Worthless bastard!;4;"Pragmatique; ne reproduit pas une image de fausse couche ou d'objet sexuel";"Pragmatic; does not reproduce miscarriage or sexual-object imagery.";EX-6c751c5b5c70
+corrupt;Moesyk!;Pourri !;Corrupt bastard!;3;Corruption, pas toute forme de méchanceté;Corruption, not every kind of bad conduct.;EX-33c42e39c4e6
+fregos;Thalen fregos!;Connard !;Jerk!;3;"Nom explicite avec adjectif; pas nominalisation arbitraire";Explicit noun plus adjective, not arbitrary adjective nominalisation.;EX-6cd6083ac860
+small_fool;Kofavil!;Petit idiot !;Little fool!;2;Diminutif régulier de kofav;Regular diminutive of kofav.;EX-d11303ccc2e2
+lazy;Tasil!;Paresseux !;Slacker!;2;Paresse, non masturbation;Laziness, not masturbation.;EX-416d31bd0f71
+lazy_strong;Tasil vrask!;Putain de feignasse !;Lazy bastard!;4;Intensif de paresse, pas acte sexuel;Intensified laziness, not a sexual act.;EX-45c914ed9ee1
+pedant;Paemevus!;Pédant !;Pedant!;2;"Étalage de savoir; ne signifie pas exactitude utile";Showing off knowledge, not useful accuracy.;EX-0cd6eb5a4c90
+cuistre;Dafyv!;Cuistre !;Pompous pseudo-scholar!;2;Savoir affiché de façon vaniteuse et mal maîtrisée;Vain display of poorly mastered knowledge.;EX-aa7de0328782
+nuisance;Thalen ya horsahime mi!;Emmerdeur !;Pain in the ass!;3;"Personne qui m'importune; pas personne qui défèque";Person bothering me, not someone defecating.;EX-2eb9760969b3
+nuisance_mild;Thalen ya horsahime mi, sketh!;Casse-pieds !;Pain in the neck!;2;Version atténuée, destinataire implicite contextualisé;Milder version, the contextual speaker is affected.;EX-4b3fcd07a936
+troublemaker;Nathem-thaelor!;Fouteur de discorde !;Shit-stirrer!;3;Production de querelles, distincte d'une erreur involontaire;Stirring quarrels, distinct from an accidental mistake.;EX-5fed8b069d23
+nosy;Slakal!;Fouineur !;Nosy meddler!;2;Ne présume pas une enquête journalistique illégitime;Does not automatically condemn investigative journalism.;EX-b022b8a073f0
+bootlicker;Toenvapam!;Lèche-bottes !;Bootlicker!;3;Servilité envers les puissants, pas action de lécher;Servility towards the powerful, not literal licking.;EX-b91d1efa56c8
+hypocrite;Skithin!;Hypocrite !;Hypocrite!;2;Deux attitudes opposées selon l'interlocuteur, pas deux visages anatomiques;Inconsistent pretence, not two anatomical faces.;EX-489a7bd4237c
+liar;Vraegom!;Menteur !;Liar!;2;Accusation de mensonge sans diagnostic;Accusation of lying without diagnosis.;EX-8cea1ef5e7d5
+liar_habit;Vraegom ya ara ulthaeve!;Menteur invétéré !;Habitual liar!;2;Habitude, pas diagnostic de mythomanie;Habit, not a diagnosis of mythomania.;EX-d98c7351c370
+bullshitter;Mulroem!;Baratineur !;Bullshitter!;2;"Baratin; n'implique pas un mensonge pathologique";Smooth empty talk, not pathological lying.;EX-b161cb6a5f79
+loudmouth;Thalen thaemraeliv!;Grande gueule !;Loudmouth!;2;"Personne bruyante; pas révélation de secret déduite";"A noisy person; not automatically a secret-spiller.";EX-a40e22f1757e
+braggart;Foeden!;Vantard !;Braggart!;2;Celui qui se vante;Someone who boasts.;EX-97f08e4d37b8
+showoff;Frobim!;Frimeur !;Show-off!;2;Frime, pas pose d'objets;Showing off, not placing objects.;EX-eeb987ea85b6
+poser;Thalen nygaek!;Poseur !;Poser!;2;Adjectif d'affectation, pas le nom du poseur d'objets;Affected-manner adjective, not the object-installer noun.;EX-f6c0eca83288
+arrogant;Memkor!;Arrogant !;Arrogant person!;2;Attitude hautaine;Arrogant attitude.;EX-d6152f0b5e22
+bossy;Slilyk!;Petit chef !;Bossy control freak!;2;Volonté de dominer l'entourage;Imposing one's will on others.;EX-930e9d71c6be
+grouch;Baroth!;Pisse-vinaigre !;Sourpuss!;2;"Humeur revêche; aucune urine dans le sens";Sour temperament, no urine in the sense.;EX-bfc6a30a2d2c
+killjoy;Loefoeton!;Rabat-joie !;Killjoy!;2;Hostilité à la joie des autres;Hostility towards others' enjoyment.;EX-947df2936c84
+prude;Thalen troedhel!;Personne coincée !;Prude!;2;Pruderie dans cette lecture, pas radinerie;Prudishness in this reading, not stinginess.;EX-97d1b3c45af3
+rigid;Thalen koriv!;Personne rigide !;Rigid person!;2;"Métaphore corporelle; pudibonderie et avarice restent distinctes";"Bodily rigidity metaphor; prudishness and stinginess remain separate.";EX-f8d1d7bcb9fc
+coward;Thalen sen vaethun!;Lâche !;Coward!;2;"Absence de courage attribuée; distincte d'une corde lâche";Attributed lack of courage, distinct from a slack rope.;EX-3ae3c0e6f39d
+timid;Tanek!;Trouillard !;Scaredy-cat!;2;"Disposition craintive; pas inférence de lâcheté morale";Fearfulness, not inferred moral cowardice.;EX-fe95c6de084e
+weakling;Thalen getor!;Mauviette !;Weakling!;2;"Faiblesse attribuée; pas identité de genre";Attributed weakness, not gender identity.;EX-d89e38d6285c
+whiner;Gaegylym!;Pleurnichard !;Crybaby!;2;Manière larmoyante, pas pathologie ni enfant réel;Whining manner, not pathology or an actual infant.;EX-93d4c7194e48
+snitch;Pupak!;Mouchard !;Informer!;2;"Le sens hérité porte sur la police; lecture scolaire séparée";"The inherited sense concerns police; school tattling is separate.";EX-a23bf49769dc
+tattletale;Thalen ya vaere kaer thaliror!;Rapporteur !;Tattletale!;2;"Donne un secret au parent, au datif; contexte enfantin, pas accusation criminelle";"Gives a secret to the parent in the dative; child context, not criminal accusation.";EX-0e0b3d1de0ae
+traitor;Lodhom!;Traître !;Traitor!;2;Trahison, pas morsure animale;Betrayal, not animal biting.;EX-109966f2f0e4
+sellout;Vaermar-lodhom!;Vendu !;Sellout!;3;Traître par intérêt financier dans cette lecture;Betrayal for financial gain in this reading.;EX-23de2768d502
+freeloader;Brimvav!;Pique-assiette !;Freeloader!;2;Profite sans contribuer, non animal parasite;Benefits without contributing, not a parasitic organism.;EX-5f9e9b8067b5
+exploiter;Saehoemoem!;Exploiteur !;Exploiter!;2;Profit abusif d'une personne ou situation;Abusive benefit from a person or situation.;EX-43583fe8eeef
+profiteer;Graloes!;Profiteur !;Dishonest opportunist!;2;Avantage obtenu malhonnêtement;Dishonestly obtained advantage.;EX-ba6944eaf32f
+greedy;Thalen dhepegor!;Rapace d'argent !;Greedy person!;2;Avidité, non espèce d'oiseau;Greed, not a bird species.;EX-2c8b6765daaa
+cheapskate;Nulyk!;Radin !;Cheapskate!;2;Avare, pas rat animal;Miser, not a rodent.;EX-82e4f6e50070
+penny_pincher;Vrasik!;Grippe-sou !;Penny-pincher!;2;Attachement aux petits gains;Obsession with petty gains.;EX-0ef5d939e231
+crook;Tridum!;Escroc !;Scammer!;2;Accusation d'escroquerie, à distinguer d'incompétence;Alleged fraud, distinct from incompetence.;EX-53ad544d58a0
+thug;Lavum!;Malfaiteur !;Thug!;2;Conduite criminelle alléguée;Alleged criminal conduct.;EX-4d2b98861e79
+filthy;Thalen thrutos!;Crasseux !;Filthy slob!;2;Saleté, pas sexualité;Dirtiness, not sexuality.;EX-4cdb86077b2c
+drunkard;Freloek!;Poivrot !;Drunkard!;2;Consommation habituelle excessive, pas simple ivresse ponctuelle;Habitual heavy drinking, not one episode of intoxication.;EX-584bf3c948fc
+barfly;Thalen ya ara vathune vaurmeth!;Habitué qui boit sans cesse !;Habitual drinker!;2;"Périphrase: boit habituellement du vin; lieu du comptoir non codé";"Habitually drinks wine; the bar setting is not encoded.";EX-ab3a93e47f50
+brat;Maelin vrothok!;Sale gosse !;Brat!;2;Enfant impertinent, pas n'importe quel enfant;An impertinent child, not any child.;EX-92cf379100fa
+rascal;Maelin throefuth!;Petit chenapan !;Little rascal!;1;Insolence légère dans cet emploi;Mild impudence in this use.;EX-491fc8c35174
+old_vile_woman;Sorkev mamysem koebok!;Vieille femme méprisée !;Contemptuously labelled old woman!;3;Équivalence descriptive: conserve âge et femme, pas chèvre ni peau comme fait;Descriptive: retains age and woman, not a literal goat or skin.;EX-4da82d34ff6e
+bitch;Sorkev skentav!;Garce !;Bitch!;3;"Personne adulte féminine visée pour sa conduite; pas sexualité implicite";Adult female referent criticised for behaviour, not implied sexual conduct.;EX-3c66378a6750
+sexual_slur;Sorkev borbaem!;Femme accusée de débauche !;Woman accused of sexual depravity!;4;Accusation du locuteur, pas description vraie ni défaut de consentement;Speaker's accusation, not an established fact or a statement about consent.;EX-9598e37cb3cd
+sexwork_slur;Trosen!;Pute !;Whore!;4;"Le mot hérité est descriptif; l'adresse injurieuse impute une prostitution sans l'établir";"The inherited noun is descriptive; insulting address alleges sex work without establishing it.";EX-4f98832bee88
+bimbo;Sorkev supyk!;Femme jugée écervelée !;Woman called an airhead!;2;"Équivalence partielle; ne code pas apparence ni intelligence réelle";"Partial; does not encode appearance or actual intelligence.";EX-368c5a9fe515
+sexual_creep;Thalen graefyhael!;Personne lubrique !;Lewd person!;3;Désir affiché, non prédateur ou criminel déduit;Displayed lewdness, not inferred predation or crime.;EX-7fa7795bb961
+creep;Kaelydhyk!;Personne répugnante !;Disgusting creep!;3;"Jugement de dégoût dans le sens hérité; ne vaut pas preuve de crime sexuel";Inherited disgust judgement, not evidence of sexual crime.;EX-f461ad3dc543
+pervert;Thalen borbaem!;Personne jugée dépravée !;Person called depraved!;3;"Jugement moral de locuteur; contexte sexuel à préciser";"Speaker's moral judgement; specify sexual context.";EX-9b7b9f4e5f95
+disgusting;Thalen loror!;Personne dégoûtante !;Disgusting person!;3;Dégoût, sans diagnostic;Disgust without diagnosis.;EX-e61f98e9f876
+cuckold;Barryv!;Cocu !;Cuckold!;2;"Partenaire infidèle dans le sens hérité; pas « faible soumis » automatique";Inherited infidelity sense, not automatically weak or submissive.;EX-b43e3fdea405
+flirt_accusation;Sorkev ya vaere dhirum!;Femme accusée d'attiser l'attirance !;Woman accused of provoking attraction!;3;"Équivalence partielle; n'implique aucune obligation sexuelle";"Partial; implies no sexual obligation.";EX-8c74d37266be
+sexist_boor;Goelvaek ya ulmaerune sorkevi!;Goujat qui méprise les femmes !;Boor who despises women!;3;Comportement explicite, pas tout sens social de beauf;Explicit behaviour, not every social connotation of beauf.;EX-7bf491d2aec4
+scat;Grusk!;Merde !;Shit!;3;Juron indépendant;Standalone exclamation.;EX-c78ac8e1cf64
+strong_expletive;Vrask!;Putain !;Fuck!;4;Juron, sans acte sexuel ni destinataire nécessaire;Expletive, not a sexual act or necessarily a target.;EX-04e8b39b4ecf
+double_expletive;Vrask, grusk!;Putain de merde !;Fucking hell!;4;Accumulation expressive, pas opération génitale;Expletive stacking, not a sexual operation.;EX-e622330f9600
+mild_expletive;Sketh!;Zut !;Darn!;1;"Atténuation; pas traduction d'une plante ou d'un aliment";Mitigation, not a plant or food translation.;EX-240c713c11cb
+theatrical;Sketh, en hael!;Grand ciel !;Good heavens!;1;"Proposition théâtrale; ne devient pas un archaïsme vaeltharyn attesté";Theatrical proposal, not an attested Vaeltharyn archaism.;EX-0ca6639e7809
+god_expletive;Lemkun, vrask!;Dieu, putain !;God, damn it!;4;"Invocation expressive; aucun tabou autochtone inventé";Expressive invocation, no invented native religious taboo.;EX-b4ae89ed6785
+by_god;Lemkun!;Par Dieu !;By God!;2;"Invocation libre proposée; pas traduction syntaxique de « par » instrumental";Proposed free invocation, not an instrumental translation of by.;EX-c5daedb37799
+devil_expletive;Dyfel!;Diable !;What the devil!;2;Nom employé en exclamation;Noun used as exclamation.;EX-ab432c918135
+curses;Saelnyr!;Malédiction !;Curses!;2;Nom de malédiction fictive du lexique, pas mal réel revendiqué;Existing fictional-curse noun, not a claim of real harm.;EX-6193fc3d2d61
+surprise;Sketh, se vele thaevl ma?;Ce n'est pas vrai ?!;Is that really true?!;1;Question de surprise, pas demande de silence;Surprise question, not a command to be quiet.;EX-e1bee9ad8b6c
+strong_surprise;Vrask, se vele thaevl ma?;Putain, c'est vrai ?!;Holy shit, is that true?!;4;"Surprise; la polarité interrogative est explicite";Surprise with explicit interrogative polarity.;EX-299ee563b259
+what;Ven, vrask?!;Quoi, putain ?!;What the fuck?!;4;"Fragment interrogatif; pas une scène sexuelle";Interrogative fragment, not a sexual scene.;EX-e65909b18508
+hell_no;Vrask, nau!;Putain, non !;Hell no!;4;Refus renforcé;Intensified refusal.;EX-7dfae6d75fde
+hell_yes;Vrask, ei!;Putain, oui !;Hell yeah!;4;Accord enthousiaste;Enthusiastic agreement.;EX-8a549adc20e9
+dismiss_mild;Naethala!;Dégage !;Get lost!;2;Renvoi, pas obligation d'un itinéraire concret;Dismissal, not a literal itinerary.;EX-50dea903c623
+dismiss_strong;Naethala, vrask!;Va te faire foutre !;Fuck off!;4;"Équivalence pragmatique; ne reproduit pas sexe, famille ou origine";"Pragmatic equivalent; sex, family and origin are not reproduced.";EX-65b223ab09bd
+dismiss_plural;Tin naethalai, vrask!;Allez vous faire foutre !;Fuck off, all of you!;4;"Impératif pluriel; pas un singulier de politesse non défini";Plural imperative, not an undefined polite singular.;EX-c1c0e62f4969
+shut_mild;Nu lyra!;Tais-toi !;Shut up!;2;Négation de l'impératif parler;Negated imperative of speak.;EX-accf503cde14
+shut_strong;Nu lyra, vrask!;Ferme ta gueule !;Shut the fuck up!;4;Renforcement vulgaire, pas vérité anatomique;Vulgar strengthening, not an anatomical statement.;EX-5b0791c2faa9
+mouth_shut;Kaerala vaem si-en!;Ferme ton clapet !;Shut your trap!;3;Bouche réflexive du destinataire;Addressee's own mouth.;EX-8ab2aa73cf9d
+leave_alone;Laera mi e saerunath!;Fous-moi la paix !;Leave me the hell alone!;3;Domaine figuré de la paix au locatif;Figurative domain of peace in the locative.;EX-4316e106a06a
+leave_alone_strong;Laera mi e saerunath, vrask!;Fous-moi la paix, putain !;Leave me the fuck alone!;4;"Renforcement explicite; distinct du degré plus faible antérieur";Explicit strengthening, distinct from the earlier milder degree.;EX-9019940a5040
+back_off;Nu kaena mi, vrask!;Ne me touche pas, putain !;Back off, don't touch me!;4;Limite physique, pas ordre de reculer d'une distance donnée;Physical boundary, not a measured backward step.;EX-3c43310eec37
+stop_nuisance;Nu horsahima mi!;Arrête de me faire chier !;Stop being a pain in the ass!;3;Importune, sans scatologie littérale;Bothering, no literal defecation.;EX-27e6e39563b3
+annoyed;Ti horsahimes mi, vrask!;Tu me fais chier !;You're pissing me off!;4;Irritation causée par l'autre;Irritation caused by the other person.;EX-3c5453fc879a
+annoyed_thing;Se horsahime mi, vrask!;Ça me fait chier !;This pisses me off!;4;Objet non personnel conservé;Non-personal subject retained.;EX-2101d52bd2d7
+cut_bullshit;Nu lyra grusk-thareli!;Arrête tes conneries !;Cut the bullshit!;3;Lecture de propos, pas erreur matérielle;Speech reading, not an action mistake.;EX-648dc4f93cfe
+stop_behaviour;Nu skarna!;Arrête de faire le connard !;Stop being an asshole!;3;Conduite, non identité permanente;Behaviour, not a permanent identity.;EX-ecd3f10bebb8
+mock_question;Ti thenthoses mi ma, vrask?;Tu te fous de ma gueule ?;Are you fucking kidding me?;4;Verbe transitif explicitement créé pour conserver la cible;Explicit transitive verb preserves the target.;EX-a81118cc6779
+take_for_fool;Ti hapeves dhe mi velem kofav ma, vrask?;Tu me prends pour un con ?;Do you think I'm a fucking idiot?;4;Complétive complète avec première personne;Full complement clause with first-person agreement.;EX-f662ac23476a
+who_are_you;Ti loebemes dhe ti veles var, vrask?;Tu te prends pour qui, putain ?;Who the fuck do you think you are?;4;Interrogatif porte sur l'identité prétendue;Question concerns the claimed identity.;EX-1c53055984d9
+your_problem;Ven vele en kaer ti-en, vrask?;C'est quoi ton secret, putain ?;What's your secret, fuck?!;4;"NE PAS utiliser pour « problème »; entrée conservée comme contrôle de faux ami";"Do not use for problem; retained as a false-friend control.";EX-3e48d37e4047
+bullshit;Grusk-thareli!;Des conneries !;Bullshit!;3;Propos rejetés, pas toute erreur;Rejected talk, not every mistake.;EX-fe45306c279e
+mistake;Gydim basoel!;Une erreur stupide !;A stupid mistake!;2;Ratage ponctuel, distinct de propos mensongers;A failed action, distinct from lying talk.;EX-a7a17ef3fb47
+mean_stunt;Therval skentav!;Une saloperie de manœuvre !;A nasty stunt!;3;Travail/action moralement déloyale en contexte;Morally disloyal action in context.;EX-f03f25ccedb3
+bad_quality;Se vele ulmaeriv, vrask!;C'est vraiment de la merde !;It's fucking awful!;4;Mauvaise qualité, pas nécessairement tromperie;Bad quality, not necessarily deception.;EX-55e49d3bedeb
+bogus;Se vele ulthaevl.;C'est faux.;It's bogus.;2;Fausseté, pas mauvais goût;Falsity, not bad taste.;EX-c2ab6ab1e27b
+mess;Se vele dhidhys vrask.;C'est un putain de bordel.;It's a fucking mess.;4;Désordre, pas établissement;Disorder, not an establishment.;EX-b8ee94d38875
+huge_mess;Se vele dhidhysaun vrask.;C'est un bordel monstre.;It's a complete fucking mess.;4;Augmentatif nominal régulier, non conjugaison;Regular nominal augmentative, not conjugation.;EX-ffe6e12f1e73
+failure;Taempaer vrask!;Un putain de fiasco !;A fucking fiasco!;4;"Échec complet; dumpster fire ne contient ici aucun conteneur en feu";"Complete failure; no burning dumpster is asserted.";EX-013fb36d4b07
+crap_job;Therval grusken!;Un boulot de merde !;A shitty job!;3;Génitif métaphorique, pas travail sur une matière fécale;Metaphorical genitive, not work on faecal material.;EX-c5d963e367e7
+crap_weather;Saunrael grusken!;Un temps de merde !;Shitty weather!;3;Météo, pas durée;Weather, not time duration.;EX-2587b80677d6
+crap_day;Saun grusken!;Une journée de merde !;A shitty day!;3;Qualité négative métaphorique, pas intensif neutre;Metaphorical poor quality, not neutral intensity.;EX-a299ff06bc32
+crap_life;Thaleth grusken!;Vie de merde !;Fuck my life!;3;"Qualité de vie jugée mauvaise; pas souhait de mort";Life judged poor in quality, not a death wish.;EX-11c0d3110951
+intensifier_strong;Ith skoendhoem vrask!;Ce putain de truc !;This fucking thing!;4;Gabarit nominal, remplacer le nom en conservant l'ordre;Nominal pattern, replace the noun while retaining word order.;EX-4c212d100c8b
+intensifier_mild;Ith skoendhoem garuniv!;Ce fichu truc !;This damn thing!;2;Intensité, pas qualité négative automatique;Intensity, not automatic poor quality.;EX-836473b70ce5
+half_assed;Therval hudhuthun ulmaeriv!;Travail mal fait et négligé !;Shoddy, half-assed work!;2;Participe passif de négliger, pas raccourci illégal du verbe;Passive participle of neglect, not an illegal shortened verb.;EX-8a0adf64ea00
+cheap;Skoendhoem ulmaeriv garuniv!;Un fichu truc de piètre qualité !;A damn lousy thing!;2;"Qualité médiocre; bas prix non garanti";"Poor quality; low price is not guaranteed.";EX-9f09c6afa019
+dont_care;Mi nu slusoemem se.;Je m'en fiche.;I don't care about it.;1;Verbe nouveau de préoccupation, pas « ne pas savoir »;New concern verb, not lack of knowledge.;EX-5da695dea109
+dont_care_strong;Mi nu slusoemem se, vrask.;J'en ai rien à foutre.;I don't give a fuck.;4;Même contenu, degré explicite plus fort;Same content with explicitly stronger force.;EX-5cba1e153b67
+fed_up;Mi dhavem foegaek, vrask.;J'en ai marre, putain.;I'm fucking fed up.;4;Exaspération, pas simple fatigue physique;Exasperation, not mere physical tiredness.;EX-f83900d7f5db
+fed_up_this;Mi dhavem foegaek fra se-ath, vrask.;J'en ai marre de ça, putain.;I'm fucking sick of this.;4;Origine figurée au locatif, pas maladie;Figurative origin in the locative, not illness.;EX-ab5079959902
+angry;Mi velem vyrv.;Je suis en rogne.;I'm pissed off.;2;Colère, distinct de l'ivresse;Anger, distinct from intoxication.;EX-a04ab4e0411d
+drunk;Mi velem brehum.;Je suis ivre.;I'm drunk.;1;Pissed britannique possible, pas pissed américain colérique;Can match British pissed, not the American angry sense.;EX-d8bf828bd843
+bored;Mi dhavem nyrmael, vrask.;Je me fais chier.;I'm bored shitless.;4;Ennui, pas action de déféquer;Boredom, not defecation.;EX-c8baf96c2df6
+hassled;Mi velem brytoekun.;Je me fais harceler.;I'm getting hassled.;2;Passif d'un verbe transitif, pas participe employé comme verbe personnel;Passive of a transitive verb, not a bare participle used as a finite verb.;EX-e270e54c5b37
+manage;Mi kelem thaelar se.;Je peux y arriver.;I can manage it.;1;"Périphrase d'accomplissement; autonomie complète non garantie";Achievement paraphrase, not guaranteed self-sufficiency.;EX-5326943c060e
+fuck_up;Mi ragydimem, vrask.;J'ai merdé.;I fucked up.;4;Échec d'action, pas rapport sexuel;Failed action, not sex.;EX-bdc89cdbde3c
+you_fuck_up;Ti ragydimes, vrask.;T'as merdé.;You fucked up.;4;Accord deuxième personne;Second-person agreement.;EX-6ee07e518bd2
+stir_discord;Ti thaeles nathem, vrask.;Tu fous la merde.;You're stirring shit up.;4;"Créer une querelle; pas toute erreur accidentelle";Creating conflict, not every accidental mistake.;EX-d7f7e2f5a80b
+hard_work;Mi thaelem velu tidom, vrask.;Je me casse le cul.;I'm busting my ass.;4;Effort explicite, aucune blessure anatomique;Explicit effort, no anatomical injury.;EX-d99283bfb928
+know_nothing;Ti sendes nul skoendhoem, vrask.;Tu n'y connais que dalle.;You don't know shit.;4;Quantificateur nominal nul, pas double négation improvisée;Nominal nul quantifier, no invented double negative.;EX-7d50fec06a15
+no_value;Se pykikove nul vaermar.;Ça ne vaut pas un sou.;It's not worth a penny.;2;"Valeur monétaire; autre valeur à contextualiser";"Monetary value; other kinds need context.";EX-cdf4a160403d
+huge_amount;Setoesaun vrask!;Une putain de quantité !;A fuckton!;4;Augmentatif nominal, pas une unité de mesure;Nominal augmentative, not a measurement unit.;EX-fa3f6c152c2d
+nothing;Nul skoendhoem, vrask.;Rien, putain.;Jack shit.;4;Aucune chose avec juron explicite;Nothing with an explicit expletive.;EX-b6d5c1b98736
+same_crap;"Grusk grygel; saun maenusoek.";Même merde, autre jour.;Same shit, different day.;3;Accord invariable des adjectifs;Adjectives remain invariable.;EX-0d6a42c7b52a
+shit_happens;Gydimi vynen.;Les ratages arrivent.;Shit happens.;2;Arrivée figurée d'événements;Figurative arrival of events.;EX-0ce8f5985a10
+tough_luck;Slaefiv ti-en.;Pas de bol pour toi.;Tough luck.;1;"Constate la malchance; sarcasme dépend du ton";"Notes bad luck; sarcasm depends on delivery.";EX-1fbb1b5a83f4
+not_my_problem;"Se vele skoendhoem ti-en; mi nu slusoemem se.";"C'est ton affaire; je m'en fiche.";"That's your business; I don't care.";2;Deux propositions complètes, nuance moins empathique explicite;Two full clauses, explicitly dismissive.;EX-562b150a5a58
+fuck_it;Mi laerem se, vrask.;Et puis merde, je laisse tomber.;Fuck it, I'm dropping it.;4;Abandon de la chose, pas renvoi d'une personne;Dropping a matter, not dismissing a person.;EX-ca3f75be3163
+reject_this;Mi nu vaelem se, vrask.;Ah non, j'en veux pas, putain.;Fuck that.;4;Refus, pas indifférence automatique;Rejection, not automatically indifference.;EX-b6def82a081f
+sarcastic_truth;Se vele thaevl, vrask!;Sans déconner !;No shit!;3;Affirmation sarcastique ou surprise: le ton doit trancher;"Sarcastic or surprised statement; delivery disambiguates.";EX-16d651bc0177
+swear_true;Mi graethem dhe se vele thaevl.;Je te jure que c'est vrai.;I swear it's true.;2;Serment affirmatif, non sarcasme;Affirmative oath, not sarcasm.;EX-d114d077faa6
+scared;Se radityle mi, vrask.;Ça m'a foutu une de ces trouilles.;That scared the shit out of me.;4;Verbe causal de peur, pas perte corporelle;Causative fear verb, no bodily event.;EX-e034cb893df2
+mind_blown;Se vele vrelloen, vrask!;Ça me stupéfie, putain !;That blows my fucking mind!;4;"Littéralement c'est merveilleux; lecture admirative seulement";"Literally wonderful; admiring reading only.";EX-c0511576fe34
+excellent;Se vele mynoes, vrask!;Ça déchire, putain !;It's fucking excellent!;4;"Qualité positive; pas être sexuellement dépravé";Positive quality, not sexual depravity.;EX-58101da6714c
+badass;Thalen vaethv an vyral!;Personne courageuse et puissante !;A brave, formidable person!;2;"Lecture admirative; le sens menaçant reste distinct";"Admiring reading; threatening reading remains separate.";EX-9d2c7c20660c
+threatening;Thalen slibelaev!;Personne redoutable !;An intimidating person!;2;Crainte inspirée, pas admiration obligatoire;Inspires fear, not necessarily admiration.;EX-9596d289d44a
+smartass;Kraeboer bremvyv!;Insolent pédant !;Pedantic wiseass!;2;Habileté réelle non garantie;Does not guarantee actual cleverness.;EX-5440ef90938c
+foul_mouthed;Thalen ya ara lyre grusk-thareli!;Personne qui débite des conneries !;Someone who habitually talks bullshit!;3;Pas forcément toute personne qui jure;Not everyone who swears.;EX-ed2ad414decc
+wrong_way;Se vele ulthaeviv, vrask.;C'est fait de travers, putain.;It's fucking wrong.;4;Non-conformité, pas orientation spatiale précise;Incorrectness, not a precise spatial orientation.;EX-3774ace17f3b
+fake;Thalen noekath!;Imposteur !;Phony!;2;Adjectif d'imposture, pas doctrine religieuse déduite;Imposture adjective, not inferred religious doctrine.;EX-eb94fb1e1dd0
+imitator;Thalen nygaek an slyllum!;Poseur qui n'y arrive pas !;Inept poser!;2;Ne couvre pas tout désir d'apprendre;Does not cover every aspiration to learn.;EX-7d8992fe1c02
+conformist_woman;Sorkev noefor!;Femme jugée conformiste !;Woman called conformist!;2;Stéréotype basic bitch seulement partiellement transposé;Basic-bitch stereotype only partially transferred.;EX-3a88201a22ec
+empowered_woman;Sorkev raev an garim!;Femme libre et autonome !;A free, self-directed woman!;1;Lecture valorisante de bad bitch, sans insulte native;Positive bad-bitch reading, without an inherent native insult.;EX-c774fb64582f
+leader_woman;Sorkev ya dhave hynloel!;Femme qui a du pouvoir !;A woman with power!;1;"Lecture valorisante de boss bitch; pas domination abusive déduite";"Positive boss-bitch reading; not inferred abuse.";EX-caf9f798f748
+attention_seeker;Thalen ya vaele haelthim!;Personne qui recherche l'attention !;Attention-seeker!;2;Aucune prostitution ni genre déduit;No inferred sex work or gender.;EX-40ab2092f784
+dramatic;Thalen ya thaele lapael!;Personne qui en fait des tonnes !;Someone who exaggerates everything!;2;Exagération, pas genre théâtral ni genre féminin;Exaggeration, not theatre or female gender.;EX-167bd29ea1b0
+entitled;Maelin ya vaele sava skoendhoemi!;Gosse qui veut tout !;A brat who wants everything!;2;"Lecture d'exigence; le sentiment de droit est une approximation";"Demanding reading; entitlement is approximate.";EX-0b15a730443a
+bossy_complainer;Thalen dhimor an doedas!;Personne arrogante et râleuse !;An arrogant complainer!;2;"Karen descriptif seulement; nom propre et stéréotype non lexicalisés";"Descriptive Karen reading only; name and stereotype not lexicalised.";EX-fb3f2d3c058a
+lazy_parent;Thalir ya hudhuthe maelin si-en!;Parent qui néglige son enfant !;A parent who neglects their child!;2;"Le parent masculin peut être précisé par darun; responsabilité financière à contextualiser";"Can specify darun for father; financial responsibility needs context.";EX-3183075ac202
+submissive;Thalen nypuhyl!;Personne qui se laisse diriger !;An easily led person!;1;Docilité, pas stupidité ni identité sexuelle;Docility, not stupidity or sexual identity.;EX-55c1fa28ec1f
+sycophant_coward;Toenvapam sen vaethun!;Lèche-bottes sans courage !;A cowardly bootlicker!;2;Deux reproches, pas un trait racial;Two criticisms, no racial trait.;EX-d5094614e075
+childish_man;Bidim basoel!;Homme jugé sot !;Man called foolish!;2;"Approximation pour immaturité; ne prétend pas encoder l'âge mental";"Approximation for immaturity; no claim about mental age.";EX-6bc76e16f3fd
+attracted_to_money;Thalen ya vaele vaermar e lyrenath!;Personne qui recherche l'argent dans une relation !;Person seeking money in a relationship!;2;"Gold digger contextuel; pas toute dépendance financière";Contextual gold-digger reading, not every financial dependency.;EX-b898bfe4e4ac
+sexual_harasser;Thalen ya thaele brytoeketh braeltyner!;Personne qui commet du harcèlement sexuel !;A person engaging in sexual harassment!;3;"Conduite spécifique; non synonyme de toute lubricité";Specific behaviour, not all lewdness.;EX-275d8c9fc0d3
+involuntary_celibate;Thalen sen maelnayrun!;Personne sans partenaire !;Person without a partner!;0;Lecture partielle: involontaire et idéologie incel non déduites;Partial: involuntariness and incel ideology are not inferred.;EX-2bf9663f1e8c
+spiteful_misogynist;Thalen ya ulmaerune sorkevi!;Personne qui méprise les femmes !;Someone who despises women!;3;"Lecture injurieuse contextuelle d'incel; pas tous les célibataires";Contextual insulting incel reading, not every single person.;EX-2a74a9e5e1ff
+idiot_mildintense;Kofav garuniv!;Fichu imbécile !;Bloody idiot!;2;Renforcement modéré, pas force de fucking idiot;Moderate strengthening, not the force of fucking idiot.;EX-76df9b0bb6f8
+adj_intensifier;Se vele sha maeriv, sketh!;C'est fichtrement bon !;It's damn good!;2;Sha modifie l'adjectif, pas un nom ni un verbe;Sha modifies the adjective, not a noun or verb.;EX-e8403ef5f6b7
+bad_situation;Vareth-greth grusken!;Une difficulté de merde !;A shitty predicament!;3;Difficulté pratique, pas exercice scientifique;Practical difficulty, not a scientific exercise.;EX-6722fd106297
+stupid_modifier;Skoendhoem basoel!;Un truc à la con !;A dumb thing!;2;Jugement figuré, pas suffixe péjoratif universel;Figurative judgement, not a universal pejorative suffix.;EX-3060a40ed333
+disgust;Se vele dhaethoth, vrask!;Ça me dégoûte, putain !;It's fucking disgusting!;4;"Lecture figurée; ne décrit pas nécessairement vomissement";"Figurative reading; not necessarily actual vomiting.";EX-90961afec75b
+sympathy;Mi dhavem maelnaev ti-or.;J'éprouve de la compassion pour toi.;I feel for you.;0;Peuchère dans sa lecture compatissante, pas une insulte;Compassionate peuchère, not an insult.;EX-f8c8b213d8a8
+unverified_regional;;Forme régionale à confirmer;Regional form needing confirmation;0;Aucune forme vaeltharyn inventée sur une attestation insuffisante;No invented Vaeltharyn equivalent from insufficient evidence.;
+documented_social;;Injure sociale ou racialisée documentée;Documented class-based or racialised insult;4;"Référence source conservée; aucun groupe social vaeltharyn équivalent présumé";"Source preserved; no corresponding Vaeltharyn social group is assumed.";
+weird_warning;Thalen moelom!;Personne jugée extravagante !;Someone called eccentric!;2;Équivalent pragmatique partiel: ne transpose pas un diagnostic ni un spectacle de foire;Partial pragmatic equivalent: no diagnosis or sideshow is transferred.;EX-879ad306997e
+snob;Keltas!;Snob !;Snob!;2;Prétention à la haute société dans le sens existant;Pretence to high society in the existing sense.;EX-428d7baefc36
+stop_whining;Nu gimtaela!;Arrête de pleurnicher !;Quit whining!;2;Impératif négatif d'un verbe intransitif;Negative imperative of an intransitive verb.;EX-1b727eef0fb8
+dont_bullshit_me;Nu vaera grusk-thareli mi-or!;Ne me raconte pas de conneries !;Don't bullshit me!;3;Donner des propos au datif destinataire;Give utterances with dative recipient.;EX-cd5deae5bd08
+screwed_you;Ti dhaves vareth-greth thar, vrask.;T'es dans une grosse merde.;You're in deep shit.;4;Difficulté majeure, pas rapport sexuel ni désespoir irréversible;Major trouble, not sex or irreversible hopelessness.;EX-2048d8b15374
+screwed_us;Min dhavom vareth-greth thar, vrask.;On est dans une grosse merde.;We're in deep shit.;4;Première personne plurielle conservée;First-person plural retained.;EX-ca9ee97975da
+he_bullshit;Se lyre grusk-thareli.;Il raconte des conneries.;He's talking bullshit.;3;"Se ne fixe pas le genre; le contexte anglais fourni le fixe";"Se has no fixed gender; the supplied English context sets it.";EX-68bb84d2a1ab
+he_ignorant_talk;"Se lyre; se nu sende.";Il parle sans savoir.;He's talking out of his ass.;3;Équivalence pragmatique, aucune anatomie supposée;Pragmatic equivalent, no anatomy asserted.;EX-a946212f144d
+he_ass;Se vele skarn.;C'est un connard.;He's an asshole.;3;Sujet source préservé, pas passage à tu;Source subject retained, not switched to you.;EX-f3210f417ad0
+he_behaving;Se skarne.;Il se comporte en connard.;He's being an asshole.;3;Comportement plutôt qu'identité;Behaviour rather than identity.;EX-0f809282710e
+windbag;Hifun bremvyv!;Bavard pédant !;Pompous windbag!;2;Bavardage et pédanterie, pas seulement volume sonore;Talkativeness and pedantry, not just loudness.;EX-4885210a4d5c
+bigmouth_secret;Thalen ya nu kaere kaer!;Personne incapable de garder un secret !;Someone who cannot keep a secret!;2;Lecture particulière de bigmouth;Specific bigmouth reading.;EX-d875f8b740ff
+family_fragment;Melun ti-en!;Ta mère !;Your mother!;3;"Fragment familial; intention injurieuse dépend du contexte, aucun fait affirmé";"Family fragment; insulting intent is contextual, no fact is asserted.";EX-a71ce9f41052
+literal_shit_on;Mi gruskem nar ti-ath.;Je te chie dessus.;I shit on you.;4;"Lecture littérale disponible; en situation le renvoi pragmatique reste distinct";"Literal reading available; pragmatic dismissal remains separate.";EX-565eb44428b7
+eat_shit_die;Maelvela grusk an nytha!;Mange de la merde et crève !;Eat shit and die!;4;Formule hostile citée lexicalement, pas une consigne au lecteur;Hostile formula documented lexically, not an instruction to the reader.;EX-ab163cc7bd30
+suck_dick;Sloelika fonul mi-en!;Suce mon pénis !;Suck my dick!;4;"Formulation anatomique littérale; provocation et acte réel ne sont pas confondus";"Literal anatomical wording; provocation is not confused with a real act.";EX-9c145cbbe6c0
+suck_balls;Sloelika daeboroeki mi-en!;Suce mes testicules !;Suck my balls!;4;Pluriel explicite, lecture littérale;Explicit plural, literal reading.;EX-38aab6230964
+shove_ass;Ti keles mesithar se e foenroeminath si-en!;Tu peux te le mettre dans l'anus !;You can shove it up your ass!;4;"Orifice anatomique, pas simple fesse; usage injurieux contextuel";"Anatomical opening, not merely a buttock; contextual invective.";EX-82f1fe8d8e9c
+up_yours;E foenroeminath ti-en!;Dans ton cul !;Up your ass!;4;Fragment locatif injurieux, pas une phrase verbale ni une suggestion pratique;Insulting locative fragment, not a finite clause or practical suggestion.;EX-43d12425794a
+sarcastic_known;Mi sendem se, Sherlock.;Je le sais, Sherlock.;No shit, Sherlock.;3;Sherlock reste un nom propre reconnaissable, sarcasme dépend du ton;"Sherlock remains a recognisable proper name; sarcasm depends on delivery.";EX-05d374e03795
+your_issue;Ven vele vareth-greth ti-en, vrask?;C'est quoi ton putain de problème ?;What's your fucking problem?;4;"Difficulté pratique ou relationnelle; pas un exercice scientifique";Practical or interpersonal issue, not a scientific exercise.;EX-b587f183129a
+mess_and_find;Ir ti horsahimes mi, ti vimires.;Si tu me cherches, tu verras.;Mess with me and you'll find out.;3;Menace elliptique conservée sans inventer de violence précise;Elliptic threat retained without inventing specific violence.;EX-e0c294263e47
+profound_surprise;Se rathaele naivkaethaun e mi-ath, vrask!;Ça m'a complètement stupéfié, putain !;That blew my fucking mind!;4;"Grande surprise créée en moi; valence émotionnelle non imposée";"Great surprise created in me; no imposed positive or negative valence.";EX-49fd43aae0a9
+sexual_sucker;Fonul-brabon!;Suceur de pénis !;Cocksucker!;4;"Composé descriptif cité comme injure sexuelle; aucune orientation déduite";"Descriptive compound documented as sexual insult; no inferred orientation.";EX-f652b1302c10
+sexual_object;Traemtoer-dhokun!;Sac à sperme !;Cum dumpster!;4;Métaphore dégradante objectivante, explicitement citée comme telle;Explicitly documented degrading objectification metaphor.;EX-3229fbdddd1f
+sex_manipulator;Bidim ya krekoke thaleni vo vroefinar!;Homme qui trompe des personnes pour coucher !;Man who deceives people to get sex!;3;Manipulation sexuelle intentionnelle, pas simple désir;Intentional sexual deception, not mere desire.;EX-6310f422db56
+unfaithful_partner;Thalen ya boebave maelnayrun si-en!;Personne qui trahit son partenaire !;Person who betrays their partner!;2;"Trahison relationnelle; le nombre de partenaires ne suffit pas";"Betrayal in a relationship; partner count alone is insufficient.";EX-f13b93a45063
+old_creep;Bidim mamysem graefyhael!;Vieux homme lubrique !;Dirty old man!;3;Âge et homme conservés, aucune déficience médicale déduite;Retains age and male referent, no inferred medical condition.;EX-15beaf66e7df
+unusual;Thalen moelom!;Personne extravagante !;Eccentric person!;1;"Équivalent partiel de weirdo; pas diagnostic psychiatrique";Partial weirdo equivalent, not a psychiatric diagnosis.;EX-879ad306997e
+hard_to_intimidate;Thalen vaethv!;Personne courageuse !;Brave person!;1;Ne confond pas bravoure, force physique et soumission;Does not conflate courage, physical strength and submission.;EX-a189c6160e72
+misery;Mi dhavem lonbem, vrask.;J'ai la poisse, putain.;Fuck, my luck is awful.;4;Malchance, pas souhait de mort;Bad luck, not a death wish.;EX-08e6daceb29c
+appreciation;Se vele mynoes, vrask!;Putain, c'est excellent !;Holy shit, that's good!;4;Appréciation positive;Positive appraisal.;EX-58101da6714c
+not_worth;Se pykikove nul vaermar, vrask.;Ça ne vaut pas un sou, putain.;It's not worth shit.;4;Valeur monétaire dans le littéral, dépréciation contextuelle;Literal monetary value, contextual disparagement.;EX-04c671f6f256
+he_mocks;Se thenthose mi.;Il se moque de moi.;He is making fun of me.;2;Troisième personne et cible moi conservées;Third person and me as target retained.;EX-696ced289b0f
+causes_fear;Se dityle mi, vrask.;Ça me fout la trouille.;It scares the hell out of me.;4;Lecture peur, distincte de colère;Fear reading, distinct from anger.;EX-7237a5a2665f
+controversy;Nathemaun vrask!;Une putain de querelle énorme !;A fucking storm of controversy!;4;Grande querelle, pas météo littérale ni tout fiasco;Large quarrel, not literal weather or every fiasco.;EX-aba181cec217

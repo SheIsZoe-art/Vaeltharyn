@@ -1006,3 +1006,8 @@ Positive emotional profanity is distinguished from attacks: `vrask, mi velem rae
 `skarnar`: **mi skarnem**, **ti skarnes**, **se skarne**, **min skarnom**, **tin skarnos**, **sen skarnen**; past 1SG **mi raskarnem**, future **mi viskarnem**; imperatives **skarna / skarnai**. Neither verb receives a passive participle: both are intransitive.
 
 Reproducible checks: `python scripts/verifier_registres.py`. Data: `registres/`. Written grammar and phonology remain authoritative. No audio validation is claimed.
+
+
+## Documented 1.4.0 extension — 25 October 2026
+
+[Extended expressive inventory](24_Inventaire_expressif_FR_EN.md): all 719 supplied rows are documented through 226 sense records and nine added lemmas. Four rows explicitly lack an established equivalent. Current CSVs: 65,026 entries, 65,023 spellings, 6,538 verbs. Earlier volume counts are historical. Additions remain unvalidated proposals.

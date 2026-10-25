@@ -1,0 +1,8283 @@
+[
+  {
+    "key": "idiot",
+    "vaeltharyn": "Kofav!",
+    "francais_controle": "Imbécile !",
+    "english_checked": "Idiot!",
+    "force": 2,
+    "note_fr": "Jugement injurieux, pas diagnostic médical",
+    "note_en": "Insult, not a medical diagnosis.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      437,
+      438,
+      439,
+      440,
+      441,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      451,
+      452,
+      455,
+      456,
+      461,
+      463,
+      464,
+      465,
+      483,
+      484,
+      485
+    ],
+    "expression_id": "EX-c001c39dbac3",
+    "lexique_ids": [
+      "VX-3ba80e1f148fe368"
+    ],
+    "analyses_lexicales": {
+      "kofav": [
+        "kofav"
+      ]
+    }
+  },
+  {
+    "key": "idiot_strong",
+    "vaeltharyn": "Kofav vrask!",
+    "francais_controle": "Putain d'imbécile !",
+    "english_checked": "Fucking idiot!",
+    "force": 4,
+    "note_fr": "L'intensif porte sur le nom",
+    "note_en": "The intensifier modifies the noun.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      439,
+      440,
+      465,
+      58,
+      458
+    ],
+    "expression_id": "EX-4a25890f6c81",
+    "lexique_ids": [
+      "VX-3ba80e1f148fe368",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "kofav": [
+        "kofav"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "fool",
+    "vaeltharyn": "Tronodaev!",
+    "francais_controle": "Idiot !",
+    "english_checked": "Fool!",
+    "force": 2,
+    "note_fr": "Manque de jugement attribué",
+    "note_en": "Attributed lack of judgement.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-KNUCKLEHEAD"
+    ],
+    "lignes_source": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      39,
+      64,
+      65,
+      457,
+      459,
+      460,
+      442,
+      450
+    ],
+    "expression_id": "EX-8d47d9547de9",
+    "lexique_ids": [
+      "VX-7651674508f8b644"
+    ],
+    "analyses_lexicales": {
+      "tronodaev": [
+        "tronodaev"
+      ]
+    }
+  },
+  {
+    "key": "silly",
+    "vaeltharyn": "Thalen basoel!",
+    "francais_controle": "Personne sotte !",
+    "english_checked": "Silly person!",
+    "force": 1,
+    "note_fr": "Peut être taquin, sans équivalence affectueuse automatique",
+    "note_en": "May be teasing, not automatically affectionate.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      445,
+      446,
+      447,
+      448,
+      449,
+      15,
+      16,
+      11,
+      12,
+      13,
+      14
+    ],
+    "expression_id": "EX-0600ebc29c25",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-f479a7fdbe15a2cd"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "basoel": [
+        "basoel"
+      ]
+    }
+  },
+  {
+    "key": "gullible",
+    "vaeltharyn": "Thalen loemkyk!",
+    "francais_controle": "Personne trop crédule !",
+    "english_checked": "Gullible fool!",
+    "force": 1,
+    "note_fr": "Crédulité, non folie",
+    "note_en": "Gullibility, not madness.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-JOBARD"
+    ],
+    "lignes_source": [
+      375,
+      481,
+      482
+    ],
+    "expression_id": "EX-01944b781a38",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-8fd5f8373faa9ade"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "loemkyk": [
+        "loemkyk"
+      ]
+    }
+  },
+  {
+    "key": "old_fool",
+    "vaeltharyn": "Kofav mamysem!",
+    "francais_controle": "Vieil imbécile !",
+    "english_checked": "Old fool!",
+    "force": 2,
+    "note_fr": "L'âge est conservé quand la source le vise",
+    "note_en": "Retains the age reference when present in the source.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      24,
+      389
+    ],
+    "expression_id": "EX-ce5c7d44e3cc",
+    "lexique_ids": [
+      "VX-3ba80e1f148fe368",
+      "VX-cc449b002ff2aa8b"
+    ],
+    "analyses_lexicales": {
+      "kofav": [
+        "kofav"
+      ],
+      "mamysem": [
+        "mamysem"
+      ]
+    }
+  },
+  {
+    "key": "scatterbrain",
+    "vaeltharyn": "Laelbek!",
+    "francais_controle": "Distrait !",
+    "english_checked": "Scatterbrain!",
+    "force": 1,
+    "note_fr": "Inattention, pas forcément manque d'intelligence",
+    "note_en": "Inattention, not necessarily low intelligence.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      26,
+      27
+    ],
+    "expression_id": "EX-f20a9963ff18",
+    "lexique_ids": [
+      "VX-ffe35a04dbea0cd8"
+    ],
+    "analyses_lexicales": {
+      "laelbek": [
+        "laelbek"
+      ]
+    }
+  },
+  {
+    "key": "airhead",
+    "vaeltharyn": "Brosol!",
+    "francais_controle": "Écervelé !",
+    "english_checked": "Airhead!",
+    "force": 2,
+    "note_fr": "Peu de jugement, sans genre grammatical",
+    "note_en": "Poor judgement, no grammatical gender.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      183,
+      184,
+      185,
+      186,
+      453,
+      630
+    ],
+    "expression_id": "EX-a6b4fbb09902",
+    "lexique_ids": [
+      "VX-d4dc41cd54a2cbaa"
+    ],
+    "analyses_lexicales": {
+      "brosol": [
+        "brosol"
+      ]
+    }
+  },
+  {
+    "key": "burden",
+    "vaeltharyn": "Ti veles mersik min-or.",
+    "francais_controle": "Tu es un fardeau pour nous.",
+    "english_checked": "You're a burden to us.",
+    "force": 2,
+    "note_fr": "Métaphore de charge, pas un poids physique réel",
+    "note_en": "Burden metaphor, not a literal physical weight.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      28
+    ],
+    "expression_id": "EX-870c9c2eb460",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-4f1945024c195cca",
+      "VX-f5e5a319eb1c385d",
+      "VX-c7aebc8e280bda28"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "veles": [
+        "velar"
+      ],
+      "mersik": [
+        "mersik"
+      ],
+      "min-or": [
+        "min"
+      ]
+    }
+  },
+  {
+    "key": "loser",
+    "vaeltharyn": "Gydim-thalen!",
+    "francais_controle": "Raté !",
+    "english_checked": "Loser!",
+    "force": 2,
+    "note_fr": "Désignation méprisante liée aux échecs; pas un constat de valeur humaine",
+    "note_en": "Derogatory failure label, not an objective valuation of a person.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      39,
+      29,
+      30,
+      38,
+      40,
+      41,
+      44,
+      476,
+      477,
+      480,
+      515,
+      785
+    ],
+    "expression_id": "EX-f86b28d9bd20",
+    "lexique_ids": [
+      "VX-562c9cc095617dab"
+    ],
+    "analyses_lexicales": {
+      "gydim-thalen": [
+        "gydim-thalen"
+      ]
+    }
+  },
+  {
+    "key": "inept",
+    "vaeltharyn": "Thalen slyllum!",
+    "francais_controle": "Incapable !",
+    "english_checked": "Incompetent person!",
+    "force": 2,
+    "note_fr": "Capacité dans le contexte, non inutilité générale",
+    "note_en": "Ability in context, not universal worthlessness.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      477,
+      37,
+      380
+    ],
+    "expression_id": "EX-723ac530ab83",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-8bdb386bfafeeb56"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "slyllum": [
+        "slyllum"
+      ]
+    }
+  },
+  {
+    "key": "clown",
+    "vaeltharyn": "Thalen thryrsom!",
+    "francais_controle": "Guignol !",
+    "english_checked": "Ridiculous fool!",
+    "force": 2,
+    "note_fr": "Ridicule, pas métier du cirque",
+    "note_en": "Ridiculousness, not a circus profession.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      461,
+      30,
+      31,
+      32,
+      34,
+      35,
+      43,
+      462,
+      474,
+      475,
+      478,
+      479
+    ],
+    "expression_id": "EX-bc2e0348d56a",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-9ec63768f5fab009"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "thryrsom": [
+        "thryrsom"
+      ]
+    }
+  },
+  {
+    "key": "puppet",
+    "vaeltharyn": "Ti veles porvogok.",
+    "francais_controle": "Tu es un pantin.",
+    "english_checked": "You're a puppet.",
+    "force": 2,
+    "note_fr": "Métaphore explicite de manipulation, pas extension silencieuse du jouet",
+    "note_en": "Explicit manipulation metaphor, not a silent rewrite of the toy sense.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      475,
+      33,
+      607,
+      608
+    ],
+    "expression_id": "EX-832ec0521a3e",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-4f1945024c195cca",
+      "VX-63c56b79b1ef7c12"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "veles": [
+        "velar"
+      ],
+      "porvogok": [
+        "porvogok"
+      ]
+    }
+  },
+  {
+    "key": "useless",
+    "vaeltharyn": "Thalen ulhaevvaer!",
+    "francais_controle": "Bon à rien !",
+    "english_checked": "Good-for-nothing!",
+    "force": 2,
+    "note_fr": "Jugement de locuteur, non définition d'une personne",
+    "note_en": "Speaker judgement, not a definition of a person's worth.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      515,
+      36,
+      42,
+      90,
+      378,
+      379,
+      516,
+      586,
+      163
+    ],
+    "expression_id": "EX-36157ec3d39d",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-b73d3e325026b0c9"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ulhaevvaer": [
+        "ulhaevvaer"
+      ]
+    }
+  },
+  {
+    "key": "lout",
+    "vaeltharyn": "Goelvaek!",
+    "francais_controle": "Malotru !",
+    "english_checked": "Lout!",
+    "force": 2,
+    "note_fr": "Manque de savoir-vivre",
+    "note_en": "Rude behaviour.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      381,
+      47,
+      48,
+      52,
+      383,
+      384,
+      385,
+      386
+    ],
+    "expression_id": "EX-08b5bda5ad57",
+    "lexique_ids": [
+      "VX-ad2ed1d2dd04ca75"
+    ],
+    "analyses_lexicales": {
+      "goelvaek": [
+        "goelvaek"
+      ]
+    }
+  },
+  {
+    "key": "boor",
+    "vaeltharyn": "Luthom!",
+    "francais_controle": "Rustre !",
+    "english_checked": "Boor!",
+    "force": 2,
+    "note_fr": "N'implique pas une origine rurale",
+    "note_en": "Does not imply rural origin.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      382,
+      50
+    ],
+    "expression_id": "EX-a4477b137b5b",
+    "lexique_ids": [
+      "VX-1029186e9b0f586e"
+    ],
+    "analyses_lexicales": {
+      "luthom": [
+        "luthom"
+      ]
+    }
+  },
+  {
+    "key": "cad",
+    "vaeltharyn": "Boenrev!",
+    "francais_controle": "Goujat !",
+    "english_checked": "Cad!",
+    "force": 2,
+    "note_fr": "Conduite grossière, particulièrement envers les femmes dans le sens hérité",
+    "note_en": "Rudeness, especially towards women in the inherited definition.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      49,
+      51
+    ],
+    "expression_id": "EX-151747fe66a7",
+    "lexique_ids": [
+      "VX-a4a02f93b6fd301e"
+    ],
+    "analyses_lexicales": {
+      "boenrev": [
+        "boenrev"
+      ]
+    }
+  },
+  {
+    "key": "clumsy",
+    "vaeltharyn": "Slaehoen!",
+    "francais_controle": "Maladroit !",
+    "english_checked": "Clumsy fool!",
+    "force": 1,
+    "note_fr": "Maladresse, pas stupidité générale",
+    "note_en": "Clumsiness, not general stupidity.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-5069ee27fdbc",
+    "lexique_ids": [
+      "VX-050c1b3a067a9583"
+    ],
+    "analyses_lexicales": {
+      "slaehoen": [
+        "slaehoen"
+      ]
+    }
+  },
+  {
+    "key": "boor_clumsy",
+    "vaeltharyn": "Skaedhal!",
+    "francais_controle": "Balourd !",
+    "english_checked": "Bumbling lout!",
+    "force": 2,
+    "note_fr": "Grossièreté et maladresse",
+    "note_en": "Rudeness and clumsiness.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      454
+    ],
+    "expression_id": "EX-d8ac33931c2d",
+    "lexique_ids": [
+      "VX-a476f58345d7cd65"
+    ],
+    "analyses_lexicales": {
+      "skaedhal": [
+        "skaedhal"
+      ]
+    }
+  },
+  {
+    "key": "country_sneer",
+    "vaeltharyn": "Thalen thriroes!",
+    "francais_controle": "Personne rustre !",
+    "english_checked": "Uncouth person!",
+    "force": 2,
+    "note_fr": "Équivalence partielle: ne conserve pas le mépris d'origine sociale ou rurale",
+    "note_en": "Partial: rural or class contempt is not encoded.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      45,
+      46
+    ],
+    "expression_id": "EX-f2ac439d2adf",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-1544ce7a7e28ca6b"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "thriroes": [
+        "thriroes"
+      ]
+    }
+  },
+  {
+    "key": "vile",
+    "vaeltharyn": "Skarn!",
+    "francais_controle": "Salopard !",
+    "english_checked": "Asshole!",
+    "force": 3,
+    "note_fr": "Mépris d'une conduite; pas anatomie ni filiation",
+    "note_en": "Behavioural contempt, not anatomy or parentage.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-SHITFACED"
+    ],
+    "lignes_source": [
+      483,
+      484,
+      64,
+      65,
+      57,
+      62,
+      63,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      92,
+      93,
+      95,
+      96,
+      99,
+      100,
+      101,
+      102,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      187,
+      193,
+      194,
+      195,
+      200,
+      201,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      517,
+      518,
+      519,
+      583,
+      617,
+      618,
+      619,
+      635
+    ],
+    "expression_id": "EX-53ea4bdeaf3f",
+    "lexique_ids": [
+      "VX-71c873e47f68801b"
+    ],
+    "analyses_lexicales": {
+      "skarn": [
+        "skarn"
+      ]
+    }
+  },
+  {
+    "key": "vile_strong",
+    "vaeltharyn": "Skarn vrask!",
+    "francais_controle": "Putain de salopard !",
+    "english_checked": "Fucking asshole!",
+    "force": 4,
+    "note_fr": "Équivalent de force pour invectives fortes, non récit sexuel ou familial",
+    "note_en": "Strong invective equivalent, not a claim about sex or family.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-CUNT"
+    ],
+    "lignes_source": [
+      58,
+      100,
+      101,
+      102,
+      499,
+      509,
+      510,
+      60,
+      98,
+      103,
+      492,
+      522,
+      523,
+      634,
+      637
+    ],
+    "expression_id": "EX-4d88e40cc392",
+    "lexique_ids": [
+      "VX-71c873e47f68801b",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "skarn": [
+        "skarn"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "small_vile",
+    "vaeltharyn": "Skarnil!",
+    "francais_controle": "Petit merdeux !",
+    "english_checked": "Little shit!",
+    "force": 3,
+    "note_fr": "Diminutif péjoratif contextuel, pas âge déduit",
+    "note_en": "Contextual belittling diminutive, not inferred age.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      59,
+      77,
+      78,
+      91,
+      405,
+      487,
+      488,
+      489
+    ],
+    "expression_id": "EX-9bd3b9ce0b91",
+    "lexique_ids": [
+      "VX-71c873e47f68801b"
+    ],
+    "analyses_lexicales": {
+      "skarnil": [
+        "skarn"
+      ]
+    }
+  },
+  {
+    "key": "old_vile",
+    "vaeltharyn": "Skarn mamysem!",
+    "francais_controle": "Vieux con !",
+    "english_checked": "Old asshole!",
+    "force": 3,
+    "note_fr": "Âge explicite de l'insulte source",
+    "note_en": "Explicit age reference in the source insult.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      61
+    ],
+    "expression_id": "EX-9e686d8b1ec9",
+    "lexique_ids": [
+      "VX-71c873e47f68801b",
+      "VX-cc449b002ff2aa8b"
+    ],
+    "analyses_lexicales": {
+      "skarn": [
+        "skarn"
+      ],
+      "mamysem": [
+        "mamysem"
+      ]
+    }
+  },
+  {
+    "key": "worthless_vile",
+    "vaeltharyn": "Skarn ulhaevvaer!",
+    "francais_controle": "Ordure jugée bonne à rien !",
+    "english_checked": "Worthless bastard!",
+    "force": 4,
+    "note_fr": "Pragmatique; ne reproduit pas une image de fausse couche ou d'objet sexuel",
+    "note_en": "Pragmatic; does not reproduce miscarriage or sexual-object imagery.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      515,
+      516,
+      95,
+      96,
+      510,
+      511,
+      79,
+      94,
+      503,
+      504
+    ],
+    "expression_id": "EX-6c751c5b5c70",
+    "lexique_ids": [
+      "VX-71c873e47f68801b",
+      "VX-b73d3e325026b0c9"
+    ],
+    "analyses_lexicales": {
+      "skarn": [
+        "skarn"
+      ],
+      "ulhaevvaer": [
+        "ulhaevvaer"
+      ]
+    }
+  },
+  {
+    "key": "corrupt",
+    "vaeltharyn": "Moesyk!",
+    "francais_controle": "Pourri !",
+    "english_checked": "Corrupt bastard!",
+    "force": 3,
+    "note_fr": "Corruption, pas toute forme de méchanceté",
+    "note_en": "Corruption, not every kind of bad conduct.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-33c42e39c4e6",
+    "lexique_ids": [
+      "VX-4ded4075ef228848"
+    ],
+    "analyses_lexicales": {
+      "moesyk": [
+        "moesyk"
+      ]
+    }
+  },
+  {
+    "key": "fregos",
+    "vaeltharyn": "Thalen fregos!",
+    "francais_controle": "Connard !",
+    "english_checked": "Jerk!",
+    "force": 3,
+    "note_fr": "Nom explicite avec adjectif; pas nominalisation arbitraire",
+    "note_en": "Explicit noun plus adjective, not arbitrary adjective nominalisation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      458,
+      64,
+      65,
+      457,
+      459,
+      460,
+      57,
+      62,
+      63,
+      82,
+      83,
+      84,
+      85,
+      86,
+      182,
+      98
+    ],
+    "expression_id": "EX-6cd6083ac860",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-249cb9f2c9f542b6"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "fregos": [
+        "fregos"
+      ]
+    }
+  },
+  {
+    "key": "small_fool",
+    "vaeltharyn": "Kofavil!",
+    "francais_controle": "Petit idiot !",
+    "english_checked": "Little fool!",
+    "force": 2,
+    "note_fr": "Diminutif régulier de kofav",
+    "note_en": "Regular diminutive of kofav.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-d11303ccc2e2",
+    "lexique_ids": [
+      "VX-3ba80e1f148fe368"
+    ],
+    "analyses_lexicales": {
+      "kofavil": [
+        "kofav"
+      ]
+    }
+  },
+  {
+    "key": "lazy",
+    "vaeltharyn": "Tasil!",
+    "francais_controle": "Paresseux !",
+    "english_checked": "Slacker!",
+    "force": 2,
+    "note_fr": "Paresse, non masturbation",
+    "note_en": "Laziness, not masturbation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      379,
+      87,
+      467,
+      88,
+      585
+    ],
+    "expression_id": "EX-416d31bd0f71",
+    "lexique_ids": [
+      "VX-18e225275616049d"
+    ],
+    "analyses_lexicales": {
+      "tasil": [
+        "tasil"
+      ]
+    }
+  },
+  {
+    "key": "lazy_strong",
+    "vaeltharyn": "Tasil vrask!",
+    "francais_controle": "Putain de feignasse !",
+    "english_checked": "Lazy bastard!",
+    "force": 4,
+    "note_fr": "Intensif de paresse, pas acte sexuel",
+    "note_en": "Intensified laziness, not a sexual act.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      89,
+      584
+    ],
+    "expression_id": "EX-45c914ed9ee1",
+    "lexique_ids": [
+      "VX-18e225275616049d",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "tasil": [
+        "tasil"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "pedant",
+    "vaeltharyn": "Paemevus!",
+    "francais_controle": "Pédant !",
+    "english_checked": "Pedant!",
+    "force": 2,
+    "note_fr": "Étalage de savoir; ne signifie pas exactitude utile",
+    "note_en": "Showing off knowledge, not useful accuracy.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      99,
+      388,
+      559
+    ],
+    "expression_id": "EX-0cd6eb5a4c90",
+    "lexique_ids": [
+      "VX-c7f4e78740bb560a"
+    ],
+    "analyses_lexicales": {
+      "paemevus": [
+        "paemevus"
+      ]
+    }
+  },
+  {
+    "key": "cuistre",
+    "vaeltharyn": "Dafyv!",
+    "francais_controle": "Cuistre !",
+    "english_checked": "Pompous pseudo-scholar!",
+    "force": 2,
+    "note_fr": "Savoir affiché de façon vaniteuse et mal maîtrisée",
+    "note_en": "Vain display of poorly mastered knowledge.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-CUISTRE"
+    ],
+    "lignes_source": [
+      387
+    ],
+    "expression_id": "EX-aa7de0328782",
+    "lexique_ids": [
+      "VX-d919003c057c9bbe"
+    ],
+    "analyses_lexicales": {
+      "dafyv": [
+        "dafyv"
+      ]
+    }
+  },
+  {
+    "key": "nuisance",
+    "vaeltharyn": "Thalen ya horsahime mi!",
+    "francais_controle": "Emmerdeur !",
+    "english_checked": "Pain in the ass!",
+    "force": 3,
+    "note_fr": "Personne qui m'importune; pas personne qui défèque",
+    "note_en": "Person bothering me, not someone defecating.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      110,
+      111,
+      112,
+      114,
+      135,
+      572
+    ],
+    "expression_id": "EX-2eb9760969b3",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-bdcae2ef9be6491f",
+      "VX-25978870e122d09c"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "horsahime": [
+        "horsahimar"
+      ],
+      "mi": [
+        "mi"
+      ]
+    }
+  },
+  {
+    "key": "nuisance_mild",
+    "vaeltharyn": "Thalen ya horsahime mi, sketh!",
+    "francais_controle": "Casse-pieds !",
+    "english_checked": "Pain in the neck!",
+    "force": 2,
+    "note_fr": "Version atténuée, destinataire implicite contextualisé",
+    "note_en": "Milder version, the contextual speaker is affected.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      113,
+      573,
+      574
+    ],
+    "expression_id": "EX-4b3fcd07a936",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-bdcae2ef9be6491f",
+      "VX-25978870e122d09c",
+      "VX-62ee27b1c1ae19f3"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "horsahime": [
+        "horsahimar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "sketh": [
+        "sketh"
+      ]
+    }
+  },
+  {
+    "key": "troublemaker",
+    "vaeltharyn": "Nathem-thaelor!",
+    "francais_controle": "Fouteur de discorde !",
+    "english_checked": "Shit-stirrer!",
+    "force": 3,
+    "note_fr": "Production de querelles, distincte d'une erreur involontaire",
+    "note_en": "Stirring quarrels, distinct from an accidental mistake.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      115,
+      167,
+      551,
+      552
+    ],
+    "expression_id": "EX-5fed8b069d23",
+    "lexique_ids": [
+      "VX-784f5431e53b89e0"
+    ],
+    "analyses_lexicales": {
+      "nathem-thaelor": [
+        "nathem-thaelor"
+      ]
+    }
+  },
+  {
+    "key": "nosy",
+    "vaeltharyn": "Slakal!",
+    "francais_controle": "Fouineur !",
+    "english_checked": "Nosy meddler!",
+    "force": 2,
+    "note_fr": "Ne présume pas une enquête journalistique illégitime",
+    "note_en": "Does not automatically condemn investigative journalism.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      116,
+      117,
+      570,
+      571
+    ],
+    "expression_id": "EX-b022b8a073f0",
+    "lexique_ids": [
+      "VX-6269cacb28381d72"
+    ],
+    "analyses_lexicales": {
+      "slakal": [
+        "slakal"
+      ]
+    }
+  },
+  {
+    "key": "bootlicker",
+    "vaeltharyn": "Toenvapam!",
+    "francais_controle": "Lèche-bottes !",
+    "english_checked": "Bootlicker!",
+    "force": 3,
+    "note_fr": "Servilité envers les puissants, pas action de lécher",
+    "note_en": "Servility towards the powerful, not literal licking.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      118,
+      119,
+      545,
+      546,
+      547,
+      548,
+      550
+    ],
+    "expression_id": "EX-b91d1efa56c8",
+    "lexique_ids": [
+      "VX-1cf38a8385343b62"
+    ],
+    "analyses_lexicales": {
+      "toenvapam": [
+        "toenvapam"
+      ]
+    }
+  },
+  {
+    "key": "hypocrite",
+    "vaeltharyn": "Skithin!",
+    "francais_controle": "Hypocrite !",
+    "english_checked": "Hypocrite!",
+    "force": 2,
+    "note_fr": "Deux attitudes opposées selon l'interlocuteur, pas deux visages anatomiques",
+    "note_en": "Inconsistent pretence, not two anatomical faces.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      120,
+      121,
+      122,
+      536,
+      538
+    ],
+    "expression_id": "EX-489a7bd4237c",
+    "lexique_ids": [
+      "VX-917045702c60761f"
+    ],
+    "analyses_lexicales": {
+      "skithin": [
+        "skithin"
+      ]
+    }
+  },
+  {
+    "key": "liar",
+    "vaeltharyn": "Vraegom!",
+    "francais_controle": "Menteur !",
+    "english_checked": "Liar!",
+    "force": 2,
+    "note_fr": "Accusation de mensonge sans diagnostic",
+    "note_en": "Accusation of lying without diagnosis.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      123,
+      124,
+      534,
+      535
+    ],
+    "expression_id": "EX-8cea1ef5e7d5",
+    "lexique_ids": [
+      "VX-18db0f613fcbcf1f"
+    ],
+    "analyses_lexicales": {
+      "vraegom": [
+        "vraegom"
+      ]
+    }
+  },
+  {
+    "key": "liar_habit",
+    "vaeltharyn": "Vraegom ya ara ulthaeve!",
+    "francais_controle": "Menteur invétéré !",
+    "english_checked": "Habitual liar!",
+    "force": 2,
+    "note_fr": "Habitude, pas diagnostic de mythomanie",
+    "note_en": "Habit, not a diagnosis of mythomania.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      124,
+      535
+    ],
+    "expression_id": "EX-d98c7351c370",
+    "lexique_ids": [
+      "VX-18db0f613fcbcf1f",
+      "VX-2a54a14fa66ea2bc",
+      "VX-c57fd5c34e6c4aca",
+      "VX-5726dfa97124977d"
+    ],
+    "analyses_lexicales": {
+      "vraegom": [
+        "vraegom"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "ara": [
+        "ara"
+      ],
+      "ulthaeve": [
+        "ulthaevar"
+      ]
+    }
+  },
+  {
+    "key": "bullshitter",
+    "vaeltharyn": "Mulroem!",
+    "francais_controle": "Baratineur !",
+    "english_checked": "Bullshitter!",
+    "force": 2,
+    "note_fr": "Baratin; n'implique pas un mensonge pathologique",
+    "note_en": "Smooth empty talk, not pathological lying.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      125,
+      126,
+      533
+    ],
+    "expression_id": "EX-b161cb6a5f79",
+    "lexique_ids": [
+      "VX-972a18261ae8ad0b"
+    ],
+    "analyses_lexicales": {
+      "mulroem": [
+        "mulroem"
+      ]
+    }
+  },
+  {
+    "key": "loudmouth",
+    "vaeltharyn": "Thalen thaemraeliv!",
+    "francais_controle": "Grande gueule !",
+    "english_checked": "Loudmouth!",
+    "force": 2,
+    "note_fr": "Personne bruyante; pas révélation de secret déduite",
+    "note_en": "A noisy person; not automatically a secret-spiller.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      127,
+      128,
+      129,
+      555,
+      556
+    ],
+    "expression_id": "EX-a40e22f1757e",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-8e90972f8cdbb3b8"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "thaemraeliv": [
+        "thaemraeliv"
+      ]
+    }
+  },
+  {
+    "key": "braggart",
+    "vaeltharyn": "Foeden!",
+    "francais_controle": "Vantard !",
+    "english_checked": "Braggart!",
+    "force": 2,
+    "note_fr": "Celui qui se vante",
+    "note_en": "Someone who boasts.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      563
+    ],
+    "expression_id": "EX-97f08e4d37b8",
+    "lexique_ids": [
+      "VX-0cf6aca6c54b6916"
+    ],
+    "analyses_lexicales": {
+      "foeden": [
+        "foeden"
+      ]
+    }
+  },
+  {
+    "key": "showoff",
+    "vaeltharyn": "Frobim!",
+    "francais_controle": "Frimeur !",
+    "english_checked": "Show-off!",
+    "force": 2,
+    "note_fr": "Frime, pas pose d'objets",
+    "note_en": "Showing off, not placing objects.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      130,
+      132,
+      562
+    ],
+    "expression_id": "EX-eeb987ea85b6",
+    "lexique_ids": [
+      "VX-9e32a28968f210c0"
+    ],
+    "analyses_lexicales": {
+      "frobim": [
+        "frobim"
+      ]
+    }
+  },
+  {
+    "key": "poser",
+    "vaeltharyn": "Thalen nygaek!",
+    "francais_controle": "Poseur !",
+    "english_checked": "Poser!",
+    "force": 2,
+    "note_fr": "Adjectif d'affectation, pas le nom du poseur d'objets",
+    "note_en": "Affected-manner adjective, not the object-installer noun.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      131,
+      564
+    ],
+    "expression_id": "EX-f6c0eca83288",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-ad1576266ebf5385"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "nygaek": [
+        "nygaek"
+      ]
+    }
+  },
+  {
+    "key": "arrogant",
+    "vaeltharyn": "Memkor!",
+    "francais_controle": "Arrogant !",
+    "english_checked": "Arrogant person!",
+    "force": 2,
+    "note_fr": "Attitude hautaine",
+    "note_en": "Arrogant attitude.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      473,
+      133
+    ],
+    "expression_id": "EX-d6152f0b5e22",
+    "lexique_ids": [
+      "VX-74508be7963144a5"
+    ],
+    "analyses_lexicales": {
+      "memkor": [
+        "memkor"
+      ]
+    }
+  },
+  {
+    "key": "bossy",
+    "vaeltharyn": "Slilyk!",
+    "francais_controle": "Petit chef !",
+    "english_checked": "Bossy control freak!",
+    "force": 2,
+    "note_fr": "Volonté de dominer l'entourage",
+    "note_en": "Imposing one's will on others.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      134
+    ],
+    "expression_id": "EX-930e9d71c6be",
+    "lexique_ids": [
+      "VX-cb3462072f3534bc"
+    ],
+    "analyses_lexicales": {
+      "slilyk": [
+        "slilyk"
+      ]
+    }
+  },
+  {
+    "key": "grouch",
+    "vaeltharyn": "Baroth!",
+    "francais_controle": "Pisse-vinaigre !",
+    "english_checked": "Sourpuss!",
+    "force": 2,
+    "note_fr": "Humeur revêche; aucune urine dans le sens",
+    "note_en": "Sour temperament, no urine in the sense.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      136,
+      137,
+      190,
+      191,
+      192
+    ],
+    "expression_id": "EX-bfc6a30a2d2c",
+    "lexique_ids": [
+      "VX-564675a4adee5a6a"
+    ],
+    "analyses_lexicales": {
+      "baroth": [
+        "baroth"
+      ]
+    }
+  },
+  {
+    "key": "killjoy",
+    "vaeltharyn": "Loefoeton!",
+    "francais_controle": "Rabat-joie !",
+    "english_checked": "Killjoy!",
+    "force": 2,
+    "note_fr": "Hostilité à la joie des autres",
+    "note_en": "Hostility towards others' enjoyment.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      138,
+      577,
+      578,
+      581
+    ],
+    "expression_id": "EX-947df2936c84",
+    "lexique_ids": [
+      "VX-1edc324d8238528a"
+    ],
+    "analyses_lexicales": {
+      "loefoeton": [
+        "loefoeton"
+      ]
+    }
+  },
+  {
+    "key": "prude",
+    "vaeltharyn": "Thalen troedhel!",
+    "francais_controle": "Personne coincée !",
+    "english_checked": "Prude!",
+    "force": 2,
+    "note_fr": "Pruderie dans cette lecture, pas radinerie",
+    "note_en": "Prudishness in this reading, not stinginess.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      139,
+      580
+    ],
+    "expression_id": "EX-97d1b3c45af3",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-e419abd2d9e9495b"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "troedhel": [
+        "troedhel"
+      ]
+    }
+  },
+  {
+    "key": "rigid",
+    "vaeltharyn": "Thalen koriv!",
+    "francais_controle": "Personne rigide !",
+    "english_checked": "Rigid person!",
+    "force": 2,
+    "note_fr": "Métaphore corporelle; pudibonderie et avarice restent distinctes",
+    "note_en": "Bodily rigidity metaphor; prudishness and stinginess remain separate.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      140,
+      579
+    ],
+    "expression_id": "EX-f8d1d7bcb9fc",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2961b4397a8ea03f"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "koriv": [
+        "koriv"
+      ]
+    }
+  },
+  {
+    "key": "coward",
+    "vaeltharyn": "Thalen sen vaethun!",
+    "francais_controle": "Lâche !",
+    "english_checked": "Coward!",
+    "force": 2,
+    "note_fr": "Absence de courage attribuée; distincte d'une corde lâche",
+    "note_en": "Attributed lack of courage, distinct from a slack rope.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      30,
+      492,
+      143,
+      146,
+      600,
+      601,
+      602,
+      605,
+      606,
+      643
+    ],
+    "expression_id": "EX-3ae3c0e6f39d",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-79bc02a65619cc16",
+      "VX-26709216851e5061",
+      "VX-4b727e78d07f9ae8"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "sen": [
+        "sen"
+      ],
+      "vaethun": [
+        "vaethar",
+        "vaethun"
+      ]
+    }
+  },
+  {
+    "key": "timid",
+    "vaeltharyn": "Tanek!",
+    "francais_controle": "Trouillard !",
+    "english_checked": "Scaredy-cat!",
+    "force": 2,
+    "note_fr": "Disposition craintive; pas inférence de lâcheté morale",
+    "note_en": "Fearfulness, not inferred moral cowardice.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      601,
+      602,
+      141,
+      142,
+      145
+    ],
+    "expression_id": "EX-fe95c6de084e",
+    "lexique_ids": [
+      "VX-4187a418f061cea0"
+    ],
+    "analyses_lexicales": {
+      "tanek": [
+        "tanek"
+      ]
+    }
+  },
+  {
+    "key": "weakling",
+    "vaeltharyn": "Thalen getor!",
+    "francais_controle": "Mauviette !",
+    "english_checked": "Weakling!",
+    "force": 2,
+    "note_fr": "Faiblesse attribuée; pas identité de genre",
+    "note_en": "Attributed weakness, not gender identity.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      605,
+      144,
+      603,
+      604,
+      612,
+      642
+    ],
+    "expression_id": "EX-d89e38d6285c",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-ae233d31839cbb16"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "getor": [
+        "getor"
+      ]
+    }
+  },
+  {
+    "key": "whiner",
+    "vaeltharyn": "Gaegylym!",
+    "francais_controle": "Pleurnichard !",
+    "english_checked": "Crybaby!",
+    "force": 2,
+    "note_fr": "Manière larmoyante, pas pathologie ni enfant réel",
+    "note_en": "Whining manner, not pathology or an actual infant.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      147,
+      148,
+      575,
+      576
+    ],
+    "expression_id": "EX-93d4c7194e48",
+    "lexique_ids": [
+      "VX-321bda8c739da47a"
+    ],
+    "analyses_lexicales": {
+      "gaegylym": [
+        "gaegylym"
+      ]
+    }
+  },
+  {
+    "key": "snitch",
+    "vaeltharyn": "Pupak!",
+    "francais_controle": "Mouchard !",
+    "english_checked": "Informer!",
+    "force": 2,
+    "note_fr": "Le sens hérité porte sur la police; lecture scolaire séparée",
+    "note_en": "The inherited sense concerns police; school tattling is separate.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-SNITCH"
+    ],
+    "lignes_source": [
+      149,
+      150,
+      151,
+      541,
+      542
+    ],
+    "expression_id": "EX-a23bf49769dc",
+    "lexique_ids": [
+      "VX-43ff1a20531a2769"
+    ],
+    "analyses_lexicales": {
+      "pupak": [
+        "pupak"
+      ]
+    }
+  },
+  {
+    "key": "tattletale",
+    "vaeltharyn": "Thalen ya vaere kaer thaliror!",
+    "francais_controle": "Rapporteur !",
+    "english_checked": "Tattletale!",
+    "force": 2,
+    "note_fr": "Donne un secret au parent, au datif; contexte enfantin, pas accusation criminelle",
+    "note_en": "Gives a secret to the parent in the dative; child context, not criminal accusation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      149,
+      543,
+      549
+    ],
+    "expression_id": "EX-0e0b3d1de0ae",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-30f0ac4575c1ce60",
+      "VX-4c58fc68f9a86019",
+      "VX-98879975ac7175a6"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "vaere": [
+        "vaerar"
+      ],
+      "kaer": [
+        "kaer"
+      ],
+      "thaliror": [
+        "thalir"
+      ]
+    }
+  },
+  {
+    "key": "traitor",
+    "vaeltharyn": "Lodhom!",
+    "francais_controle": "Traître !",
+    "english_checked": "Traitor!",
+    "force": 2,
+    "note_fr": "Trahison, pas morsure animale",
+    "note_en": "Betrayal, not animal biting.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      541,
+      152,
+      539,
+      540
+    ],
+    "expression_id": "EX-109966f2f0e4",
+    "lexique_ids": [
+      "VX-fb44b6f5f87df783"
+    ],
+    "analyses_lexicales": {
+      "lodhom": [
+        "lodhom"
+      ]
+    }
+  },
+  {
+    "key": "sellout",
+    "vaeltharyn": "Vaermar-lodhom!",
+    "francais_controle": "Vendu !",
+    "english_checked": "Sellout!",
+    "force": 3,
+    "note_fr": "Traître par intérêt financier dans cette lecture",
+    "note_en": "Betrayal for financial gain in this reading.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      153,
+      544
+    ],
+    "expression_id": "EX-23de2768d502",
+    "lexique_ids": [
+      "VX-5568b94aa9f465ec"
+    ],
+    "analyses_lexicales": {
+      "vaermar-lodhom": [
+        "vaermar-lodhom"
+      ]
+    }
+  },
+  {
+    "key": "freeloader",
+    "vaeltharyn": "Brimvav!",
+    "francais_controle": "Pique-assiette !",
+    "english_checked": "Freeloader!",
+    "force": 2,
+    "note_fr": "Profite sans contribuer, non animal parasite",
+    "note_en": "Benefits without contributing, not a parasitic organism.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      518,
+      154,
+      155,
+      156,
+      157,
+      588,
+      589,
+      590
+    ],
+    "expression_id": "EX-5f9e9b8067b5",
+    "lexique_ids": [
+      "VX-88df95e0a5d03bde"
+    ],
+    "analyses_lexicales": {
+      "brimvav": [
+        "brimvav"
+      ]
+    }
+  },
+  {
+    "key": "exploiter",
+    "vaeltharyn": "Saehoemoem!",
+    "francais_controle": "Exploiteur !",
+    "english_checked": "Exploiter!",
+    "force": 2,
+    "note_fr": "Profit abusif d'une personne ou situation",
+    "note_en": "Abusive benefit from a person or situation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-43583fe8eeef",
+    "lexique_ids": [
+      "VX-e16114bb51d31e7b"
+    ],
+    "analyses_lexicales": {
+      "saehoemoem": [
+        "saehoemoem"
+      ]
+    }
+  },
+  {
+    "key": "profiteer",
+    "vaeltharyn": "Graloes!",
+    "francais_controle": "Profiteur !",
+    "english_checked": "Dishonest opportunist!",
+    "force": 2,
+    "note_fr": "Avantage obtenu malhonnêtement",
+    "note_en": "Dishonestly obtained advantage.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      154,
+      588
+    ],
+    "expression_id": "EX-ba6944eaf32f",
+    "lexique_ids": [
+      "VX-0efb8e844b6706f2"
+    ],
+    "analyses_lexicales": {
+      "graloes": [
+        "graloes"
+      ]
+    }
+  },
+  {
+    "key": "greedy",
+    "vaeltharyn": "Thalen dhepegor!",
+    "francais_controle": "Rapace d'argent !",
+    "english_checked": "Greedy person!",
+    "force": 2,
+    "note_fr": "Avidité, non espèce d'oiseau",
+    "note_en": "Greed, not a bird species.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      158
+    ],
+    "expression_id": "EX-2c8b6765daaa",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-4e6fc81b7e366344"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "dhepegor": [
+        "dhepegor"
+      ]
+    }
+  },
+  {
+    "key": "cheapskate",
+    "vaeltharyn": "Nulyk!",
+    "francais_controle": "Radin !",
+    "english_checked": "Cheapskate!",
+    "force": 2,
+    "note_fr": "Avare, pas rat animal",
+    "note_en": "Miser, not a rodent.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      579,
+      159,
+      160,
+      591,
+      592,
+      593
+    ],
+    "expression_id": "EX-82e4f6e50070",
+    "lexique_ids": [
+      "VX-cba28d4f42425732"
+    ],
+    "analyses_lexicales": {
+      "nulyk": [
+        "nulyk"
+      ]
+    }
+  },
+  {
+    "key": "penny_pincher",
+    "vaeltharyn": "Vrasik!",
+    "francais_controle": "Grippe-sou !",
+    "english_checked": "Penny-pincher!",
+    "force": 2,
+    "note_fr": "Attachement aux petits gains",
+    "note_en": "Obsession with petty gains.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      592,
+      161
+    ],
+    "expression_id": "EX-0ef5d939e231",
+    "lexique_ids": [
+      "VX-29123d0fc595c0d9"
+    ],
+    "analyses_lexicales": {
+      "vrasik": [
+        "vrasik"
+      ]
+    }
+  },
+  {
+    "key": "crook",
+    "vaeltharyn": "Tridum!",
+    "francais_controle": "Escroc !",
+    "english_checked": "Scammer!",
+    "force": 2,
+    "note_fr": "Accusation d'escroquerie, à distinguer d'incompétence",
+    "note_en": "Alleged fraud, distinct from incompetence.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      162,
+      164,
+      537,
+      594,
+      595
+    ],
+    "expression_id": "EX-53ad544d58a0",
+    "lexique_ids": [
+      "VX-7d48f4969df33990"
+    ],
+    "analyses_lexicales": {
+      "tridum": [
+        "tridum"
+      ]
+    }
+  },
+  {
+    "key": "thug",
+    "vaeltharyn": "Lavum!",
+    "francais_controle": "Malfaiteur !",
+    "english_checked": "Thug!",
+    "force": 2,
+    "note_fr": "Conduite criminelle alléguée",
+    "note_en": "Alleged criminal conduct.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      165,
+      166,
+      486
+    ],
+    "expression_id": "EX-4d2b98861e79",
+    "lexique_ids": [
+      "VX-9e1e18f978833d4b"
+    ],
+    "analyses_lexicales": {
+      "lavum": [
+        "lavum"
+      ]
+    }
+  },
+  {
+    "key": "filthy",
+    "vaeltharyn": "Thalen thrutos!",
+    "francais_controle": "Crasseux !",
+    "english_checked": "Filthy slob!",
+    "force": 2,
+    "note_fr": "Saleté, pas sexualité",
+    "note_en": "Dirtiness, not sexuality.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      519,
+      583,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      582
+    ],
+    "expression_id": "EX-4cdb86077b2c",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-3917228782a96d68"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "thrutos": [
+        "thrutos"
+      ]
+    }
+  },
+  {
+    "key": "drunkard",
+    "vaeltharyn": "Freloek!",
+    "francais_controle": "Poivrot !",
+    "english_checked": "Drunkard!",
+    "force": 2,
+    "note_fr": "Consommation habituelle excessive, pas simple ivresse ponctuelle",
+    "note_en": "Habitual heavy drinking, not one episode of intoxication.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      396,
+      397,
+      398,
+      399,
+      400
+    ],
+    "expression_id": "EX-584bf3c948fc",
+    "lexique_ids": [
+      "VX-30ebf0cf91a499e5"
+    ],
+    "analyses_lexicales": {
+      "freloek": [
+        "freloek"
+      ]
+    }
+  },
+  {
+    "key": "barfly",
+    "vaeltharyn": "Thalen ya ara vathune vaurmeth!",
+    "francais_controle": "Habitué qui boit sans cesse !",
+    "english_checked": "Habitual drinker!",
+    "force": 2,
+    "note_fr": "Périphrase: boit habituellement du vin; lieu du comptoir non codé",
+    "note_en": "Habitually drinks wine; the bar setting is not encoded.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-ab3a93e47f50",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-c57fd5c34e6c4aca",
+      "VX-38e428b95aa63f23",
+      "VX-9518939f3c2ef023"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "ara": [
+        "ara"
+      ],
+      "vathune": [
+        "vathunar"
+      ],
+      "vaurmeth": [
+        "vaurmeth"
+      ]
+    }
+  },
+  {
+    "key": "brat",
+    "vaeltharyn": "Maelin vrothok!",
+    "francais_controle": "Sale gosse !",
+    "english_checked": "Brat!",
+    "force": 2,
+    "note_fr": "Enfant impertinent, pas n'importe quel enfant",
+    "note_en": "An impertinent child, not any child.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      568,
+      403,
+      404,
+      490,
+      491
+    ],
+    "expression_id": "EX-92cf379100fa",
+    "lexique_ids": [
+      "VX-28614708c0a8ad09",
+      "VX-62502967bdaab232",
+      "VX-df01654453e33b58"
+    ],
+    "analyses_lexicales": {
+      "maelin": [
+        "maelar",
+        "maelin"
+      ],
+      "vrothok": [
+        "vrothok"
+      ]
+    }
+  },
+  {
+    "key": "rascal",
+    "vaeltharyn": "Maelin throefuth!",
+    "francais_controle": "Petit chenapan !",
+    "english_checked": "Little rascal!",
+    "force": 1,
+    "note_fr": "Insolence légère dans cet emploi",
+    "note_en": "Mild impudence in this use.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      401,
+      402,
+      708
+    ],
+    "expression_id": "EX-491fc8c35174",
+    "lexique_ids": [
+      "VX-28614708c0a8ad09",
+      "VX-62502967bdaab232",
+      "VX-f566ef2b4db00fd0"
+    ],
+    "analyses_lexicales": {
+      "maelin": [
+        "maelar",
+        "maelin"
+      ],
+      "throefuth": [
+        "throefuth"
+      ]
+    }
+  },
+  {
+    "key": "old_vile_woman",
+    "vaeltharyn": "Sorkev mamysem koebok!",
+    "francais_controle": "Vieille femme méprisée !",
+    "english_checked": "Contemptuously labelled old woman!",
+    "force": 3,
+    "note_fr": "Équivalence descriptive: conserve âge et femme, pas chèvre ni peau comme fait",
+    "note_en": "Descriptive: retains age and woman, not a literal goat or skin.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      188,
+      189
+    ],
+    "expression_id": "EX-4da82d34ff6e",
+    "lexique_ids": [
+      "VX-6d60e091d1e2bf72",
+      "VX-cc449b002ff2aa8b",
+      "VX-2d9b40dab04c3a79"
+    ],
+    "analyses_lexicales": {
+      "sorkev": [
+        "sorkev"
+      ],
+      "mamysem": [
+        "mamysem"
+      ],
+      "koebok": [
+        "koebok"
+      ]
+    }
+  },
+  {
+    "key": "bitch",
+    "vaeltharyn": "Sorkev skentav!",
+    "francais_controle": "Garce !",
+    "english_checked": "Bitch!",
+    "force": 3,
+    "note_fr": "Personne adulte féminine visée pour sa conduite; pas sexualité implicite",
+    "note_en": "Adult female referent criticised for behaviour, not implied sexual conduct.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      69,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      187,
+      201,
+      617,
+      618,
+      619,
+      175,
+      176
+    ],
+    "expression_id": "EX-3c66378a6750",
+    "lexique_ids": [
+      "VX-6d60e091d1e2bf72",
+      "VX-0a278a730b322866"
+    ],
+    "analyses_lexicales": {
+      "sorkev": [
+        "sorkev"
+      ],
+      "skentav": [
+        "skentav"
+      ]
+    }
+  },
+  {
+    "key": "sexual_slur",
+    "vaeltharyn": "Sorkev borbaem!",
+    "francais_controle": "Femme accusée de débauche !",
+    "english_checked": "Woman accused of sexual depravity!",
+    "force": 4,
+    "note_fr": "Accusation du locuteur, pas description vraie ni défaut de consentement",
+    "note_en": "Speaker's accusation, not an established fact or a statement about consent.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      178,
+      179,
+      180,
+      181,
+      187,
+      173,
+      174,
+      175,
+      202,
+      203,
+      204,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628
+    ],
+    "expression_id": "EX-9598e37cb3cd",
+    "lexique_ids": [
+      "VX-6d60e091d1e2bf72",
+      "VX-f7f3ee62d27ecb8f"
+    ],
+    "analyses_lexicales": {
+      "sorkev": [
+        "sorkev"
+      ],
+      "borbaem": [
+        "borbaem"
+      ]
+    }
+  },
+  {
+    "key": "sexwork_slur",
+    "vaeltharyn": "Trosen!",
+    "francais_controle": "Pute !",
+    "english_checked": "Whore!",
+    "force": 4,
+    "note_fr": "Le mot hérité est descriptif; l'adresse injurieuse impute une prostitution sans l'établir",
+    "note_en": "The inherited noun is descriptive; insulting address alleges sex work without establishing it.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      173,
+      174,
+      202,
+      624,
+      625
+    ],
+    "expression_id": "EX-4f98832bee88",
+    "lexique_ids": [
+      "VX-6f12deb694608352"
+    ],
+    "analyses_lexicales": {
+      "trosen": [
+        "trosen"
+      ]
+    }
+  },
+  {
+    "key": "bimbo",
+    "vaeltharyn": "Sorkev supyk!",
+    "francais_controle": "Femme jugée écervelée !",
+    "english_checked": "Woman called an airhead!",
+    "force": 2,
+    "note_fr": "Équivalence partielle; ne code pas apparence ni intelligence réelle",
+    "note_en": "Partial; does not encode appearance or actual intelligence.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      183,
+      184,
+      185,
+      186,
+      630,
+      178,
+      179,
+      180,
+      629
+    ],
+    "expression_id": "EX-368c5a9fe515",
+    "lexique_ids": [
+      "VX-6d60e091d1e2bf72",
+      "VX-ee880e8b3544febb"
+    ],
+    "analyses_lexicales": {
+      "sorkev": [
+        "sorkev"
+      ],
+      "supyk": [
+        "supyk"
+      ]
+    }
+  },
+  {
+    "key": "sexual_creep",
+    "vaeltharyn": "Thalen graefyhael!",
+    "francais_controle": "Personne lubrique !",
+    "english_checked": "Lewd person!",
+    "force": 3,
+    "note_fr": "Désir affiché, non prédateur ou criminel déduit",
+    "note_en": "Displayed lewdness, not inferred predation or crime.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      200,
+      196,
+      199,
+      639,
+      640,
+      645,
+      646
+    ],
+    "expression_id": "EX-7fa7795bb961",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-bda026c5a2ae281f"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "graefyhael": [
+        "graefyhael"
+      ]
+    }
+  },
+  {
+    "key": "creep",
+    "vaeltharyn": "Kaelydhyk!",
+    "francais_controle": "Personne répugnante !",
+    "english_checked": "Disgusting creep!",
+    "force": 3,
+    "note_fr": "Jugement de dégoût dans le sens hérité; ne vaut pas preuve de crime sexuel",
+    "note_en": "Inherited disgust judgement, not evidence of sexual crime.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      520
+    ],
+    "expression_id": "EX-f461ad3dc543",
+    "lexique_ids": [
+      "VX-5709c573da58d209"
+    ],
+    "analyses_lexicales": {
+      "kaelydhyk": [
+        "kaelydhyk"
+      ]
+    }
+  },
+  {
+    "key": "pervert",
+    "vaeltharyn": "Thalen borbaem!",
+    "francais_controle": "Personne jugée dépravée !",
+    "english_checked": "Person called depraved!",
+    "force": 3,
+    "note_fr": "Jugement moral de locuteur; contexte sexuel à préciser",
+    "note_en": "Speaker's moral judgement; specify sexual context.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      198,
+      644
+    ],
+    "expression_id": "EX-9b7b9f4e5f95",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-f7f3ee62d27ecb8f"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "borbaem": [
+        "borbaem"
+      ]
+    }
+  },
+  {
+    "key": "disgusting",
+    "vaeltharyn": "Thalen loror!",
+    "francais_controle": "Personne dégoûtante !",
+    "english_checked": "Disgusting person!",
+    "force": 3,
+    "note_fr": "Dégoût, sans diagnostic",
+    "note_en": "Disgust without diagnosis.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      522,
+      523,
+      197
+    ],
+    "expression_id": "EX-e61f98e9f876",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-43dafa84370b76cf"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "loror": [
+        "loror"
+      ]
+    }
+  },
+  {
+    "key": "cuckold",
+    "vaeltharyn": "Barryv!",
+    "francais_controle": "Cocu !",
+    "english_checked": "Cuckold!",
+    "force": 2,
+    "note_fr": "Partenaire infidèle dans le sens hérité; pas « faible soumis » automatique",
+    "note_en": "Inherited infidelity sense, not automatically weak or submissive.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      206,
+      610
+    ],
+    "expression_id": "EX-b43e3fdea405",
+    "lexique_ids": [
+      "VX-f79633c36f49bf77"
+    ],
+    "analyses_lexicales": {
+      "barryv": [
+        "barryv"
+      ]
+    }
+  },
+  {
+    "key": "flirt_accusation",
+    "vaeltharyn": "Sorkev ya vaere dhirum!",
+    "francais_controle": "Femme accusée d'attiser l'attirance !",
+    "english_checked": "Woman accused of provoking attraction!",
+    "force": 3,
+    "note_fr": "Équivalence partielle; n'implique aucune obligation sexuelle",
+    "note_en": "Partial; implies no sexual obligation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      205,
+      632,
+      633
+    ],
+    "expression_id": "EX-8c74d37266be",
+    "lexique_ids": [
+      "VX-6d60e091d1e2bf72",
+      "VX-2a54a14fa66ea2bc",
+      "VX-30f0ac4575c1ce60",
+      "VX-6a364d9747ddbd47"
+    ],
+    "analyses_lexicales": {
+      "sorkev": [
+        "sorkev"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "vaere": [
+        "vaerar"
+      ],
+      "dhirum": [
+        "dhirum"
+      ]
+    }
+  },
+  {
+    "key": "sexist_boor",
+    "vaeltharyn": "Goelvaek ya ulmaerune sorkevi!",
+    "francais_controle": "Goujat qui méprise les femmes !",
+    "english_checked": "Boor who despises women!",
+    "force": 3,
+    "note_fr": "Comportement explicite, pas tout sens social de beauf",
+    "note_en": "Explicit behaviour, not every social connotation of beauf.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      207
+    ],
+    "expression_id": "EX-7bf491d2aec4",
+    "lexique_ids": [
+      "VX-ad2ed1d2dd04ca75",
+      "VX-2a54a14fa66ea2bc",
+      "VX-c4c3e564724cceaf",
+      "VX-6d60e091d1e2bf72"
+    ],
+    "analyses_lexicales": {
+      "goelvaek": [
+        "goelvaek"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "ulmaerune": [
+        "ulmaerunar"
+      ],
+      "sorkevi": [
+        "sorkev"
+      ]
+    }
+  },
+  {
+    "key": "scat",
+    "vaeltharyn": "Grusk!",
+    "francais_controle": "Merde !",
+    "english_checked": "Shit!",
+    "force": 3,
+    "note_fr": "Juron indépendant",
+    "note_en": "Standalone exclamation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      212,
+      213,
+      214,
+      217,
+      225,
+      226,
+      257,
+      262,
+      663,
+      664,
+      665,
+      668,
+      669,
+      684,
+      321
+    ],
+    "expression_id": "EX-c78ac8e1cf64",
+    "lexique_ids": [
+      "VX-6b1d3a5384bc50ec"
+    ],
+    "analyses_lexicales": {
+      "grusk": [
+        "grusk"
+      ]
+    }
+  },
+  {
+    "key": "strong_expletive",
+    "vaeltharyn": "Vrask!",
+    "francais_controle": "Putain !",
+    "english_checked": "Fuck!",
+    "force": 4,
+    "note_fr": "Juron, sans acte sexuel ni destinataire nécessaire",
+    "note_en": "Expletive, not a sexual act or necessarily a target.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      217,
+      215,
+      238,
+      652,
+      653,
+      654,
+      658,
+      659,
+      678,
+      681,
+      682,
+      259
+    ],
+    "expression_id": "EX-04e8b39b4ecf",
+    "lexique_ids": [
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "double_expletive",
+    "vaeltharyn": "Vrask, grusk!",
+    "francais_controle": "Putain de merde !",
+    "english_checked": "Fucking hell!",
+    "force": 4,
+    "note_fr": "Accumulation expressive, pas opération génitale",
+    "note_en": "Expletive stacking, not a sexual operation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      658,
+      659,
+      678,
+      216,
+      218,
+      219,
+      220,
+      655,
+      666,
+      675
+    ],
+    "expression_id": "EX-e622330f9600",
+    "lexique_ids": [
+      "VX-bcc0895b083109ae",
+      "VX-6b1d3a5384bc50ec"
+    ],
+    "analyses_lexicales": {
+      "vrask": [
+        "vrask"
+      ],
+      "grusk": [
+        "grusk"
+      ]
+    }
+  },
+  {
+    "key": "mild_expletive",
+    "vaeltharyn": "Sketh!",
+    "francais_controle": "Zut !",
+    "english_checked": "Darn!",
+    "force": 1,
+    "note_fr": "Atténuation; pas traduction d'une plante ou d'un aliment",
+    "note_en": "Mitigation, not a plant or food translation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      704,
+      709,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      667,
+      692,
+      693,
+      694,
+      695,
+      697,
+      698,
+      699,
+      700,
+      701
+    ],
+    "expression_id": "EX-240c713c11cb",
+    "lexique_ids": [
+      "VX-62ee27b1c1ae19f3"
+    ],
+    "analyses_lexicales": {
+      "sketh": [
+        "sketh"
+      ]
+    }
+  },
+  {
+    "key": "theatrical",
+    "vaeltharyn": "Sketh, en hael!",
+    "francais_controle": "Grand ciel !",
+    "english_checked": "Good heavens!",
+    "force": 1,
+    "note_fr": "Proposition théâtrale; ne devient pas un archaïsme vaeltharyn attesté",
+    "note_en": "Theatrical proposal, not an attested Vaeltharyn archaism.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      227,
+      228,
+      230,
+      231,
+      232,
+      233,
+      239,
+      258,
+      676,
+      680,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      709,
+      373
+    ],
+    "expression_id": "EX-0ca6639e7809",
+    "lexique_ids": [
+      "VX-62ee27b1c1ae19f3",
+      "VX-09a44a6587293095",
+      "VX-16f30db5bccd2a15"
+    ],
+    "analyses_lexicales": {
+      "sketh": [
+        "sketh"
+      ],
+      "en": [
+        "en"
+      ],
+      "hael": [
+        "hael"
+      ]
+    }
+  },
+  {
+    "key": "god_expletive",
+    "vaeltharyn": "Lemkun, vrask!",
+    "francais_controle": "Dieu, putain !",
+    "english_checked": "God, damn it!",
+    "force": 4,
+    "note_fr": "Invocation expressive; aucun tabou autochtone inventé",
+    "note_en": "Expressive invocation, no invented native religious taboo.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      675,
+      221,
+      222,
+      223,
+      224,
+      229,
+      670,
+      671,
+      672,
+      673,
+      674,
+      677,
+      679
+    ],
+    "expression_id": "EX-b4ae89ed6785",
+    "lexique_ids": [
+      "VX-955b700f20cad9c4",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "lemkun": [
+        "lemkun"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "by_god",
+    "vaeltharyn": "Lemkun!",
+    "francais_controle": "Par Dieu !",
+    "english_checked": "By God!",
+    "force": 2,
+    "note_fr": "Invocation libre proposée; pas traduction syntaxique de « par » instrumental",
+    "note_en": "Proposed free invocation, not an instrumental translation of by.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      222,
+      673,
+      674,
+      234,
+      235,
+      236,
+      237
+    ],
+    "expression_id": "EX-c5daedb37799",
+    "lexique_ids": [
+      "VX-955b700f20cad9c4"
+    ],
+    "analyses_lexicales": {
+      "lemkun": [
+        "lemkun"
+      ]
+    }
+  },
+  {
+    "key": "devil_expletive",
+    "vaeltharyn": "Dyfel!",
+    "francais_controle": "Diable !",
+    "english_checked": "What the devil!",
+    "force": 2,
+    "note_fr": "Nom employé en exclamation",
+    "note_en": "Noun used as exclamation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      241,
+      242
+    ],
+    "expression_id": "EX-ab432c918135",
+    "lexique_ids": [
+      "VX-7e78b50bd77b2f42"
+    ],
+    "analyses_lexicales": {
+      "dyfel": [
+        "dyfel"
+      ]
+    }
+  },
+  {
+    "key": "curses",
+    "vaeltharyn": "Saelnyr!",
+    "francais_controle": "Malédiction !",
+    "english_checked": "Curses!",
+    "force": 2,
+    "note_fr": "Nom de malédiction fictive du lexique, pas mal réel revendiqué",
+    "note_en": "Existing fictional-curse noun, not a claim of real harm.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      244,
+      245
+    ],
+    "expression_id": "EX-6193fc3d2d61",
+    "lexique_ids": [
+      "VX-f4c819dff23a02e8"
+    ],
+    "analyses_lexicales": {
+      "saelnyr": [
+        "saelnyr"
+      ]
+    }
+  },
+  {
+    "key": "surprise",
+    "vaeltharyn": "Sketh, se vele thaevl ma?",
+    "francais_controle": "Ce n'est pas vrai ?!",
+    "english_checked": "Is that really true?!",
+    "force": 1,
+    "note_fr": "Question de surprise, pas demande de silence",
+    "note_en": "Surprise question, not a command to be quiet.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      705,
+      698,
+      254,
+      256,
+      661,
+      662,
+      696,
+      710
+    ],
+    "expression_id": "EX-e1bee9ad8b6c",
+    "lexique_ids": [
+      "VX-62ee27b1c1ae19f3",
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-bcf230c798ee014f",
+      "VX-2ad661cd1c5dc8d5"
+    ],
+    "analyses_lexicales": {
+      "sketh": [
+        "sketh"
+      ],
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "thaevl": [
+        "thaevl"
+      ],
+      "ma": [
+        "ma"
+      ]
+    }
+  },
+  {
+    "key": "strong_surprise",
+    "vaeltharyn": "Vrask, se vele thaevl ma?",
+    "francais_controle": "Putain, c'est vrai ?!",
+    "english_checked": "Holy shit, is that true?!",
+    "force": 4,
+    "note_fr": "Surprise; la polarité interrogative est explicite",
+    "note_en": "Surprise with explicit interrogative polarity.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      659,
+      255,
+      660
+    ],
+    "expression_id": "EX-299ee563b259",
+    "lexique_ids": [
+      "VX-bcc0895b083109ae",
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-bcf230c798ee014f",
+      "VX-2ad661cd1c5dc8d5"
+    ],
+    "analyses_lexicales": {
+      "vrask": [
+        "vrask"
+      ],
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "thaevl": [
+        "thaevl"
+      ],
+      "ma": [
+        "ma"
+      ]
+    }
+  },
+  {
+    "key": "what",
+    "vaeltharyn": "Ven, vrask?!",
+    "francais_controle": "Quoi, putain ?!",
+    "english_checked": "What the fuck?!",
+    "force": 4,
+    "note_fr": "Fragment interrogatif; pas une scène sexuelle",
+    "note_en": "Interrogative fragment, not a sexual scene.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      242,
+      656,
+      657,
+      683
+    ],
+    "expression_id": "EX-e65909b18508",
+    "lexique_ids": [
+      "VX-b2ffb83bda966668",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ven": [
+        "ven"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "hell_no",
+    "vaeltharyn": "Vrask, nau!",
+    "francais_controle": "Putain, non !",
+    "english_checked": "Hell no!",
+    "force": 4,
+    "note_fr": "Refus renforcé",
+    "note_en": "Intensified refusal.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      685
+    ],
+    "expression_id": "EX-7dfae6d75fde",
+    "lexique_ids": [
+      "VX-bcc0895b083109ae",
+      "VX-46254e7c33a49da7"
+    ],
+    "analyses_lexicales": {
+      "vrask": [
+        "vrask"
+      ],
+      "nau": [
+        "nau"
+      ]
+    }
+  },
+  {
+    "key": "hell_yes",
+    "vaeltharyn": "Vrask, ei!",
+    "francais_controle": "Putain, oui !",
+    "english_checked": "Hell yeah!",
+    "force": 4,
+    "note_fr": "Accord enthousiaste",
+    "note_en": "Enthusiastic agreement.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      686,
+      687
+    ],
+    "expression_id": "EX-8a549adc20e9",
+    "lexique_ids": [
+      "VX-bcc0895b083109ae",
+      "VX-128df8a977996e50"
+    ],
+    "analyses_lexicales": {
+      "vrask": [
+        "vrask"
+      ],
+      "ei": [
+        "ei"
+      ]
+    }
+  },
+  {
+    "key": "dismiss_mild",
+    "vaeltharyn": "Naethala!",
+    "francais_controle": "Dégage !",
+    "english_checked": "Get lost!",
+    "force": 2,
+    "note_fr": "Renvoi, pas obligation d'un itinéraire concret",
+    "note_en": "Dismissal, not a literal itinerary.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      271,
+      272,
+      289,
+      290,
+      291,
+      292,
+      728,
+      729,
+      730,
+      731
+    ],
+    "expression_id": "EX-50dea903c623",
+    "lexique_ids": [
+      "VX-4a1132ca17fcb0d1"
+    ],
+    "analyses_lexicales": {
+      "naethala": [
+        "naethalar"
+      ]
+    }
+  },
+  {
+    "key": "dismiss_strong",
+    "vaeltharyn": "Naethala, vrask!",
+    "francais_controle": "Va te faire foutre !",
+    "english_checked": "Fuck off!",
+    "force": 4,
+    "note_fr": "Équivalence pragmatique; ne reproduit pas sexe, famille ou origine",
+    "note_en": "Pragmatic equivalent; sex, family and origin are not reproduced.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      271,
+      272,
+      289,
+      290,
+      291,
+      292,
+      728,
+      729,
+      731,
+      243,
+      267,
+      268,
+      269,
+      270,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      293,
+      295,
+      715,
+      716,
+      717,
+      718,
+      719,
+      720,
+      721,
+      722,
+      723,
+      727,
+      732,
+      733
+    ],
+    "expression_id": "EX-65b223ab09bd",
+    "lexique_ids": [
+      "VX-4a1132ca17fcb0d1",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "naethala": [
+        "naethalar"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "dismiss_plural",
+    "vaeltharyn": "Tin naethalai, vrask!",
+    "francais_controle": "Allez vous faire foutre !",
+    "english_checked": "Fuck off, all of you!",
+    "force": 4,
+    "note_fr": "Impératif pluriel; pas un singulier de politesse non défini",
+    "note_en": "Plural imperative, not an undefined polite singular.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      277
+    ],
+    "expression_id": "EX-c1c0e62f4969",
+    "lexique_ids": [
+      "VX-dc18dcc158603012",
+      "VX-4a1132ca17fcb0d1",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "tin": [
+        "tin"
+      ],
+      "naethalai": [
+        "naethalar"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "shut_mild",
+    "vaeltharyn": "Nu lyra!",
+    "francais_controle": "Tais-toi !",
+    "english_checked": "Shut up!",
+    "force": 2,
+    "note_fr": "Négation de l'impératif parler",
+    "note_en": "Negated imperative of speak.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      281,
+      283,
+      284,
+      285,
+      286,
+      738,
+      740,
+      743
+    ],
+    "expression_id": "EX-accf503cde14",
+    "lexique_ids": [
+      "VX-1688280177898e60",
+      "VX-60319c0ac2e00ea8"
+    ],
+    "analyses_lexicales": {
+      "nu": [
+        "nu"
+      ],
+      "lyra": [
+        "lyrar"
+      ]
+    }
+  },
+  {
+    "key": "shut_strong",
+    "vaeltharyn": "Nu lyra, vrask!",
+    "francais_controle": "Ferme ta gueule !",
+    "english_checked": "Shut the fuck up!",
+    "force": 4,
+    "note_fr": "Renforcement vulgaire, pas vérité anatomique",
+    "note_en": "Vulgar strengthening, not an anatomical statement.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      281,
+      282,
+      288,
+      739
+    ],
+    "expression_id": "EX-5b0791c2faa9",
+    "lexique_ids": [
+      "VX-1688280177898e60",
+      "VX-60319c0ac2e00ea8",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "nu": [
+        "nu"
+      ],
+      "lyra": [
+        "lyrar"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "mouth_shut",
+    "vaeltharyn": "Kaerala vaem si-en!",
+    "francais_controle": "Ferme ton clapet !",
+    "english_checked": "Shut your trap!",
+    "force": 3,
+    "note_fr": "Bouche réflexive du destinataire",
+    "note_en": "Addressee's own mouth.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      740,
+      287,
+      741,
+      742
+    ],
+    "expression_id": "EX-8ab2aa73cf9d",
+    "lexique_ids": [
+      "VX-6d232e81619d43a9",
+      "VX-dc58c0665709932e",
+      "VX-0696128c46d959e3"
+    ],
+    "analyses_lexicales": {
+      "kaerala": [
+        "kaeralar"
+      ],
+      "vaem": [
+        "vaem"
+      ],
+      "si-en": [
+        "si"
+      ]
+    }
+  },
+  {
+    "key": "leave_alone",
+    "vaeltharyn": "Laera mi e saerunath!",
+    "francais_controle": "Fous-moi la paix !",
+    "english_checked": "Leave me the hell alone!",
+    "force": 3,
+    "note_fr": "Domaine figuré de la paix au locatif",
+    "note_en": "Figurative domain of peace in the locative.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      296,
+      297,
+      736,
+      737
+    ],
+    "expression_id": "EX-4316e106a06a",
+    "lexique_ids": [
+      "VX-83bcb7307be40e3d",
+      "VX-25978870e122d09c",
+      "VX-c45bcb1e995f4e0e",
+      "VX-23b3797e41069d3a"
+    ],
+    "analyses_lexicales": {
+      "laera": [
+        "laerar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "e": [
+        "e"
+      ],
+      "saerunath": [
+        "saerun"
+      ]
+    }
+  },
+  {
+    "key": "leave_alone_strong",
+    "vaeltharyn": "Laera mi e saerunath, vrask!",
+    "francais_controle": "Fous-moi la paix, putain !",
+    "english_checked": "Leave me the fuck alone!",
+    "force": 4,
+    "note_fr": "Renforcement explicite; distinct du degré plus faible antérieur",
+    "note_en": "Explicit strengthening, distinct from the earlier milder degree.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      736,
+      294,
+      734
+    ],
+    "expression_id": "EX-9019940a5040",
+    "lexique_ids": [
+      "VX-83bcb7307be40e3d",
+      "VX-25978870e122d09c",
+      "VX-c45bcb1e995f4e0e",
+      "VX-23b3797e41069d3a",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "laera": [
+        "laerar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "e": [
+        "e"
+      ],
+      "saerunath": [
+        "saerun"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "back_off",
+    "vaeltharyn": "Nu kaena mi, vrask!",
+    "francais_controle": "Ne me touche pas, putain !",
+    "english_checked": "Back off, don't touch me!",
+    "force": 4,
+    "note_fr": "Limite physique, pas ordre de reculer d'une distance donnée",
+    "note_en": "Physical boundary, not a measured backward step.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      735
+    ],
+    "expression_id": "EX-3c43310eec37",
+    "lexique_ids": [
+      "VX-1688280177898e60",
+      "VX-788b6ab2b1996095",
+      "VX-25978870e122d09c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "nu": [
+        "nu"
+      ],
+      "kaena": [
+        "kaenar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "stop_nuisance",
+    "vaeltharyn": "Nu horsahima mi!",
+    "francais_controle": "Arrête de me faire chier !",
+    "english_checked": "Stop being a pain in the ass!",
+    "force": 3,
+    "note_fr": "Importune, sans scatologie littérale",
+    "note_en": "Bothering, no literal defecation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      299,
+      300,
+      301,
+      748
+    ],
+    "expression_id": "EX-27e6e39563b3",
+    "lexique_ids": [
+      "VX-1688280177898e60",
+      "VX-bdcae2ef9be6491f",
+      "VX-25978870e122d09c"
+    ],
+    "analyses_lexicales": {
+      "nu": [
+        "nu"
+      ],
+      "horsahima": [
+        "horsahimar"
+      ],
+      "mi": [
+        "mi"
+      ]
+    }
+  },
+  {
+    "key": "annoyed",
+    "vaeltharyn": "Ti horsahimes mi, vrask!",
+    "francais_controle": "Tu me fais chier !",
+    "english_checked": "You're pissing me off!",
+    "force": 4,
+    "note_fr": "Irritation causée par l'autre",
+    "note_en": "Irritation caused by the other person.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      302,
+      303,
+      800,
+      803
+    ],
+    "expression_id": "EX-3c5453fc879a",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-bdcae2ef9be6491f",
+      "VX-25978870e122d09c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "horsahimes": [
+        "horsahimar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "annoyed_thing",
+    "vaeltharyn": "Se horsahime mi, vrask!",
+    "francais_controle": "Ça me fait chier !",
+    "english_checked": "This pisses me off!",
+    "force": 4,
+    "note_fr": "Objet non personnel conservé",
+    "note_en": "Non-personal subject retained.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      260,
+      261,
+      356,
+      357,
+      358,
+      359
+    ],
+    "expression_id": "EX-2101d52bd2d7",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-bdcae2ef9be6491f",
+      "VX-25978870e122d09c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "horsahime": [
+        "horsahimar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "cut_bullshit",
+    "vaeltharyn": "Nu lyra grusk-thareli!",
+    "francais_controle": "Arrête tes conneries !",
+    "english_checked": "Cut the bullshit!",
+    "force": 3,
+    "note_fr": "Lecture de propos, pas erreur matérielle",
+    "note_en": "Speech reading, not an action mistake.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      298,
+      744,
+      745
+    ],
+    "expression_id": "EX-648dc4f93cfe",
+    "lexique_ids": [
+      "VX-1688280177898e60",
+      "VX-60319c0ac2e00ea8",
+      "VX-6e1ca81d64ca4a10"
+    ],
+    "analyses_lexicales": {
+      "nu": [
+        "nu"
+      ],
+      "lyra": [
+        "lyrar"
+      ],
+      "grusk-thareli": [
+        "grusk-tharel"
+      ]
+    }
+  },
+  {
+    "key": "stop_behaviour",
+    "vaeltharyn": "Nu skarna!",
+    "francais_controle": "Arrête de faire le connard !",
+    "english_checked": "Stop being an asshole!",
+    "force": 3,
+    "note_fr": "Conduite, non identité permanente",
+    "note_en": "Behaviour, not a permanent identity.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      747
+    ],
+    "expression_id": "EX-ecd3f10bebb8",
+    "lexique_ids": [
+      "VX-1688280177898e60",
+      "VX-8986f6880509a476"
+    ],
+    "analyses_lexicales": {
+      "nu": [
+        "nu"
+      ],
+      "skarna": [
+        "skarnar"
+      ]
+    }
+  },
+  {
+    "key": "mock_question",
+    "vaeltharyn": "Ti thenthoses mi ma, vrask?",
+    "francais_controle": "Tu te fous de ma gueule ?",
+    "english_checked": "Are you fucking kidding me?",
+    "force": 4,
+    "note_fr": "Verbe transitif explicitement créé pour conserver la cible",
+    "note_en": "Explicit transitive verb preserves the target.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      309,
+      752,
+      753,
+      808,
+      320
+    ],
+    "expression_id": "EX-a81118cc6779",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-7639c72e87540506",
+      "VX-25978870e122d09c",
+      "VX-2ad661cd1c5dc8d5",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "thenthoses": [
+        "thenthosar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "ma": [
+        "ma"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "take_for_fool",
+    "vaeltharyn": "Ti hapeves dhe mi velem kofav ma, vrask?",
+    "francais_controle": "Tu me prends pour un con ?",
+    "english_checked": "Do you think I'm a fucking idiot?",
+    "force": 4,
+    "note_fr": "Complétive complète avec première personne",
+    "note_en": "Full complement clause with first-person agreement.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      310
+    ],
+    "expression_id": "EX-f662ac23476a",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-17c74b95700bf320",
+      "VX-86c842c003306cb4",
+      "VX-25978870e122d09c",
+      "VX-4f1945024c195cca",
+      "VX-3ba80e1f148fe368",
+      "VX-2ad661cd1c5dc8d5",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "hapeves": [
+        "hapevar"
+      ],
+      "dhe": [
+        "dhe"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "velem": [
+        "velar"
+      ],
+      "kofav": [
+        "kofav"
+      ],
+      "ma": [
+        "ma"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "who_are_you",
+    "vaeltharyn": "Ti loebemes dhe ti veles var, vrask?",
+    "francais_controle": "Tu te prends pour qui, putain ?",
+    "english_checked": "Who the fuck do you think you are?",
+    "force": 4,
+    "note_fr": "Interrogatif porte sur l'identité prétendue",
+    "note_en": "Question concerns the claimed identity.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      751
+    ],
+    "expression_id": "EX-1c53055984d9",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-0a34333d54a29256",
+      "VX-86c842c003306cb4",
+      "VX-4f1945024c195cca",
+      "VX-ed81c4f01ca4d654",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "loebemes": [
+        "loebemar"
+      ],
+      "dhe": [
+        "dhe"
+      ],
+      "veles": [
+        "velar"
+      ],
+      "var": [
+        "var"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "your_problem",
+    "vaeltharyn": "Ven vele en kaer ti-en, vrask?",
+    "francais_controle": "C'est quoi ton secret, putain ?",
+    "english_checked": "What's your secret, fuck?!",
+    "force": 4,
+    "note_fr": "NE PAS utiliser pour « problème »; entrée conservée comme contrôle de faux ami",
+    "note_en": "Do not use for problem; retained as a false-friend control.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-3e48d37e4047",
+    "lexique_ids": [
+      "VX-b2ffb83bda966668",
+      "VX-4f1945024c195cca",
+      "VX-09a44a6587293095",
+      "VX-4c58fc68f9a86019",
+      "VX-7a64ccb191170281",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ven": [
+        "ven"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "en": [
+        "en"
+      ],
+      "kaer": [
+        "kaer"
+      ],
+      "ti-en": [
+        "ti"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "bullshit",
+    "vaeltharyn": "Grusk-thareli!",
+    "francais_controle": "Des conneries !",
+    "english_checked": "Bullshit!",
+    "force": 3,
+    "note_fr": "Propos rejetés, pas toute erreur",
+    "note_en": "Rejected talk, not every mistake.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      306,
+      308,
+      316,
+      325,
+      326,
+      760,
+      761,
+      762,
+      763,
+      767,
+      768
+    ],
+    "expression_id": "EX-fe45306c279e",
+    "lexique_ids": [
+      "VX-6e1ca81d64ca4a10"
+    ],
+    "analyses_lexicales": {
+      "grusk-thareli": [
+        "grusk-tharel"
+      ]
+    }
+  },
+  {
+    "key": "mistake",
+    "vaeltharyn": "Gydim basoel!",
+    "francais_controle": "Une erreur stupide !",
+    "english_checked": "A stupid mistake!",
+    "force": 2,
+    "note_fr": "Ratage ponctuel, distinct de propos mensongers",
+    "note_en": "A failed action, distinct from lying talk.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      315,
+      786
+    ],
+    "expression_id": "EX-a7a17ef3fb47",
+    "lexique_ids": [
+      "VX-283c677a6fd97e6a",
+      "VX-f479a7fdbe15a2cd"
+    ],
+    "analyses_lexicales": {
+      "gydim": [
+        "gydim"
+      ],
+      "basoel": [
+        "basoel"
+      ]
+    }
+  },
+  {
+    "key": "mean_stunt",
+    "vaeltharyn": "Therval skentav!",
+    "francais_controle": "Une saloperie de manœuvre !",
+    "english_checked": "A nasty stunt!",
+    "force": 3,
+    "note_fr": "Travail/action moralement déloyale en contexte",
+    "note_en": "Morally disloyal action in context.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      317,
+      318,
+      319
+    ],
+    "expression_id": "EX-f03f25ccedb3",
+    "lexique_ids": [
+      "VX-08840e7ac5c71bb1",
+      "VX-0a278a730b322866"
+    ],
+    "analyses_lexicales": {
+      "therval": [
+        "therval"
+      ],
+      "skentav": [
+        "skentav"
+      ]
+    }
+  },
+  {
+    "key": "bad_quality",
+    "vaeltharyn": "Se vele ulmaeriv, vrask!",
+    "francais_controle": "C'est vraiment de la merde !",
+    "english_checked": "It's fucking awful!",
+    "force": 4,
+    "note_fr": "Mauvaise qualité, pas nécessairement tromperie",
+    "note_en": "Bad quality, not necessarily deception.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      261,
+      322,
+      323,
+      324,
+      778,
+      779
+    ],
+    "expression_id": "EX-55e49d3bedeb",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-9dc399e2e32664b2",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "ulmaeriv": [
+        "ulmaeriv"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "bogus",
+    "vaeltharyn": "Se vele ulthaevl.",
+    "francais_controle": "C'est faux.",
+    "english_checked": "It's bogus.",
+    "force": 2,
+    "note_fr": "Fausseté, pas mauvais goût",
+    "note_en": "Falsity, not bad taste.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      325
+    ],
+    "expression_id": "EX-c2ab6ab1e27b",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-3ef529fbb9f6171c"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "ulthaevl": [
+        "ulthaevl"
+      ]
+    }
+  },
+  {
+    "key": "mess",
+    "vaeltharyn": "Se vele dhidhys vrask.",
+    "francais_controle": "C'est un putain de bordel.",
+    "english_checked": "It's a fucking mess.",
+    "force": 4,
+    "note_fr": "Désordre, pas établissement",
+    "note_en": "Disorder, not an establishment.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      327,
+      328,
+      329,
+      788
+    ],
+    "expression_id": "EX-b8ee94d38875",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-17a0c454540a2b46",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "dhidhys": [
+        "dhidhys"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "huge_mess",
+    "vaeltharyn": "Se vele dhidhysaun vrask.",
+    "francais_controle": "C'est un bordel monstre.",
+    "english_checked": "It's a complete fucking mess.",
+    "force": 4,
+    "note_fr": "Augmentatif nominal régulier, non conjugaison",
+    "note_en": "Regular nominal augmentative, not conjugation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      328,
+      329,
+      788,
+      330,
+      787,
+      789
+    ],
+    "expression_id": "EX-ffe6e12f1e73",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-17a0c454540a2b46",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "dhidhysaun": [
+        "dhidhys"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "failure",
+    "vaeltharyn": "Taempaer vrask!",
+    "francais_controle": "Un putain de fiasco !",
+    "english_checked": "A fucking fiasco!",
+    "force": 4,
+    "note_fr": "Échec complet; dumpster fire ne contient ici aucun conteneur en feu",
+    "note_en": "Complete failure; no burning dumpster is asserted.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      329,
+      788,
+      330,
+      787,
+      789
+    ],
+    "expression_id": "EX-013fb36d4b07",
+    "lexique_ids": [
+      "VX-b829d966398e1c20",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "taempaer": [
+        "taempaer"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "crap_job",
+    "vaeltharyn": "Therval grusken!",
+    "francais_controle": "Un boulot de merde !",
+    "english_checked": "A shitty job!",
+    "force": 3,
+    "note_fr": "Génitif métaphorique, pas travail sur une matière fécale",
+    "note_en": "Metaphorical genitive, not work on faecal material.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      332
+    ],
+    "expression_id": "EX-c5d963e367e7",
+    "lexique_ids": [
+      "VX-08840e7ac5c71bb1",
+      "VX-6b1d3a5384bc50ec",
+      "VX-3a6e4d7c6b1b782e"
+    ],
+    "analyses_lexicales": {
+      "therval": [
+        "therval"
+      ],
+      "grusken": [
+        "grusk",
+        "gruskar"
+      ]
+    }
+  },
+  {
+    "key": "crap_weather",
+    "vaeltharyn": "Saunrael grusken!",
+    "francais_controle": "Un temps de merde !",
+    "english_checked": "Shitty weather!",
+    "force": 3,
+    "note_fr": "Météo, pas durée",
+    "note_en": "Weather, not time duration.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      333
+    ],
+    "expression_id": "EX-2587b80677d6",
+    "lexique_ids": [
+      "VX-bf097930326cb48b",
+      "VX-6b1d3a5384bc50ec",
+      "VX-3a6e4d7c6b1b782e"
+    ],
+    "analyses_lexicales": {
+      "saunrael": [
+        "saunrael"
+      ],
+      "grusken": [
+        "grusk",
+        "gruskar"
+      ]
+    }
+  },
+  {
+    "key": "crap_day",
+    "vaeltharyn": "Saun grusken!",
+    "francais_controle": "Une journée de merde !",
+    "english_checked": "A shitty day!",
+    "force": 3,
+    "note_fr": "Qualité négative métaphorique, pas intensif neutre",
+    "note_en": "Metaphorical poor quality, not neutral intensity.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      334
+    ],
+    "expression_id": "EX-a299ff06bc32",
+    "lexique_ids": [
+      "VX-d0878fe2096e88ca",
+      "VX-6b1d3a5384bc50ec",
+      "VX-3a6e4d7c6b1b782e"
+    ],
+    "analyses_lexicales": {
+      "saun": [
+        "saun"
+      ],
+      "grusken": [
+        "grusk",
+        "gruskar"
+      ]
+    }
+  },
+  {
+    "key": "crap_life",
+    "vaeltharyn": "Thaleth grusken!",
+    "francais_controle": "Vie de merde !",
+    "english_checked": "Fuck my life!",
+    "force": 3,
+    "note_fr": "Qualité de vie jugée mauvaise; pas souhait de mort",
+    "note_en": "Life judged poor in quality, not a death wish.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      335,
+      773
+    ],
+    "expression_id": "EX-11c0d3110951",
+    "lexique_ids": [
+      "VX-59b902d32e6a75b7",
+      "VX-f7f1a8d8a1fc5f99",
+      "VX-6b1d3a5384bc50ec",
+      "VX-3a6e4d7c6b1b782e"
+    ],
+    "analyses_lexicales": {
+      "thaleth": [
+        "thalar",
+        "thaleth"
+      ],
+      "grusken": [
+        "grusk",
+        "gruskar"
+      ]
+    }
+  },
+  {
+    "key": "intensifier_strong",
+    "vaeltharyn": "Ith skoendhoem vrask!",
+    "francais_controle": "Ce putain de truc !",
+    "english_checked": "This fucking thing!",
+    "force": 4,
+    "note_fr": "Gabarit nominal, remplacer le nom en conservant l'ordre",
+    "note_en": "Nominal pattern, replace the noun while retaining word order.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      336,
+      337,
+      338,
+      344,
+      345
+    ],
+    "expression_id": "EX-4c212d100c8b",
+    "lexique_ids": [
+      "VX-7cd139595525a36e",
+      "VX-92b07dfa45f39050",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ith": [
+        "ith"
+      ],
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "intensifier_mild",
+    "vaeltharyn": "Ith skoendhoem garuniv!",
+    "francais_controle": "Ce fichu truc !",
+    "english_checked": "This damn thing!",
+    "force": 2,
+    "note_fr": "Intensité, pas qualité négative automatique",
+    "note_en": "Intensity, not automatic poor quality.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      701,
+      338,
+      339,
+      340
+    ],
+    "expression_id": "EX-836473b70ce5",
+    "lexique_ids": [
+      "VX-7cd139595525a36e",
+      "VX-92b07dfa45f39050",
+      "VX-ed691156e48fb76d"
+    ],
+    "analyses_lexicales": {
+      "ith": [
+        "ith"
+      ],
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "garuniv": [
+        "garuniv"
+      ]
+    }
+  },
+  {
+    "key": "half_assed",
+    "vaeltharyn": "Therval hudhuthun ulmaeriv!",
+    "francais_controle": "Travail mal fait et négligé !",
+    "english_checked": "Shoddy, half-assed work!",
+    "force": 2,
+    "note_fr": "Participe passif de négliger, pas raccourci illégal du verbe",
+    "note_en": "Passive participle of neglect, not an illegal shortened verb.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      343,
+      347,
+      815
+    ],
+    "expression_id": "EX-8a0adf64ea00",
+    "lexique_ids": [
+      "VX-08840e7ac5c71bb1",
+      "VX-e7c12ef216e9dbd8",
+      "VX-9dc399e2e32664b2"
+    ],
+    "analyses_lexicales": {
+      "therval": [
+        "therval"
+      ],
+      "hudhuthun": [
+        "hudhuthar"
+      ],
+      "ulmaeriv": [
+        "ulmaeriv"
+      ]
+    }
+  },
+  {
+    "key": "cheap",
+    "vaeltharyn": "Skoendhoem ulmaeriv garuniv!",
+    "francais_controle": "Un fichu truc de piètre qualité !",
+    "english_checked": "A damn lousy thing!",
+    "force": 2,
+    "note_fr": "Qualité médiocre; bas prix non garanti",
+    "note_en": "Poor quality; low price is not guaranteed.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      342,
+      346
+    ],
+    "expression_id": "EX-9f09c6afa019",
+    "lexique_ids": [
+      "VX-92b07dfa45f39050",
+      "VX-9dc399e2e32664b2",
+      "VX-ed691156e48fb76d"
+    ],
+    "analyses_lexicales": {
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "ulmaeriv": [
+        "ulmaeriv"
+      ],
+      "garuniv": [
+        "garuniv"
+      ]
+    }
+  },
+  {
+    "key": "dont_care",
+    "vaeltharyn": "Mi nu slusoemem se.",
+    "francais_controle": "Je m'en fiche.",
+    "english_checked": "I don't care about it.",
+    "force": 1,
+    "note_fr": "Verbe nouveau de préoccupation, pas « ne pas savoir »",
+    "note_en": "New concern verb, not lack of knowledge.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      348,
+      349
+    ],
+    "expression_id": "EX-5da695dea109",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-1688280177898e60",
+      "VX-97008f247782429b",
+      "VX-2b58a597fbd7e273"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "slusoemem": [
+        "slusoemar"
+      ],
+      "se": [
+        "se"
+      ]
+    }
+  },
+  {
+    "key": "dont_care_strong",
+    "vaeltharyn": "Mi nu slusoemem se, vrask.",
+    "francais_controle": "J'en ai rien à foutre.",
+    "english_checked": "I don't give a fuck.",
+    "force": 4,
+    "note_fr": "Même contenu, degré explicite plus fort",
+    "note_en": "Same content with explicitly stronger force.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      350,
+      351,
+      352,
+      795,
+      796,
+      797
+    ],
+    "expression_id": "EX-5cba1e153b67",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-1688280177898e60",
+      "VX-97008f247782429b",
+      "VX-2b58a597fbd7e273",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "slusoemem": [
+        "slusoemar"
+      ],
+      "se": [
+        "se"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "fed_up",
+    "vaeltharyn": "Mi dhavem foegaek, vrask.",
+    "francais_controle": "J'en ai marre, putain.",
+    "english_checked": "I'm fucking fed up.",
+    "force": 4,
+    "note_fr": "Exaspération, pas simple fatigue physique",
+    "note_en": "Exasperation, not mere physical tiredness.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      353,
+      354,
+      355,
+      799
+    ],
+    "expression_id": "EX-f83900d7f5db",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-d48b8d90647cbc79",
+      "VX-5601b145fb6b925e",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "dhavem": [
+        "dhavar"
+      ],
+      "foegaek": [
+        "foegaek"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "fed_up_this",
+    "vaeltharyn": "Mi dhavem foegaek fra se-ath, vrask.",
+    "francais_controle": "J'en ai marre de ça, putain.",
+    "english_checked": "I'm fucking sick of this.",
+    "force": 4,
+    "note_fr": "Origine figurée au locatif, pas maladie",
+    "note_en": "Figurative origin in the locative, not illness.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      354,
+      770,
+      801
+    ],
+    "expression_id": "EX-ab5079959902",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-d48b8d90647cbc79",
+      "VX-5601b145fb6b925e",
+      "VX-6b9983a13496f9ff",
+      "VX-2b58a597fbd7e273",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "dhavem": [
+        "dhavar"
+      ],
+      "foegaek": [
+        "foegaek"
+      ],
+      "fra": [
+        "fra"
+      ],
+      "se-ath": [
+        "se"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "angry",
+    "vaeltharyn": "Mi velem vyrv.",
+    "francais_controle": "Je suis en rogne.",
+    "english_checked": "I'm pissed off.",
+    "force": 2,
+    "note_fr": "Colère, distinct de l'ivresse",
+    "note_en": "Anger, distinct from intoxication.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-PISSED"
+    ],
+    "lignes_source": [
+      799,
+      798
+    ],
+    "expression_id": "EX-a04ab4e0411d",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-4f1945024c195cca",
+      "VX-295feb2fcbd1dad6"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "velem": [
+        "velar"
+      ],
+      "vyrv": [
+        "vyrv"
+      ]
+    }
+  },
+  {
+    "key": "drunk",
+    "vaeltharyn": "Mi velem brehum.",
+    "francais_controle": "Je suis ivre.",
+    "english_checked": "I'm drunk.",
+    "force": 1,
+    "note_fr": "Pissed britannique possible, pas pissed américain colérique",
+    "note_en": "Can match British pissed, not the American angry sense.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-d8bf828bd843",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-4f1945024c195cca",
+      "VX-e36a603ca95ae153"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "velem": [
+        "velar"
+      ],
+      "brehum": [
+        "brehum"
+      ]
+    }
+  },
+  {
+    "key": "bored",
+    "vaeltharyn": "Mi dhavem nyrmael, vrask.",
+    "francais_controle": "Je me fais chier.",
+    "english_checked": "I'm bored shitless.",
+    "force": 4,
+    "note_fr": "Ennui, pas action de déféquer",
+    "note_en": "Boredom, not defecation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      363
+    ],
+    "expression_id": "EX-c8baf96c2df6",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-d48b8d90647cbc79",
+      "VX-4b74053b7720c80e",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "dhavem": [
+        "dhavar"
+      ],
+      "nyrmael": [
+        "nyrmael"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "hassled",
+    "vaeltharyn": "Mi velem brytoekun.",
+    "francais_controle": "Je me fais harceler.",
+    "english_checked": "I'm getting hassled.",
+    "force": 2,
+    "note_fr": "Passif d'un verbe transitif, pas participe employé comme verbe personnel",
+    "note_en": "Passive of a transitive verb, not a bare participle used as a finite verb.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      364
+    ],
+    "expression_id": "EX-e270e54c5b37",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-4f1945024c195cca",
+      "VX-6e309ce7495ddec4"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "velem": [
+        "velar"
+      ],
+      "brytoekun": [
+        "brytoekar"
+      ]
+    }
+  },
+  {
+    "key": "manage",
+    "vaeltharyn": "Mi kelem thaelar se.",
+    "francais_controle": "Je peux y arriver.",
+    "english_checked": "I can manage it.",
+    "force": 1,
+    "note_fr": "Périphrase d'accomplissement; autonomie complète non garantie",
+    "note_en": "Achievement paraphrase, not guaranteed self-sufficiency.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      365
+    ],
+    "expression_id": "EX-5326943c060e",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-289e700caa013f1f",
+      "VX-4bf3cc5028dfc8f9",
+      "VX-2b58a597fbd7e273"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "kelem": [
+        "kelar"
+      ],
+      "thaelar": [
+        "thaelar"
+      ],
+      "se": [
+        "se"
+      ]
+    }
+  },
+  {
+    "key": "fuck_up",
+    "vaeltharyn": "Mi ragydimem, vrask.",
+    "francais_controle": "J'ai merdé.",
+    "english_checked": "I fucked up.",
+    "force": 4,
+    "note_fr": "Échec d'action, pas rapport sexuel",
+    "note_en": "Failed action, not sex.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      366,
+      783
+    ],
+    "expression_id": "EX-bdc89cdbde3c",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-f2322cff4e11153c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "ragydimem": [
+        "gydimar"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "you_fuck_up",
+    "vaeltharyn": "Ti ragydimes, vrask.",
+    "francais_controle": "T'as merdé.",
+    "english_checked": "You fucked up.",
+    "force": 4,
+    "note_fr": "Accord deuxième personne",
+    "note_en": "Second-person agreement.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      784
+    ],
+    "expression_id": "EX-6ee07e518bd2",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-f2322cff4e11153c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "ragydimes": [
+        "gydimar"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "stir_discord",
+    "vaeltharyn": "Ti thaeles nathem, vrask.",
+    "francais_controle": "Tu fous la merde.",
+    "english_checked": "You're stirring shit up.",
+    "force": 4,
+    "note_fr": "Créer une querelle; pas toute erreur accidentelle",
+    "note_en": "Creating conflict, not every accidental mistake.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      367
+    ],
+    "expression_id": "EX-d7f7e2f5a80b",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-4bf3cc5028dfc8f9",
+      "VX-4fc925a463ca509e",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "thaeles": [
+        "thaelar"
+      ],
+      "nathem": [
+        "nathem"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "hard_work",
+    "vaeltharyn": "Mi thaelem velu tidom, vrask.",
+    "francais_controle": "Je me casse le cul.",
+    "english_checked": "I'm busting my ass.",
+    "force": 4,
+    "note_fr": "Effort explicite, aucune blessure anatomique",
+    "note_en": "Explicit effort, no anatomical injury.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      802
+    ],
+    "expression_id": "EX-d99283bfb928",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-4bf3cc5028dfc8f9",
+      "VX-1bf2a2194e0526e4",
+      "VX-14be4e5ea08c0164",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "thaelem": [
+        "thaelar"
+      ],
+      "velu": [
+        "velu"
+      ],
+      "tidom": [
+        "tidom"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "know_nothing",
+    "vaeltharyn": "Ti sendes nul skoendhoem, vrask.",
+    "francais_controle": "Tu n'y connais que dalle.",
+    "english_checked": "You don't know shit.",
+    "force": 4,
+    "note_fr": "Quantificateur nominal nul, pas double négation improvisée",
+    "note_en": "Nominal nul quantifier, no invented double negative.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      794
+    ],
+    "expression_id": "EX-7d50fec06a15",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-749a3cc4cc14eba2",
+      "VX-dbed84e5e97a601b",
+      "VX-92b07dfa45f39050",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "sendes": [
+        "sendar"
+      ],
+      "nul": [
+        "nul"
+      ],
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "no_value",
+    "vaeltharyn": "Se pykikove nul vaermar.",
+    "francais_controle": "Ça ne vaut pas un sou.",
+    "english_checked": "It's not worth a penny.",
+    "force": 2,
+    "note_fr": "Valeur monétaire; autre valeur à contextualiser",
+    "note_en": "Monetary value; other kinds need context.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-cdf4a160403d",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-37fc0a64f806c741",
+      "VX-dbed84e5e97a601b",
+      "VX-21bae60d66e46af9"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "pykikove": [
+        "pykikovar"
+      ],
+      "nul": [
+        "nul"
+      ],
+      "vaermar": [
+        "vaermar"
+      ]
+    }
+  },
+  {
+    "key": "huge_amount",
+    "vaeltharyn": "Setoesaun vrask!",
+    "francais_controle": "Une putain de quantité !",
+    "english_checked": "A fuckton!",
+    "force": 4,
+    "note_fr": "Augmentatif nominal, pas une unité de mesure",
+    "note_en": "Nominal augmentative, not a measurement unit.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      791,
+      792
+    ],
+    "expression_id": "EX-fa3f6c152c2d",
+    "lexique_ids": [
+      "VX-dd33834cca110b8d",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "setoesaun": [
+        "setoes"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "nothing",
+    "vaeltharyn": "Nul skoendhoem, vrask.",
+    "francais_controle": "Rien, putain.",
+    "english_checked": "Jack shit.",
+    "force": 4,
+    "note_fr": "Aucune chose avec juron explicite",
+    "note_en": "Nothing with an explicit expletive.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      817,
+      818
+    ],
+    "expression_id": "EX-b6d5c1b98736",
+    "lexique_ids": [
+      "VX-dbed84e5e97a601b",
+      "VX-92b07dfa45f39050",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "nul": [
+        "nul"
+      ],
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "same_crap",
+    "vaeltharyn": "Grusk grygel; saun maenusoek.",
+    "francais_controle": "Même merde, autre jour.",
+    "english_checked": "Same shit, different day.",
+    "force": 3,
+    "note_fr": "Accord invariable des adjectifs",
+    "note_en": "Adjectives remain invariable.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      774
+    ],
+    "expression_id": "EX-0d6a42c7b52a",
+    "lexique_ids": [
+      "VX-6b1d3a5384bc50ec",
+      "VX-92f5de2ab503be2b",
+      "VX-d0878fe2096e88ca",
+      "VX-e0fd490c22fdcf6d"
+    ],
+    "analyses_lexicales": {
+      "grusk": [
+        "grusk"
+      ],
+      "grygel": [
+        "grygel"
+      ],
+      "saun": [
+        "saun"
+      ],
+      "maenusoek": [
+        "maenusoek"
+      ]
+    }
+  },
+  {
+    "key": "shit_happens",
+    "vaeltharyn": "Gydimi vynen.",
+    "francais_controle": "Les ratages arrivent.",
+    "english_checked": "Shit happens.",
+    "force": 2,
+    "note_fr": "Arrivée figurée d'événements",
+    "note_en": "Figurative arrival of events.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      775
+    ],
+    "expression_id": "EX-0ce8f5985a10",
+    "lexique_ids": [
+      "VX-283c677a6fd97e6a",
+      "VX-9cbe971dbec162af"
+    ],
+    "analyses_lexicales": {
+      "gydimi": [
+        "gydim"
+      ],
+      "vynen": [
+        "vynar"
+      ]
+    }
+  },
+  {
+    "key": "tough_luck",
+    "vaeltharyn": "Slaefiv ti-en.",
+    "francais_controle": "Pas de bol pour toi.",
+    "english_checked": "Tough luck.",
+    "force": 1,
+    "note_fr": "Constate la malchance; sarcasme dépend du ton",
+    "note_en": "Notes bad luck; sarcasm depends on delivery.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      777
+    ],
+    "expression_id": "EX-1fbb1b5a83f4",
+    "lexique_ids": [
+      "VX-005d2cf5c80bccf5",
+      "VX-7a64ccb191170281"
+    ],
+    "analyses_lexicales": {
+      "slaefiv": [
+        "slaefiv"
+      ],
+      "ti-en": [
+        "ti"
+      ]
+    }
+  },
+  {
+    "key": "not_my_problem",
+    "vaeltharyn": "Se vele skoendhoem ti-en; mi nu slusoemem se.",
+    "francais_controle": "C'est ton affaire; je m'en fiche.",
+    "english_checked": "That's your business; I don't care.",
+    "force": 2,
+    "note_fr": "Deux propositions complètes, nuance moins empathique explicite",
+    "note_en": "Two full clauses, explicitly dismissive.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      776
+    ],
+    "expression_id": "EX-562b150a5a58",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-92b07dfa45f39050",
+      "VX-7a64ccb191170281",
+      "VX-25978870e122d09c",
+      "VX-1688280177898e60",
+      "VX-97008f247782429b"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "ti-en": [
+        "ti"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "slusoemem": [
+        "slusoemar"
+      ]
+    }
+  },
+  {
+    "key": "fuck_it",
+    "vaeltharyn": "Mi laerem se, vrask.",
+    "francais_controle": "Et puis merde, je laisse tomber.",
+    "english_checked": "Fuck it, I'm dropping it.",
+    "force": 4,
+    "note_fr": "Abandon de la chose, pas renvoi d'une personne",
+    "note_en": "Dropping a matter, not dismissing a person.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      771,
+      772
+    ],
+    "expression_id": "EX-ca3f75be3163",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-83bcb7307be40e3d",
+      "VX-2b58a597fbd7e273",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "laerem": [
+        "laerar"
+      ],
+      "se": [
+        "se"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "reject_this",
+    "vaeltharyn": "Mi nu vaelem se, vrask.",
+    "francais_controle": "Ah non, j'en veux pas, putain.",
+    "english_checked": "Fuck that.",
+    "force": 4,
+    "note_fr": "Refus, pas indifférence automatique",
+    "note_en": "Rejection, not automatically indifference.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      769
+    ],
+    "expression_id": "EX-b6def82a081f",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-1688280177898e60",
+      "VX-79ff35992b15b3b7",
+      "VX-2b58a597fbd7e273",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "vaelem": [
+        "vaelar"
+      ],
+      "se": [
+        "se"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "sarcastic_truth",
+    "vaeltharyn": "Se vele thaevl, vrask!",
+    "francais_controle": "Sans déconner !",
+    "english_checked": "No shit!",
+    "force": 3,
+    "note_fr": "Affirmation sarcastique ou surprise: le ton doit trancher",
+    "note_en": "Sarcastic or surprised statement; delivery disambiguates.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      764
+    ],
+    "expression_id": "EX-16d651bc0177",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-bcf230c798ee014f",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "thaevl": [
+        "thaevl"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "swear_true",
+    "vaeltharyn": "Mi graethem dhe se vele thaevl.",
+    "francais_controle": "Je te jure que c'est vrai.",
+    "english_checked": "I swear it's true.",
+    "force": 2,
+    "note_fr": "Serment affirmatif, non sarcasme",
+    "note_en": "Affirmative oath, not sarcasm.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      809
+    ],
+    "expression_id": "EX-d114d077faa6",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-b08af8e5a05184eb",
+      "VX-86c842c003306cb4",
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-bcf230c798ee014f"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "graethem": [
+        "graethar"
+      ],
+      "dhe": [
+        "dhe"
+      ],
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "thaevl": [
+        "thaevl"
+      ]
+    }
+  },
+  {
+    "key": "scared",
+    "vaeltharyn": "Se radityle mi, vrask.",
+    "francais_controle": "Ça m'a foutu une de ces trouilles.",
+    "english_checked": "That scared the shit out of me.",
+    "force": 4,
+    "note_fr": "Verbe causal de peur, pas perte corporelle",
+    "note_en": "Causative fear verb, no bodily event.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      810
+    ],
+    "expression_id": "EX-e034cb893df2",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-c9dc12c3d0dcf453",
+      "VX-25978870e122d09c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "radityle": [
+        "ditylar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "mind_blown",
+    "vaeltharyn": "Se vele vrelloen, vrask!",
+    "francais_controle": "Ça me stupéfie, putain !",
+    "english_checked": "That blows my fucking mind!",
+    "force": 4,
+    "note_fr": "Littéralement c'est merveilleux; lecture admirative seulement",
+    "note_en": "Literally wonderful; admiring reading only.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-c0511576fe34",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-f8377fdbc3737b3c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "vrelloen": [
+        "vrelloen"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "excellent",
+    "vaeltharyn": "Se vele mynoes, vrask!",
+    "francais_controle": "Ça déchire, putain !",
+    "english_checked": "It's fucking excellent!",
+    "force": 4,
+    "note_fr": "Qualité positive; pas être sexuellement dépravé",
+    "note_en": "Positive quality, not sexual depravity.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      814
+    ],
+    "expression_id": "EX-58101da6714c",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-5941ac568fe605ba",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "mynoes": [
+        "mynoes"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "badass",
+    "vaeltharyn": "Thalen vaethv an vyral!",
+    "francais_controle": "Personne courageuse et puissante !",
+    "english_checked": "A brave, formidable person!",
+    "force": 2,
+    "note_fr": "Lecture admirative; le sens menaçant reste distinct",
+    "note_en": "Admiring reading; threatening reading remains separate.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-BADASS"
+    ],
+    "lignes_source": [
+      812
+    ],
+    "expression_id": "EX-9d2c7c20660c",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-ea9b43e2e9e6c9e9",
+      "VX-a3636f1e1378f661",
+      "VX-09948843f9043f69"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "vaethv": [
+        "vaethv"
+      ],
+      "an": [
+        "an"
+      ],
+      "vyral": [
+        "vyral"
+      ]
+    }
+  },
+  {
+    "key": "threatening",
+    "vaeltharyn": "Thalen slibelaev!",
+    "francais_controle": "Personne redoutable !",
+    "english_checked": "An intimidating person!",
+    "force": 2,
+    "note_fr": "Crainte inspirée, pas admiration obligatoire",
+    "note_en": "Inspires fear, not necessarily admiration.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-9596d289d44a",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-000f372b76d1ad17"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "slibelaev": [
+        "slibelaev"
+      ]
+    }
+  },
+  {
+    "key": "smartass",
+    "vaeltharyn": "Kraeboer bremvyv!",
+    "francais_controle": "Insolent pédant !",
+    "english_checked": "Pedantic wiseass!",
+    "force": 2,
+    "note_fr": "Habileté réelle non garantie",
+    "note_en": "Does not guarantee actual cleverness.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      560,
+      561,
+      813
+    ],
+    "expression_id": "EX-5440ef90938c",
+    "lexique_ids": [
+      "VX-d734d44f91151b8e",
+      "VX-6276c79977e19e69"
+    ],
+    "analyses_lexicales": {
+      "kraeboer": [
+        "kraeboer"
+      ],
+      "bremvyv": [
+        "bremvyv"
+      ]
+    }
+  },
+  {
+    "key": "foul_mouthed",
+    "vaeltharyn": "Thalen ya ara lyre grusk-thareli!",
+    "francais_controle": "Personne qui débite des conneries !",
+    "english_checked": "Someone who habitually talks bullshit!",
+    "force": 3,
+    "note_fr": "Pas forcément toute personne qui jure",
+    "note_en": "Not everyone who swears.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-ed2ad414decc",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-c57fd5c34e6c4aca",
+      "VX-60319c0ac2e00ea8",
+      "VX-6e1ca81d64ca4a10"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "ara": [
+        "ara"
+      ],
+      "lyre": [
+        "lyrar"
+      ],
+      "grusk-thareli": [
+        "grusk-tharel"
+      ]
+    }
+  },
+  {
+    "key": "wrong_way",
+    "vaeltharyn": "Se vele ulthaeviv, vrask.",
+    "francais_controle": "C'est fait de travers, putain.",
+    "english_checked": "It's fucking wrong.",
+    "force": 4,
+    "note_fr": "Non-conformité, pas orientation spatiale précise",
+    "note_en": "Incorrectness, not a precise spatial orientation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      816
+    ],
+    "expression_id": "EX-3774ace17f3b",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-091a6c80abd10f28",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "ulthaeviv": [
+        "ulthaeviv"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "fake",
+    "vaeltharyn": "Thalen noekath!",
+    "francais_controle": "Imposteur !",
+    "english_checked": "Phony!",
+    "force": 2,
+    "note_fr": "Adjectif d'imposture, pas doctrine religieuse déduite",
+    "note_en": "Imposture adjective, not inferred religious doctrine.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      121,
+      536
+    ],
+    "expression_id": "EX-eb94fb1e1dd0",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-c17b625c8898a5d6"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "noekath": [
+        "noekath"
+      ]
+    }
+  },
+  {
+    "key": "imitator",
+    "vaeltharyn": "Thalen nygaek an slyllum!",
+    "francais_controle": "Poseur qui n'y arrive pas !",
+    "english_checked": "Inept poser!",
+    "force": 2,
+    "note_fr": "Ne couvre pas tout désir d'apprendre",
+    "note_en": "Does not cover every aspiration to learn.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      565,
+      566
+    ],
+    "expression_id": "EX-7d8992fe1c02",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-ad1576266ebf5385",
+      "VX-a3636f1e1378f661",
+      "VX-8bdb386bfafeeb56"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "nygaek": [
+        "nygaek"
+      ],
+      "an": [
+        "an"
+      ],
+      "slyllum": [
+        "slyllum"
+      ]
+    }
+  },
+  {
+    "key": "conformist_woman",
+    "vaeltharyn": "Sorkev noefor!",
+    "francais_controle": "Femme jugée conformiste !",
+    "english_checked": "Woman called conformist!",
+    "force": 2,
+    "note_fr": "Stéréotype basic bitch seulement partiellement transposé",
+    "note_en": "Basic-bitch stereotype only partially transferred.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      620
+    ],
+    "expression_id": "EX-3a88201a22ec",
+    "lexique_ids": [
+      "VX-6d60e091d1e2bf72",
+      "VX-6c717f5a2f4400cd"
+    ],
+    "analyses_lexicales": {
+      "sorkev": [
+        "sorkev"
+      ],
+      "noefor": [
+        "noefor"
+      ]
+    }
+  },
+  {
+    "key": "empowered_woman",
+    "vaeltharyn": "Sorkev raev an garim!",
+    "francais_controle": "Femme libre et autonome !",
+    "english_checked": "A free, self-directed woman!",
+    "force": 1,
+    "note_fr": "Lecture valorisante de bad bitch, sans insulte native",
+    "note_en": "Positive bad-bitch reading, without an inherent native insult.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      621
+    ],
+    "expression_id": "EX-c774fb64582f",
+    "lexique_ids": [
+      "VX-6d60e091d1e2bf72",
+      "VX-dc51b43e4f0a9ac0",
+      "VX-a3636f1e1378f661",
+      "VX-fdaf6e770e2a0dca"
+    ],
+    "analyses_lexicales": {
+      "sorkev": [
+        "sorkev"
+      ],
+      "raev": [
+        "raev"
+      ],
+      "an": [
+        "an"
+      ],
+      "garim": [
+        "garim"
+      ]
+    }
+  },
+  {
+    "key": "leader_woman",
+    "vaeltharyn": "Sorkev ya dhave hynloel!",
+    "francais_controle": "Femme qui a du pouvoir !",
+    "english_checked": "A woman with power!",
+    "force": 1,
+    "note_fr": "Lecture valorisante de boss bitch; pas domination abusive déduite",
+    "note_en": "Positive boss-bitch reading; not inferred abuse.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      622
+    ],
+    "expression_id": "EX-caf9f798f748",
+    "lexique_ids": [
+      "VX-6d60e091d1e2bf72",
+      "VX-2a54a14fa66ea2bc",
+      "VX-d48b8d90647cbc79",
+      "VX-68e20a323ee4b51a"
+    ],
+    "analyses_lexicales": {
+      "sorkev": [
+        "sorkev"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "dhave": [
+        "dhavar"
+      ],
+      "hynloel": [
+        "hynloel"
+      ]
+    }
+  },
+  {
+    "key": "attention_seeker",
+    "vaeltharyn": "Thalen ya vaele haelthim!",
+    "francais_controle": "Personne qui recherche l'attention !",
+    "english_checked": "Attention-seeker!",
+    "force": 2,
+    "note_fr": "Aucune prostitution ni genre déduit",
+    "note_en": "No inferred sex work or gender.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      554
+    ],
+    "expression_id": "EX-40ab2092f784",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-79ff35992b15b3b7",
+      "VX-409117196e0d716a"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "vaele": [
+        "vaelar"
+      ],
+      "haelthim": [
+        "haelthim"
+      ]
+    }
+  },
+  {
+    "key": "dramatic",
+    "vaeltharyn": "Thalen ya thaele lapael!",
+    "francais_controle": "Personne qui en fait des tonnes !",
+    "english_checked": "Someone who exaggerates everything!",
+    "force": 2,
+    "note_fr": "Exagération, pas genre théâtral ni genre féminin",
+    "note_en": "Exaggeration, not theatre or female gender.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      553
+    ],
+    "expression_id": "EX-167bd29ea1b0",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-4bf3cc5028dfc8f9",
+      "VX-1f14f8393720ab72"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "thaele": [
+        "thaelar"
+      ],
+      "lapael": [
+        "lapael"
+      ]
+    }
+  },
+  {
+    "key": "entitled",
+    "vaeltharyn": "Maelin ya vaele sava skoendhoemi!",
+    "francais_controle": "Gosse qui veut tout !",
+    "english_checked": "A brat who wants everything!",
+    "force": 2,
+    "note_fr": "Lecture d'exigence; le sentiment de droit est une approximation",
+    "note_en": "Demanding reading; entitlement is approximate.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      568
+    ],
+    "expression_id": "EX-0b15a730443a",
+    "lexique_ids": [
+      "VX-28614708c0a8ad09",
+      "VX-62502967bdaab232",
+      "VX-2a54a14fa66ea2bc",
+      "VX-79ff35992b15b3b7",
+      "VX-68116d83315dbb5e",
+      "VX-92b07dfa45f39050"
+    ],
+    "analyses_lexicales": {
+      "maelin": [
+        "maelar",
+        "maelin"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "vaele": [
+        "vaelar"
+      ],
+      "sava": [
+        "sava"
+      ],
+      "skoendhoemi": [
+        "skoendhoem"
+      ]
+    }
+  },
+  {
+    "key": "bossy_complainer",
+    "vaeltharyn": "Thalen dhimor an doedas!",
+    "francais_controle": "Personne arrogante et râleuse !",
+    "english_checked": "An arrogant complainer!",
+    "force": 2,
+    "note_fr": "Karen descriptif seulement; nom propre et stéréotype non lexicalisés",
+    "note_en": "Descriptive Karen reading only; name and stereotype not lexicalised.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      569
+    ],
+    "expression_id": "EX-fb3f2d3c058a",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-e404bb49843743a3",
+      "VX-a3636f1e1378f661",
+      "VX-3e0c35696d8454f2"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "dhimor": [
+        "dhimor"
+      ],
+      "an": [
+        "an"
+      ],
+      "doedas": [
+        "doedas"
+      ]
+    }
+  },
+  {
+    "key": "lazy_parent",
+    "vaeltharyn": "Thalir ya hudhuthe maelin si-en!",
+    "francais_controle": "Parent qui néglige son enfant !",
+    "english_checked": "A parent who neglects their child!",
+    "force": 2,
+    "note_fr": "Le parent masculin peut être précisé par darun; responsabilité financière à contextualiser",
+    "note_en": "Can specify darun for father; financial responsibility needs context.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      587
+    ],
+    "expression_id": "EX-3183075ac202",
+    "lexique_ids": [
+      "VX-98879975ac7175a6",
+      "VX-2a54a14fa66ea2bc",
+      "VX-e7c12ef216e9dbd8",
+      "VX-28614708c0a8ad09",
+      "VX-62502967bdaab232",
+      "VX-0696128c46d959e3"
+    ],
+    "analyses_lexicales": {
+      "thalir": [
+        "thalir"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "hudhuthe": [
+        "hudhuthar"
+      ],
+      "maelin": [
+        "maelar",
+        "maelin"
+      ],
+      "si-en": [
+        "si"
+      ]
+    }
+  },
+  {
+    "key": "submissive",
+    "vaeltharyn": "Thalen nypuhyl!",
+    "francais_controle": "Personne qui se laisse diriger !",
+    "english_checked": "An easily led person!",
+    "force": 1,
+    "note_fr": "Docilité, pas stupidité ni identité sexuelle",
+    "note_en": "Docility, not stupidity or sexual identity.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      607,
+      608,
+      610,
+      609
+    ],
+    "expression_id": "EX-55c1fa28ec1f",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-dd811726370a4fa5"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "nypuhyl": [
+        "nypuhyl"
+      ]
+    }
+  },
+  {
+    "key": "sycophant_coward",
+    "vaeltharyn": "Toenvapam sen vaethun!",
+    "francais_controle": "Lèche-bottes sans courage !",
+    "english_checked": "A cowardly bootlicker!",
+    "force": 2,
+    "note_fr": "Deux reproches, pas un trait racial",
+    "note_en": "Two criticisms, no racial trait.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      611
+    ],
+    "expression_id": "EX-d5094614e075",
+    "lexique_ids": [
+      "VX-1cf38a8385343b62",
+      "VX-79bc02a65619cc16",
+      "VX-26709216851e5061",
+      "VX-4b727e78d07f9ae8"
+    ],
+    "analyses_lexicales": {
+      "toenvapam": [
+        "toenvapam"
+      ],
+      "sen": [
+        "sen"
+      ],
+      "vaethun": [
+        "vaethar",
+        "vaethun"
+      ]
+    }
+  },
+  {
+    "key": "childish_man",
+    "vaeltharyn": "Bidim basoel!",
+    "francais_controle": "Homme jugé sot !",
+    "english_checked": "Man called foolish!",
+    "force": 2,
+    "note_fr": "Approximation pour immaturité; ne prétend pas encoder l'âge mental",
+    "note_en": "Approximation for immaturity; no claim about mental age.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      641
+    ],
+    "expression_id": "EX-6bc76e16f3fd",
+    "lexique_ids": [
+      "VX-88a65816af200094",
+      "VX-f479a7fdbe15a2cd"
+    ],
+    "analyses_lexicales": {
+      "bidim": [
+        "bidim"
+      ],
+      "basoel": [
+        "basoel"
+      ]
+    }
+  },
+  {
+    "key": "attracted_to_money",
+    "vaeltharyn": "Thalen ya vaele vaermar e lyrenath!",
+    "francais_controle": "Personne qui recherche l'argent dans une relation !",
+    "english_checked": "Person seeking money in a relationship!",
+    "force": 2,
+    "note_fr": "Gold digger contextuel; pas toute dépendance financière",
+    "note_en": "Contextual gold-digger reading, not every financial dependency.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      631
+    ],
+    "expression_id": "EX-b898bfe4e4ac",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-79ff35992b15b3b7",
+      "VX-21bae60d66e46af9",
+      "VX-c45bcb1e995f4e0e",
+      "VX-bb1cfe6ed6553c21"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "vaele": [
+        "vaelar"
+      ],
+      "vaermar": [
+        "vaermar"
+      ],
+      "e": [
+        "e"
+      ],
+      "lyrenath": [
+        "lyren"
+      ]
+    }
+  },
+  {
+    "key": "sexual_harasser",
+    "vaeltharyn": "Thalen ya thaele brytoeketh braeltyner!",
+    "francais_controle": "Personne qui commet du harcèlement sexuel !",
+    "english_checked": "A person engaging in sexual harassment!",
+    "force": 3,
+    "note_fr": "Conduite spécifique; non synonyme de toute lubricité",
+    "note_en": "Specific behaviour, not all lewdness.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      521
+    ],
+    "expression_id": "EX-275d8c9fc0d3",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-4bf3cc5028dfc8f9",
+      "VX-6e309ce7495ddec4",
+      "VX-423044498460e1bf"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "thaele": [
+        "thaelar"
+      ],
+      "brytoeketh": [
+        "brytoekar"
+      ],
+      "braeltyner": [
+        "braeltyner"
+      ]
+    }
+  },
+  {
+    "key": "involuntary_celibate",
+    "vaeltharyn": "Thalen sen maelnayrun!",
+    "francais_controle": "Personne sans partenaire !",
+    "english_checked": "Person without a partner!",
+    "force": 0,
+    "note_fr": "Lecture partielle: involontaire et idéologie incel non déduites",
+    "note_en": "Partial: involuntariness and incel ideology are not inferred.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      647
+    ],
+    "expression_id": "EX-2bf9663f1e8c",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-79bc02a65619cc16",
+      "VX-31555f0c18596d15",
+      "VX-241947bfb80c109f"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "sen": [
+        "sen"
+      ],
+      "maelnayrun": [
+        "maelnayrar",
+        "maelnayrun"
+      ]
+    }
+  },
+  {
+    "key": "spiteful_misogynist",
+    "vaeltharyn": "Thalen ya ulmaerune sorkevi!",
+    "francais_controle": "Personne qui méprise les femmes !",
+    "english_checked": "Someone who despises women!",
+    "force": 3,
+    "note_fr": "Lecture injurieuse contextuelle d'incel; pas tous les célibataires",
+    "note_en": "Contextual insulting incel reading, not every single person.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      647
+    ],
+    "expression_id": "EX-2a74a9e5e1ff",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-c4c3e564724cceaf",
+      "VX-6d60e091d1e2bf72"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "ulmaerune": [
+        "ulmaerunar"
+      ],
+      "sorkevi": [
+        "sorkev"
+      ]
+    }
+  },
+  {
+    "key": "idiot_mildintense",
+    "vaeltharyn": "Kofav garuniv!",
+    "francais_controle": "Fichu imbécile !",
+    "english_checked": "Bloody idiot!",
+    "force": 2,
+    "note_fr": "Renforcement modéré, pas force de fucking idiot",
+    "note_en": "Moderate strengthening, not the force of fucking idiot.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      25
+    ],
+    "expression_id": "EX-76df9b0bb6f8",
+    "lexique_ids": [
+      "VX-3ba80e1f148fe368",
+      "VX-ed691156e48fb76d"
+    ],
+    "analyses_lexicales": {
+      "kofav": [
+        "kofav"
+      ],
+      "garuniv": [
+        "garuniv"
+      ]
+    }
+  },
+  {
+    "key": "adj_intensifier",
+    "vaeltharyn": "Se vele sha maeriv, sketh!",
+    "francais_controle": "C'est fichtrement bon !",
+    "english_checked": "It's damn good!",
+    "force": 2,
+    "note_fr": "Sha modifie l'adjectif, pas un nom ni un verbe",
+    "note_en": "Sha modifies the adjective, not a noun or verb.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      240
+    ],
+    "expression_id": "EX-e8403ef5f6b7",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-312382e48d9b2802",
+      "VX-9936ab513e61d0be",
+      "VX-62ee27b1c1ae19f3"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "sha": [
+        "sha"
+      ],
+      "maeriv": [
+        "maeriv"
+      ],
+      "sketh": [
+        "sketh"
+      ]
+    }
+  },
+  {
+    "key": "bad_situation",
+    "vaeltharyn": "Vareth-greth grusken!",
+    "francais_controle": "Une difficulté de merde !",
+    "english_checked": "A shitty predicament!",
+    "force": 3,
+    "note_fr": "Difficulté pratique, pas exercice scientifique",
+    "note_en": "Practical difficulty, not a scientific exercise.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      331
+    ],
+    "expression_id": "EX-6722fd106297",
+    "lexique_ids": [
+      "VX-b551a8a8a6c1aff0",
+      "VX-6b1d3a5384bc50ec",
+      "VX-3a6e4d7c6b1b782e"
+    ],
+    "analyses_lexicales": {
+      "vareth-greth": [
+        "vareth-greth"
+      ],
+      "grusken": [
+        "grusk",
+        "gruskar"
+      ]
+    }
+  },
+  {
+    "key": "stupid_modifier",
+    "vaeltharyn": "Skoendhoem basoel!",
+    "francais_controle": "Un truc à la con !",
+    "english_checked": "A dumb thing!",
+    "force": 2,
+    "note_fr": "Jugement figuré, pas suffixe péjoratif universel",
+    "note_en": "Figurative judgement, not a universal pejorative suffix.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      341
+    ],
+    "expression_id": "EX-3060a40ed333",
+    "lexique_ids": [
+      "VX-92b07dfa45f39050",
+      "VX-f479a7fdbe15a2cd"
+    ],
+    "analyses_lexicales": {
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "basoel": [
+        "basoel"
+      ]
+    }
+  },
+  {
+    "key": "disgust",
+    "vaeltharyn": "Se vele dhaethoth, vrask!",
+    "francais_controle": "Ça me dégoûte, putain !",
+    "english_checked": "It's fucking disgusting!",
+    "force": 4,
+    "note_fr": "Lecture figurée; ne décrit pas nécessairement vomissement",
+    "note_en": "Figurative reading; not necessarily actual vomiting.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      360,
+      780
+    ],
+    "expression_id": "EX-90961afec75b",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-8033f898af84b936",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "dhaethoth": [
+        "dhaethoth"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "sympathy",
+    "vaeltharyn": "Mi dhavem maelnaev ti-or.",
+    "francais_controle": "J'éprouve de la compassion pour toi.",
+    "english_checked": "I feel for you.",
+    "force": 0,
+    "note_fr": "Peuchère dans sa lecture compatissante, pas une insulte",
+    "note_en": "Compassionate peuchère, not an insult.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-PEUCHERE"
+    ],
+    "lignes_source": [
+      372
+    ],
+    "expression_id": "EX-f8c8b213d8a8",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-d48b8d90647cbc79",
+      "VX-ee9e57fb067c6da4",
+      "VX-7a64ccb191170281"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "dhavem": [
+        "dhavar"
+      ],
+      "maelnaev": [
+        "maelnaev"
+      ],
+      "ti-or": [
+        "ti"
+      ]
+    }
+  },
+  {
+    "key": "unverified_regional",
+    "vaeltharyn": "",
+    "francais_controle": "Forme régionale à confirmer",
+    "english_checked": "Regional form needing confirmation",
+    "force": 0,
+    "note_fr": "Aucune forme vaeltharyn inventée sur une attestation insuffisante",
+    "note_en": "No invented Vaeltharyn equivalent from insufficient evidence.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      376,
+      377
+    ],
+    "lexique_ids": [],
+    "analyses_lexicales": {}
+  },
+  {
+    "key": "documented_social",
+    "vaeltharyn": "",
+    "francais_controle": "Injure sociale ou racialisée documentée",
+    "english_checked": "Documented class-based or racialised insult",
+    "force": 4,
+    "note_fr": "Référence source conservée; aucun groupe social vaeltharyn équivalent présumé",
+    "note_en": "Source preserved; no corresponding Vaeltharyn social group is assumed.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE",
+      "REF-TRAILER"
+    ],
+    "lignes_source": [
+      513,
+      514
+    ],
+    "lexique_ids": [],
+    "analyses_lexicales": {}
+  },
+  {
+    "key": "weird_warning",
+    "vaeltharyn": "Thalen moelom!",
+    "francais_controle": "Personne jugée extravagante !",
+    "english_checked": "Someone called eccentric!",
+    "force": 2,
+    "note_fr": "Équivalent pragmatique partiel: ne transpose pas un diagnostic ni un spectacle de foire",
+    "note_en": "Partial pragmatic equivalent: no diagnosis or sideshow is transferred.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      374,
+      524,
+      525,
+      526,
+      527
+    ],
+    "expression_id": "EX-879ad306997e",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-7c938ff840c8bfb8"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "moelom": [
+        "moelom"
+      ]
+    }
+  },
+  {
+    "key": "snob",
+    "vaeltharyn": "Keltas!",
+    "francais_controle": "Snob !",
+    "english_checked": "Snob!",
+    "force": 2,
+    "note_fr": "Prétention à la haute société dans le sens existant",
+    "note_en": "Pretence to high society in the existing sense.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      567
+    ],
+    "expression_id": "EX-428d7baefc36",
+    "lexique_ids": [
+      "VX-6ddd5b39a61ba4e0"
+    ],
+    "analyses_lexicales": {
+      "keltas": [
+        "keltas"
+      ]
+    }
+  },
+  {
+    "key": "stop_whining",
+    "vaeltharyn": "Nu gimtaela!",
+    "francais_controle": "Arrête de pleurnicher !",
+    "english_checked": "Quit whining!",
+    "force": 2,
+    "note_fr": "Impératif négatif d'un verbe intransitif",
+    "note_en": "Negative imperative of an intransitive verb.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      746
+    ],
+    "expression_id": "EX-1b727eef0fb8",
+    "lexique_ids": [
+      "VX-1688280177898e60",
+      "VX-f2f6184ce2e97b27"
+    ],
+    "analyses_lexicales": {
+      "nu": [
+        "nu"
+      ],
+      "gimtaela": [
+        "gimtaelar"
+      ]
+    }
+  },
+  {
+    "key": "dont_bullshit_me",
+    "vaeltharyn": "Nu vaera grusk-thareli mi-or!",
+    "francais_controle": "Ne me raconte pas de conneries !",
+    "english_checked": "Don't bullshit me!",
+    "force": 3,
+    "note_fr": "Donner des propos au datif destinataire",
+    "note_en": "Give utterances with dative recipient.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      749,
+      750
+    ],
+    "expression_id": "EX-cd5deae5bd08",
+    "lexique_ids": [
+      "VX-1688280177898e60",
+      "VX-30f0ac4575c1ce60",
+      "VX-6e1ca81d64ca4a10",
+      "VX-25978870e122d09c"
+    ],
+    "analyses_lexicales": {
+      "nu": [
+        "nu"
+      ],
+      "vaera": [
+        "vaerar"
+      ],
+      "grusk-thareli": [
+        "grusk-tharel"
+      ],
+      "mi-or": [
+        "mi"
+      ]
+    }
+  },
+  {
+    "key": "screwed_you",
+    "vaeltharyn": "Ti dhaves vareth-greth thar, vrask.",
+    "francais_controle": "T'es dans une grosse merde.",
+    "english_checked": "You're in deep shit.",
+    "force": 4,
+    "note_fr": "Difficulté majeure, pas rapport sexuel ni désespoir irréversible",
+    "note_en": "Major trouble, not sex or irreversible hopelessness.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      781
+    ],
+    "expression_id": "EX-2048d8b15374",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-d48b8d90647cbc79",
+      "VX-b551a8a8a6c1aff0",
+      "VX-8db079c395e6544c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "dhaves": [
+        "dhavar"
+      ],
+      "vareth-greth": [
+        "vareth-greth"
+      ],
+      "thar": [
+        "thar"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "screwed_us",
+    "vaeltharyn": "Min dhavom vareth-greth thar, vrask.",
+    "francais_controle": "On est dans une grosse merde.",
+    "english_checked": "We're in deep shit.",
+    "force": 4,
+    "note_fr": "Première personne plurielle conservée",
+    "note_en": "First-person plural retained.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      782
+    ],
+    "expression_id": "EX-ca9ee97975da",
+    "lexique_ids": [
+      "VX-c7aebc8e280bda28",
+      "VX-d48b8d90647cbc79",
+      "VX-b551a8a8a6c1aff0",
+      "VX-8db079c395e6544c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "min": [
+        "min"
+      ],
+      "dhavom": [
+        "dhavar"
+      ],
+      "vareth-greth": [
+        "vareth-greth"
+      ],
+      "thar": [
+        "thar"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "he_bullshit",
+    "vaeltharyn": "Se lyre grusk-thareli.",
+    "francais_controle": "Il raconte des conneries.",
+    "english_checked": "He's talking bullshit.",
+    "force": 3,
+    "note_fr": "Se ne fixe pas le genre; le contexte anglais fourni le fixe",
+    "note_en": "Se has no fixed gender; the supplied English context sets it.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      804
+    ],
+    "expression_id": "EX-68bb84d2a1ab",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-60319c0ac2e00ea8",
+      "VX-6e1ca81d64ca4a10"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "lyre": [
+        "lyrar"
+      ],
+      "grusk-thareli": [
+        "grusk-tharel"
+      ]
+    }
+  },
+  {
+    "key": "he_ignorant_talk",
+    "vaeltharyn": "Se lyre; se nu sende.",
+    "francais_controle": "Il parle sans savoir.",
+    "english_checked": "He's talking out of his ass.",
+    "force": 3,
+    "note_fr": "Équivalence pragmatique, aucune anatomie supposée",
+    "note_en": "Pragmatic equivalent, no anatomy asserted.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      805
+    ],
+    "expression_id": "EX-a946212f144d",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-60319c0ac2e00ea8",
+      "VX-1688280177898e60",
+      "VX-749a3cc4cc14eba2"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "lyre": [
+        "lyrar"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "sende": [
+        "sendar"
+      ]
+    }
+  },
+  {
+    "key": "he_ass",
+    "vaeltharyn": "Se vele skarn.",
+    "francais_controle": "C'est un connard.",
+    "english_checked": "He's an asshole.",
+    "force": 3,
+    "note_fr": "Sujet source préservé, pas passage à tu",
+    "note_en": "Source subject retained, not switched to you.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      806
+    ],
+    "expression_id": "EX-f3210f417ad0",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-71c873e47f68801b"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "skarn": [
+        "skarn"
+      ]
+    }
+  },
+  {
+    "key": "he_behaving",
+    "vaeltharyn": "Se skarne.",
+    "francais_controle": "Il se comporte en connard.",
+    "english_checked": "He's being an asshole.",
+    "force": 3,
+    "note_fr": "Comportement plutôt qu'identité",
+    "note_en": "Behaviour rather than identity.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      807
+    ],
+    "expression_id": "EX-0f809282710e",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-8986f6880509a476"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "skarne": [
+        "skarnar"
+      ]
+    }
+  },
+  {
+    "key": "windbag",
+    "vaeltharyn": "Hifun bremvyv!",
+    "francais_controle": "Bavard pédant !",
+    "english_checked": "Pompous windbag!",
+    "force": 2,
+    "note_fr": "Bavardage et pédanterie, pas seulement volume sonore",
+    "note_en": "Talkativeness and pedantry, not just loudness.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      557,
+      558
+    ],
+    "expression_id": "EX-4885210a4d5c",
+    "lexique_ids": [
+      "VX-4744703e700cc25b",
+      "VX-6276c79977e19e69"
+    ],
+    "analyses_lexicales": {
+      "hifun": [
+        "hifun"
+      ],
+      "bremvyv": [
+        "bremvyv"
+      ]
+    }
+  },
+  {
+    "key": "bigmouth_secret",
+    "vaeltharyn": "Thalen ya nu kaere kaer!",
+    "francais_controle": "Personne incapable de garder un secret !",
+    "english_checked": "Someone who cannot keep a secret!",
+    "force": 2,
+    "note_fr": "Lecture particulière de bigmouth",
+    "note_en": "Specific bigmouth reading.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      556
+    ],
+    "expression_id": "EX-d875f8b740ff",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-1688280177898e60",
+      "VX-d55e1ce15d39738c",
+      "VX-4c58fc68f9a86019"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "kaere": [
+        "kaerar"
+      ],
+      "kaer": [
+        "kaer"
+      ]
+    }
+  },
+  {
+    "key": "family_fragment",
+    "vaeltharyn": "Melun ti-en!",
+    "francais_controle": "Ta mère !",
+    "english_checked": "Your mother!",
+    "force": 3,
+    "note_fr": "Fragment familial; intention injurieuse dépend du contexte, aucun fait affirmé",
+    "note_en": "Family fragment; insulting intent is contextual, no fact is asserted.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      104
+    ],
+    "expression_id": "EX-a71ce9f41052",
+    "lexique_ids": [
+      "VX-50281655d1b34e47",
+      "VX-7a64ccb191170281"
+    ],
+    "analyses_lexicales": {
+      "melun": [
+        "melun"
+      ],
+      "ti-en": [
+        "ti"
+      ]
+    }
+  },
+  {
+    "key": "literal_shit_on",
+    "vaeltharyn": "Mi gruskem nar ti-ath.",
+    "francais_controle": "Je te chie dessus.",
+    "english_checked": "I shit on you.",
+    "force": 4,
+    "note_fr": "Lecture littérale disponible; en situation le renvoi pragmatique reste distinct",
+    "note_en": "Literal reading available; pragmatic dismissal remains separate.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      278
+    ],
+    "expression_id": "EX-565eb44428b7",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-3a6e4d7c6b1b782e",
+      "VX-5fa9f11ab3cbc232",
+      "VX-7a64ccb191170281"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "gruskem": [
+        "gruskar"
+      ],
+      "nar": [
+        "nar"
+      ],
+      "ti-ath": [
+        "ti"
+      ]
+    }
+  },
+  {
+    "key": "eat_shit_die",
+    "vaeltharyn": "Maelvela grusk an nytha!",
+    "francais_controle": "Mange de la merde et crève !",
+    "english_checked": "Eat shit and die!",
+    "force": 4,
+    "note_fr": "Formule hostile citée lexicalement, pas une consigne au lecteur",
+    "note_en": "Hostile formula documented lexically, not an instruction to the reader.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      724
+    ],
+    "expression_id": "EX-ab163cc7bd30",
+    "lexique_ids": [
+      "VX-a220a42399eff611",
+      "VX-6b1d3a5384bc50ec",
+      "VX-a3636f1e1378f661",
+      "VX-4b64f36f3d3a5a74"
+    ],
+    "analyses_lexicales": {
+      "maelvela": [
+        "maelvelar"
+      ],
+      "grusk": [
+        "grusk"
+      ],
+      "an": [
+        "an"
+      ],
+      "nytha": [
+        "nythar"
+      ]
+    }
+  },
+  {
+    "key": "suck_dick",
+    "vaeltharyn": "Sloelika fonul mi-en!",
+    "francais_controle": "Suce mon pénis !",
+    "english_checked": "Suck my dick!",
+    "force": 4,
+    "note_fr": "Formulation anatomique littérale; provocation et acte réel ne sont pas confondus",
+    "note_en": "Literal anatomical wording; provocation is not confused with a real act.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      725
+    ],
+    "expression_id": "EX-9c145cbbe6c0",
+    "lexique_ids": [
+      "VX-eceb31735cde7b90",
+      "VX-a50b4a596c3812b7",
+      "VX-25978870e122d09c"
+    ],
+    "analyses_lexicales": {
+      "sloelika": [
+        "sloelikar"
+      ],
+      "fonul": [
+        "fonul"
+      ],
+      "mi-en": [
+        "mi"
+      ]
+    }
+  },
+  {
+    "key": "suck_balls",
+    "vaeltharyn": "Sloelika daeboroeki mi-en!",
+    "francais_controle": "Suce mes testicules !",
+    "english_checked": "Suck my balls!",
+    "force": 4,
+    "note_fr": "Pluriel explicite, lecture littérale",
+    "note_en": "Explicit plural, literal reading.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      726
+    ],
+    "expression_id": "EX-38aab6230964",
+    "lexique_ids": [
+      "VX-eceb31735cde7b90",
+      "VX-bc5fbb51ed65d490",
+      "VX-25978870e122d09c"
+    ],
+    "analyses_lexicales": {
+      "sloelika": [
+        "sloelikar"
+      ],
+      "daeboroeki": [
+        "daeboroek"
+      ],
+      "mi-en": [
+        "mi"
+      ]
+    }
+  },
+  {
+    "key": "shove_ass",
+    "vaeltharyn": "Ti keles mesithar se e foenroeminath si-en!",
+    "francais_controle": "Tu peux te le mettre dans l'anus !",
+    "english_checked": "You can shove it up your ass!",
+    "force": 4,
+    "note_fr": "Orifice anatomique, pas simple fesse; usage injurieux contextuel",
+    "note_en": "Anatomical opening, not merely a buttock; contextual invective.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      304
+    ],
+    "expression_id": "EX-82f1fe8d8e9c",
+    "lexique_ids": [
+      "VX-7a64ccb191170281",
+      "VX-289e700caa013f1f",
+      "VX-c4a550b7d92d233b",
+      "VX-2b58a597fbd7e273",
+      "VX-c45bcb1e995f4e0e",
+      "VX-a23d14faa8fa5049",
+      "VX-0696128c46d959e3"
+    ],
+    "analyses_lexicales": {
+      "ti": [
+        "ti"
+      ],
+      "keles": [
+        "kelar"
+      ],
+      "mesithar": [
+        "mesithar"
+      ],
+      "se": [
+        "se"
+      ],
+      "e": [
+        "e"
+      ],
+      "foenroeminath": [
+        "foenroemin"
+      ],
+      "si-en": [
+        "si"
+      ]
+    }
+  },
+  {
+    "key": "up_yours",
+    "vaeltharyn": "E foenroeminath ti-en!",
+    "francais_controle": "Dans ton cul !",
+    "english_checked": "Up your ass!",
+    "force": 4,
+    "note_fr": "Fragment locatif injurieux, pas une phrase verbale ni une suggestion pratique",
+    "note_en": "Insulting locative fragment, not a finite clause or practical suggestion.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      720,
+      305,
+      307
+    ],
+    "expression_id": "EX-43d12425794a",
+    "lexique_ids": [
+      "VX-c45bcb1e995f4e0e",
+      "VX-a23d14faa8fa5049",
+      "VX-7a64ccb191170281"
+    ],
+    "analyses_lexicales": {
+      "e": [
+        "e"
+      ],
+      "foenroeminath": [
+        "foenroemin"
+      ],
+      "ti-en": [
+        "ti"
+      ]
+    }
+  },
+  {
+    "key": "sarcastic_known",
+    "vaeltharyn": "Mi sendem se, Sherlock.",
+    "francais_controle": "Je le sais, Sherlock.",
+    "english_checked": "No shit, Sherlock.",
+    "force": 3,
+    "note_fr": "Sherlock reste un nom propre reconnaissable, sarcasme dépend du ton",
+    "note_en": "Sherlock remains a recognisable proper name; sarcasm depends on delivery.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      765
+    ],
+    "expression_id": "EX-05d374e03795",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-749a3cc4cc14eba2",
+      "VX-2b58a597fbd7e273"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "sendem": [
+        "sendar"
+      ],
+      "se": [
+        "se"
+      ]
+    }
+  },
+  {
+    "key": "your_issue",
+    "vaeltharyn": "Ven vele vareth-greth ti-en, vrask?",
+    "francais_controle": "C'est quoi ton putain de problème ?",
+    "english_checked": "What's your fucking problem?",
+    "force": 4,
+    "note_fr": "Difficulté pratique ou relationnelle; pas un exercice scientifique",
+    "note_en": "Practical or interpersonal issue, not a scientific exercise.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      754
+    ],
+    "expression_id": "EX-b587f183129a",
+    "lexique_ids": [
+      "VX-b2ffb83bda966668",
+      "VX-4f1945024c195cca",
+      "VX-b551a8a8a6c1aff0",
+      "VX-7a64ccb191170281",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "ven": [
+        "ven"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "vareth-greth": [
+        "vareth-greth"
+      ],
+      "ti-en": [
+        "ti"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "mess_and_find",
+    "vaeltharyn": "Ir ti horsahimes mi, ti vimires.",
+    "francais_controle": "Si tu me cherches, tu verras.",
+    "english_checked": "Mess with me and you'll find out.",
+    "force": 3,
+    "note_fr": "Menace elliptique conservée sans inventer de violence précise",
+    "note_en": "Elliptic threat retained without inventing specific violence.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      755
+    ],
+    "expression_id": "EX-e0c294263e47",
+    "lexique_ids": [
+      "VX-f5fe29138c97b25b",
+      "VX-7a64ccb191170281",
+      "VX-bdcae2ef9be6491f",
+      "VX-25978870e122d09c",
+      "VX-6d71ac1af030e23b"
+    ],
+    "analyses_lexicales": {
+      "ir": [
+        "ir"
+      ],
+      "ti": [
+        "ti"
+      ],
+      "horsahimes": [
+        "horsahimar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "vimires": [
+        "mirar"
+      ]
+    }
+  },
+  {
+    "key": "profound_surprise",
+    "vaeltharyn": "Se rathaele naivkaethaun e mi-ath, vrask!",
+    "francais_controle": "Ça m'a complètement stupéfié, putain !",
+    "english_checked": "That blew my fucking mind!",
+    "force": 4,
+    "note_fr": "Grande surprise créée en moi; valence émotionnelle non imposée",
+    "note_en": "Great surprise created in me; no imposed positive or negative valence.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      361,
+      811
+    ],
+    "expression_id": "EX-49fd43aae0a9",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4bf3cc5028dfc8f9",
+      "VX-60fdaee95e9efa43",
+      "VX-c45bcb1e995f4e0e",
+      "VX-25978870e122d09c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "rathaele": [
+        "thaelar"
+      ],
+      "naivkaethaun": [
+        "naivkaeth"
+      ],
+      "e": [
+        "e"
+      ],
+      "mi-ath": [
+        "mi"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "sexual_sucker",
+    "vaeltharyn": "Fonul-brabon!",
+    "francais_controle": "Suceur de pénis !",
+    "english_checked": "Cocksucker!",
+    "force": 4,
+    "note_fr": "Composé descriptif cité comme injure sexuelle; aucune orientation déduite",
+    "note_en": "Descriptive compound documented as sexual insult; no inferred orientation.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      637,
+      636
+    ],
+    "expression_id": "EX-f652b1302c10",
+    "lexique_ids": [
+      "VX-066c896124f55161"
+    ],
+    "analyses_lexicales": {
+      "fonul-brabon": [
+        "fonul-brabon"
+      ]
+    }
+  },
+  {
+    "key": "sexual_object",
+    "vaeltharyn": "Traemtoer-dhokun!",
+    "francais_controle": "Sac à sperme !",
+    "english_checked": "Cum dumpster!",
+    "force": 4,
+    "note_fr": "Métaphore dégradante objectivante, explicitement citée comme telle",
+    "note_en": "Explicitly documented degrading objectification metaphor.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      97,
+      638
+    ],
+    "expression_id": "EX-3229fbdddd1f",
+    "lexique_ids": [
+      "VX-904333cb297e9843"
+    ],
+    "analyses_lexicales": {
+      "traemtoer-dhokun": [
+        "traemtoer-dhokun"
+      ]
+    }
+  },
+  {
+    "key": "sex_manipulator",
+    "vaeltharyn": "Bidim ya krekoke thaleni vo vroefinar!",
+    "francais_controle": "Homme qui trompe des personnes pour coucher !",
+    "english_checked": "Man who deceives people to get sex!",
+    "force": 3,
+    "note_fr": "Manipulation sexuelle intentionnelle, pas simple désir",
+    "note_en": "Intentional sexual deception, not mere desire.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      639
+    ],
+    "expression_id": "EX-6310f422db56",
+    "lexique_ids": [
+      "VX-88a65816af200094",
+      "VX-2a54a14fa66ea2bc",
+      "VX-0e1d7e94cc0b9ca4",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-3af4d8a5489da007",
+      "VX-91c0f37d592c06e0"
+    ],
+    "analyses_lexicales": {
+      "bidim": [
+        "bidim"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "krekoke": [
+        "krekokar"
+      ],
+      "thaleni": [
+        "thalen"
+      ],
+      "vo": [
+        "vo"
+      ],
+      "vroefinar": [
+        "vroefinar"
+      ]
+    }
+  },
+  {
+    "key": "unfaithful_partner",
+    "vaeltharyn": "Thalen ya boebave maelnayrun si-en!",
+    "francais_controle": "Personne qui trahit son partenaire !",
+    "english_checked": "Person who betrays their partner!",
+    "force": 2,
+    "note_fr": "Trahison relationnelle; le nombre de partenaires ne suffit pas",
+    "note_en": "Betrayal in a relationship; partner count alone is insufficient.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-f13b93a45063",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-2a54a14fa66ea2bc",
+      "VX-ab355a18a2f9e1f8",
+      "VX-31555f0c18596d15",
+      "VX-241947bfb80c109f",
+      "VX-0696128c46d959e3"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "boebave": [
+        "boebavar"
+      ],
+      "maelnayrun": [
+        "maelnayrar",
+        "maelnayrun"
+      ],
+      "si-en": [
+        "si"
+      ]
+    }
+  },
+  {
+    "key": "old_creep",
+    "vaeltharyn": "Bidim mamysem graefyhael!",
+    "francais_controle": "Vieux homme lubrique !",
+    "english_checked": "Dirty old man!",
+    "force": 3,
+    "note_fr": "Âge et homme conservés, aucune déficience médicale déduite",
+    "note_en": "Retains age and male referent, no inferred medical condition.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      645
+    ],
+    "expression_id": "EX-15beaf66e7df",
+    "lexique_ids": [
+      "VX-88a65816af200094",
+      "VX-cc449b002ff2aa8b",
+      "VX-bda026c5a2ae281f"
+    ],
+    "analyses_lexicales": {
+      "bidim": [
+        "bidim"
+      ],
+      "mamysem": [
+        "mamysem"
+      ],
+      "graefyhael": [
+        "graefyhael"
+      ]
+    }
+  },
+  {
+    "key": "unusual",
+    "vaeltharyn": "Thalen moelom!",
+    "francais_controle": "Personne extravagante !",
+    "english_checked": "Eccentric person!",
+    "force": 1,
+    "note_fr": "Équivalent partiel de weirdo; pas diagnostic psychiatrique",
+    "note_en": "Partial weirdo equivalent, not a psychiatric diagnosis.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      374,
+      525,
+      526
+    ],
+    "expression_id": "EX-879ad306997e",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-7c938ff840c8bfb8"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "moelom": [
+        "moelom"
+      ]
+    }
+  },
+  {
+    "key": "hard_to_intimidate",
+    "vaeltharyn": "Thalen vaethv!",
+    "francais_controle": "Personne courageuse !",
+    "english_checked": "Brave person!",
+    "force": 1,
+    "note_fr": "Ne confond pas bravoure, force physique et soumission",
+    "note_en": "Does not conflate courage, physical strength and submission.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-a189c6160e72",
+    "lexique_ids": [
+      "VX-bf5bc5e40492eba7",
+      "VX-59b902d32e6a75b7",
+      "VX-a6fa0a16d9b5cb06",
+      "VX-ea9b43e2e9e6c9e9"
+    ],
+    "analyses_lexicales": {
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "vaethv": [
+        "vaethv"
+      ]
+    }
+  },
+  {
+    "key": "misery",
+    "vaeltharyn": "Mi dhavem lonbem, vrask.",
+    "francais_controle": "J'ai la poisse, putain.",
+    "english_checked": "Fuck, my luck is awful.",
+    "force": 4,
+    "note_fr": "Malchance, pas souhait de mort",
+    "note_en": "Bad luck, not a death wish.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [],
+    "expression_id": "EX-08e6daceb29c",
+    "lexique_ids": [
+      "VX-25978870e122d09c",
+      "VX-d48b8d90647cbc79",
+      "VX-da5539074d233269",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "dhavem": [
+        "dhavar"
+      ],
+      "lonbem": [
+        "lonbem"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "appreciation",
+    "vaeltharyn": "Se vele mynoes, vrask!",
+    "francais_controle": "Putain, c'est excellent !",
+    "english_checked": "Holy shit, that's good!",
+    "force": 4,
+    "note_fr": "Appréciation positive",
+    "note_en": "Positive appraisal.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      766
+    ],
+    "expression_id": "EX-58101da6714c",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-4f1945024c195cca",
+      "VX-5941ac568fe605ba",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "mynoes": [
+        "mynoes"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "not_worth",
+    "vaeltharyn": "Se pykikove nul vaermar, vrask.",
+    "francais_controle": "Ça ne vaut pas un sou, putain.",
+    "english_checked": "It's not worth shit.",
+    "force": 4,
+    "note_fr": "Valeur monétaire dans le littéral, dépréciation contextuelle",
+    "note_en": "Literal monetary value, contextual disparagement.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      793
+    ],
+    "expression_id": "EX-04c671f6f256",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-37fc0a64f806c741",
+      "VX-dbed84e5e97a601b",
+      "VX-21bae60d66e46af9",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "pykikove": [
+        "pykikovar"
+      ],
+      "nul": [
+        "nul"
+      ],
+      "vaermar": [
+        "vaermar"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "he_mocks",
+    "vaeltharyn": "Se thenthose mi.",
+    "francais_controle": "Il se moque de moi.",
+    "english_checked": "He is making fun of me.",
+    "force": 2,
+    "note_fr": "Troisième personne et cible moi conservées",
+    "note_en": "Third person and me as target retained.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      362
+    ],
+    "expression_id": "EX-696ced289b0f",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-7639c72e87540506",
+      "VX-25978870e122d09c"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "thenthose": [
+        "thenthosar"
+      ],
+      "mi": [
+        "mi"
+      ]
+    }
+  },
+  {
+    "key": "causes_fear",
+    "vaeltharyn": "Se dityle mi, vrask.",
+    "francais_controle": "Ça me fout la trouille.",
+    "english_checked": "It scares the hell out of me.",
+    "force": 4,
+    "note_fr": "Lecture peur, distincte de colère",
+    "note_en": "Fear reading, distinct from anger.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      359
+    ],
+    "expression_id": "EX-7237a5a2665f",
+    "lexique_ids": [
+      "VX-2b58a597fbd7e273",
+      "VX-c9dc12c3d0dcf453",
+      "VX-25978870e122d09c",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "dityle": [
+        "ditylar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  },
+  {
+    "key": "controversy",
+    "vaeltharyn": "Nathemaun vrask!",
+    "francais_controle": "Une putain de querelle énorme !",
+    "english_checked": "A fucking storm of controversy!",
+    "force": 4,
+    "note_fr": "Grande querelle, pas météo littérale ni tout fiasco",
+    "note_en": "Large quarrel, not literal weather or every fiasco.",
+    "statut": "proposition contextualisée, non validée par le créateur",
+    "references": [
+      "REF-INPUT",
+      "REF-CORE"
+    ],
+    "lignes_source": [
+      790
+    ],
+    "expression_id": "EX-aba181cec217",
+    "lexique_ids": [
+      "VX-4fc925a463ca509e",
+      "VX-bcc0895b083109ae"
+    ],
+    "analyses_lexicales": {
+      "nathemaun": [
+        "nathem"
+      ],
+      "vrask": [
+        "vrask"
+      ]
+    }
+  }
+]

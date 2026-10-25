@@ -1,0 +1,3814 @@
+[
+  {
+    "id": "EX-240c713c11cb",
+    "vaeltharyn": "Sketh!",
+    "origine": "1.3.0",
+    "cles": [
+      "mild_expletive"
+    ],
+    "francais": [
+      "Zut !"
+    ],
+    "english": [
+      "Darn!"
+    ]
+  },
+  {
+    "id": "EX-c78ac8e1cf64",
+    "vaeltharyn": "Grusk!",
+    "origine": "1.3.0",
+    "cles": [
+      "scat"
+    ],
+    "francais": [
+      "Merde !"
+    ],
+    "english": [
+      "Shit!"
+    ]
+  },
+  {
+    "id": "EX-04e8b39b4ecf",
+    "vaeltharyn": "Vrask!",
+    "origine": "1.3.0",
+    "cles": [
+      "strong_expletive"
+    ],
+    "francais": [
+      "Putain !"
+    ],
+    "english": [
+      "Fuck!"
+    ]
+  },
+  {
+    "id": "EX-1024537169ad",
+    "vaeltharyn": "Grusk, nau!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Merde, non !"
+    ],
+    "english": [
+      "Shit, no!"
+    ]
+  },
+  {
+    "id": "EX-7dfae6d75fde",
+    "vaeltharyn": "Vrask, nau!",
+    "origine": "1.3.0",
+    "cles": [
+      "hell_no"
+    ],
+    "francais": [
+      "Putain, non !"
+    ],
+    "english": [
+      "Fuck, no!",
+      "Hell no!"
+    ]
+  },
+  {
+    "id": "EX-b5251a59fe3d",
+    "vaeltharyn": "Grusk, ei!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Merde, oui !"
+    ],
+    "english": [
+      "Hell yes!"
+    ]
+  },
+  {
+    "id": "EX-8a549adc20e9",
+    "vaeltharyn": "Vrask, ei!",
+    "origine": "1.3.0",
+    "cles": [
+      "hell_yes"
+    ],
+    "francais": [
+      "Putain, oui !"
+    ],
+    "english": [
+      "Fuck yes!",
+      "Hell yeah!"
+    ]
+  },
+  {
+    "id": "EX-5a276f294101",
+    "vaeltharyn": "Dhimmus!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Foutaises !"
+    ],
+    "english": [
+      "Nonsense!"
+    ]
+  },
+  {
+    "id": "EX-fe45306c279e",
+    "vaeltharyn": "Grusk-thareli!",
+    "origine": "1.3.0",
+    "cles": [
+      "bullshit"
+    ],
+    "francais": [
+      "Conneries !",
+      "Des conneries !"
+    ],
+    "english": [
+      "Bullshit!"
+    ]
+  },
+  {
+    "id": "EX-25948ef3b45e",
+    "vaeltharyn": "Ith saun garuniv!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Cette fichue journée !"
+    ],
+    "english": [
+      "This damn day!"
+    ]
+  },
+  {
+    "id": "EX-b0ce083039ba",
+    "vaeltharyn": "Ith saun vrask!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Cette putain de journée !"
+    ],
+    "english": [
+      "This fucking day!"
+    ]
+  },
+  {
+    "id": "EX-5556eddd8e06",
+    "vaeltharyn": "Ith nyr garuniv!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Cette fichue nuit !"
+    ],
+    "english": [
+      "This damn night!"
+    ]
+  },
+  {
+    "id": "EX-fe025adcdd5e",
+    "vaeltharyn": "Ith nyr vrask!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Cette putain de nuit !"
+    ],
+    "english": [
+      "This fucking night!"
+    ]
+  },
+  {
+    "id": "EX-c1ec9b1ec09d",
+    "vaeltharyn": "Ith kaerun vrask!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Cette putain de porte !"
+    ],
+    "english": [
+      "This fucking door!"
+    ]
+  },
+  {
+    "id": "EX-3bec2f1a6003",
+    "vaeltharyn": "Ith therval garuniv!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Ce fichu boulot !"
+    ],
+    "english": [
+      "This damn job!"
+    ]
+  },
+  {
+    "id": "EX-b54344fbb09c",
+    "vaeltharyn": "Ith therval vrask!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Ce putain de boulot !"
+    ],
+    "english": [
+      "This fucking job!"
+    ]
+  },
+  {
+    "id": "EX-2644fb29f389",
+    "vaeltharyn": "Se vele grusk.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "C'est de la merde."
+    ],
+    "english": [
+      "It's shit."
+    ]
+  },
+  {
+    "id": "EX-78358e2801f7",
+    "vaeltharyn": "Ith thael vele grusk.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Cette chanson, c'est de la merde."
+    ],
+    "english": [
+      "This song is shit."
+    ]
+  },
+  {
+    "id": "EX-c909579ba99e",
+    "vaeltharyn": "Ith therval vele grusk.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Ce boulot, c'est de la merde."
+    ],
+    "english": [
+      "This job is crap."
+    ]
+  },
+  {
+    "id": "EX-6ca8cb5b46a8",
+    "vaeltharyn": "Se vele grusk-tharel.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "C'est une connerie."
+    ],
+    "english": [
+      "That's bullshit."
+    ]
+  },
+  {
+    "id": "EX-95aa01f5e047",
+    "vaeltharyn": "Sava thareli ti-en velen grusk-thareli.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tout ce que tu racontes, c'est des conneries."
+    ],
+    "english": [
+      "Everything you say is bullshit."
+    ]
+  },
+  {
+    "id": "EX-be1f46fa865a",
+    "vaeltharyn": "Sava vugomi ti-en velen grusk-thareli.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tes promesses, c'est que des conneries."
+    ],
+    "english": [
+      "All your promises are bullshit."
+    ]
+  },
+  {
+    "id": "EX-53ea4bdeaf3f",
+    "vaeltharyn": "Skarn!",
+    "origine": "1.3.0",
+    "cles": [
+      "vile"
+    ],
+    "francais": [
+      "Salopard !"
+    ],
+    "english": [
+      "Asshole!"
+    ]
+  },
+  {
+    "id": "EX-3a80e8b3ae99",
+    "vaeltharyn": "Ti veles skarn.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu es une ordure."
+    ],
+    "english": [
+      "You're an asshole."
+    ]
+  },
+  {
+    "id": "EX-6cd6083ac860",
+    "vaeltharyn": "Thalen fregos!",
+    "origine": "1.3.0",
+    "cles": [
+      "fregos"
+    ],
+    "francais": [
+      "Connard !"
+    ],
+    "english": [
+      "Jerk!"
+    ]
+  },
+  {
+    "id": "EX-4cdd3739b39f",
+    "vaeltharyn": "Ti veles fregos.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu es vraiment con."
+    ],
+    "english": [
+      "You're being a jerk."
+    ]
+  },
+  {
+    "id": "EX-56004e61301a",
+    "vaeltharyn": "Ti veles skentav.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu es un salaud."
+    ],
+    "english": [
+      "You're a bastard."
+    ]
+  },
+  {
+    "id": "EX-8884fcddf258",
+    "vaeltharyn": "Ti veles moesyk.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu es un pourri."
+    ],
+    "english": [
+      "You're a corrupt bastard."
+    ]
+  },
+  {
+    "id": "EX-489a7bd4237c",
+    "vaeltharyn": "Skithin!",
+    "origine": "1.3.0",
+    "cles": [
+      "hypocrite"
+    ],
+    "francais": [
+      "Hypocrite !"
+    ],
+    "english": [
+      "Hypocrite!"
+    ]
+  },
+  {
+    "id": "EX-109966f2f0e4",
+    "vaeltharyn": "Lodhom!",
+    "origine": "1.3.0",
+    "cles": [
+      "traitor"
+    ],
+    "francais": [
+      "Traître !"
+    ],
+    "english": [
+      "Traitor!"
+    ]
+  },
+  {
+    "id": "EX-c001c39dbac3",
+    "vaeltharyn": "Kofav!",
+    "origine": "1.3.0",
+    "cles": [
+      "idiot"
+    ],
+    "francais": [
+      "Imbécile !"
+    ],
+    "english": [
+      "Idiot!"
+    ]
+  },
+  {
+    "id": "EX-8d47d9547de9",
+    "vaeltharyn": "Tronodaev!",
+    "origine": "1.3.0",
+    "cles": [
+      "fool"
+    ],
+    "francais": [
+      "Idiot !"
+    ],
+    "english": [
+      "Fool!"
+    ]
+  },
+  {
+    "id": "EX-d2954c1ba25e",
+    "vaeltharyn": "Ti veles basoel.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu es imbécile."
+    ],
+    "english": [
+      "You're foolish."
+    ]
+  },
+  {
+    "id": "EX-b5f77a789e5b",
+    "vaeltharyn": "Ti veles nifen.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu es stupide."
+    ],
+    "english": [
+      "You're stupid."
+    ]
+  },
+  {
+    "id": "EX-b290eed9b8ac",
+    "vaeltharyn": "Ti veles slaroem.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu es hypocrite."
+    ],
+    "english": [
+      "You're hypocritical."
+    ]
+  },
+  {
+    "id": "EX-2af6f0f7c4a3",
+    "vaeltharyn": "Ti veles lifaen.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu es déloyal."
+    ],
+    "english": [
+      "You're treacherous."
+    ]
+  },
+  {
+    "id": "EX-396c44e315cb",
+    "vaeltharyn": "Ti skarnes.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu te comportes en salopard."
+    ],
+    "english": [
+      "You're acting like an asshole."
+    ]
+  },
+  {
+    "id": "EX-ecd3f10bebb8",
+    "vaeltharyn": "Nu skarna!",
+    "origine": "1.3.0",
+    "cles": [
+      "stop_behaviour"
+    ],
+    "francais": [
+      "Ne fais pas le connard !",
+      "Arrête de faire le connard !"
+    ],
+    "english": [
+      "Don't be an asshole!",
+      "Stop being an asshole!"
+    ]
+  },
+  {
+    "id": "EX-ce803c82404b",
+    "vaeltharyn": "Graeth-naelkaror!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Briseur de serment !"
+    ],
+    "english": [
+      "Oathbreaker!"
+    ]
+  },
+  {
+    "id": "EX-0353803e565b",
+    "vaeltharyn": "Ti naelkares graeth si-en.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu piétines ta parole."
+    ],
+    "english": [
+      "You break your own oath."
+    ]
+  },
+  {
+    "id": "EX-50dea903c623",
+    "vaeltharyn": "Naethala!",
+    "origine": "1.3.0",
+    "cles": [
+      "dismiss_mild"
+    ],
+    "francais": [
+      "Casse-toi !",
+      "Dégage !"
+    ],
+    "english": [
+      "Get lost!"
+    ]
+  },
+  {
+    "id": "EX-65b223ab09bd",
+    "vaeltharyn": "Naethala, vrask!",
+    "origine": "1.3.0",
+    "cles": [
+      "dismiss_strong"
+    ],
+    "francais": [
+      "Casse-toi, putain !",
+      "Va te faire foutre !"
+    ],
+    "english": [
+      "Fuck off!"
+    ]
+  },
+  {
+    "id": "EX-a1e68830ce44",
+    "vaeltharyn": "Naethala, skarn!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Dégage, connard !"
+    ],
+    "english": [
+      "Get lost, asshole!"
+    ]
+  },
+  {
+    "id": "EX-8ab2aa73cf9d",
+    "vaeltharyn": "Kaerala vaem si-en!",
+    "origine": "1.3.0",
+    "cles": [
+      "mouth_shut"
+    ],
+    "francais": [
+      "Ferme ta gueule !",
+      "Ferme ton clapet !"
+    ],
+    "english": [
+      "Shut your mouth!",
+      "Shut your trap!"
+    ]
+  },
+  {
+    "id": "EX-7f121e9f6823",
+    "vaeltharyn": "Kaerala vaem si-en, skarn!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Ferme ta gueule, salopard !"
+    ],
+    "english": [
+      "Shut your mouth, asshole!"
+    ]
+  },
+  {
+    "id": "EX-accf503cde14",
+    "vaeltharyn": "Nu lyra!",
+    "origine": "1.3.0",
+    "cles": [
+      "shut_mild"
+    ],
+    "francais": [
+      "Tais-toi !"
+    ],
+    "english": [
+      "Shut up!"
+    ]
+  },
+  {
+    "id": "EX-5b0791c2faa9",
+    "vaeltharyn": "Nu lyra, vrask!",
+    "origine": "1.3.0",
+    "cles": [
+      "shut_strong"
+    ],
+    "francais": [
+      "Tais-toi, putain !",
+      "Ferme ta gueule !"
+    ],
+    "english": [
+      "Shut the fuck up!"
+    ]
+  },
+  {
+    "id": "EX-648dc4f93cfe",
+    "vaeltharyn": "Nu lyra grusk-thareli!",
+    "origine": "1.3.0",
+    "cles": [
+      "cut_bullshit"
+    ],
+    "francais": [
+      "Ne raconte pas de conneries !",
+      "Arrête tes conneries !"
+    ],
+    "english": [
+      "Don't talk bullshit!",
+      "Cut the bullshit!"
+    ]
+  },
+  {
+    "id": "EX-cd5deae5bd08",
+    "vaeltharyn": "Nu vaera grusk-thareli mi-or!",
+    "origine": "1.3.0",
+    "cles": [
+      "dont_bullshit_me"
+    ],
+    "francais": [
+      "Ne me sers pas tes conneries !",
+      "Ne me raconte pas de conneries !"
+    ],
+    "english": [
+      "Don't feed me bullshit!",
+      "Don't bullshit me!"
+    ]
+  },
+  {
+    "id": "EX-010c8cb18510",
+    "vaeltharyn": "Nu skarna ko mi!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Ne fais pas le connard avec moi !"
+    ],
+    "english": [
+      "Don't be an asshole with me!"
+    ]
+  },
+  {
+    "id": "EX-0541e1733268",
+    "vaeltharyn": "Nu kaena mi!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Ne me touche pas !"
+    ],
+    "english": [
+      "Don't touch me!"
+    ]
+  },
+  {
+    "id": "EX-9f3a3792a43f",
+    "vaeltharyn": "Laera mi!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Laisse-moi !"
+    ],
+    "english": [
+      "Leave me!"
+    ]
+  },
+  {
+    "id": "EX-4316e106a06a",
+    "vaeltharyn": "Laera mi e saerunath!",
+    "origine": "1.3.0",
+    "cles": [
+      "leave_alone"
+    ],
+    "francais": [
+      "Fous-moi la paix !"
+    ],
+    "english": [
+      "Leave me the hell alone!"
+    ]
+  },
+  {
+    "id": "EX-9069b36f53e5",
+    "vaeltharyn": "Mi nu dhaelem ti.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je ne te fais pas confiance."
+    ],
+    "english": [
+      "I don't trust you."
+    ]
+  },
+  {
+    "id": "EX-eaca4a66ca2b",
+    "vaeltharyn": "Mi nu lisem ti.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je ne t'écoute pas."
+    ],
+    "english": [
+      "I'm not listening to you."
+    ]
+  },
+  {
+    "id": "EX-e5087048085b",
+    "vaeltharyn": "Mi nu vaelem lisar ti.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je n'ai pas envie de t'écouter."
+    ],
+    "english": [
+      "I don't want to listen to you."
+    ]
+  },
+  {
+    "id": "EX-c1e52ee7b32f",
+    "vaeltharyn": "Mi nu haedhoefovem ti.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je n'ai pas besoin de toi."
+    ],
+    "english": [
+      "I don't need you."
+    ]
+  },
+  {
+    "id": "EX-a76c4464ab2d",
+    "vaeltharyn": "Mi nu haedhoefovem thareli ti-en.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je n'ai pas besoin de tes discours."
+    ],
+    "english": [
+      "I don't need your talk."
+    ]
+  },
+  {
+    "id": "EX-68690a42e04b",
+    "vaeltharyn": "Mi nu haedhoefovem graethkaevi ti-en.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je n'ai pas besoin de tes règles."
+    ],
+    "english": [
+      "I don't need your rules."
+    ]
+  },
+  {
+    "id": "EX-f4f8892a29b0",
+    "vaeltharyn": "Mi nu kaethem ti.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu ne me fais pas peur."
+    ],
+    "english": [
+      "I'm not afraid of you."
+    ]
+  },
+  {
+    "id": "EX-8a8a66f09c1a",
+    "vaeltharyn": "Ti nu thaves mi.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu n'as pas de prise sur moi."
+    ],
+    "english": [
+      "You don't have a hold on me."
+    ]
+  },
+  {
+    "id": "EX-bbd37e60c172",
+    "vaeltharyn": "Ti dhaves thaem; ti nu dhaves thaev.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu as de la voix, pas la vérité."
+    ],
+    "english": [
+      "You've got a voice, not the truth."
+    ]
+  },
+  {
+    "id": "EX-c15c1772766a",
+    "vaeltharyn": "Thaem ti-en vele thar; thaev vele niv.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Grande voix, petite vérité."
+    ],
+    "english": [
+      "Big voice, little truth."
+    ]
+  },
+  {
+    "id": "EX-30168dd5003a",
+    "vaeltharyn": "Mi vaelem thaev; mi nu vaelem grusk-thareli.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je veux la vérité, pas tes conneries."
+    ],
+    "english": [
+      "I want the truth, not bullshit."
+    ]
+  },
+  {
+    "id": "EX-69670a247144",
+    "vaeltharyn": "Thaem ti-en vele naur; thareli ti-en velen thask.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu fais du feu, tu ne laisses que des cendres."
+    ],
+    "english": [
+      "All that fire, and nothing but ashes."
+    ]
+  },
+  {
+    "id": "EX-29882cbce3f2",
+    "vaeltharyn": "Ti vaeres ulthaev; mi vaelem thaev.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu me sers du mensonge ; je veux la vérité."
+    ],
+    "english": [
+      "You give me lies; I want the truth."
+    ]
+  },
+  {
+    "id": "EX-215c8f465a31",
+    "vaeltharyn": "Mi mirem tra ulthaevath ti-en.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je vois à travers tes mensonges."
+    ],
+    "english": [
+      "I see through your lies."
+    ]
+  },
+  {
+    "id": "EX-90527dbd8f06",
+    "vaeltharyn": "Graeth ti-en vele thask.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Ta parole ne vaut plus que de la cendre."
+    ],
+    "english": [
+      "Your word is nothing but ash."
+    ]
+  },
+  {
+    "id": "EX-dc4a1455cc09",
+    "vaeltharyn": "Mi nu laevrem si.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je ne plie pas."
+    ],
+    "english": [
+      "I won't bend."
+    ]
+  },
+  {
+    "id": "EX-6e545ea05e43",
+    "vaeltharyn": "Mi nu bregysem si.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Je ne m'efface pas."
+    ],
+    "english": [
+      "I won't erase myself."
+    ]
+  },
+  {
+    "id": "EX-bbee6a2d7d18",
+    "vaeltharyn": "Ti nu vidhaves tharel taesoen.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu n'auras pas le dernier mot."
+    ],
+    "english": [
+      "You won't have the last word."
+    ]
+  },
+  {
+    "id": "EX-96534402c331",
+    "vaeltharyn": "Ti nu veles en vaur.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu n'es pas le centre du monde."
+    ],
+    "english": [
+      "The world doesn't revolve around you."
+    ]
+  },
+  {
+    "id": "EX-4f82a73d465c",
+    "vaeltharyn": "Thareli ti-en velen maur.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Tu parles pour brouiller les pistes."
+    ],
+    "english": [
+      "Your words are a smokescreen."
+    ]
+  },
+  {
+    "id": "EX-0030492f1a2c",
+    "vaeltharyn": "Vrask, mi velem raev!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Putain, je suis libre !"
+    ],
+    "english": [
+      "Fuck, I'm free!"
+    ]
+  },
+  {
+    "id": "EX-f421e11d41d1",
+    "vaeltharyn": "Vrask, ti thaeres saevis!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Putain, que tu chantes magnifiquement !"
+    ],
+    "english": [
+      "Fuck, you sing beautifully!"
+    ]
+  },
+  {
+    "id": "EX-c9dc862e544c",
+    "vaeltharyn": "Ith thael garuniv vele saev.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Elle est belle, cette fichue chanson."
+    ],
+    "english": [
+      "This damn song is beautiful."
+    ]
+  },
+  {
+    "id": "EX-2ab76fd2aafc",
+    "vaeltharyn": "Ith thael vrask vele saev.",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "Elle est belle, cette putain de chanson."
+    ],
+    "english": [
+      "This fucking song is beautiful."
+    ]
+  },
+  {
+    "id": "EX-59b37e87434e",
+    "vaeltharyn": "Se vele sha saev, vrask!",
+    "origine": "1.3.0",
+    "cles": [],
+    "francais": [
+      "C'est vraiment beau, putain !"
+    ],
+    "english": [
+      "It's so beautiful, fuck!"
+    ]
+  },
+  {
+    "id": "EX-4d88e40cc392",
+    "vaeltharyn": "Skarn vrask!",
+    "origine": "1.3.0",
+    "cles": [
+      "vile_strong"
+    ],
+    "francais": [
+      "Putain de salopard !"
+    ],
+    "english": [
+      "Fucking asshole!"
+    ]
+  },
+  {
+    "id": "EX-4a25890f6c81",
+    "vaeltharyn": "Kofav vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "idiot_strong"
+    ],
+    "francais": [
+      "Putain d'imbécile !"
+    ],
+    "english": [
+      "Fucking idiot!"
+    ]
+  },
+  {
+    "id": "EX-0600ebc29c25",
+    "vaeltharyn": "Thalen basoel!",
+    "origine": "1.4.0",
+    "cles": [
+      "silly"
+    ],
+    "francais": [
+      "Personne sotte !"
+    ],
+    "english": [
+      "Silly person!"
+    ]
+  },
+  {
+    "id": "EX-01944b781a38",
+    "vaeltharyn": "Thalen loemkyk!",
+    "origine": "1.4.0",
+    "cles": [
+      "gullible"
+    ],
+    "francais": [
+      "Personne trop crédule !"
+    ],
+    "english": [
+      "Gullible fool!"
+    ]
+  },
+  {
+    "id": "EX-ce5c7d44e3cc",
+    "vaeltharyn": "Kofav mamysem!",
+    "origine": "1.4.0",
+    "cles": [
+      "old_fool"
+    ],
+    "francais": [
+      "Vieil imbécile !"
+    ],
+    "english": [
+      "Old fool!"
+    ]
+  },
+  {
+    "id": "EX-f20a9963ff18",
+    "vaeltharyn": "Laelbek!",
+    "origine": "1.4.0",
+    "cles": [
+      "scatterbrain"
+    ],
+    "francais": [
+      "Distrait !"
+    ],
+    "english": [
+      "Scatterbrain!"
+    ]
+  },
+  {
+    "id": "EX-a6b4fbb09902",
+    "vaeltharyn": "Brosol!",
+    "origine": "1.4.0",
+    "cles": [
+      "airhead"
+    ],
+    "francais": [
+      "Écervelé !"
+    ],
+    "english": [
+      "Airhead!"
+    ]
+  },
+  {
+    "id": "EX-870c9c2eb460",
+    "vaeltharyn": "Ti veles mersik min-or.",
+    "origine": "1.4.0",
+    "cles": [
+      "burden"
+    ],
+    "francais": [
+      "Tu es un fardeau pour nous."
+    ],
+    "english": [
+      "You're a burden to us."
+    ]
+  },
+  {
+    "id": "EX-f86b28d9bd20",
+    "vaeltharyn": "Gydim-thalen!",
+    "origine": "1.4.0",
+    "cles": [
+      "loser"
+    ],
+    "francais": [
+      "Raté !"
+    ],
+    "english": [
+      "Loser!"
+    ]
+  },
+  {
+    "id": "EX-723ac530ab83",
+    "vaeltharyn": "Thalen slyllum!",
+    "origine": "1.4.0",
+    "cles": [
+      "inept"
+    ],
+    "francais": [
+      "Incapable !"
+    ],
+    "english": [
+      "Incompetent person!"
+    ]
+  },
+  {
+    "id": "EX-bc2e0348d56a",
+    "vaeltharyn": "Thalen thryrsom!",
+    "origine": "1.4.0",
+    "cles": [
+      "clown"
+    ],
+    "francais": [
+      "Guignol !"
+    ],
+    "english": [
+      "Ridiculous fool!"
+    ]
+  },
+  {
+    "id": "EX-832ec0521a3e",
+    "vaeltharyn": "Ti veles porvogok.",
+    "origine": "1.4.0",
+    "cles": [
+      "puppet"
+    ],
+    "francais": [
+      "Tu es un pantin."
+    ],
+    "english": [
+      "You're a puppet."
+    ]
+  },
+  {
+    "id": "EX-36157ec3d39d",
+    "vaeltharyn": "Thalen ulhaevvaer!",
+    "origine": "1.4.0",
+    "cles": [
+      "useless"
+    ],
+    "francais": [
+      "Bon à rien !"
+    ],
+    "english": [
+      "Good-for-nothing!"
+    ]
+  },
+  {
+    "id": "EX-08b5bda5ad57",
+    "vaeltharyn": "Goelvaek!",
+    "origine": "1.4.0",
+    "cles": [
+      "lout"
+    ],
+    "francais": [
+      "Malotru !"
+    ],
+    "english": [
+      "Lout!"
+    ]
+  },
+  {
+    "id": "EX-a4477b137b5b",
+    "vaeltharyn": "Luthom!",
+    "origine": "1.4.0",
+    "cles": [
+      "boor"
+    ],
+    "francais": [
+      "Rustre !"
+    ],
+    "english": [
+      "Boor!"
+    ]
+  },
+  {
+    "id": "EX-151747fe66a7",
+    "vaeltharyn": "Boenrev!",
+    "origine": "1.4.0",
+    "cles": [
+      "cad"
+    ],
+    "francais": [
+      "Goujat !"
+    ],
+    "english": [
+      "Cad!"
+    ]
+  },
+  {
+    "id": "EX-5069ee27fdbc",
+    "vaeltharyn": "Slaehoen!",
+    "origine": "1.4.0",
+    "cles": [
+      "clumsy"
+    ],
+    "francais": [
+      "Maladroit !"
+    ],
+    "english": [
+      "Clumsy fool!"
+    ]
+  },
+  {
+    "id": "EX-d8ac33931c2d",
+    "vaeltharyn": "Skaedhal!",
+    "origine": "1.4.0",
+    "cles": [
+      "boor_clumsy"
+    ],
+    "francais": [
+      "Balourd !"
+    ],
+    "english": [
+      "Bumbling lout!"
+    ]
+  },
+  {
+    "id": "EX-f2ac439d2adf",
+    "vaeltharyn": "Thalen thriroes!",
+    "origine": "1.4.0",
+    "cles": [
+      "country_sneer"
+    ],
+    "francais": [
+      "Personne rustre !"
+    ],
+    "english": [
+      "Uncouth person!"
+    ]
+  },
+  {
+    "id": "EX-9bd3b9ce0b91",
+    "vaeltharyn": "Skarnil!",
+    "origine": "1.4.0",
+    "cles": [
+      "small_vile"
+    ],
+    "francais": [
+      "Petit merdeux !"
+    ],
+    "english": [
+      "Little shit!"
+    ]
+  },
+  {
+    "id": "EX-9e686d8b1ec9",
+    "vaeltharyn": "Skarn mamysem!",
+    "origine": "1.4.0",
+    "cles": [
+      "old_vile"
+    ],
+    "francais": [
+      "Vieux con !"
+    ],
+    "english": [
+      "Old asshole!"
+    ]
+  },
+  {
+    "id": "EX-6c751c5b5c70",
+    "vaeltharyn": "Skarn ulhaevvaer!",
+    "origine": "1.4.0",
+    "cles": [
+      "worthless_vile"
+    ],
+    "francais": [
+      "Ordure jugée bonne à rien !"
+    ],
+    "english": [
+      "Worthless bastard!"
+    ]
+  },
+  {
+    "id": "EX-33c42e39c4e6",
+    "vaeltharyn": "Moesyk!",
+    "origine": "1.4.0",
+    "cles": [
+      "corrupt"
+    ],
+    "francais": [
+      "Pourri !"
+    ],
+    "english": [
+      "Corrupt bastard!"
+    ]
+  },
+  {
+    "id": "EX-d11303ccc2e2",
+    "vaeltharyn": "Kofavil!",
+    "origine": "1.4.0",
+    "cles": [
+      "small_fool"
+    ],
+    "francais": [
+      "Petit idiot !"
+    ],
+    "english": [
+      "Little fool!"
+    ]
+  },
+  {
+    "id": "EX-416d31bd0f71",
+    "vaeltharyn": "Tasil!",
+    "origine": "1.4.0",
+    "cles": [
+      "lazy"
+    ],
+    "francais": [
+      "Paresseux !"
+    ],
+    "english": [
+      "Slacker!"
+    ]
+  },
+  {
+    "id": "EX-45c914ed9ee1",
+    "vaeltharyn": "Tasil vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "lazy_strong"
+    ],
+    "francais": [
+      "Putain de feignasse !"
+    ],
+    "english": [
+      "Lazy bastard!"
+    ]
+  },
+  {
+    "id": "EX-0cd6eb5a4c90",
+    "vaeltharyn": "Paemevus!",
+    "origine": "1.4.0",
+    "cles": [
+      "pedant"
+    ],
+    "francais": [
+      "Pédant !"
+    ],
+    "english": [
+      "Pedant!"
+    ]
+  },
+  {
+    "id": "EX-aa7de0328782",
+    "vaeltharyn": "Dafyv!",
+    "origine": "1.4.0",
+    "cles": [
+      "cuistre"
+    ],
+    "francais": [
+      "Cuistre !"
+    ],
+    "english": [
+      "Pompous pseudo-scholar!"
+    ]
+  },
+  {
+    "id": "EX-2eb9760969b3",
+    "vaeltharyn": "Thalen ya horsahime mi!",
+    "origine": "1.4.0",
+    "cles": [
+      "nuisance"
+    ],
+    "francais": [
+      "Emmerdeur !"
+    ],
+    "english": [
+      "Pain in the ass!"
+    ]
+  },
+  {
+    "id": "EX-4b3fcd07a936",
+    "vaeltharyn": "Thalen ya horsahime mi, sketh!",
+    "origine": "1.4.0",
+    "cles": [
+      "nuisance_mild"
+    ],
+    "francais": [
+      "Casse-pieds !"
+    ],
+    "english": [
+      "Pain in the neck!"
+    ]
+  },
+  {
+    "id": "EX-5fed8b069d23",
+    "vaeltharyn": "Nathem-thaelor!",
+    "origine": "1.4.0",
+    "cles": [
+      "troublemaker"
+    ],
+    "francais": [
+      "Fouteur de discorde !"
+    ],
+    "english": [
+      "Shit-stirrer!"
+    ]
+  },
+  {
+    "id": "EX-b022b8a073f0",
+    "vaeltharyn": "Slakal!",
+    "origine": "1.4.0",
+    "cles": [
+      "nosy"
+    ],
+    "francais": [
+      "Fouineur !"
+    ],
+    "english": [
+      "Nosy meddler!"
+    ]
+  },
+  {
+    "id": "EX-b91d1efa56c8",
+    "vaeltharyn": "Toenvapam!",
+    "origine": "1.4.0",
+    "cles": [
+      "bootlicker"
+    ],
+    "francais": [
+      "Lèche-bottes !"
+    ],
+    "english": [
+      "Bootlicker!"
+    ]
+  },
+  {
+    "id": "EX-8cea1ef5e7d5",
+    "vaeltharyn": "Vraegom!",
+    "origine": "1.4.0",
+    "cles": [
+      "liar"
+    ],
+    "francais": [
+      "Menteur !"
+    ],
+    "english": [
+      "Liar!"
+    ]
+  },
+  {
+    "id": "EX-d98c7351c370",
+    "vaeltharyn": "Vraegom ya ara ulthaeve!",
+    "origine": "1.4.0",
+    "cles": [
+      "liar_habit"
+    ],
+    "francais": [
+      "Menteur invétéré !"
+    ],
+    "english": [
+      "Habitual liar!"
+    ]
+  },
+  {
+    "id": "EX-b161cb6a5f79",
+    "vaeltharyn": "Mulroem!",
+    "origine": "1.4.0",
+    "cles": [
+      "bullshitter"
+    ],
+    "francais": [
+      "Baratineur !"
+    ],
+    "english": [
+      "Bullshitter!"
+    ]
+  },
+  {
+    "id": "EX-a40e22f1757e",
+    "vaeltharyn": "Thalen thaemraeliv!",
+    "origine": "1.4.0",
+    "cles": [
+      "loudmouth"
+    ],
+    "francais": [
+      "Grande gueule !"
+    ],
+    "english": [
+      "Loudmouth!"
+    ]
+  },
+  {
+    "id": "EX-97f08e4d37b8",
+    "vaeltharyn": "Foeden!",
+    "origine": "1.4.0",
+    "cles": [
+      "braggart"
+    ],
+    "francais": [
+      "Vantard !"
+    ],
+    "english": [
+      "Braggart!"
+    ]
+  },
+  {
+    "id": "EX-eeb987ea85b6",
+    "vaeltharyn": "Frobim!",
+    "origine": "1.4.0",
+    "cles": [
+      "showoff"
+    ],
+    "francais": [
+      "Frimeur !"
+    ],
+    "english": [
+      "Show-off!"
+    ]
+  },
+  {
+    "id": "EX-f6c0eca83288",
+    "vaeltharyn": "Thalen nygaek!",
+    "origine": "1.4.0",
+    "cles": [
+      "poser"
+    ],
+    "francais": [
+      "Poseur !"
+    ],
+    "english": [
+      "Poser!"
+    ]
+  },
+  {
+    "id": "EX-d6152f0b5e22",
+    "vaeltharyn": "Memkor!",
+    "origine": "1.4.0",
+    "cles": [
+      "arrogant"
+    ],
+    "francais": [
+      "Arrogant !"
+    ],
+    "english": [
+      "Arrogant person!"
+    ]
+  },
+  {
+    "id": "EX-930e9d71c6be",
+    "vaeltharyn": "Slilyk!",
+    "origine": "1.4.0",
+    "cles": [
+      "bossy"
+    ],
+    "francais": [
+      "Petit chef !"
+    ],
+    "english": [
+      "Bossy control freak!"
+    ]
+  },
+  {
+    "id": "EX-bfc6a30a2d2c",
+    "vaeltharyn": "Baroth!",
+    "origine": "1.4.0",
+    "cles": [
+      "grouch"
+    ],
+    "francais": [
+      "Pisse-vinaigre !"
+    ],
+    "english": [
+      "Sourpuss!"
+    ]
+  },
+  {
+    "id": "EX-947df2936c84",
+    "vaeltharyn": "Loefoeton!",
+    "origine": "1.4.0",
+    "cles": [
+      "killjoy"
+    ],
+    "francais": [
+      "Rabat-joie !"
+    ],
+    "english": [
+      "Killjoy!"
+    ]
+  },
+  {
+    "id": "EX-97d1b3c45af3",
+    "vaeltharyn": "Thalen troedhel!",
+    "origine": "1.4.0",
+    "cles": [
+      "prude"
+    ],
+    "francais": [
+      "Personne coincée !"
+    ],
+    "english": [
+      "Prude!"
+    ]
+  },
+  {
+    "id": "EX-f8d1d7bcb9fc",
+    "vaeltharyn": "Thalen koriv!",
+    "origine": "1.4.0",
+    "cles": [
+      "rigid"
+    ],
+    "francais": [
+      "Personne rigide !"
+    ],
+    "english": [
+      "Rigid person!"
+    ]
+  },
+  {
+    "id": "EX-3ae3c0e6f39d",
+    "vaeltharyn": "Thalen sen vaethun!",
+    "origine": "1.4.0",
+    "cles": [
+      "coward"
+    ],
+    "francais": [
+      "Lâche !"
+    ],
+    "english": [
+      "Coward!"
+    ]
+  },
+  {
+    "id": "EX-fe95c6de084e",
+    "vaeltharyn": "Tanek!",
+    "origine": "1.4.0",
+    "cles": [
+      "timid"
+    ],
+    "francais": [
+      "Trouillard !"
+    ],
+    "english": [
+      "Scaredy-cat!"
+    ]
+  },
+  {
+    "id": "EX-d89e38d6285c",
+    "vaeltharyn": "Thalen getor!",
+    "origine": "1.4.0",
+    "cles": [
+      "weakling"
+    ],
+    "francais": [
+      "Mauviette !"
+    ],
+    "english": [
+      "Weakling!"
+    ]
+  },
+  {
+    "id": "EX-93d4c7194e48",
+    "vaeltharyn": "Gaegylym!",
+    "origine": "1.4.0",
+    "cles": [
+      "whiner"
+    ],
+    "francais": [
+      "Pleurnichard !"
+    ],
+    "english": [
+      "Crybaby!"
+    ]
+  },
+  {
+    "id": "EX-a23bf49769dc",
+    "vaeltharyn": "Pupak!",
+    "origine": "1.4.0",
+    "cles": [
+      "snitch"
+    ],
+    "francais": [
+      "Mouchard !"
+    ],
+    "english": [
+      "Informer!"
+    ]
+  },
+  {
+    "id": "EX-0e0b3d1de0ae",
+    "vaeltharyn": "Thalen ya vaere kaer thaliror!",
+    "origine": "1.4.0",
+    "cles": [
+      "tattletale"
+    ],
+    "francais": [
+      "Rapporteur !"
+    ],
+    "english": [
+      "Tattletale!"
+    ]
+  },
+  {
+    "id": "EX-23de2768d502",
+    "vaeltharyn": "Vaermar-lodhom!",
+    "origine": "1.4.0",
+    "cles": [
+      "sellout"
+    ],
+    "francais": [
+      "Vendu !"
+    ],
+    "english": [
+      "Sellout!"
+    ]
+  },
+  {
+    "id": "EX-5f9e9b8067b5",
+    "vaeltharyn": "Brimvav!",
+    "origine": "1.4.0",
+    "cles": [
+      "freeloader"
+    ],
+    "francais": [
+      "Pique-assiette !"
+    ],
+    "english": [
+      "Freeloader!"
+    ]
+  },
+  {
+    "id": "EX-43583fe8eeef",
+    "vaeltharyn": "Saehoemoem!",
+    "origine": "1.4.0",
+    "cles": [
+      "exploiter"
+    ],
+    "francais": [
+      "Exploiteur !"
+    ],
+    "english": [
+      "Exploiter!"
+    ]
+  },
+  {
+    "id": "EX-ba6944eaf32f",
+    "vaeltharyn": "Graloes!",
+    "origine": "1.4.0",
+    "cles": [
+      "profiteer"
+    ],
+    "francais": [
+      "Profiteur !"
+    ],
+    "english": [
+      "Dishonest opportunist!"
+    ]
+  },
+  {
+    "id": "EX-2c8b6765daaa",
+    "vaeltharyn": "Thalen dhepegor!",
+    "origine": "1.4.0",
+    "cles": [
+      "greedy"
+    ],
+    "francais": [
+      "Rapace d'argent !"
+    ],
+    "english": [
+      "Greedy person!"
+    ]
+  },
+  {
+    "id": "EX-82e4f6e50070",
+    "vaeltharyn": "Nulyk!",
+    "origine": "1.4.0",
+    "cles": [
+      "cheapskate"
+    ],
+    "francais": [
+      "Radin !"
+    ],
+    "english": [
+      "Cheapskate!"
+    ]
+  },
+  {
+    "id": "EX-0ef5d939e231",
+    "vaeltharyn": "Vrasik!",
+    "origine": "1.4.0",
+    "cles": [
+      "penny_pincher"
+    ],
+    "francais": [
+      "Grippe-sou !"
+    ],
+    "english": [
+      "Penny-pincher!"
+    ]
+  },
+  {
+    "id": "EX-53ad544d58a0",
+    "vaeltharyn": "Tridum!",
+    "origine": "1.4.0",
+    "cles": [
+      "crook"
+    ],
+    "francais": [
+      "Escroc !"
+    ],
+    "english": [
+      "Scammer!"
+    ]
+  },
+  {
+    "id": "EX-4d2b98861e79",
+    "vaeltharyn": "Lavum!",
+    "origine": "1.4.0",
+    "cles": [
+      "thug"
+    ],
+    "francais": [
+      "Malfaiteur !"
+    ],
+    "english": [
+      "Thug!"
+    ]
+  },
+  {
+    "id": "EX-4cdb86077b2c",
+    "vaeltharyn": "Thalen thrutos!",
+    "origine": "1.4.0",
+    "cles": [
+      "filthy"
+    ],
+    "francais": [
+      "Crasseux !"
+    ],
+    "english": [
+      "Filthy slob!"
+    ]
+  },
+  {
+    "id": "EX-584bf3c948fc",
+    "vaeltharyn": "Freloek!",
+    "origine": "1.4.0",
+    "cles": [
+      "drunkard"
+    ],
+    "francais": [
+      "Poivrot !"
+    ],
+    "english": [
+      "Drunkard!"
+    ]
+  },
+  {
+    "id": "EX-ab3a93e47f50",
+    "vaeltharyn": "Thalen ya ara vathune vaurmeth!",
+    "origine": "1.4.0",
+    "cles": [
+      "barfly"
+    ],
+    "francais": [
+      "Habitué qui boit sans cesse !"
+    ],
+    "english": [
+      "Habitual drinker!"
+    ]
+  },
+  {
+    "id": "EX-92cf379100fa",
+    "vaeltharyn": "Maelin vrothok!",
+    "origine": "1.4.0",
+    "cles": [
+      "brat"
+    ],
+    "francais": [
+      "Sale gosse !"
+    ],
+    "english": [
+      "Brat!"
+    ]
+  },
+  {
+    "id": "EX-491fc8c35174",
+    "vaeltharyn": "Maelin throefuth!",
+    "origine": "1.4.0",
+    "cles": [
+      "rascal"
+    ],
+    "francais": [
+      "Petit chenapan !"
+    ],
+    "english": [
+      "Little rascal!"
+    ]
+  },
+  {
+    "id": "EX-4da82d34ff6e",
+    "vaeltharyn": "Sorkev mamysem koebok!",
+    "origine": "1.4.0",
+    "cles": [
+      "old_vile_woman"
+    ],
+    "francais": [
+      "Vieille femme méprisée !"
+    ],
+    "english": [
+      "Contemptuously labelled old woman!"
+    ]
+  },
+  {
+    "id": "EX-3c66378a6750",
+    "vaeltharyn": "Sorkev skentav!",
+    "origine": "1.4.0",
+    "cles": [
+      "bitch"
+    ],
+    "francais": [
+      "Garce !"
+    ],
+    "english": [
+      "Bitch!"
+    ]
+  },
+  {
+    "id": "EX-9598e37cb3cd",
+    "vaeltharyn": "Sorkev borbaem!",
+    "origine": "1.4.0",
+    "cles": [
+      "sexual_slur"
+    ],
+    "francais": [
+      "Femme accusée de débauche !"
+    ],
+    "english": [
+      "Woman accused of sexual depravity!"
+    ]
+  },
+  {
+    "id": "EX-4f98832bee88",
+    "vaeltharyn": "Trosen!",
+    "origine": "1.4.0",
+    "cles": [
+      "sexwork_slur"
+    ],
+    "francais": [
+      "Pute !"
+    ],
+    "english": [
+      "Whore!"
+    ]
+  },
+  {
+    "id": "EX-368c5a9fe515",
+    "vaeltharyn": "Sorkev supyk!",
+    "origine": "1.4.0",
+    "cles": [
+      "bimbo"
+    ],
+    "francais": [
+      "Femme jugée écervelée !"
+    ],
+    "english": [
+      "Woman called an airhead!"
+    ]
+  },
+  {
+    "id": "EX-7fa7795bb961",
+    "vaeltharyn": "Thalen graefyhael!",
+    "origine": "1.4.0",
+    "cles": [
+      "sexual_creep"
+    ],
+    "francais": [
+      "Personne lubrique !"
+    ],
+    "english": [
+      "Lewd person!"
+    ]
+  },
+  {
+    "id": "EX-f461ad3dc543",
+    "vaeltharyn": "Kaelydhyk!",
+    "origine": "1.4.0",
+    "cles": [
+      "creep"
+    ],
+    "francais": [
+      "Personne répugnante !"
+    ],
+    "english": [
+      "Disgusting creep!"
+    ]
+  },
+  {
+    "id": "EX-9b7b9f4e5f95",
+    "vaeltharyn": "Thalen borbaem!",
+    "origine": "1.4.0",
+    "cles": [
+      "pervert"
+    ],
+    "francais": [
+      "Personne jugée dépravée !"
+    ],
+    "english": [
+      "Person called depraved!"
+    ]
+  },
+  {
+    "id": "EX-e61f98e9f876",
+    "vaeltharyn": "Thalen loror!",
+    "origine": "1.4.0",
+    "cles": [
+      "disgusting"
+    ],
+    "francais": [
+      "Personne dégoûtante !"
+    ],
+    "english": [
+      "Disgusting person!"
+    ]
+  },
+  {
+    "id": "EX-b43e3fdea405",
+    "vaeltharyn": "Barryv!",
+    "origine": "1.4.0",
+    "cles": [
+      "cuckold"
+    ],
+    "francais": [
+      "Cocu !"
+    ],
+    "english": [
+      "Cuckold!"
+    ]
+  },
+  {
+    "id": "EX-8c74d37266be",
+    "vaeltharyn": "Sorkev ya vaere dhirum!",
+    "origine": "1.4.0",
+    "cles": [
+      "flirt_accusation"
+    ],
+    "francais": [
+      "Femme accusée d'attiser l'attirance !"
+    ],
+    "english": [
+      "Woman accused of provoking attraction!"
+    ]
+  },
+  {
+    "id": "EX-7bf491d2aec4",
+    "vaeltharyn": "Goelvaek ya ulmaerune sorkevi!",
+    "origine": "1.4.0",
+    "cles": [
+      "sexist_boor"
+    ],
+    "francais": [
+      "Goujat qui méprise les femmes !"
+    ],
+    "english": [
+      "Boor who despises women!"
+    ]
+  },
+  {
+    "id": "EX-e622330f9600",
+    "vaeltharyn": "Vrask, grusk!",
+    "origine": "1.4.0",
+    "cles": [
+      "double_expletive"
+    ],
+    "francais": [
+      "Putain de merde !"
+    ],
+    "english": [
+      "Fucking hell!"
+    ]
+  },
+  {
+    "id": "EX-0ca6639e7809",
+    "vaeltharyn": "Sketh, en hael!",
+    "origine": "1.4.0",
+    "cles": [
+      "theatrical"
+    ],
+    "francais": [
+      "Grand ciel !"
+    ],
+    "english": [
+      "Good heavens!"
+    ]
+  },
+  {
+    "id": "EX-b4ae89ed6785",
+    "vaeltharyn": "Lemkun, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "god_expletive"
+    ],
+    "francais": [
+      "Dieu, putain !"
+    ],
+    "english": [
+      "God, damn it!"
+    ]
+  },
+  {
+    "id": "EX-c5daedb37799",
+    "vaeltharyn": "Lemkun!",
+    "origine": "1.4.0",
+    "cles": [
+      "by_god"
+    ],
+    "francais": [
+      "Par Dieu !"
+    ],
+    "english": [
+      "By God!"
+    ]
+  },
+  {
+    "id": "EX-ab432c918135",
+    "vaeltharyn": "Dyfel!",
+    "origine": "1.4.0",
+    "cles": [
+      "devil_expletive"
+    ],
+    "francais": [
+      "Diable !"
+    ],
+    "english": [
+      "What the devil!"
+    ]
+  },
+  {
+    "id": "EX-6193fc3d2d61",
+    "vaeltharyn": "Saelnyr!",
+    "origine": "1.4.0",
+    "cles": [
+      "curses"
+    ],
+    "francais": [
+      "Malédiction !"
+    ],
+    "english": [
+      "Curses!"
+    ]
+  },
+  {
+    "id": "EX-e1bee9ad8b6c",
+    "vaeltharyn": "Sketh, se vele thaevl ma?",
+    "origine": "1.4.0",
+    "cles": [
+      "surprise"
+    ],
+    "francais": [
+      "Ce n'est pas vrai ?!"
+    ],
+    "english": [
+      "Is that really true?!"
+    ]
+  },
+  {
+    "id": "EX-299ee563b259",
+    "vaeltharyn": "Vrask, se vele thaevl ma?",
+    "origine": "1.4.0",
+    "cles": [
+      "strong_surprise"
+    ],
+    "francais": [
+      "Putain, c'est vrai ?!"
+    ],
+    "english": [
+      "Holy shit, is that true?!"
+    ]
+  },
+  {
+    "id": "EX-e65909b18508",
+    "vaeltharyn": "Ven, vrask?!",
+    "origine": "1.4.0",
+    "cles": [
+      "what"
+    ],
+    "francais": [
+      "Quoi, putain ?!"
+    ],
+    "english": [
+      "What the fuck?!"
+    ]
+  },
+  {
+    "id": "EX-c1c0e62f4969",
+    "vaeltharyn": "Tin naethalai, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "dismiss_plural"
+    ],
+    "francais": [
+      "Allez vous faire foutre !"
+    ],
+    "english": [
+      "Fuck off, all of you!"
+    ]
+  },
+  {
+    "id": "EX-9019940a5040",
+    "vaeltharyn": "Laera mi e saerunath, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "leave_alone_strong"
+    ],
+    "francais": [
+      "Fous-moi la paix, putain !"
+    ],
+    "english": [
+      "Leave me the fuck alone!"
+    ]
+  },
+  {
+    "id": "EX-3c43310eec37",
+    "vaeltharyn": "Nu kaena mi, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "back_off"
+    ],
+    "francais": [
+      "Ne me touche pas, putain !"
+    ],
+    "english": [
+      "Back off, don't touch me!"
+    ]
+  },
+  {
+    "id": "EX-27e6e39563b3",
+    "vaeltharyn": "Nu horsahima mi!",
+    "origine": "1.4.0",
+    "cles": [
+      "stop_nuisance"
+    ],
+    "francais": [
+      "Arrête de me faire chier !"
+    ],
+    "english": [
+      "Stop being a pain in the ass!"
+    ]
+  },
+  {
+    "id": "EX-3c5453fc879a",
+    "vaeltharyn": "Ti horsahimes mi, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "annoyed"
+    ],
+    "francais": [
+      "Tu me fais chier !"
+    ],
+    "english": [
+      "You're pissing me off!"
+    ]
+  },
+  {
+    "id": "EX-2101d52bd2d7",
+    "vaeltharyn": "Se horsahime mi, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "annoyed_thing"
+    ],
+    "francais": [
+      "Ça me fait chier !"
+    ],
+    "english": [
+      "This pisses me off!"
+    ]
+  },
+  {
+    "id": "EX-a81118cc6779",
+    "vaeltharyn": "Ti thenthoses mi ma, vrask?",
+    "origine": "1.4.0",
+    "cles": [
+      "mock_question"
+    ],
+    "francais": [
+      "Tu te fous de ma gueule ?"
+    ],
+    "english": [
+      "Are you fucking kidding me?"
+    ]
+  },
+  {
+    "id": "EX-f662ac23476a",
+    "vaeltharyn": "Ti hapeves dhe mi velem kofav ma, vrask?",
+    "origine": "1.4.0",
+    "cles": [
+      "take_for_fool"
+    ],
+    "francais": [
+      "Tu me prends pour un con ?"
+    ],
+    "english": [
+      "Do you think I'm a fucking idiot?"
+    ]
+  },
+  {
+    "id": "EX-1c53055984d9",
+    "vaeltharyn": "Ti loebemes dhe ti veles var, vrask?",
+    "origine": "1.4.0",
+    "cles": [
+      "who_are_you"
+    ],
+    "francais": [
+      "Tu te prends pour qui, putain ?"
+    ],
+    "english": [
+      "Who the fuck do you think you are?"
+    ]
+  },
+  {
+    "id": "EX-3e48d37e4047",
+    "vaeltharyn": "Ven vele en kaer ti-en, vrask?",
+    "origine": "1.4.0",
+    "cles": [
+      "your_problem"
+    ],
+    "francais": [
+      "C'est quoi ton secret, putain ?"
+    ],
+    "english": [
+      "What's your secret, fuck?!"
+    ]
+  },
+  {
+    "id": "EX-a7a17ef3fb47",
+    "vaeltharyn": "Gydim basoel!",
+    "origine": "1.4.0",
+    "cles": [
+      "mistake"
+    ],
+    "francais": [
+      "Une erreur stupide !"
+    ],
+    "english": [
+      "A stupid mistake!"
+    ]
+  },
+  {
+    "id": "EX-f03f25ccedb3",
+    "vaeltharyn": "Therval skentav!",
+    "origine": "1.4.0",
+    "cles": [
+      "mean_stunt"
+    ],
+    "francais": [
+      "Une saloperie de manœuvre !"
+    ],
+    "english": [
+      "A nasty stunt!"
+    ]
+  },
+  {
+    "id": "EX-55e49d3bedeb",
+    "vaeltharyn": "Se vele ulmaeriv, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "bad_quality"
+    ],
+    "francais": [
+      "C'est vraiment de la merde !"
+    ],
+    "english": [
+      "It's fucking awful!"
+    ]
+  },
+  {
+    "id": "EX-c2ab6ab1e27b",
+    "vaeltharyn": "Se vele ulthaevl.",
+    "origine": "1.4.0",
+    "cles": [
+      "bogus"
+    ],
+    "francais": [
+      "C'est faux."
+    ],
+    "english": [
+      "It's bogus."
+    ]
+  },
+  {
+    "id": "EX-b8ee94d38875",
+    "vaeltharyn": "Se vele dhidhys vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "mess"
+    ],
+    "francais": [
+      "C'est un putain de bordel."
+    ],
+    "english": [
+      "It's a fucking mess."
+    ]
+  },
+  {
+    "id": "EX-ffe6e12f1e73",
+    "vaeltharyn": "Se vele dhidhysaun vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "huge_mess"
+    ],
+    "francais": [
+      "C'est un bordel monstre."
+    ],
+    "english": [
+      "It's a complete fucking mess."
+    ]
+  },
+  {
+    "id": "EX-013fb36d4b07",
+    "vaeltharyn": "Taempaer vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "failure"
+    ],
+    "francais": [
+      "Un putain de fiasco !"
+    ],
+    "english": [
+      "A fucking fiasco!"
+    ]
+  },
+  {
+    "id": "EX-c5d963e367e7",
+    "vaeltharyn": "Therval grusken!",
+    "origine": "1.4.0",
+    "cles": [
+      "crap_job"
+    ],
+    "francais": [
+      "Un boulot de merde !"
+    ],
+    "english": [
+      "A shitty job!"
+    ]
+  },
+  {
+    "id": "EX-2587b80677d6",
+    "vaeltharyn": "Saunrael grusken!",
+    "origine": "1.4.0",
+    "cles": [
+      "crap_weather"
+    ],
+    "francais": [
+      "Un temps de merde !"
+    ],
+    "english": [
+      "Shitty weather!"
+    ]
+  },
+  {
+    "id": "EX-a299ff06bc32",
+    "vaeltharyn": "Saun grusken!",
+    "origine": "1.4.0",
+    "cles": [
+      "crap_day"
+    ],
+    "francais": [
+      "Une journée de merde !"
+    ],
+    "english": [
+      "A shitty day!"
+    ]
+  },
+  {
+    "id": "EX-11c0d3110951",
+    "vaeltharyn": "Thaleth grusken!",
+    "origine": "1.4.0",
+    "cles": [
+      "crap_life"
+    ],
+    "francais": [
+      "Vie de merde !"
+    ],
+    "english": [
+      "Fuck my life!"
+    ]
+  },
+  {
+    "id": "EX-4c212d100c8b",
+    "vaeltharyn": "Ith skoendhoem vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "intensifier_strong"
+    ],
+    "francais": [
+      "Ce putain de truc !"
+    ],
+    "english": [
+      "This fucking thing!"
+    ]
+  },
+  {
+    "id": "EX-836473b70ce5",
+    "vaeltharyn": "Ith skoendhoem garuniv!",
+    "origine": "1.4.0",
+    "cles": [
+      "intensifier_mild"
+    ],
+    "francais": [
+      "Ce fichu truc !"
+    ],
+    "english": [
+      "This damn thing!"
+    ]
+  },
+  {
+    "id": "EX-8a0adf64ea00",
+    "vaeltharyn": "Therval hudhuthun ulmaeriv!",
+    "origine": "1.4.0",
+    "cles": [
+      "half_assed"
+    ],
+    "francais": [
+      "Travail mal fait et négligé !"
+    ],
+    "english": [
+      "Shoddy, half-assed work!"
+    ]
+  },
+  {
+    "id": "EX-9f09c6afa019",
+    "vaeltharyn": "Skoendhoem ulmaeriv garuniv!",
+    "origine": "1.4.0",
+    "cles": [
+      "cheap"
+    ],
+    "francais": [
+      "Un fichu truc de piètre qualité !"
+    ],
+    "english": [
+      "A damn lousy thing!"
+    ]
+  },
+  {
+    "id": "EX-5da695dea109",
+    "vaeltharyn": "Mi nu slusoemem se.",
+    "origine": "1.4.0",
+    "cles": [
+      "dont_care"
+    ],
+    "francais": [
+      "Je m'en fiche."
+    ],
+    "english": [
+      "I don't care about it."
+    ]
+  },
+  {
+    "id": "EX-5cba1e153b67",
+    "vaeltharyn": "Mi nu slusoemem se, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "dont_care_strong"
+    ],
+    "francais": [
+      "J'en ai rien à foutre."
+    ],
+    "english": [
+      "I don't give a fuck."
+    ]
+  },
+  {
+    "id": "EX-f83900d7f5db",
+    "vaeltharyn": "Mi dhavem foegaek, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "fed_up"
+    ],
+    "francais": [
+      "J'en ai marre, putain."
+    ],
+    "english": [
+      "I'm fucking fed up."
+    ]
+  },
+  {
+    "id": "EX-ab5079959902",
+    "vaeltharyn": "Mi dhavem foegaek fra se-ath, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "fed_up_this"
+    ],
+    "francais": [
+      "J'en ai marre de ça, putain."
+    ],
+    "english": [
+      "I'm fucking sick of this."
+    ]
+  },
+  {
+    "id": "EX-a04ab4e0411d",
+    "vaeltharyn": "Mi velem vyrv.",
+    "origine": "1.4.0",
+    "cles": [
+      "angry"
+    ],
+    "francais": [
+      "Je suis en rogne."
+    ],
+    "english": [
+      "I'm pissed off."
+    ]
+  },
+  {
+    "id": "EX-d8bf828bd843",
+    "vaeltharyn": "Mi velem brehum.",
+    "origine": "1.4.0",
+    "cles": [
+      "drunk"
+    ],
+    "francais": [
+      "Je suis ivre."
+    ],
+    "english": [
+      "I'm drunk."
+    ]
+  },
+  {
+    "id": "EX-c8baf96c2df6",
+    "vaeltharyn": "Mi dhavem nyrmael, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "bored"
+    ],
+    "francais": [
+      "Je me fais chier."
+    ],
+    "english": [
+      "I'm bored shitless."
+    ]
+  },
+  {
+    "id": "EX-e270e54c5b37",
+    "vaeltharyn": "Mi velem brytoekun.",
+    "origine": "1.4.0",
+    "cles": [
+      "hassled"
+    ],
+    "francais": [
+      "Je me fais harceler."
+    ],
+    "english": [
+      "I'm getting hassled."
+    ]
+  },
+  {
+    "id": "EX-5326943c060e",
+    "vaeltharyn": "Mi kelem thaelar se.",
+    "origine": "1.4.0",
+    "cles": [
+      "manage"
+    ],
+    "francais": [
+      "Je peux y arriver."
+    ],
+    "english": [
+      "I can manage it."
+    ]
+  },
+  {
+    "id": "EX-bdc89cdbde3c",
+    "vaeltharyn": "Mi ragydimem, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "fuck_up"
+    ],
+    "francais": [
+      "J'ai merdé."
+    ],
+    "english": [
+      "I fucked up."
+    ]
+  },
+  {
+    "id": "EX-6ee07e518bd2",
+    "vaeltharyn": "Ti ragydimes, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "you_fuck_up"
+    ],
+    "francais": [
+      "T'as merdé."
+    ],
+    "english": [
+      "You fucked up."
+    ]
+  },
+  {
+    "id": "EX-d7f7e2f5a80b",
+    "vaeltharyn": "Ti thaeles nathem, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "stir_discord"
+    ],
+    "francais": [
+      "Tu fous la merde."
+    ],
+    "english": [
+      "You're stirring shit up."
+    ]
+  },
+  {
+    "id": "EX-d99283bfb928",
+    "vaeltharyn": "Mi thaelem velu tidom, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "hard_work"
+    ],
+    "francais": [
+      "Je me casse le cul."
+    ],
+    "english": [
+      "I'm busting my ass."
+    ]
+  },
+  {
+    "id": "EX-7d50fec06a15",
+    "vaeltharyn": "Ti sendes nul skoendhoem, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "know_nothing"
+    ],
+    "francais": [
+      "Tu n'y connais que dalle."
+    ],
+    "english": [
+      "You don't know shit."
+    ]
+  },
+  {
+    "id": "EX-cdf4a160403d",
+    "vaeltharyn": "Se pykikove nul vaermar.",
+    "origine": "1.4.0",
+    "cles": [
+      "no_value"
+    ],
+    "francais": [
+      "Ça ne vaut pas un sou."
+    ],
+    "english": [
+      "It's not worth a penny."
+    ]
+  },
+  {
+    "id": "EX-fa3f6c152c2d",
+    "vaeltharyn": "Setoesaun vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "huge_amount"
+    ],
+    "francais": [
+      "Une putain de quantité !"
+    ],
+    "english": [
+      "A fuckton!"
+    ]
+  },
+  {
+    "id": "EX-b6d5c1b98736",
+    "vaeltharyn": "Nul skoendhoem, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "nothing"
+    ],
+    "francais": [
+      "Rien, putain."
+    ],
+    "english": [
+      "Jack shit."
+    ]
+  },
+  {
+    "id": "EX-0d6a42c7b52a",
+    "vaeltharyn": "Grusk grygel; saun maenusoek.",
+    "origine": "1.4.0",
+    "cles": [
+      "same_crap"
+    ],
+    "francais": [
+      "Même merde, autre jour."
+    ],
+    "english": [
+      "Same shit, different day."
+    ]
+  },
+  {
+    "id": "EX-0ce8f5985a10",
+    "vaeltharyn": "Gydimi vynen.",
+    "origine": "1.4.0",
+    "cles": [
+      "shit_happens"
+    ],
+    "francais": [
+      "Les ratages arrivent."
+    ],
+    "english": [
+      "Shit happens."
+    ]
+  },
+  {
+    "id": "EX-1fbb1b5a83f4",
+    "vaeltharyn": "Slaefiv ti-en.",
+    "origine": "1.4.0",
+    "cles": [
+      "tough_luck"
+    ],
+    "francais": [
+      "Pas de bol pour toi."
+    ],
+    "english": [
+      "Tough luck."
+    ]
+  },
+  {
+    "id": "EX-562b150a5a58",
+    "vaeltharyn": "Se vele skoendhoem ti-en; mi nu slusoemem se.",
+    "origine": "1.4.0",
+    "cles": [
+      "not_my_problem"
+    ],
+    "francais": [
+      "C'est ton affaire; je m'en fiche."
+    ],
+    "english": [
+      "That's your business; I don't care."
+    ]
+  },
+  {
+    "id": "EX-ca3f75be3163",
+    "vaeltharyn": "Mi laerem se, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "fuck_it"
+    ],
+    "francais": [
+      "Et puis merde, je laisse tomber."
+    ],
+    "english": [
+      "Fuck it, I'm dropping it."
+    ]
+  },
+  {
+    "id": "EX-b6def82a081f",
+    "vaeltharyn": "Mi nu vaelem se, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "reject_this"
+    ],
+    "francais": [
+      "Ah non, j'en veux pas, putain."
+    ],
+    "english": [
+      "Fuck that."
+    ]
+  },
+  {
+    "id": "EX-16d651bc0177",
+    "vaeltharyn": "Se vele thaevl, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "sarcastic_truth"
+    ],
+    "francais": [
+      "Sans déconner !"
+    ],
+    "english": [
+      "No shit!"
+    ]
+  },
+  {
+    "id": "EX-d114d077faa6",
+    "vaeltharyn": "Mi graethem dhe se vele thaevl.",
+    "origine": "1.4.0",
+    "cles": [
+      "swear_true"
+    ],
+    "francais": [
+      "Je te jure que c'est vrai."
+    ],
+    "english": [
+      "I swear it's true."
+    ]
+  },
+  {
+    "id": "EX-e034cb893df2",
+    "vaeltharyn": "Se radityle mi, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "scared"
+    ],
+    "francais": [
+      "Ça m'a foutu une de ces trouilles."
+    ],
+    "english": [
+      "That scared the shit out of me."
+    ]
+  },
+  {
+    "id": "EX-c0511576fe34",
+    "vaeltharyn": "Se vele vrelloen, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "mind_blown"
+    ],
+    "francais": [
+      "Ça me stupéfie, putain !"
+    ],
+    "english": [
+      "That blows my fucking mind!"
+    ]
+  },
+  {
+    "id": "EX-58101da6714c",
+    "vaeltharyn": "Se vele mynoes, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "excellent",
+      "appreciation"
+    ],
+    "francais": [
+      "Ça déchire, putain !",
+      "Putain, c'est excellent !"
+    ],
+    "english": [
+      "It's fucking excellent!",
+      "Holy shit, that's good!"
+    ]
+  },
+  {
+    "id": "EX-9d2c7c20660c",
+    "vaeltharyn": "Thalen vaethv an vyral!",
+    "origine": "1.4.0",
+    "cles": [
+      "badass"
+    ],
+    "francais": [
+      "Personne courageuse et puissante !"
+    ],
+    "english": [
+      "A brave, formidable person!"
+    ]
+  },
+  {
+    "id": "EX-9596d289d44a",
+    "vaeltharyn": "Thalen slibelaev!",
+    "origine": "1.4.0",
+    "cles": [
+      "threatening"
+    ],
+    "francais": [
+      "Personne redoutable !"
+    ],
+    "english": [
+      "An intimidating person!"
+    ]
+  },
+  {
+    "id": "EX-5440ef90938c",
+    "vaeltharyn": "Kraeboer bremvyv!",
+    "origine": "1.4.0",
+    "cles": [
+      "smartass"
+    ],
+    "francais": [
+      "Insolent pédant !"
+    ],
+    "english": [
+      "Pedantic wiseass!"
+    ]
+  },
+  {
+    "id": "EX-ed2ad414decc",
+    "vaeltharyn": "Thalen ya ara lyre grusk-thareli!",
+    "origine": "1.4.0",
+    "cles": [
+      "foul_mouthed"
+    ],
+    "francais": [
+      "Personne qui débite des conneries !"
+    ],
+    "english": [
+      "Someone who habitually talks bullshit!"
+    ]
+  },
+  {
+    "id": "EX-3774ace17f3b",
+    "vaeltharyn": "Se vele ulthaeviv, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "wrong_way"
+    ],
+    "francais": [
+      "C'est fait de travers, putain."
+    ],
+    "english": [
+      "It's fucking wrong."
+    ]
+  },
+  {
+    "id": "EX-eb94fb1e1dd0",
+    "vaeltharyn": "Thalen noekath!",
+    "origine": "1.4.0",
+    "cles": [
+      "fake"
+    ],
+    "francais": [
+      "Imposteur !"
+    ],
+    "english": [
+      "Phony!"
+    ]
+  },
+  {
+    "id": "EX-7d8992fe1c02",
+    "vaeltharyn": "Thalen nygaek an slyllum!",
+    "origine": "1.4.0",
+    "cles": [
+      "imitator"
+    ],
+    "francais": [
+      "Poseur qui n'y arrive pas !"
+    ],
+    "english": [
+      "Inept poser!"
+    ]
+  },
+  {
+    "id": "EX-3a88201a22ec",
+    "vaeltharyn": "Sorkev noefor!",
+    "origine": "1.4.0",
+    "cles": [
+      "conformist_woman"
+    ],
+    "francais": [
+      "Femme jugée conformiste !"
+    ],
+    "english": [
+      "Woman called conformist!"
+    ]
+  },
+  {
+    "id": "EX-c774fb64582f",
+    "vaeltharyn": "Sorkev raev an garim!",
+    "origine": "1.4.0",
+    "cles": [
+      "empowered_woman"
+    ],
+    "francais": [
+      "Femme libre et autonome !"
+    ],
+    "english": [
+      "A free, self-directed woman!"
+    ]
+  },
+  {
+    "id": "EX-caf9f798f748",
+    "vaeltharyn": "Sorkev ya dhave hynloel!",
+    "origine": "1.4.0",
+    "cles": [
+      "leader_woman"
+    ],
+    "francais": [
+      "Femme qui a du pouvoir !"
+    ],
+    "english": [
+      "A woman with power!"
+    ]
+  },
+  {
+    "id": "EX-40ab2092f784",
+    "vaeltharyn": "Thalen ya vaele haelthim!",
+    "origine": "1.4.0",
+    "cles": [
+      "attention_seeker"
+    ],
+    "francais": [
+      "Personne qui recherche l'attention !"
+    ],
+    "english": [
+      "Attention-seeker!"
+    ]
+  },
+  {
+    "id": "EX-167bd29ea1b0",
+    "vaeltharyn": "Thalen ya thaele lapael!",
+    "origine": "1.4.0",
+    "cles": [
+      "dramatic"
+    ],
+    "francais": [
+      "Personne qui en fait des tonnes !"
+    ],
+    "english": [
+      "Someone who exaggerates everything!"
+    ]
+  },
+  {
+    "id": "EX-0b15a730443a",
+    "vaeltharyn": "Maelin ya vaele sava skoendhoemi!",
+    "origine": "1.4.0",
+    "cles": [
+      "entitled"
+    ],
+    "francais": [
+      "Gosse qui veut tout !"
+    ],
+    "english": [
+      "A brat who wants everything!"
+    ]
+  },
+  {
+    "id": "EX-fb3f2d3c058a",
+    "vaeltharyn": "Thalen dhimor an doedas!",
+    "origine": "1.4.0",
+    "cles": [
+      "bossy_complainer"
+    ],
+    "francais": [
+      "Personne arrogante et râleuse !"
+    ],
+    "english": [
+      "An arrogant complainer!"
+    ]
+  },
+  {
+    "id": "EX-3183075ac202",
+    "vaeltharyn": "Thalir ya hudhuthe maelin si-en!",
+    "origine": "1.4.0",
+    "cles": [
+      "lazy_parent"
+    ],
+    "francais": [
+      "Parent qui néglige son enfant !"
+    ],
+    "english": [
+      "A parent who neglects their child!"
+    ]
+  },
+  {
+    "id": "EX-55c1fa28ec1f",
+    "vaeltharyn": "Thalen nypuhyl!",
+    "origine": "1.4.0",
+    "cles": [
+      "submissive"
+    ],
+    "francais": [
+      "Personne qui se laisse diriger !"
+    ],
+    "english": [
+      "An easily led person!"
+    ]
+  },
+  {
+    "id": "EX-d5094614e075",
+    "vaeltharyn": "Toenvapam sen vaethun!",
+    "origine": "1.4.0",
+    "cles": [
+      "sycophant_coward"
+    ],
+    "francais": [
+      "Lèche-bottes sans courage !"
+    ],
+    "english": [
+      "A cowardly bootlicker!"
+    ]
+  },
+  {
+    "id": "EX-6bc76e16f3fd",
+    "vaeltharyn": "Bidim basoel!",
+    "origine": "1.4.0",
+    "cles": [
+      "childish_man"
+    ],
+    "francais": [
+      "Homme jugé sot !"
+    ],
+    "english": [
+      "Man called foolish!"
+    ]
+  },
+  {
+    "id": "EX-b898bfe4e4ac",
+    "vaeltharyn": "Thalen ya vaele vaermar e lyrenath!",
+    "origine": "1.4.0",
+    "cles": [
+      "attracted_to_money"
+    ],
+    "francais": [
+      "Personne qui recherche l'argent dans une relation !"
+    ],
+    "english": [
+      "Person seeking money in a relationship!"
+    ]
+  },
+  {
+    "id": "EX-275d8c9fc0d3",
+    "vaeltharyn": "Thalen ya thaele brytoeketh braeltyner!",
+    "origine": "1.4.0",
+    "cles": [
+      "sexual_harasser"
+    ],
+    "francais": [
+      "Personne qui commet du harcèlement sexuel !"
+    ],
+    "english": [
+      "A person engaging in sexual harassment!"
+    ]
+  },
+  {
+    "id": "EX-2bf9663f1e8c",
+    "vaeltharyn": "Thalen sen maelnayrun!",
+    "origine": "1.4.0",
+    "cles": [
+      "involuntary_celibate"
+    ],
+    "francais": [
+      "Personne sans partenaire !"
+    ],
+    "english": [
+      "Person without a partner!"
+    ]
+  },
+  {
+    "id": "EX-2a74a9e5e1ff",
+    "vaeltharyn": "Thalen ya ulmaerune sorkevi!",
+    "origine": "1.4.0",
+    "cles": [
+      "spiteful_misogynist"
+    ],
+    "francais": [
+      "Personne qui méprise les femmes !"
+    ],
+    "english": [
+      "Someone who despises women!"
+    ]
+  },
+  {
+    "id": "EX-76df9b0bb6f8",
+    "vaeltharyn": "Kofav garuniv!",
+    "origine": "1.4.0",
+    "cles": [
+      "idiot_mildintense"
+    ],
+    "francais": [
+      "Fichu imbécile !"
+    ],
+    "english": [
+      "Bloody idiot!"
+    ]
+  },
+  {
+    "id": "EX-e8403ef5f6b7",
+    "vaeltharyn": "Se vele sha maeriv, sketh!",
+    "origine": "1.4.0",
+    "cles": [
+      "adj_intensifier"
+    ],
+    "francais": [
+      "C'est fichtrement bon !"
+    ],
+    "english": [
+      "It's damn good!"
+    ]
+  },
+  {
+    "id": "EX-6722fd106297",
+    "vaeltharyn": "Vareth-greth grusken!",
+    "origine": "1.4.0",
+    "cles": [
+      "bad_situation"
+    ],
+    "francais": [
+      "Une difficulté de merde !"
+    ],
+    "english": [
+      "A shitty predicament!"
+    ]
+  },
+  {
+    "id": "EX-3060a40ed333",
+    "vaeltharyn": "Skoendhoem basoel!",
+    "origine": "1.4.0",
+    "cles": [
+      "stupid_modifier"
+    ],
+    "francais": [
+      "Un truc à la con !"
+    ],
+    "english": [
+      "A dumb thing!"
+    ]
+  },
+  {
+    "id": "EX-90961afec75b",
+    "vaeltharyn": "Se vele dhaethoth, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "disgust"
+    ],
+    "francais": [
+      "Ça me dégoûte, putain !"
+    ],
+    "english": [
+      "It's fucking disgusting!"
+    ]
+  },
+  {
+    "id": "EX-f8c8b213d8a8",
+    "vaeltharyn": "Mi dhavem maelnaev ti-or.",
+    "origine": "1.4.0",
+    "cles": [
+      "sympathy"
+    ],
+    "francais": [
+      "J'éprouve de la compassion pour toi."
+    ],
+    "english": [
+      "I feel for you."
+    ]
+  },
+  {
+    "id": "EX-879ad306997e",
+    "vaeltharyn": "Thalen moelom!",
+    "origine": "1.4.0",
+    "cles": [
+      "weird_warning",
+      "unusual"
+    ],
+    "francais": [
+      "Personne jugée extravagante !",
+      "Personne extravagante !"
+    ],
+    "english": [
+      "Someone called eccentric!",
+      "Eccentric person!"
+    ]
+  },
+  {
+    "id": "EX-428d7baefc36",
+    "vaeltharyn": "Keltas!",
+    "origine": "1.4.0",
+    "cles": [
+      "snob"
+    ],
+    "francais": [
+      "Snob !"
+    ],
+    "english": [
+      "Snob!"
+    ]
+  },
+  {
+    "id": "EX-1b727eef0fb8",
+    "vaeltharyn": "Nu gimtaela!",
+    "origine": "1.4.0",
+    "cles": [
+      "stop_whining"
+    ],
+    "francais": [
+      "Arrête de pleurnicher !"
+    ],
+    "english": [
+      "Quit whining!"
+    ]
+  },
+  {
+    "id": "EX-2048d8b15374",
+    "vaeltharyn": "Ti dhaves vareth-greth thar, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "screwed_you"
+    ],
+    "francais": [
+      "T'es dans une grosse merde."
+    ],
+    "english": [
+      "You're in deep shit."
+    ]
+  },
+  {
+    "id": "EX-ca9ee97975da",
+    "vaeltharyn": "Min dhavom vareth-greth thar, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "screwed_us"
+    ],
+    "francais": [
+      "On est dans une grosse merde."
+    ],
+    "english": [
+      "We're in deep shit."
+    ]
+  },
+  {
+    "id": "EX-68bb84d2a1ab",
+    "vaeltharyn": "Se lyre grusk-thareli.",
+    "origine": "1.4.0",
+    "cles": [
+      "he_bullshit"
+    ],
+    "francais": [
+      "Il raconte des conneries."
+    ],
+    "english": [
+      "He's talking bullshit."
+    ]
+  },
+  {
+    "id": "EX-a946212f144d",
+    "vaeltharyn": "Se lyre; se nu sende.",
+    "origine": "1.4.0",
+    "cles": [
+      "he_ignorant_talk"
+    ],
+    "francais": [
+      "Il parle sans savoir."
+    ],
+    "english": [
+      "He's talking out of his ass."
+    ]
+  },
+  {
+    "id": "EX-f3210f417ad0",
+    "vaeltharyn": "Se vele skarn.",
+    "origine": "1.4.0",
+    "cles": [
+      "he_ass"
+    ],
+    "francais": [
+      "C'est un connard."
+    ],
+    "english": [
+      "He's an asshole."
+    ]
+  },
+  {
+    "id": "EX-0f809282710e",
+    "vaeltharyn": "Se skarne.",
+    "origine": "1.4.0",
+    "cles": [
+      "he_behaving"
+    ],
+    "francais": [
+      "Il se comporte en connard."
+    ],
+    "english": [
+      "He's being an asshole."
+    ]
+  },
+  {
+    "id": "EX-4885210a4d5c",
+    "vaeltharyn": "Hifun bremvyv!",
+    "origine": "1.4.0",
+    "cles": [
+      "windbag"
+    ],
+    "francais": [
+      "Bavard pédant !"
+    ],
+    "english": [
+      "Pompous windbag!"
+    ]
+  },
+  {
+    "id": "EX-d875f8b740ff",
+    "vaeltharyn": "Thalen ya nu kaere kaer!",
+    "origine": "1.4.0",
+    "cles": [
+      "bigmouth_secret"
+    ],
+    "francais": [
+      "Personne incapable de garder un secret !"
+    ],
+    "english": [
+      "Someone who cannot keep a secret!"
+    ]
+  },
+  {
+    "id": "EX-a71ce9f41052",
+    "vaeltharyn": "Melun ti-en!",
+    "origine": "1.4.0",
+    "cles": [
+      "family_fragment"
+    ],
+    "francais": [
+      "Ta mère !"
+    ],
+    "english": [
+      "Your mother!"
+    ]
+  },
+  {
+    "id": "EX-565eb44428b7",
+    "vaeltharyn": "Mi gruskem nar ti-ath.",
+    "origine": "1.4.0",
+    "cles": [
+      "literal_shit_on"
+    ],
+    "francais": [
+      "Je te chie dessus."
+    ],
+    "english": [
+      "I shit on you."
+    ]
+  },
+  {
+    "id": "EX-ab163cc7bd30",
+    "vaeltharyn": "Maelvela grusk an nytha!",
+    "origine": "1.4.0",
+    "cles": [
+      "eat_shit_die"
+    ],
+    "francais": [
+      "Mange de la merde et crève !"
+    ],
+    "english": [
+      "Eat shit and die!"
+    ]
+  },
+  {
+    "id": "EX-9c145cbbe6c0",
+    "vaeltharyn": "Sloelika fonul mi-en!",
+    "origine": "1.4.0",
+    "cles": [
+      "suck_dick"
+    ],
+    "francais": [
+      "Suce mon pénis !"
+    ],
+    "english": [
+      "Suck my dick!"
+    ]
+  },
+  {
+    "id": "EX-38aab6230964",
+    "vaeltharyn": "Sloelika daeboroeki mi-en!",
+    "origine": "1.4.0",
+    "cles": [
+      "suck_balls"
+    ],
+    "francais": [
+      "Suce mes testicules !"
+    ],
+    "english": [
+      "Suck my balls!"
+    ]
+  },
+  {
+    "id": "EX-82f1fe8d8e9c",
+    "vaeltharyn": "Ti keles mesithar se e foenroeminath si-en!",
+    "origine": "1.4.0",
+    "cles": [
+      "shove_ass"
+    ],
+    "francais": [
+      "Tu peux te le mettre dans l'anus !"
+    ],
+    "english": [
+      "You can shove it up your ass!"
+    ]
+  },
+  {
+    "id": "EX-43d12425794a",
+    "vaeltharyn": "E foenroeminath ti-en!",
+    "origine": "1.4.0",
+    "cles": [
+      "up_yours"
+    ],
+    "francais": [
+      "Dans ton cul !"
+    ],
+    "english": [
+      "Up your ass!"
+    ]
+  },
+  {
+    "id": "EX-05d374e03795",
+    "vaeltharyn": "Mi sendem se, Sherlock.",
+    "origine": "1.4.0",
+    "cles": [
+      "sarcastic_known"
+    ],
+    "francais": [
+      "Je le sais, Sherlock."
+    ],
+    "english": [
+      "No shit, Sherlock."
+    ]
+  },
+  {
+    "id": "EX-b587f183129a",
+    "vaeltharyn": "Ven vele vareth-greth ti-en, vrask?",
+    "origine": "1.4.0",
+    "cles": [
+      "your_issue"
+    ],
+    "francais": [
+      "C'est quoi ton putain de problème ?"
+    ],
+    "english": [
+      "What's your fucking problem?"
+    ]
+  },
+  {
+    "id": "EX-e0c294263e47",
+    "vaeltharyn": "Ir ti horsahimes mi, ti vimires.",
+    "origine": "1.4.0",
+    "cles": [
+      "mess_and_find"
+    ],
+    "francais": [
+      "Si tu me cherches, tu verras."
+    ],
+    "english": [
+      "Mess with me and you'll find out."
+    ]
+  },
+  {
+    "id": "EX-49fd43aae0a9",
+    "vaeltharyn": "Se rathaele naivkaethaun e mi-ath, vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "profound_surprise"
+    ],
+    "francais": [
+      "Ça m'a complètement stupéfié, putain !"
+    ],
+    "english": [
+      "That blew my fucking mind!"
+    ]
+  },
+  {
+    "id": "EX-f652b1302c10",
+    "vaeltharyn": "Fonul-brabon!",
+    "origine": "1.4.0",
+    "cles": [
+      "sexual_sucker"
+    ],
+    "francais": [
+      "Suceur de pénis !"
+    ],
+    "english": [
+      "Cocksucker!"
+    ]
+  },
+  {
+    "id": "EX-3229fbdddd1f",
+    "vaeltharyn": "Traemtoer-dhokun!",
+    "origine": "1.4.0",
+    "cles": [
+      "sexual_object"
+    ],
+    "francais": [
+      "Sac à sperme !"
+    ],
+    "english": [
+      "Cum dumpster!"
+    ]
+  },
+  {
+    "id": "EX-6310f422db56",
+    "vaeltharyn": "Bidim ya krekoke thaleni vo vroefinar!",
+    "origine": "1.4.0",
+    "cles": [
+      "sex_manipulator"
+    ],
+    "francais": [
+      "Homme qui trompe des personnes pour coucher !"
+    ],
+    "english": [
+      "Man who deceives people to get sex!"
+    ]
+  },
+  {
+    "id": "EX-f13b93a45063",
+    "vaeltharyn": "Thalen ya boebave maelnayrun si-en!",
+    "origine": "1.4.0",
+    "cles": [
+      "unfaithful_partner"
+    ],
+    "francais": [
+      "Personne qui trahit son partenaire !"
+    ],
+    "english": [
+      "Person who betrays their partner!"
+    ]
+  },
+  {
+    "id": "EX-15beaf66e7df",
+    "vaeltharyn": "Bidim mamysem graefyhael!",
+    "origine": "1.4.0",
+    "cles": [
+      "old_creep"
+    ],
+    "francais": [
+      "Vieux homme lubrique !"
+    ],
+    "english": [
+      "Dirty old man!"
+    ]
+  },
+  {
+    "id": "EX-a189c6160e72",
+    "vaeltharyn": "Thalen vaethv!",
+    "origine": "1.4.0",
+    "cles": [
+      "hard_to_intimidate"
+    ],
+    "francais": [
+      "Personne courageuse !"
+    ],
+    "english": [
+      "Brave person!"
+    ]
+  },
+  {
+    "id": "EX-08e6daceb29c",
+    "vaeltharyn": "Mi dhavem lonbem, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "misery"
+    ],
+    "francais": [
+      "J'ai la poisse, putain."
+    ],
+    "english": [
+      "Fuck, my luck is awful."
+    ]
+  },
+  {
+    "id": "EX-04c671f6f256",
+    "vaeltharyn": "Se pykikove nul vaermar, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "not_worth"
+    ],
+    "francais": [
+      "Ça ne vaut pas un sou, putain."
+    ],
+    "english": [
+      "It's not worth shit."
+    ]
+  },
+  {
+    "id": "EX-696ced289b0f",
+    "vaeltharyn": "Se thenthose mi.",
+    "origine": "1.4.0",
+    "cles": [
+      "he_mocks"
+    ],
+    "francais": [
+      "Il se moque de moi."
+    ],
+    "english": [
+      "He is making fun of me."
+    ]
+  },
+  {
+    "id": "EX-7237a5a2665f",
+    "vaeltharyn": "Se dityle mi, vrask.",
+    "origine": "1.4.0",
+    "cles": [
+      "causes_fear"
+    ],
+    "francais": [
+      "Ça me fout la trouille."
+    ],
+    "english": [
+      "It scares the hell out of me."
+    ]
+  },
+  {
+    "id": "EX-aba181cec217",
+    "vaeltharyn": "Nathemaun vrask!",
+    "origine": "1.4.0",
+    "cles": [
+      "controversy"
+    ],
+    "francais": [
+      "Une putain de querelle énorme !"
+    ],
+    "english": [
+      "A fucking storm of controversy!"
+    ]
+  }
+]

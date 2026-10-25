@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "source_rows": 719,
+  "sense_records": 226,
+  "new_lemmas": 9,
+  "entries": 65026,
+  "old_entries_preserved": 65017,
+  "new_canonical_expressions": 200,
+  "unestablished_source_rows": 4,
+  "validation": "written lexical, morphological, preservation, source coverage and link checks; no audio validation"
+}

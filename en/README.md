@@ -6,7 +6,7 @@
 
 Pronunciation: /ˈvæːl.θa.ryn/. Vaeltharyn has a productive grammar, regular conjugation and a bidirectional lexicon. Its sound evokes Nordic and Celtic inspirations; its grammar and roots are creations of this project.
 
-> **Working edition 1.3.0, including the lexical supplements of 24 and 25 October 2026.** The current data contains **65,017 entries**, **65,014 distinct spellings** and **6,535 verbs**. The comprehensive supplement includes 62,083 automatically allocated lexical proposals that have not all been individually reviewed.
+> **Working edition 1.4.0, including the lexical supplements of 24 and 25 October 2026.** The current data contains **65,026 entries**, **65,023 distinct spellings** and **6,538 verbs**. The comprehensive supplement includes 62,083 automatically allocated lexical proposals that have not all been individually reviewed.
 
 ## Start reading
 
@@ -45,4 +45,9 @@ Original project material is available under **CC BY-SA 4.0**. Wiktionary-derive
 
 ## Swearing, insults and expressions — 25 October 2026
 
-[Bilingual expressive supplement](23_Jurons_insultes_expressions.md): 10 proposed entries and 79 expressions with literal readings. Current CSVs contain 65,017 entries; historical volumes retain their scope.
+[Bilingual expressive supplement](23_Jurons_insultes_expressions.md): 10 proposed entries and 79 expressions with literal readings. Current CSVs contain 65,026 entries; historical volumes retain their scope.
+
+
+## Documented 1.4.0 extension — 25 October 2026
+
+[Extended expressive inventory](24_Inventaire_expressif_FR_EN.md): all 719 supplied rows are documented through 226 sense records and nine added lemmas. Four rows explicitly lack an established equivalent. Current CSVs: 65,026 entries, 65,023 spellings, 6,538 verbs. Earlier volume counts are historical. Additions remain unvalidated proposals.

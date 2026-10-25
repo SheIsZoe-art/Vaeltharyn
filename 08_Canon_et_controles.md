@@ -68,3 +68,8 @@ Les règles de formation, de cas et de conjugaison ne changent pas. La générat
 ## Jurons, insultes et expressions — 25 octobre 2026
 
 [Complément expressif bilingue](23_Jurons_insultes_expressions.md) : 10 entrées proposées, 79 expressions et leurs lectures littérales. Les CSV actuels contiennent 65 017 entrées ; les volumes historiques gardent leur périmètre.
+
+
+## Extension documentée 1.4.0 — 25 octobre 2026
+
+[Inventaire expressif FR/EN](24_Inventaire_expressif_FR_EN.md) : les 719 lignes fournies sont documentées, avec 226 fiches de sens et neuf ajouts lexicaux. Quatre lignes restent sans équivalent établi, explicitement signalées. CSV actuels : 65,026 entrées, 65,023 graphies, 6,538 verbes. Les chiffres antérieurs des volumes restent historiques. Les ajouts sont des propositions non validées.

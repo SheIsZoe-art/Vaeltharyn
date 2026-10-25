@@ -1013,3 +1013,8 @@ Les intensifs émotionnels positifs sont distingués des agressions : `vrask, mi
 `skarnar` : **mi skarnem**, **ti skarnes**, **se skarne**, **min skarnom**, **tin skarnos**, **sen skarnen** ; passé 1SG **mi raskarnem**, futur **mi viskarnem**. Impératifs **skarna / skarnai**. Pas de participe passif proposé : intransitif.
 
 Contrôle reproductible : `python scripts/verifier_registres.py`. Données : `registres/`. Les règles de grammaire et de phonologie existantes priment ; aucune validation audio n’est déclarée.
+
+
+## Extension documentée 1.4.0 — 25 octobre 2026
+
+[Inventaire expressif FR/EN](24_Inventaire_expressif_FR_EN.md) : les 719 lignes fournies sont documentées, avec 226 fiches de sens et neuf ajouts lexicaux. Quatre lignes restent sans équivalent établi, explicitement signalées. CSV actuels : 65,026 entrées, 65,023 graphies, 6,538 verbes. Les chiffres antérieurs des volumes restent historiques. Les ajouts sont des propositions non validées.

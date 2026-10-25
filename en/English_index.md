@@ -142,3 +142,8 @@ Base index: **65,007 entries** as of 24 October 2026, including the six kingdom 
 ## Swearing, insults and expressions — 25 October 2026
 
 [Bilingual expressive supplement](23_Jurons_insultes_expressions.md): 10 proposed entries and 79 expressions with literal readings. Current CSVs contain 65,017 entries; historical volumes retain their scope.
+
+
+## Documented 1.4.0 extension — 25 October 2026
+
+[Extended expressive inventory](24_Inventaire_expressif_FR_EN.md): all 719 supplied rows are documented through 226 sense records and nine added lemmas. Four rows explicitly lack an established equivalent. Current CSVs: 65,026 entries, 65,023 spellings, 6,538 verbs. Earlier volume counts are historical. Additions remain unvalidated proposals.

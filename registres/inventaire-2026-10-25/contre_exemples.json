@@ -1,0 +1,32 @@
+[
+  {
+    "key": "stir_trouble",
+    "vaeltharyn": "Ti thaeres nathemeth.",
+    "note": "NE PAS UTILISER; contrôle négatif de verbe musical / Do not use; negative control of musical verb."
+  },
+  {
+    "key": "work_hard",
+    "vaeltharyn": "Mi thaelem sha tidom.",
+    "note": "NE PAS UTILISER; sha n'intensifie pas un nom / Do not use; sha does not intensify a noun."
+  },
+  {
+    "key": "lots",
+    "vaeltharyn": "Sha setoes!",
+    "note": "NE PAS UTILISER; contrôle négatif de sha devant nom / Do not use; negative control of sha before a noun."
+  },
+  {
+    "key": "your_problem_only",
+    "vaeltharyn": "Se vele skoendhoem ti-en, nu mi-en.",
+    "note": "NE PAS UTILISER; nu ne nie pas un groupe nominal / Do not use; nu does not negate a noun phrase."
+  },
+  {
+    "key": "amazed",
+    "vaeltharyn": "Mi velem vrelloen, vrask.",
+    "note": "NE PAS UTILISER pour étonnement; contrôle de changement de rôle / Do not use for amazement; control for role reversal."
+  },
+  {
+    "key": "immature_man",
+    "vaeltharyn": "Bidim ya vele ko maelin!",
+    "note": "NE PAS UTILISER pour man-child; contrôle de faux comparatif ko / Do not use for man-child; ko is not like."
+  }
+]

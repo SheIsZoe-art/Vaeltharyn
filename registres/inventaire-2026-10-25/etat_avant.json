@@ -1,0 +1,9 @@
+{
+  "baseline": "cbd0428",
+  "csv_sha256": {
+    "lexique.csv": "d69cec76410bffe2c0278320047bcd8637a265fdebd478f7b075c417d99d0583",
+    "lexique_detaille.csv": "d2efbd014d816fc4ff94283fcf2f129c5b6faa9db24ac48b83cfe4f6cd100bf7",
+    "en/lexique.csv": "b60976885bb524cad8eb08088a508acab014309bd3e2942cff8101ae91403727",
+    "en/lexique_detaille.csv": "827a90a968e12c03bdef6e242c0099c4993191bfa3e6f5222a6d03ef2c23857e"
+  }
+}

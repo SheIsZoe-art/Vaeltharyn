@@ -1,0 +1,26 @@
+{
+  "version": "1.4.0",
+  "date": "2026-10-25",
+  "baseline": "cbd0428",
+  "lignes_source": 719,
+  "lignes_fr": 370,
+  "lignes_en": 349,
+  "lignes_documentees": 719,
+  "sens_contextualises": 226,
+  "formes_distinctes_utilisees": 222,
+  "formes_reutilisees_1_3": 22,
+  "formes_nouvelles": 200,
+  "nouveaux_lemmes": 9,
+  "anciennes_entrees_preservees": 65017,
+  "entrees_courantes": 65026,
+  "graphies_courantes": 65023,
+  "verbes": 6538,
+  "documentees_sans_equivalent": [
+    "SRC-L0376",
+    "SRC-L0377",
+    "SRC-L0513",
+    "SRC-L0514"
+  ],
+  "doublons_semantiques": "synonymes et répétitions de la source renvoyés aux mêmes sens et expressions, sans compter chaque variante comme un mot neuf",
+  "statut": "propositions contextualisées ; contrôle écrit ; pas de validation audio ni approbation individuelle revendiquée"
+}
