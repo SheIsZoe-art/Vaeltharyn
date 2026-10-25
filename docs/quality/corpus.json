@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "corpus_version": "1.6.0",
+  "structure_version": "4.1.0",
+  "canonical_inputs": 10,
+  "indexed_entries_verified_field_by_field": 65045,
+  "expression_records": 456,
+  "neutral_aliases": 1041,
+  "local_links_checked": 85,
+  "broken_links": []
+}

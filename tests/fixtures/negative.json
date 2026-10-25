@@ -1,0 +1,92 @@
+[
+  {
+    "key": "stir_trouble",
+    "vaeltharyn": "Ti thaeres nathemeth.",
+    "note": "NE PAS UTILISER; contrôle négatif de verbe musical / Do not use; negative control of musical verb.",
+    "group": "idioms"
+  },
+  {
+    "key": "work_hard",
+    "vaeltharyn": "Mi thaelem sha tidom.",
+    "note": "NE PAS UTILISER; sha n'intensifie pas un nom / Do not use; sha does not intensify a noun.",
+    "group": "idioms"
+  },
+  {
+    "key": "lots",
+    "vaeltharyn": "Sha setoes!",
+    "note": "NE PAS UTILISER; contrôle négatif de sha devant nom / Do not use; negative control of sha before a noun.",
+    "group": "idioms"
+  },
+  {
+    "key": "your_problem_only",
+    "vaeltharyn": "Se vele skoendhoem ti-en, nu mi-en.",
+    "note": "NE PAS UTILISER; nu ne nie pas un groupe nominal / Do not use; nu does not negate a noun phrase.",
+    "group": "idioms"
+  },
+  {
+    "key": "amazed",
+    "vaeltharyn": "Mi velem vrelloen, vrask.",
+    "note": "NE PAS UTILISER pour étonnement; contrôle de changement de rôle / Do not use for amazement; control for role reversal.",
+    "group": "idioms"
+  },
+  {
+    "key": "immature_man",
+    "vaeltharyn": "Bidim ya vele ko maelin!",
+    "note": "NE PAS UTILISER pour man-child; contrôle de faux comparatif ko / Do not use for man-child; ko is not like.",
+    "group": "idioms"
+  },
+  {
+    "forme": "frekven",
+    "raison_fr": "Sens déjà couvert : korthir désigne déjà la fréquence physique.",
+    "reason_en": "Meaning already covered: korthir already denotes physical frequency.",
+    "group": "sound-body"
+  },
+  {
+    "forme": "kik",
+    "raison_fr": "Collision de flexion : le génitif kiken et le datif kikor entrent en collision avec des lemmes antérieurs. Kikoe évite ces collisions.",
+    "reason_en": "Inflection collision: genitive kiken and dative kikor collide with earlier lemmas. Kikoe avoids these collisions.",
+    "group": "sound-body"
+  },
+  {
+    "forme": "potul",
+    "raison_fr": "Porte-clefs, pas clavier musical.",
+    "reason_en": "Key ring, not a musical keyboard.",
+    "group": "sound-body"
+  },
+  {
+    "forme": "fulan",
+    "raison_fr": "Sens pathologique ancien, pas scénario imaginaire libre.",
+    "reason_en": "Inherited pathological sense, not a freely imagined scenario.",
+    "group": "sound-body"
+  },
+  {
+    "forme": "doebyn",
+    "raison_fr": "Taille par découpe, pas région du tronc.",
+    "reason_en": "Cutting, not the waist.",
+    "group": "sound-body"
+  },
+  {
+    "forme": "kafoevar",
+    "raison_fr": "Faire un testament, pas éprouver un objet.",
+    "reason_en": "Make a will, not test an object.",
+    "group": "sound-body"
+  },
+  {
+    "forme": "kraevetol metothun",
+    "raison_fr": "Étreinte divisée/distribuée, pas expérience commune.",
+    "reason_en": "An embrace divided/distributed, not a shared experience.",
+    "group": "sound-body"
+  },
+  {
+    "forme": "Se vele bri pimuv an runkus.",
+    "raison_fr": "Les noms après bri ont besoin du locatif.",
+    "reason_en": "The nouns after bri need locative cases.",
+    "group": "sound-body"
+  },
+  {
+    "forme": "Vaemili dhoefyv kelen lyrar se.",
+    "raison_fr": "Insuffisant pour ONLY daring lips : la restriction exclusive est perdue.",
+    "reason_en": "Insufficient for ONLY daring lips: the restrictive meaning is lost.",
+    "group": "sound-body"
+  }
+]

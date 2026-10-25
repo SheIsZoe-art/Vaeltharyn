@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "structure_version": "4.1.0",
+  "corpus_version": "1.6.0",
+  "creator": "SheIsZoe",
+  "distribution": {
+    "format": "source"
+  },
+  "counts": {
+    "entries": 65045,
+    "spellings": 65042,
+    "verbs": 6539
+  },
+  "lexicon": {
+    "fr": {
+      "detailed": "data/lexicon/fr/entries.csv"
+    },
+    "en": {
+      "detailed": "data/lexicon/en/entries.csv"
+    }
+  },
+  "expressions": [
+    {
+      "id": "register",
+      "records": "data/expressions/register/expressions.json",
+      "kind": "initial"
+    },
+    {
+      "id": "idioms",
+      "records": "data/expressions/idioms/sens.json",
+      "kind": "senses"
+    },
+    {
+      "id": "sound-body",
+      "records": "data/expressions/sound-body/sens.json",
+      "kind": "senses"
+    },
+    {
+      "id": "emotions-dialogue",
+      "records": "data/expressions/emotions-dialogue/sens.json",
+      "kind": "senses"
+    }
+  ],
+  "resources": {
+    "phonology": {
+      "fr": "docs/fr/reference/phonology.md",
+      "en": "docs/en/reference/phonology.md"
+    },
+    "grammar": {
+      "fr": "docs/fr/reference/grammar.md",
+      "en": "docs/en/reference/grammar.md"
+    },
+    "conjugation": {
+      "fr": "docs/fr/reference/conjugation.md",
+      "en": "docs/en/reference/conjugation.md"
+    },
+    "word_formation": {
+      "fr": "docs/fr/reference/word-formation.md",
+      "en": "docs/en/reference/word-formation.md"
+    },
+    "canon": {
+      "fr": "docs/fr/reference/canon-and-controls.md",
+      "en": "docs/en/reference/canon-and-controls.md"
+    },
+    "paradigms": {
+      "fr": "docs/fr/reference/verb-paradigms.md",
+      "en": "docs/en/reference/verb-paradigms.md"
+    },
+    "dictionary_guide": {
+      "fr": "docs/fr/guides/dictionary.md",
+      "en": "docs/en/guides/dictionary.md"
+    },
+    "distinctions": {
+      "fr": "docs/fr/guides/meaning-distinctions.md",
+      "en": "docs/en/guides/meaning-distinctions.md"
+    },
+    "editions": {
+      "fr": "docs/fr/guides/dictionary.md",
+      "en": "docs/en/guides/dictionary.md"
+    },
+    "sources": {
+      "fr": "docs/fr/reference/sources-and-licenses.md",
+      "en": "docs/en/reference/sources-and-licenses.md"
+    },
+    "start": {
+      "fr": "docs/fr/README.md",
+      "en": "docs/en/README.md"
+    },
+    "texts": {
+      "fr": "docs/fr/examples.md",
+      "en": "docs/en/examples.md"
+    },
+    "songs": {
+      "fr": "docs/fr/examples.md",
+      "en": "docs/en/examples.md"
+    },
+    "idioms": {
+      "fr": "docs/fr/expressions.md",
+      "en": "docs/en/expressions.md"
+    },
+    "sound_body": {
+      "fr": "docs/fr/expressions.md",
+      "en": "docs/en/expressions.md"
+    },
+    "register": {
+      "fr": "docs/fr/expressions.md",
+      "en": "docs/en/expressions.md"
+    }
+  },
+  "lookup": {
+    "module": "vaeltharyn",
+    "schema_version": 2,
+    "default_limit": 8,
+    "maximum_limit": 100
+  },
+  "status": "Working corpus. Individual validation status and sense restrictions apply.",
+  "provenance": {
+    "definitions": "data/provenance/definitions-sourcees.jsonl",
+    "inherited_routes": "data/provenance/renvois-heritage.csv",
+    "integrity": "data/provenance/integrity.json"
+  },
+  "aliases": "data/expressions/aliases.json",
+  "references": "data/provenance/references.json",
+  "packaged_documents": [
+    "docs/en/README.md",
+    "docs/en/examples.md",
+    "docs/en/expressions.md",
+    "docs/en/guides/dictionary.md",
+    "docs/en/guides/emotions-and-dialogue.md",
+    "docs/en/guides/meaning-distinctions.md",
+    "docs/en/reference/canon-and-controls.md",
+    "docs/en/reference/conjugation.md",
+    "docs/en/reference/grammar.md",
+    "docs/en/reference/phonology.md",
+    "docs/en/reference/sources-and-licenses.md",
+    "docs/en/reference/verb-paradigms.md",
+    "docs/en/reference/word-formation.md",
+    "docs/fr/README.md",
+    "docs/fr/examples.md",
+    "docs/fr/expressions.md",
+    "docs/fr/guides/dictionary.md",
+    "docs/fr/guides/emotions-and-dialogue.md",
+    "docs/fr/guides/meaning-distinctions.md",
+    "docs/fr/reference/canon-and-controls.md",
+    "docs/fr/reference/conjugation.md",
+    "docs/fr/reference/grammar.md",
+    "docs/fr/reference/phonology.md",
+    "docs/fr/reference/sources-and-licenses.md",
+    "docs/fr/reference/verb-paradigms.md",
+    "docs/fr/reference/word-formation.md"
+  ]
+}

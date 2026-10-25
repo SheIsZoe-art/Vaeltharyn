@@ -1,0 +1,26 @@
+{
+  "plugin_version": "0.8.0",
+  "corpus_version": "1.6.0",
+  "structure_version": "4.1.0",
+  "creator": "SheIsZoe",
+  "tag": "v0.8.0",
+  "release_url": "https://github.com/SheIsZoe-art/Vaeltharyn/releases/tag/v0.8.0",
+  "counts": {
+    "corpus_version": "1.6.0",
+    "entries": 65045,
+    "expressions": 456
+  },
+  "index_bytes": 188489728,
+  "plugin": {
+    "file": "vaeltharyn-translator-0.8.0.zip",
+    "sha256": "414acf3a52fa7584c5ad8041bb2c547c0b5e9b40b5a12d974809f1ceef5b08b3",
+    "bytes": 32966002,
+    "url": "https://github.com/SheIsZoe-art/Vaeltharyn/releases/download/v0.8.0/vaeltharyn-translator-0.8.0.zip"
+  },
+  "skill": {
+    "file": "vaeltharyn-skill-0.8.0.zip",
+    "sha256": "d420a84b6e3193bd00e853c5a85dc5ccd20f14c5ef58dd43c276e34a043a3dff",
+    "bytes": 32962095,
+    "url": "https://github.com/SheIsZoe-art/Vaeltharyn/releases/download/v0.8.0/vaeltharyn-skill-0.8.0.zip"
+  }
+}

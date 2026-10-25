@@ -1,0 +1,3190 @@
+[
+  {
+    "key": "truck_cabin",
+    "vaeltharyn": "methuv-lymdhaev dhalruthen",
+    "francais_controle": "habitacle du camion",
+    "english_checked": "truck occupant compartment",
+    "traitement": "nouveau composé",
+    "note_fr": "Le génitif précise le camion ; pas la chambre de bateau vekath ni la cargaison.",
+    "note_en": "The genitive specifies the truck; not the ship bedroom vekath or cargo space.",
+    "id": "SC-truck_cabin",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-583d93e8b4ea",
+    "analyses_lexicales": {
+      "methuv-lymdhaev": [
+        "methuv-lymdhaev"
+      ],
+      "dhalruthen": [
+        "dhalruth"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "highway",
+    "vaeltharyn": "throelev",
+    "francais_controle": "autoroute",
+    "english_checked": "motorway",
+    "traitement": "attesté",
+    "note_fr": "Lecture autoroutière ; une route ordinaire reste varethgrel.",
+    "note_en": "Motorway reading; an ordinary road remains varethgrel.",
+    "id": "SC-highway",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-376bc118696f",
+    "analyses_lexicales": {
+      "throelev": [
+        "throelev"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "lane",
+    "vaeltharyn": "hodhok",
+    "francais_controle": "voie de circulation automobile",
+    "english_checked": "vehicle traffic lane",
+    "traitement": "attesté",
+    "note_fr": "Sens précis déjà présent, pas un sentier ni une digue.",
+    "note_en": "The precise sense already exists; neither a footpath nor a dike.",
+    "id": "SC-lane",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-3df75085ed62",
+    "analyses_lexicales": {
+      "hodhok": [
+        "hodhok"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "speaker",
+    "vaeltharyn": "thaemgrael",
+    "francais_controle": "haut-parleur",
+    "english_checked": "loudspeaker",
+    "traitement": "attesté",
+    "note_fr": "Ne pas employer un nom de personne qui parle ni piltyn, enceinte architecturale.",
+    "note_en": "Not a person speaking or piltyn, an architectural enclosure.",
+    "id": "SC-speaker",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-f90d847ce157",
+    "analyses_lexicales": {
+      "thaemgrael": [
+        "thaemgrael"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "wheel",
+    "vaeltharyn": "tibon",
+    "francais_controle": "volant de direction",
+    "english_checked": "steering wheel",
+    "traitement": "attesté",
+    "note_fr": "Le nom tibon, pas skosaev qui signifie capable de voler.",
+    "note_en": "The noun tibon, not skosaev, capable of flying.",
+    "id": "SC-wheel",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-849667a65218",
+    "analyses_lexicales": {
+      "tibon": [
+        "tibon"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "leather",
+    "vaeltharyn": "tibon kaenkaren",
+    "francais_controle": "volant en cuir",
+    "english_checked": "leather steering wheel",
+    "traitement": "construction",
+    "note_fr": "Génitif de matière ; kaenkar nomme le cuir, sans propriété sonore nouvelle.",
+    "note_en": "Material genitive; kaenkar names leather without a new acoustic property.",
+    "id": "SC-leather",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-63e009c4cda7",
+    "analyses_lexicales": {
+      "tibon": [
+        "tibon"
+      ],
+      "kaenkaren": [
+        "kaenkar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "console",
+    "vaeltharyn": "konsol methuven",
+    "francais_controle": "console du véhicule",
+    "english_checked": "vehicle control console",
+    "traitement": "nouveau lemme",
+    "note_fr": "Dharok reste un support architectural ; le contexte distingue console centrale et tableau de bord.",
+    "note_en": "Dharok remains an architectural bracket; context distinguishes a centre console from a dashboard.",
+    "id": "SC-console",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-0860cbb81bd6",
+    "analyses_lexicales": {
+      "konsol": [
+        "konsol"
+      ],
+      "methuven": [
+        "methuv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "tr606",
+    "vaeltharyn": "TR-606",
+    "francais_controle": "modèle TR-606",
+    "english_checked": "TR-606 model name",
+    "traitement": "nom propre",
+    "note_fr": "Conserver le modèle ; le nom ne signifie pas six cent six transistors.",
+    "note_en": "Preserve the model name; it does not mean six hundred and six transistors.",
+    "id": "SC-tr606",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-f053fe66cd27",
+    "analyses_lexicales": {},
+    "references": [
+      "PROJECT",
+      "ROLAND-606"
+    ]
+  },
+  {
+    "key": "tr808",
+    "vaeltharyn": "TR-808 ; kikoe TR-808-en",
+    "francais_controle": "TR-808 ; grosse caisse de la TR-808",
+    "english_checked": "TR-808; TR-808 bass drum",
+    "traitement": "nom propre et construction",
+    "note_fr": "808 peut désigner la machine ou son son de grosse caisse : expliciter la seconde lecture.",
+    "note_en": "808 can refer to the machine or its bass-drum sound: make the latter reading explicit.",
+    "id": "SC-tr808",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-6620a45ba8e7",
+    "analyses_lexicales": {
+      "kikoe": [
+        "kikoe"
+      ]
+    },
+    "references": [
+      "PROJECT",
+      "ROLAND-808"
+    ]
+  },
+  {
+    "key": "sub_bass",
+    "vaeltharyn": "thrylkim ya korthir se-en vele sha dhorv",
+    "francais_controle": "son dont la fréquence est très basse",
+    "english_checked": "sound whose frequency is very low",
+    "traitement": "construction technique",
+    "note_fr": "Pas la gravité d'une situation ni automatiquement une ligne de basse. Dhorv qualifie ici une grandeur basse sur une échelle.",
+    "note_en": "Not the seriousness of a situation or automatically a bass line. Dhorv describes a low value on a scale here.",
+    "id": "SC-sub_bass",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-f3f82f191ce2",
+    "analyses_lexicales": {
+      "thrylkim": [
+        "thrylkim"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "korthir": [
+        "korthir"
+      ],
+      "se-en": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "sha": [
+        "sha"
+      ],
+      "dhorv": [
+        "dhorv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "hihat",
+    "vaeltharyn": "broedutun ; thrylkim broedutunen",
+    "francais_controle": "charleston ; son de charleston",
+    "english_checked": "hi-hat; hi-hat sound",
+    "traitement": "attesté et construction",
+    "note_fr": "Le génitif permet le son synthétisé sans redéfinir silencieusement l'instrument physique.",
+    "note_en": "The genitive denotes the synthesized sound without silently redefining the physical instrument.",
+    "id": "SC-hihat",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-bd50b06c53c7",
+    "analyses_lexicales": {
+      "broedutun": [
+        "broedutun"
+      ],
+      "thrylkim": [
+        "thrylkim"
+      ],
+      "broedutunen": [
+        "broedutun"
+      ]
+    },
+    "references": [
+      "PROJECT",
+      "ROLAND-808",
+      "ROLAND-606"
+    ]
+  },
+  {
+    "key": "kick",
+    "vaeltharyn": "kikoe",
+    "francais_controle": "grosse caisse musicale",
+    "english_checked": "musical bass drum or kick",
+    "traitement": "emprunt proposé",
+    "note_fr": "Sens musical explicite ; jamais un coup de pied dans cette fiche.",
+    "note_en": "Explicitly musical; never a bodily kick in this record.",
+    "id": "SC-kick",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-31221ceeebb9",
+    "analyses_lexicales": {
+      "kikoe": [
+        "kikoe"
+      ]
+    },
+    "references": [
+      "PROJECT",
+      "ROLAND-808"
+    ]
+  },
+  {
+    "key": "snare",
+    "vaeltharyn": "snaer",
+    "francais_controle": "caisse claire musicale",
+    "english_checked": "snare drum",
+    "traitement": "emprunt proposé",
+    "note_fr": "Sens musical, pas piège ; le son de machine peut être thrylkim snaeren.",
+    "note_en": "Musical sense, not a trap; the machine sound can be thrylkim snaeren.",
+    "id": "SC-snare",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-645f4f75d856",
+    "analyses_lexicales": {
+      "snaer": [
+        "snaer"
+      ]
+    },
+    "references": [
+      "PROJECT",
+      "ROLAND-808"
+    ]
+  },
+  {
+    "key": "synth",
+    "vaeltharyn": "synth",
+    "francais_controle": "synthétiseur",
+    "english_checked": "synthesizer",
+    "traitement": "emprunt proposé",
+    "note_fr": "Les deux formes anglaises renvoient à une seule entrée.",
+    "note_en": "Both English forms point to one entry.",
+    "id": "SC-synth",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-e8c3e4faa6b2",
+    "analyses_lexicales": {
+      "synth": [
+        "synth"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "keyboard",
+    "vaeltharyn": "klavir ; paedi klaviren",
+    "francais_controle": "clavier musical ; nappes du clavier",
+    "english_checked": "musical keyboard; keyboard pad sounds",
+    "traitement": "emprunt et construction",
+    "note_fr": "Si pads signifie nappes sonores, employer paed ; ne pas supposer cette lecture pour des touches physiques.",
+    "note_en": "If pads means pad sounds, use paed; do not assume this reading for physical controls.",
+    "id": "SC-keyboard",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-3c94ff7fee9a",
+    "analyses_lexicales": {
+      "klavir": [
+        "klavir"
+      ],
+      "paedi": [
+        "paed"
+      ],
+      "klaviren": [
+        "klavir"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "keyboard_hardware",
+    "vaeltharyn": "kaeneth-dolgiki klaviren",
+    "francais_controle": "pads physiques du clavier",
+    "english_checked": "physical keyboard pads",
+    "traitement": "nouveau composé",
+    "note_fr": "Surface de déclenchement, pas son tenu ; gigik garde son sens de protection hygiénique.",
+    "note_en": "A trigger surface, not a sustained sound; gigik retains its sanitary-pad sense.",
+    "id": "SC-keyboard_hardware",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-33b1cc104f29",
+    "analyses_lexicales": {
+      "kaeneth-dolgiki": [
+        "kaeneth-dolgik"
+      ],
+      "klaviren": [
+        "klavir"
+      ]
+    },
+    "references": [
+      "PROJECT",
+      "ROLAND-PADS"
+    ]
+  },
+  {
+    "key": "transistor",
+    "vaeltharyn": "transistor",
+    "francais_controle": "transistor électronique",
+    "english_checked": "electronic transistor",
+    "traitement": "emprunt proposé",
+    "note_fr": "Composant, pas poste de radio.",
+    "note_en": "Component, not a portable radio.",
+    "id": "SC-transistor",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-d887c82f353b",
+    "analyses_lexicales": {
+      "transistor": [
+        "transistor"
+      ]
+    },
+    "references": [
+      "PROJECT",
+      "TI-TRANSISTORS"
+    ]
+  },
+  {
+    "key": "tape",
+    "vaeltharyn": "thrylkim-braesyr poemnaes",
+    "francais_controle": "bande magnétique d'enregistrement sonore",
+    "english_checked": "magnetic audio recording tape",
+    "traitement": "nouveau composé",
+    "note_fr": "Fraerkem désigne un ruban textile ; ne pas transférer automatiquement tous ses emplois.",
+    "note_en": "Fraerkem denotes a textile ribbon; do not transfer all its uses automatically.",
+    "id": "SC-tape",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-75bf6b96ac7f",
+    "analyses_lexicales": {
+      "thrylkim-braesyr": [
+        "thrylkim-braesyr"
+      ],
+      "poemnaes": [
+        "poemnaes"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "resonance",
+    "vaeltharyn": "tynoer kremlyk",
+    "francais_controle": "résonance acoustique",
+    "english_checked": "acoustic resonance",
+    "traitement": "attesté et construction",
+    "note_fr": "Distinguer résonance, réverbération, simple écho et synthèse ; ne pas créer un doublon de tynoer.",
+    "note_en": "Distinguish resonance, reverberation, simple echo and synthesis; do not duplicate tynoer.",
+    "id": "SC-resonance",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-9d86cd408013",
+    "analyses_lexicales": {
+      "tynoer": [
+        "tynoer"
+      ],
+      "kremlyk": [
+        "kremlyk"
+      ]
+    },
+    "references": [
+      "PROJECT",
+      "OPENSTAX-RESONANCE"
+    ]
+  },
+  {
+    "key": "harmonic_frequency",
+    "vaeltharyn": "korthir goesumen",
+    "francais_controle": "fréquence d'une harmonique",
+    "english_checked": "frequency of a harmonic",
+    "traitement": "construction technique",
+    "note_fr": "Goesum a déjà le sens physique d'harmonique. Fikodhav seul, relatif à l'harmonie, n'impose pas un multiple entier.",
+    "note_en": "Goesum already has the physical harmonic sense. Fikodhav alone, relating to harmony, does not impose an integer multiple.",
+    "id": "SC-harmonic_frequency",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-bdddd25bc6f1",
+    "analyses_lexicales": {
+      "korthir": [
+        "korthir"
+      ],
+      "goesumen": [
+        "goesum"
+      ]
+    },
+    "references": [
+      "PROJECT",
+      "OPENSTAX-RESONANCE"
+    ]
+  },
+  {
+    "key": "oscillate",
+    "vaeltharyn": "keposar ; dhoetinar",
+    "francais_controle": "osciller ; vibrer",
+    "english_checked": "oscillate; vibrate",
+    "traitement": "attesté",
+    "note_fr": "Keposar couvre l'aller-retour ; dhoetinar la vibration. Le choix dépend de ce qui oscille.",
+    "note_en": "Keposar covers back-and-forth motion; dhoetinar vibration. Choose according to what oscillates.",
+    "id": "SC-oscillate",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-a8826ecbea76",
+    "analyses_lexicales": {
+      "keposar": [
+        "keposar"
+      ],
+      "dhoetinar": [
+        "dhoetinar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "velvet_air",
+    "vaeltharyn": "kimuk kragaevilen",
+    "francais_controle": "air de velours",
+    "english_checked": "velvet air",
+    "traitement": "métaphore",
+    "note_fr": "Génitif de matière employé comme image tactile et sonore ; pas une mesure acoustique ni un gaz nouveau.",
+    "note_en": "Material genitive used as tactile and sonic imagery; neither an acoustic measure nor a new gas.",
+    "id": "SC-velvet_air",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-c2289b61de63",
+    "analyses_lexicales": {
+      "kimuk": [
+        "kimuk"
+      ],
+      "kragaevilen": [
+        "kragaevil"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "grip",
+    "vaeltharyn": "Thim bropaeke tibon.",
+    "francais_controle": "Une main agrippe le volant.",
+    "english_checked": "A hand firmly grips the wheel.",
+    "traitement": "attesté et construction",
+    "note_fr": "Bropaekar porte déjà la fermeté de la prise ; ne pas confondre avec serrer au sens ranger.",
+    "note_en": "Bropaekar already conveys a firm grip; not storing something away.",
+    "id": "SC-grip",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-f55194046b09",
+    "analyses_lexicales": {
+      "thim": [
+        "thim"
+      ],
+      "bropaeke": [
+        "bropaekar"
+      ],
+      "tibon": [
+        "tibon"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "wrap",
+    "vaeltharyn": "Methuv-lymdhaev pedyse min.",
+    "francais_controle": "L'habitacle nous entoure.",
+    "english_checked": "The cabin surrounds us.",
+    "traitement": "métaphore",
+    "note_fr": "Pedysar conserve l'enveloppement spatial ; dulaelar ferait intervenir une enveloppe matérielle.",
+    "note_en": "Pedysar retains spatial surrounding; dulaelar would introduce a material wrapping.",
+    "id": "SC-wrap",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-139c4832548f",
+    "analyses_lexicales": {
+      "methuv-lymdhaev": [
+        "methuv-lymdhaev"
+      ],
+      "pedyse": [
+        "pedysar"
+      ],
+      "min": [
+        "min"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "lift",
+    "vaeltharyn": "Haelkara mi to braepavath haelv ya mi vaenem.",
+    "francais_controle": "Soulève-moi vers la position haute que j'attends.",
+    "english_checked": "Lift me towards the high position I am waiting for.",
+    "traitement": "construction contextualisée",
+    "note_fr": "Waiting height est personnifiant et incomplet hors du vers ; ici c'est la personne qui attend la position, pas une altitude géographique.",
+    "note_en": "Waiting height is personifying and context dependent; here the person awaits the position, not a geographic altitude.",
+    "id": "SC-lift",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-69e29ea2b161",
+    "analyses_lexicales": {
+      "haelkara": [
+        "haelkarar"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "to": [
+        "to"
+      ],
+      "braepavath": [
+        "braepav"
+      ],
+      "haelv": [
+        "haelv"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "vaenem": [
+        "vaenar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "secure",
+    "vaeltharyn": "Thimi fraerfysen saevron.",
+    "francais_controle": "Des mains maintiennent la taille.",
+    "english_checked": "Hands hold the waist securely.",
+    "traitement": "attesté et construction",
+    "note_fr": "Fraerfysar signifie tenir ferme et fixe ; aucune possession ni intention supplémentaire n'est déduite.",
+    "note_en": "Fraerfysar means hold firm and steady; no extra possession or intention is inferred.",
+    "id": "SC-secure",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-4ea03de94171",
+    "analyses_lexicales": {
+      "thimi": [
+        "thim"
+      ],
+      "fraerfysen": [
+        "fraerfysar"
+      ],
+      "saevron": [
+        "saevron"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "waist",
+    "vaeltharyn": "saevron",
+    "francais_controle": "taille anatomique",
+    "english_checked": "anatomical waist",
+    "traitement": "racine proposée",
+    "note_fr": "Distinct de doebyn, manière de couper, et de la stature.",
+    "note_en": "Distinct from doebyn, a cutting method, and from stature.",
+    "id": "SC-waist",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-4281c9c97654",
+    "analyses_lexicales": {
+      "saevron": [
+        "saevron"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "suspended",
+    "vaeltharyn": "Mi velem toebivun e braepavath haelv.",
+    "francais_controle": "Je suis suspendu dans une position haute.",
+    "english_checked": "I am suspended in a high position.",
+    "traitement": "construction",
+    "note_fr": "Passif du transitif toebivar. Une personne simplement soulevée et soutenue peut être thritolun, sans point d'attache supposé.",
+    "note_en": "Passive of transitive toebivar. A lifted, supported person can be thritolun without an assumed attachment point.",
+    "id": "SC-suspended",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-ac21328e8c6f",
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "velem": [
+        "velar"
+      ],
+      "toebivun": [
+        "toebivar"
+      ],
+      "e": [
+        "e"
+      ],
+      "braepavath": [
+        "braepav"
+      ],
+      "haelv": [
+        "haelv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "height",
+    "vaeltharyn": "dhobov ; braepav haelv",
+    "francais_controle": "élévation ; position haute",
+    "english_checked": "height; high position",
+    "traitement": "attesté et construction",
+    "note_fr": "Fakun est une dimension de base à sommet ; thynek une altitude par rapport à la mer. Aucun des deux n'est automatiquement une hauteur de rencontre.",
+    "note_en": "Fakun is a base-to-top dimension; thynek an altitude above sea level. Neither automatically denotes a meeting height.",
+    "id": "SC-height",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-b61f3ab03fcc",
+    "analyses_lexicales": {
+      "dhobov": [
+        "dhobov"
+      ],
+      "braepav": [
+        "braepav"
+      ],
+      "haelv": [
+        "haelv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "porch_lights",
+    "vaeltharyn": "Aeluni graelven-thavrelen aelunen.",
+    "francais_controle": "Les lumières de l'entrée couverte brillent.",
+    "english_checked": "The porch lights shine.",
+    "traitement": "nouveau composé et construction",
+    "note_fr": "Entrée domestique couverte par un toit ; pas obligation de temple, palais ou escalier.",
+    "note_en": "A roofed domestic entrance; no required temple, palace or staircase.",
+    "id": "SC-porch_lights",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-767ec36056dc",
+    "analyses_lexicales": {
+      "aeluni": [
+        "aelun"
+      ],
+      "graelven-thavrelen": [
+        "graelven-thavrel"
+      ],
+      "aelunen": [
+        "aelun",
+        "aelunar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "sleeve",
+    "vaeltharyn": "Kaena gorrov.",
+    "francais_controle": "Touche la manche du vêtement.",
+    "english_checked": "Touch the sleeve.",
+    "traitement": "attesté et construction",
+    "note_fr": "Gorrov est le nom de vêtement ; faemim est un adjectif d'insulte.",
+    "note_en": "Gorrov is the garment noun; faemim is an insulting adjective.",
+    "id": "SC-sleeve",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-3d16b7099495",
+    "analyses_lexicales": {
+      "kaena": [
+        "kaenar"
+      ],
+      "gorrov": [
+        "gorrov"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "fingers",
+    "vaeltharyn": "brakuk ; brakuki",
+    "francais_controle": "doigt ; doigts",
+    "english_checked": "finger; fingers",
+    "traitement": "attesté",
+    "note_fr": "Pluriel régulier en i, pas nouvelle racine.",
+    "note_en": "Regular plural in i, not a new root.",
+    "id": "SC-fingers",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-6809ace86dd6",
+    "analyses_lexicales": {
+      "brakuk": [
+        "brakuk"
+      ],
+      "brakuki": [
+        "brakuk"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "lips",
+    "vaeltharyn": "vaemil ; vaemili dhoefyv",
+    "francais_controle": "lèvre ; lèvres audacieuses",
+    "english_checked": "lip; daring lips",
+    "traitement": "attesté et métaphore",
+    "note_fr": "Adjectif postposé invariable ; l'audace est attribuée poétiquement aux lèvres.",
+    "note_en": "Postposed invariable adjective; daring is poetically attributed to lips.",
+    "id": "SC-lips",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-7661a59accd5",
+    "analyses_lexicales": {
+      "vaemil": [
+        "vaem",
+        "vaemil"
+      ],
+      "vaemili": [
+        "vaem",
+        "vaemil"
+      ],
+      "dhoefyv": [
+        "dhoefyv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "eyebrow",
+    "vaeltharyn": "Se pulyne vrimyth si-en.",
+    "francais_controle": "Cette personne lève son sourcil.",
+    "english_checked": "They raise their eyebrow.",
+    "traitement": "attesté et construction",
+    "note_fr": "Possessif réfléchi car le sujet lève son propre sourcil ; nul genre grammatical ajouté.",
+    "note_en": "Reflexive possession because the subject raises their own eyebrow; no grammatical gender added.",
+    "id": "SC-eyebrow",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-aaa368508c9b",
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "pulyne": [
+        "pulynar"
+      ],
+      "vrimyth": [
+        "vrimyth"
+      ],
+      "si-en": [
+        "si"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "smile",
+    "vaeltharyn": "daefivan ; daefivan thar",
+    "francais_controle": "sourire ; large sourire",
+    "english_checked": "smile; broad grin",
+    "traitement": "attesté et construction",
+    "note_fr": "Un grin n'est pas nécessairement un ricanement moqueur. Naemlar est le verbe sourire.",
+    "note_en": "A grin need not be a mocking sneer. Naemlar is the verb smile.",
+    "id": "SC-smile",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-eda4df7f0edb",
+    "analyses_lexicales": {
+      "daefivan": [
+        "daefivan"
+      ],
+      "thar": [
+        "thar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "crooked_smile",
+    "vaeltharyn": "daefivan remnuhoer ; daefivan fraefaev",
+    "francais_controle": "sourire asymétrique ; sourire narquois",
+    "english_checked": "asymmetric smile; knowing smirk",
+    "traitement": "construction",
+    "note_fr": "La forme physique et l'intention narquoise restent deux lectures distinctes ; ne pas imposer la seconde à la première.",
+    "note_en": "Physical asymmetry and a knowing expression remain distinct; do not impose the latter on the former.",
+    "id": "SC-crooked_smile",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-02d86091ea3f",
+    "analyses_lexicales": {
+      "daefivan": [
+        "daefivan"
+      ],
+      "remnuhoer": [
+        "remnuhoer"
+      ],
+      "fraefaev": [
+        "fraefaev"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "laughter",
+    "vaeltharyn": "laethar ; pimuv",
+    "francais_controle": "rire, verbe ; rire, nom",
+    "english_checked": "laugh, verb; laughter, noun",
+    "traitement": "attesté",
+    "note_fr": "Le nom d'action laetheth est également productif, sans remplacer pimuv.",
+    "note_en": "The action noun laetheth is also productive, without replacing pimuv.",
+    "id": "SC-laughter",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-8b0e4502fa1e",
+    "analyses_lexicales": {
+      "laethar": [
+        "laethar"
+      ],
+      "pimuv": [
+        "pimuv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "secret_laughter",
+    "vaeltharyn": "pimuv kogur ; pyreli",
+    "francais_controle": "rire secret ; étincelles",
+    "english_checked": "secret laughter; sparks",
+    "traitement": "attesté et construction",
+    "note_fr": "Une image d'étincelles doit rester marquée comme image quand elle décrit le rire.",
+    "note_en": "Sparks remain an image when describing laughter.",
+    "id": "SC-secret_laughter",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-c9a283f1c3ec",
+    "analyses_lexicales": {
+      "pimuv": [
+        "pimuv"
+      ],
+      "kogur": [
+        "kogur"
+      ],
+      "pyreli": [
+        "pyrel"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "gaze",
+    "vaeltharyn": "throenen ; throenen kymoethyn",
+    "francais_controle": "regard ; regard stable",
+    "english_checked": "gaze; steady gaze",
+    "traitement": "attesté et construction",
+    "note_fr": "La stabilité est celle de la direction et de la tenue du regard, pas un salaire fixe.",
+    "note_en": "Steadiness concerns gaze direction and bearing, not a fixed salary.",
+    "id": "SC-gaze",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-3d1acc3fdfe6",
+    "analyses_lexicales": {
+      "throenen": [
+        "throenen"
+      ],
+      "kymoethyn": [
+        "kymoethyn"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "voice_timbre",
+    "vaeltharyn": "thrylkim-molpyv thaemen",
+    "francais_controle": "timbre de la voix",
+    "english_checked": "voice timbre",
+    "traitement": "nouveau composé",
+    "note_fr": "Timber est interprété ici comme la coquille de timbre, conformément à la précision sur la voix ; pas du bois ni la cloche foelas.",
+    "note_en": "Timber is read as a typo for timbre, following the voice clarification; neither lumber nor the bell foelas.",
+    "id": "SC-voice_timbre",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-3d0dfce8ff53",
+    "analyses_lexicales": {
+      "thrylkim-molpyv": [
+        "thrylkim-molpyv"
+      ],
+      "thaemen": [
+        "thaem",
+        "thaemar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "frozen_sugar",
+    "vaeltharyn": "saevmar iskiv",
+    "francais_controle": "sucre gelé",
+    "english_checked": "frozen sugar",
+    "traitement": "attesté et image possible",
+    "note_fr": "Lecture littérale ou image selon le vers ; ne signifie pas automatiquement sucre cristallisé ou caramel durci.",
+    "note_en": "Literal or figurative according to the line; not automatically crystallized sugar or hardened caramel.",
+    "id": "SC-frozen_sugar",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-818700864d36",
+    "analyses_lexicales": {
+      "saevmar": [
+        "saevmar"
+      ],
+      "iskiv": [
+        "iskiv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "frozen_memory",
+    "vaeltharyn": "nael poekekun",
+    "francais_controle": "mémoire immobilisée",
+    "english_checked": "memory held still",
+    "traitement": "métaphore",
+    "note_fr": "Participe passif de poekekar, immobiliser ; évite de prétendre congeler chimiquement un souvenir.",
+    "note_en": "Passive participle of poekekar, immobilize; avoids claiming to chemically freeze a memory.",
+    "id": "SC-frozen_memory",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-097be4accee0",
+    "analyses_lexicales": {
+      "nael": [
+        "nael"
+      ],
+      "poekekun": [
+        "poekekar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "daydream",
+    "vaeltharyn": "pofer",
+    "francais_controle": "rêverie éveillée",
+    "english_checked": "daydream",
+    "traitement": "attesté",
+    "note_fr": "L'état de rêverie existe ; ne pas employer vrofoesar, sommeil inquiet, pour toute rêverie éveillée.",
+    "note_en": "The reverie sense exists; vrofoesar, restless sleep, is not every waking daydream.",
+    "id": "SC-daydream",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-2e72a8e8326c",
+    "analyses_lexicales": {
+      "pofer": [
+        "pofer"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "force",
+    "vaeltharyn": "fukel thrugak ; vael-fukel thrugak",
+    "francais_controle": "force indéniable ; force indéniable du désir",
+    "english_checked": "undeniable strength; undeniable force of desire",
+    "traitement": "construction et métaphore",
+    "note_fr": "Fukel a d'abord le sens de vigueur ; le composé de désir explicite l'image affective sans force physique mesurée.",
+    "note_en": "Fukel primarily means vigour; the desire compound explicitly marks the emotional image rather than a measured physical force.",
+    "id": "SC-force",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-c0f54ebbbdb4",
+    "analyses_lexicales": {
+      "fukel": [
+        "fukel"
+      ],
+      "thrugak": [
+        "thrugak"
+      ],
+      "vael-fukel": [
+        "fukel",
+        "vael"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "yield",
+    "vaeltharyn": "Se kedhoeke to mi-ath.",
+    "francais_controle": "Cette personne se penche vers moi.",
+    "english_checked": "They lean towards me.",
+    "traitement": "construction contextualisée",
+    "note_fr": "Lecture corporelle de yields toward. Si le sens est abandonner une résistance, employer felhukar thranurer ; les deux actes ne sont pas identiques.",
+    "note_en": "Bodily reading of yields toward. Relinquishing resistance uses felhukar thranurer; the acts are distinct.",
+    "id": "SC-yield",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-dbd8035d1945",
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "kedhoeke": [
+        "kedhoekar"
+      ],
+      "to": [
+        "to"
+      ],
+      "mi-ath": [
+        "mi"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "surface",
+    "vaeltharyn": "Thyri gynoeken.",
+    "francais_controle": "Les ombres apparaissent.",
+    "english_checked": "Shadows emerge into view.",
+    "traitement": "attesté et métaphore",
+    "note_fr": "Le verbe devenir visible convient ; ne pas ajouter une montée depuis un liquide.",
+    "note_en": "The become-visible verb fits; no rising from a liquid is added.",
+    "id": "SC-surface",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-a46555e50d15",
+    "analyses_lexicales": {
+      "thyri": [
+        "thyr"
+      ],
+      "gynoeken": [
+        "gynoekar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "crowded_room",
+    "vaeltharyn": "sitik brifuth",
+    "francais_controle": "salle bondée",
+    "english_checked": "crowded reception room",
+    "traitement": "attesté et construction",
+    "note_fr": "Sitik est une pièce ouverte aux visiteurs ; une chambre privée demande un autre nom. Pas thimgov, atelier de foulage.",
+    "note_en": "Sitik is a room open to visitors; a private bedroom needs another noun. Not thimgov, a fulling workshop.",
+    "id": "SC-crowded_room",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-baa04d44ffe7",
+    "analyses_lexicales": {
+      "sitik": [
+        "sitik"
+      ],
+      "brifuth": [
+        "brifuth"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "unspoken_intentions",
+    "vaeltharyn": "gegani trymdhael",
+    "francais_controle": "intentions tacites",
+    "english_checked": "unspoken intentions",
+    "traitement": "attesté et construction",
+    "note_fr": "Tacite n'est pas automatiquement mensonger ni inaccessible à toute compréhension.",
+    "note_en": "Tacit is not automatically deceptive or wholly unknowable.",
+    "id": "SC-unspoken_intentions",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-83f155d230a8",
+    "analyses_lexicales": {
+      "gegani": [
+        "gegan"
+      ],
+      "trymdhael": [
+        "trymdhael"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "bloom",
+    "vaeltharyn": "Gegani inu naelraeren.",
+    "francais_controle": "Les intentions commencent à fleurir.",
+    "english_checked": "Intentions begin to bloom.",
+    "traitement": "métaphore et aspect",
+    "note_fr": "Inu marque le commencement ; le sujet pluriel impose en. Éclore d'un œuf n'est pas substitué automatiquement.",
+    "note_en": "Inu marks inception; the plural subject requires en. Egg hatching is not automatically substituted.",
+    "id": "SC-bloom",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-6b52ac9c8431",
+    "analyses_lexicales": {
+      "gegani": [
+        "gegan"
+      ],
+      "inu": [
+        "inu"
+      ],
+      "naelraeren": [
+        "naelraerar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "teasing_line",
+    "vaeltharyn": "krimsuk thrisav ya dhyhune min",
+    "francais_controle": "énoncé involontaire qui nous fait badiner",
+    "english_checked": "an accidental teasing remark",
+    "traitement": "construction contextualisée",
+    "note_fr": "Krimsuk signifie ce qui est énoncé ; tharel serait seulement un mot. Dhyhunar garde le badinage sans agressivité obligatoire.",
+    "note_en": "Krimsuk means an utterance, while tharel is just a word. Dhyhunar preserves playful teasing without obligatory hostility.",
+    "id": "SC-teasing_line",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-7bdfb728d5cc",
+    "analyses_lexicales": {
+      "krimsuk": [
+        "krimsuk"
+      ],
+      "thrisav": [
+        "thrisav"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "dhyhune": [
+        "dhyhunar"
+      ],
+      "min": [
+        "min"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "hidden_wishes",
+    "vaeltharyn": "Dhynmuna morhemi kaervil.",
+    "francais_controle": "Révèle les souhaits cachés.",
+    "english_checked": "Reveal the hidden wishes.",
+    "traitement": "attesté et construction",
+    "note_fr": "Dhynmunar signifie révéler une chose secrète ; budirar vise d'abord le retrait d'un voile physique.",
+    "note_en": "Dhynmunar reveals a secret; budirar primarily removes a physical veil.",
+    "id": "SC-hidden_wishes",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-1f0468f4303e",
+    "analyses_lexicales": {
+      "dhynmuna": [
+        "dhynmunar"
+      ],
+      "morhemi": [
+        "morhem"
+      ],
+      "kaervil": [
+        "kaerv",
+        "kaervil"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "divine_gaze",
+    "vaeltharyn": "throenen vrelloen",
+    "francais_controle": "regard merveilleux",
+    "english_checked": "a wonderful gaze",
+    "traitement": "construction contextualisée",
+    "note_fr": "Lecture admirative de divine ; skaedhydaer est réservé au lien réel avec une divinité. Ne pas sacraliser sans contexte.",
+    "note_en": "Admiring reading of divine; skaedhydaer is for an actual divine relation. Do not invent religious meaning.",
+    "id": "SC-divine_gaze",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-1d6b9ca80733",
+    "analyses_lexicales": {
+      "throenen": [
+        "throenen"
+      ],
+      "vrelloen": [
+        "vrelloen"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "accomplices",
+    "vaeltharyn": "toemul ; toemuli",
+    "francais_controle": "comparse ; comparses",
+    "english_checked": "accomplice; accomplices",
+    "traitement": "attesté",
+    "note_fr": "Ne pas imposer thykel, adjectif lié à un crime, à une connivence romantique.",
+    "note_en": "Do not impose thykel, linked to crime, on romantic complicity.",
+    "id": "SC-accomplices",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-a3be1dd1b062",
+    "analyses_lexicales": {
+      "toemul": [
+        "toemul"
+      ],
+      "toemuli": [
+        "toemul"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "dark",
+    "vaeltharyn": "fra aelunath to duraenath",
+    "francais_controle": "hors de la lumière vers l'obscurité",
+    "english_checked": "out of the light into the dark",
+    "traitement": "construction contextualisée",
+    "note_fr": "Le départ est ici la lumière ; un lieu réel de départ peut remplacer aelun. Duraen ne signifie pas automatiquement nuit.",
+    "note_en": "The origin is light here; replace aelun with an actual source place when known. Duraen does not automatically mean night.",
+    "id": "SC-dark",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-ffb9bacc92a4",
+    "analyses_lexicales": {
+      "fra": [
+        "fra"
+      ],
+      "aelunath": [
+        "aelun"
+      ],
+      "to": [
+        "to"
+      ],
+      "duraenath": [
+        "duraen"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "restless_curiosity",
+    "vaeltharyn": "naivmael ya nu vaele momlaevar saerv",
+    "francais_controle": "curiosité qui ne veut pas rester calme",
+    "english_checked": "curiosity that will not stay quiet",
+    "traitement": "personnification",
+    "note_fr": "Le refus est attribué à la curiosité comme image ; ne pas transformer cela en diagnostic d'agitation.",
+    "note_en": "Refusal is personified in curiosity; not a diagnosis of agitation.",
+    "id": "SC-restless_curiosity",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-7a694ebb6bb3",
+    "analyses_lexicales": {
+      "naivmael": [
+        "naivmael"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "vaele": [
+        "vaelar"
+      ],
+      "momlaevar": [
+        "momlaevar"
+      ],
+      "saerv": [
+        "saerv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "world_noise",
+    "vaeltharyn": "koemmas mithilaken",
+    "francais_controle": "bruit du monde",
+    "english_checked": "worldly noise",
+    "traitement": "construction et métaphore",
+    "note_fr": "Mondain au sens haute société n'est pas imposé ; le bruit du monde peut être figuré.",
+    "note_en": "High-society mondain is not imposed; the world's noise can be figurative.",
+    "id": "SC-world_noise",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-5bd55fc6ba74",
+    "analyses_lexicales": {
+      "koemmas": [
+        "koemmas"
+      ],
+      "mithilaken": [
+        "mithilak"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "fantasies",
+    "vaeltharyn": "maev-sityn ; maev-sityni braeltyner",
+    "francais_controle": "fantaisie imaginée ; fantasmes érotiques",
+    "english_checked": "imagined fantasy; erotic fantasies",
+    "traitement": "nouveau composé",
+    "note_fr": "L'érotisme doit être précisé ; fulan, vision pathologique héritée, n'est pas réemployé.",
+    "note_en": "Eroticism must be specified; inherited fulan, a pathological vision, is not reused.",
+    "id": "SC-fantasies",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-a5581e3d3cc7",
+    "analyses_lexicales": {
+      "maev-sityn": [
+        "maev-sityn"
+      ],
+      "maev-sityni": [
+        "maev-sityn"
+      ],
+      "braeltyner": [
+        "braeltyner"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "trace_space",
+    "vaeltharyn": "Roevaera frysiv.",
+    "francais_controle": "Trace l'espace.",
+    "english_checked": "Trace the space.",
+    "traitement": "métaphore",
+    "note_fr": "Image d'un contour ou d'un trajet dessiné ; ne signifie pas localiser informatiquement une personne.",
+    "note_en": "A drawn contour or path image; not digitally tracking a person.",
+    "id": "SC-trace_space",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-6fe622e8aec0",
+    "analyses_lexicales": {
+      "roevaera": [
+        "roevaerar"
+      ],
+      "frysiv": [
+        "frysiv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "closer",
+    "vaeltharyn": "mer neir",
+    "francais_controle": "plus proche",
+    "english_checked": "closer",
+    "traitement": "construction comparative",
+    "note_fr": "Groupe adjectival. Si le comparant est exprimé, ajouter ta + nom ou pronom au direct ; ne pas inventer ce comparant.",
+    "note_en": "Adjective phrase. An expressed comparison adds ta plus a direct-case noun or pronoun; do not invent the comparison term.",
+    "id": "SC-closer",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-fabe6781d12d",
+    "analyses_lexicales": {
+      "mer": [
+        "mer"
+      ],
+      "neir": [
+        "neir"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "boundaries",
+    "vaeltharyn": "slaeldomasi",
+    "francais_controle": "limites à ne pas franchir",
+    "english_checked": "boundaries",
+    "traitement": "attesté et flexion",
+    "note_fr": "Limites abstraites déjà disponibles ; hepoes est d'abord une frontière géographique.",
+    "note_en": "Abstract boundaries already exist; hepoes is primarily a geographic border.",
+    "id": "SC-boundaries",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-615f546af07a",
+    "analyses_lexicales": {
+      "slaeldomasi": [
+        "slaeldomas"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "longing",
+    "vaeltharyn": "vael naev",
+    "francais_controle": "désir profond",
+    "english_checked": "deep longing",
+    "traitement": "construction",
+    "note_fr": "L'attente et l'absence doivent être précisées si elles comptent ; vaelnael signifie nostalgie, pas tout désir.",
+    "note_en": "Specify waiting or absence when important; vaelnael is nostalgia, not every desire.",
+    "id": "SC-longing",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-9638237f1b22",
+    "analyses_lexicales": {
+      "vael": [
+        "vael"
+      ],
+      "naev": [
+        "naev"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "thunder",
+    "vaeltharyn": "foembymi grumen",
+    "francais_controle": "ruées de tonnerre",
+    "english_checked": "stampedes of thunder",
+    "traitement": "métaphore",
+    "note_fr": "Génitif singulier de grum ; pas de chevaux ajoutés ni de défilé festif.",
+    "note_en": "Singular genitive of grum; no horses or festive procession added.",
+    "id": "SC-thunder",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-d7bbf8d2aedf",
+    "analyses_lexicales": {
+      "foembymi": [
+        "foembym"
+      ],
+      "grumen": [
+        "grum"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "hollow_chest",
+    "vaeltharyn": "naevrel guraeraem",
+    "francais_controle": "poitrine creuse",
+    "english_checked": "hollow chest",
+    "traitement": "attesté et image possible",
+    "note_fr": "Guraeraem est l'adjectif de cavité ; ne pas employer un adverbe comme adjectif.",
+    "note_en": "Guraeraem is the cavity adjective; do not use an adverb as an adjective.",
+    "id": "SC-hollow_chest",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-84c28b0306cb",
+    "analyses_lexicales": {
+      "naevrel": [
+        "naevrel"
+      ],
+      "guraeraem": [
+        "guraeraem"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "practiced_innocence",
+    "vaeltharyn": "taeroek nyvaenun",
+    "francais_controle": "ingénuité apprise",
+    "english_checked": "practiced ingenuousness",
+    "traitement": "métaphore",
+    "note_fr": "Lecture d'une manière travaillée ; tralul parle de non-culpabilité, pas de naïveté. Si l'innocence est feinte, gemkuthun l'explicite.",
+    "note_en": "A rehearsed manner; tralul is guiltlessness, not naïveté. Gemkuthun explicitly marks feigning if intended.",
+    "id": "SC-practiced_innocence",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-bb608c725c6d",
+    "analyses_lexicales": {
+      "taeroek": [
+        "taeroek"
+      ],
+      "nyvaenun": [
+        "nyvaenar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "test",
+    "vaeltharyn": "Se vele e vedalath.",
+    "francais_controle": "Cette personne est à l'épreuve.",
+    "english_checked": "They are being put to the test.",
+    "traitement": "construction",
+    "note_fr": "Cadre d'épreuve ; le verbe kafoevar signifie tester par testament et n'est pas employé. Le test d'un objet peut être konovar.",
+    "note_en": "A trial frame; kafoevar means make a will and is not used. Testing an object can use konovar.",
+    "id": "SC-test",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-a946df5a6289",
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "e": [
+        "e"
+      ],
+      "vedalath": [
+        "vedal"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "unanswered",
+    "vaeltharyn": "Madhysi thromnumen sen froefyl.",
+    "francais_controle": "Les questions flottent sans réponse.",
+    "english_checked": "Questions drift without an answer.",
+    "traitement": "métaphore",
+    "note_fr": "Le flottement de liquide est une image déclarée, pas une modification du verbe nautique dériver.",
+    "note_en": "Liquid floating is an explicit image, not a silent change to a nautical drifting verb.",
+    "id": "SC-unanswered",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-3695d3adb1c0",
+    "analyses_lexicales": {
+      "madhysi": [
+        "madhys"
+      ],
+      "thromnumen": [
+        "thromnumar"
+      ],
+      "sen": [
+        "sen"
+      ],
+      "froefyl": [
+        "froefyl"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "electric_space",
+    "vaeltharyn": "frysiv nufaedhor an kraeliv",
+    "francais_controle": "espace chaud et électrique",
+    "english_checked": "warm electric space",
+    "traitement": "métaphore possible",
+    "note_fr": "Température et électricité peuvent être images de tension relationnelle ; ne pas déduire un champ physique mesuré.",
+    "note_en": "Temperature and electricity may image interpersonal tension; no measured physical field inferred.",
+    "id": "SC-electric_space",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-d325d61cb88d",
+    "analyses_lexicales": {
+      "frysiv": [
+        "frysiv"
+      ],
+      "nufaedhor": [
+        "nufaedhor"
+      ],
+      "an": [
+        "an"
+      ],
+      "kraeliv": [
+        "kraeliv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "dissolve_hesitation",
+    "vaeltharyn": "Trukoem grypeke.",
+    "francais_controle": "L'hésitation disparaît.",
+    "english_checked": "Hesitation dissolves away.",
+    "traitement": "reformulation",
+    "note_fr": "Le verbe dissoudre un organisme n'est pas détourné ; la disparition conserve ici le résultat affectif.",
+    "note_en": "The organism-disbanding verb is not repurposed; disappearance preserves the emotional result.",
+    "id": "SC-dissolve_hesitation",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-438bc9a989c6",
+    "analyses_lexicales": {
+      "trukoem": [
+        "trukoem"
+      ],
+      "grypeke": [
+        "grypekar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "shared_embrace",
+    "vaeltharyn": "kraevetol min-en",
+    "francais_controle": "notre étreinte",
+    "english_checked": "our shared embrace",
+    "traitement": "construction",
+    "note_fr": "Possession commune en contexte ; metothar, diviser pour distribuer, ferait un contresens.",
+    "note_en": "Shared possession in context; metothar, divide for distribution, would mislead.",
+    "id": "SC-shared_embrace",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-cf87aee4c807",
+    "analyses_lexicales": {
+      "kraevetol": [
+        "kraevetol"
+      ],
+      "min-en": [
+        "min"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "reluctant",
+    "vaeltharyn": "Mi nu vaelem felhukar thranurer si-en.",
+    "francais_controle": "Je ne veux pas abandonner ma résistance.",
+    "english_checked": "I am reluctant to relinquish my resistance.",
+    "traitement": "construction contextualisée",
+    "note_fr": "La personne grammaticale vient de l'exemple ; le pronom doit suivre le texte réel. Ne pas employer skimfaes pour toute réticence à agir.",
+    "note_en": "Person comes from this example; match the actual text's pronoun. Skimfaes is not every reluctance to act.",
+    "id": "SC-reluctant",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-75ef7deb8905",
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "vaelem": [
+        "vaelar"
+      ],
+      "felhukar": [
+        "felhukar"
+      ],
+      "thranurer": [
+        "thranurer"
+      ],
+      "si-en": [
+        "si"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "already_divine",
+    "vaeltharyn": "Mi gedaenem dhais dhe se vele vrelloen.",
+    "francais_controle": "Je sens déjà que c'est merveilleux.",
+    "english_checked": "It already feels wonderful to me.",
+    "traitement": "construction contextualisée",
+    "note_fr": "Lecture affective et admirative ; pas une affirmation de divinité. Dhais est l'adverbe déjà.",
+    "note_en": "Emotional, admiring reading; not a claim of divinity. Dhais means already.",
+    "id": "SC-already_divine",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-078f9523385e",
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "gedaenem": [
+        "gedaenar"
+      ],
+      "dhais": [
+        "dhais"
+      ],
+      "dhe": [
+        "dhe"
+      ],
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "vrelloen": [
+        "vrelloen"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "captivated",
+    "vaeltharyn": "Mi velem gokevun.",
+    "francais_controle": "Je suis captivé.",
+    "english_checked": "I am captivated.",
+    "traitement": "attesté et construction",
+    "note_fr": "Participe passif d'un transitif ; ne signifie pas retenu physiquement prisonnier.",
+    "note_en": "Passive of a transitive verb; not physically imprisoned.",
+    "id": "SC-captivated",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-23385a0320c2",
+    "analyses_lexicales": {
+      "mi": [
+        "mi"
+      ],
+      "velem": [
+        "velar"
+      ],
+      "gokevun": [
+        "gokevar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "peculiar_comfort",
+    "vaeltharyn": "graedoen gaebyk",
+    "francais_controle": "réconfort singulier",
+    "english_checked": "peculiar comfort",
+    "traitement": "attesté et construction",
+    "note_fr": "Réconfort qui ne ressemble pas aux autres ; aucun jugement pathologique.",
+    "note_en": "Unusual comfort, with no diagnostic judgement.",
+    "id": "SC-peculiar_comfort",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-e6e21aba86f8",
+    "analyses_lexicales": {
+      "graedoen": [
+        "graedoen"
+      ],
+      "gaebyk": [
+        "gaebyk"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "unknown_before",
+    "vaeltharyn": "Thirkaeris mi nu ranoelhikem ith graedoen.",
+    "francais_controle": "Auparavant, je n'avais pas connu ce réconfort.",
+    "english_checked": "I had never known this comfort before.",
+    "traitement": "construction contextualisée",
+    "note_fr": "Le référent de ce modèle est le réconfort ; l’adapter au contexte.",
+    "note_en": "The model refers to comfort; adapt its referent to the context.",
+    "id": "SC-unknown_before",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-c61f370b4e36",
+    "analyses_lexicales": {
+      "thirkaeris": [
+        "thirkaeris"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "ranoelhikem": [
+        "noelhikar"
+      ],
+      "ith": [
+        "ith"
+      ],
+      "graedoen": [
+        "graedoen"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "reckless_courage",
+    "vaeltharyn": "vaethun bohom an dhavil",
+    "francais_controle": "courage soudain et téméraire",
+    "english_checked": "sudden reckless courage",
+    "traitement": "attesté et construction",
+    "note_fr": "L'imprudence est conservée, pas remplacée par un simple compliment héroïque.",
+    "note_en": "Recklessness is retained, not replaced by uncomplicated heroic praise.",
+    "id": "SC-reckless_courage",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-f2aa7cb82b70",
+    "analyses_lexicales": {
+      "vaethun": [
+        "vaethar",
+        "vaethun"
+      ],
+      "bohom": [
+        "bohom"
+      ],
+      "an": [
+        "an"
+      ],
+      "dhavil": [
+        "dhavil"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "sweep_uncertainty",
+    "vaeltharyn": "Hirlum grypeke.",
+    "francais_controle": "L'incertitude s'efface.",
+    "english_checked": "Uncertainty is swept away.",
+    "traitement": "reformulation",
+    "note_fr": "La disparition conserve le résultat ; vryfaemar exige le nettoyage au balai dans son sens hérité. Une image littérale de balayage peut être explicitement choisie.",
+    "note_en": "Disappearance preserves the result; inherited vryfaemar denotes broom sweeping. An explicit broom metaphor remains optional.",
+    "id": "SC-sweep_uncertainty",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-897db8538eb6",
+    "analyses_lexicales": {
+      "hirlum": [
+        "hirlum"
+      ],
+      "grypeke": [
+        "grypekar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "bold_conditions",
+    "vaeltharyn": "thrirdhithi dhoefyv",
+    "francais_controle": "exigences audacieuses",
+    "english_checked": "bold requirements",
+    "traitement": "construction contextualisée",
+    "note_fr": "Conditions prises comme exigences négociées. Pour une condition logique, construire ir + proposition ; gribaefem signifie état ou nature.",
+    "note_en": "Conditions read as negotiated requirements. A logical condition uses ir plus a clause; gribaefem means state or nature.",
+    "id": "SC-bold_conditions",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-014a9e992694",
+    "analyses_lexicales": {
+      "thrirdhithi": [
+        "thrirdhith"
+      ],
+      "dhoefyv": [
+        "dhoefyv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "daring_demand",
+    "vaeltharyn": "thrirdhith dhoefyv ; hythikar",
+    "francais_controle": "exigence audacieuse ; exiger",
+    "english_checked": "a daring demand; demand",
+    "traitement": "attesté et construction",
+    "note_fr": "Hehon vise une habitude d'exiger beaucoup, pas la simple demande de cette scène.",
+    "note_en": "Hehon describes habitual demandingness, not just this scene's request.",
+    "id": "SC-daring_demand",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-1159034e3c3e",
+    "analyses_lexicales": {
+      "thrirdhith": [
+        "thrirdhith"
+      ],
+      "dhoefyv": [
+        "dhoefyv"
+      ],
+      "hythikar": [
+        "hythikar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "sweet_forfeit",
+    "vaeltharyn": "rydhem-fythiv gytyr",
+    "francais_controle": "gage de jeu agréable",
+    "english_checked": "a sweet playful forfeit",
+    "traitement": "nouveau composé et métaphore",
+    "note_fr": "Sweet exprime ici l'agrément, pas obligatoirement du sucre ou une matière douce au toucher.",
+    "note_en": "Sweet means pleasant here, not necessarily sugary or soft to touch.",
+    "id": "SC-sweet_forfeit",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-b45f01e8b8ca",
+    "analyses_lexicales": {
+      "rydhem-fythiv": [
+        "rydhem-fythiv"
+      ],
+      "gytyr": [
+        "gytyr"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "exchange_mine",
+    "vaeltharyn": "Ir ti vaeres ⟨objet reçu⟩ mi-or, mi vaerem ⟨objet donné⟩ ti-or.",
+    "francais_controle": "Si tu me donnes X, je te donne Y.",
+    "english_checked": "If you give me X, I give you Y.",
+    "traitement": "schéma à compléter",
+    "note_fr": "Mine exige un antécédent : reprendre le nom + mi-en. Compléter les objets reçus et donnés selon les acteurs du contexte.",
+    "note_en": "Mine requires an antecedent: repeat the noun plus mi-en. Fill received and given objects from the contextual actors.",
+    "id": "SC-exchange_mine",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": true,
+    "slots": [
+      "objet reçu",
+      "objet donné"
+    ],
+    "expression_id": "SCEX-b89c22459b9d",
+    "analyses_lexicales": {
+      "ir": [
+        "ir"
+      ],
+      "ti": [
+        "ti"
+      ],
+      "vaeres": [
+        "vaerar"
+      ],
+      "mi-or": [
+        "mi"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "vaerem": [
+        "vaerar"
+      ],
+      "ti-or": [
+        "ti"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "amused_pause",
+    "vaeltharyn": "vroloek, ko thalen mumpikothun an pomul",
+    "francais_controle": "pause, avec une personne amusée et calculatrice",
+    "english_checked": "a pause, with someone amused and calculating",
+    "traitement": "construction contextualisée",
+    "note_fr": "Le plaisir et le calcul portent sur la personne, pas littéralement sur une durée ; aucune intention malveillante ajoutée.",
+    "note_en": "Amusement and calculation belong to the person, not literally to a duration; no malice added.",
+    "id": "SC-amused_pause",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-f66aba3a468b",
+    "analyses_lexicales": {
+      "vroloek": [
+        "vroloek"
+      ],
+      "ko": [
+        "ko"
+      ],
+      "thalen": [
+        "thal",
+        "thalar",
+        "thalen"
+      ],
+      "mumpikothun": [
+        "mumpikothar"
+      ],
+      "an": [
+        "an"
+      ],
+      "pomul": [
+        "pomul"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "inspect_plea",
+    "vaeltharyn": "Faenlatha nydem dipir.",
+    "francais_controle": "Examine la requête effrontée.",
+    "english_checked": "Inspect the brazen plea.",
+    "traitement": "attesté et construction",
+    "note_fr": "Nydem peut être une demande ordinaire ; saelith n'impose pas une prière religieuse ici.",
+    "note_en": "Nydem can be an ordinary request; no religious prayer is imposed.",
+    "id": "SC-inspect_plea",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-1617c8e24aa3",
+    "analyses_lexicales": {
+      "faenlatha": [
+        "faenlathar"
+      ],
+      "nydem": [
+        "nydem"
+      ],
+      "dipir": [
+        "dipir"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "grant_unmeant",
+    "vaeltharyn": "Kihoma skoendhoem ya min nu ravaelom.",
+    "francais_controle": "Accorde ce que nous n'avions pas voulu.",
+    "english_checked": "Grant what we had not intended.",
+    "traitement": "construction contextualisée",
+    "note_fr": "Lecture d'intention antérieure, pas destin cosmique ni interdiction universelle. Si meant signifie prévu ou permis, choisir trupukar ou thrusirar dans une autre proposition.",
+    "note_en": "Prior-intention reading, not cosmic destiny or a universal ban. If meant means expected or permitted, use trupukar or thrusirar in another clause.",
+    "id": "SC-grant_unmeant",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-554562137397",
+    "analyses_lexicales": {
+      "kihoma": [
+        "kihomar"
+      ],
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "min": [
+        "min"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "ravaelom": [
+        "vaelar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "long_awaited",
+    "vaeltharyn": "skoendhoem ya mi ravaenem thirvaris",
+    "francais_controle": "chose que j'ai attendue longtemps",
+    "english_checked": "a long-awaited thing",
+    "traitement": "construction contextualisée",
+    "note_fr": "Thirvaris est l'adverbe longtemps déjà enregistré ; la relative précise l'agent de l'attente.",
+    "note_en": "Thirvaris is the recorded adverb for a long time; the relative specifies who waited.",
+    "id": "SC-long_awaited",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-2f8a3835168d",
+    "analyses_lexicales": {
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "mi": [
+        "mi"
+      ],
+      "ravaenem": [
+        "vaenar"
+      ],
+      "thirvaris": [
+        "thirvaris"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "unexpected_peace",
+    "vaeltharyn": "saerun doeboes",
+    "francais_controle": "paix inattendue",
+    "english_checked": "unexpected peace",
+    "traitement": "attesté et construction",
+    "note_fr": "Pas une propriété permanente de la personne ni une paix religieuse ajoutée.",
+    "note_en": "No permanent personality trait or religious peace added.",
+    "id": "SC-unexpected_peace",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-f6f490e3c6a0",
+    "analyses_lexicales": {
+      "saerun": [
+        "saerun"
+      ],
+      "doeboes": [
+        "doeboes"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "nothing_same",
+    "vaeltharyn": "Nul skoendhoem momlaeve grygel.",
+    "francais_controle": "Rien ne reste identique.",
+    "english_checked": "Nothing stays the same.",
+    "traitement": "attesté et construction",
+    "note_fr": "Nul quantifie le nom ; la négation n'est pas posée devant un groupe nominal avec nu.",
+    "note_en": "Nul quantifies the noun; nu is not placed before a noun phrase.",
+    "id": "SC-nothing_same",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-38057883baa0",
+    "analyses_lexicales": {
+      "nul": [
+        "nul"
+      ],
+      "skoendhoem": [
+        "skoendhoem"
+      ],
+      "momlaeve": [
+        "momlaevar"
+      ],
+      "grygel": [
+        "grygel"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "ancient_boundaries",
+    "vaeltharyn": "Slaeldomasi vaenal grypeken.",
+    "francais_controle": "Les anciennes limites disparaissent.",
+    "english_checked": "Ancient boundaries fall away.",
+    "traitement": "métaphore",
+    "note_fr": "Des limites relationnelles, pas automatiquement des frontières d'État. L'idée de chute physique peut être ajoutée comme image explicite.",
+    "note_en": "Interpersonal boundaries, not automatically state borders. Literal falling can be chosen as an explicit image.",
+    "id": "SC-ancient_boundaries",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-0ce70a3e1373",
+    "analyses_lexicales": {
+      "slaeldomasi": [
+        "slaeldomas"
+      ],
+      "vaenal": [
+        "vaenal"
+      ],
+      "grypeken": [
+        "grypekar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "no_innocence_return",
+    "vaeltharyn": "Nul thrudhun to taeroekath.",
+    "francais_controle": "Aucun retour vers l'ingénuité.",
+    "english_checked": "No return to innocence.",
+    "traitement": "construction et métaphore",
+    "note_fr": "Innocence lue comme ingénuité ; tralul convient si le texte parle réellement de culpabilité.",
+    "note_en": "Innocence read as ingenuousness; tralul fits actual guiltlessness.",
+    "id": "SC-no_innocence_return",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-88fc0206ce1d",
+    "analyses_lexicales": {
+      "nul": [
+        "nul"
+      ],
+      "thrudhun": [
+        "thrudhun"
+      ],
+      "to": [
+        "to"
+      ],
+      "taeroekath": [
+        "taeroek"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "polite_truths",
+    "vaeltharyn": "thaevi maerunvaerva",
+    "francais_controle": "vérités de politesse",
+    "english_checked": "polite truths",
+    "traitement": "dérivation et construction",
+    "note_fr": "Maerunvaer + va, adjectif relatif à la politesse ; krekom veut dire lisse, pas poli socialement.",
+    "note_en": "Maerunvaer plus va, relating to politeness; krekom means polished smooth, not socially polite.",
+    "id": "SC-polite_truths",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-b7ca7ed868ba",
+    "analyses_lexicales": {
+      "thaevi": [
+        "thaev"
+      ],
+      "maerunvaerva": [
+        "maerunvaer",
+        "maerunvaerva"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "between_laughter_certainty",
+    "vaeltharyn": "Se vele toebivun bri pimuvath an runkusath ya min nu pipyrom.",
+    "francais_controle": "Cela est suspendu entre le rire et une certitude que nous n'avouons pas.",
+    "english_checked": "It is suspended between laughter and a certainty we leave unspoken.",
+    "traitement": "métaphore",
+    "note_fr": "Les deux noms après bri prennent le locatif. La relative a un sujet et un verbe personnel ; le sujet réel doit remplacer min si nécessaire.",
+    "note_en": "Both nouns after bri take the locative. The relative has a subject and finite verb; replace min with the actual subject when needed.",
+    "id": "SC-between_laughter_certainty",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-b77ac67348e0",
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "vele": [
+        "velar"
+      ],
+      "toebivun": [
+        "toebivar"
+      ],
+      "bri": [
+        "bri"
+      ],
+      "pimuvath": [
+        "pimuv"
+      ],
+      "an": [
+        "an"
+      ],
+      "runkusath": [
+        "runkus"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "min": [
+        "min"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "pipyrom": [
+        "pipyrar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "chapter",
+    "vaeltharyn": "Mira dhe kenur naiv gynoeke grihak.",
+    "francais_controle": "Regarde un nouveau chapitre apparaître peu à peu.",
+    "english_checked": "Watch a new chapter gradually unfold.",
+    "traitement": "métaphore et construction",
+    "note_fr": "Chapitre de vie explicite comme image ; l'apparition ne force pas à déplier matériellement un livre.",
+    "note_en": "A life chapter is an explicit image; emergence does not require physically unfolding a book.",
+    "id": "SC-chapter",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-0616cdb11d5a",
+    "analyses_lexicales": {
+      "mira": [
+        "mirar"
+      ],
+      "dhe": [
+        "dhe"
+      ],
+      "kenur": [
+        "kenur"
+      ],
+      "naiv": [
+        "naiv"
+      ],
+      "gynoeke": [
+        "gynoekar"
+      ],
+      "grihak": [
+        "grihak"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "dancing_giants",
+    "vaeltharyn": "Sykimi kaenraeren e naevrelath mi-en.",
+    "francais_controle": "Des géants dansent dans ma poitrine.",
+    "english_checked": "Giants dance in my chest.",
+    "traitement": "métaphore",
+    "note_fr": "Géants imaginés ; le pluriel impose en au verbe. Le possesseur suit le nom fléchi.",
+    "note_en": "Imagined giants; plural subject requires en. The possessor follows the inflected noun.",
+    "id": "SC-dancing_giants",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-ece446bf8207",
+    "analyses_lexicales": {
+      "sykimi": [
+        "sykim"
+      ],
+      "kaenraeren": [
+        "kaenraerar"
+      ],
+      "e": [
+        "e"
+      ],
+      "naevrelath": [
+        "naevrel"
+      ],
+      "mi-en": [
+        "mi"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "never_same",
+    "vaeltharyn": "Nesoen, vethen gylgoesykath, se nu vivele sloehil grygel.",
+    "francais_controle": "Ensuite, à chaque instant, cela ne sera pas tout à fait identique.",
+    "english_checked": "Afterwards, it will never be quite the same.",
+    "traitement": "construction temporelle",
+    "note_fr": "Vethen + moment au locatif conserve la portée de never ; la phrase est un modèle explicite, à raccourcir seulement si le contexte porte déjà cette durée.",
+    "note_en": "Vethen plus a locative moment retains never's scope; shorten this explicit model only when context already supplies that duration.",
+    "id": "SC-never_same",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-3ff434263b80",
+    "analyses_lexicales": {
+      "nesoen": [
+        "nesoen"
+      ],
+      "vethen": [
+        "vethen"
+      ],
+      "gylgoesykath": [
+        "gylgoesyk"
+      ],
+      "se": [
+        "se"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "vivele": [
+        "velar"
+      ],
+      "sloehil": [
+        "sloehil"
+      ],
+      "grygel": [
+        "grygel"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "family_gathering",
+    "vaeltharyn": "lyrven nayren ; roenaemi maerunvaerva",
+    "francais_controle": "rencontre familiale ; discussions de politesse",
+    "english_checked": "family gathering; polite discussions",
+    "traitement": "attesté et construction",
+    "note_fr": "Une rencontre de famille, pas une réunion de morceaux séparés. La politesse n'est pas le poli d'une surface.",
+    "note_en": "A family gathering, not rejoining separate pieces. Politeness is not surface polish.",
+    "id": "SC-family_gathering",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-6da551318586",
+    "analyses_lexicales": {
+      "lyrven": [
+        "lyrven"
+      ],
+      "nayren": [
+        "nayr"
+      ],
+      "roenaemi": [
+        "roenaem"
+      ],
+      "maerunvaerva": [
+        "maerunvaer",
+        "maerunvaerva"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "imagined_shadows",
+    "vaeltharyn": "saunreli, ko thyri skethithun",
+    "francais_controle": "des semaines, avec des ombres imaginées",
+    "english_checked": "weeks with imagined shadows",
+    "traitement": "construction contextualisée",
+    "note_fr": "La durée relationnelle et l'agent imaginant dépendent du vers ; le groupe n'est pas déclaré comme un composé nouveau.",
+    "note_en": "Duration and the imagining agent depend on the line; the phrase is not declared a new compound.",
+    "id": "SC-imagined_shadows",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-0f909785d848",
+    "analyses_lexicales": {
+      "saunreli": [
+        "saunrel"
+      ],
+      "ko": [
+        "ko"
+      ],
+      "thyri": [
+        "thyr"
+      ],
+      "skethithun": [
+        "skethithar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "unhurried_grin",
+    "vaeltharyn": "Daefivan saerv gynoeke naevris.",
+    "francais_controle": "Un sourire calme apparaît lentement.",
+    "english_checked": "An unhurried grin appears.",
+    "traitement": "reformulation",
+    "note_fr": "Lenteur et calme sans négligence ni apathie déduites ; satath n'est pas imposé.",
+    "note_en": "Slow calm without inferred negligence or apathy; satath is not imposed.",
+    "id": "SC-unhurried_grin",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-696438b1e7b7",
+    "analyses_lexicales": {
+      "daefivan": [
+        "daefivan"
+      ],
+      "saerv": [
+        "saerv"
+      ],
+      "gynoeke": [
+        "gynoekar"
+      ],
+      "naevris": [
+        "naevris"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "guide_two",
+    "vaeltharyn": "Skikyka dai toemuli.",
+    "francais_controle": "Guide deux comparses.",
+    "english_checked": "Guide two accomplices.",
+    "traitement": "attesté et construction",
+    "note_fr": "Impératif à une personne ; dai demande un nom pluriel, sans créer un duel.",
+    "note_en": "Singular imperative; dai requires a plural noun, not a new dual number.",
+    "id": "SC-guide_two",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-8179ceea472b",
+    "analyses_lexicales": {
+      "skikyka": [
+        "skikykar"
+      ],
+      "dai": [
+        "dai"
+      ],
+      "toemuli": [
+        "toemul"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "soft_anthems",
+    "vaeltharyn": "Thrynaeki rymfuvov thaehynen faedhor.",
+    "francais_controle": "Des hymnes mélodiques sonnent doucement.",
+    "english_checked": "Melodic anthems play softly.",
+    "traitement": "attesté et construction",
+    "note_fr": "Sonner musical, pas jouer un rôle ni parier. Doucement n'est pas nécessairement une vitesse lente.",
+    "note_en": "Musical sounding, not role-playing or gambling. Softly need not mean slowly.",
+    "id": "SC-soft_anthems",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-3b70debc2255",
+    "analyses_lexicales": {
+      "thrynaeki": [
+        "thrynaek"
+      ],
+      "rymfuvov": [
+        "rymfuvov"
+      ],
+      "thaehynen": [
+        "thaehynar"
+      ],
+      "faedhor": [
+        "faedhor"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "quiet_poise",
+    "vaeltharyn": "throldhuth saerel an saerv",
+    "francais_controle": "assurance simple et calme",
+    "english_checked": "plain quiet poise",
+    "traitement": "construction contextualisée",
+    "note_fr": "Aplomb émotionnel, pas fil à plomb ; plain n'est pas la platitude physique ni nécessairement l'absence de beauté.",
+    "note_en": "Emotional poise, not a plumb line; plain is not physical flatness or necessarily lack of beauty.",
+    "id": "SC-quiet_poise",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-1eb79fc759ec",
+    "analyses_lexicales": {
+      "throldhuth": [
+        "throldhuth"
+      ],
+      "saerel": [
+        "saerar",
+        "saerel"
+      ],
+      "an": [
+        "an"
+      ],
+      "saerv": [
+        "saerv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "replace_noise",
+    "vaeltharyn": "Koemmas mithilaken grypeke; saerun gynoeke.",
+    "francais_controle": "Le bruit du monde disparaît ; la paix apparaît.",
+    "english_checked": "Worldly noise gives way to peace.",
+    "traitement": "reformulation",
+    "note_fr": "Le remplacement d'une personne dans un emploi dhytelar n'est pas détourné. La paix est un exemple à remplacer par le vrai sujet du vers.",
+    "note_en": "Dhytelar, replacing someone in a job, is not repurposed. Peace is an example to replace with the line's actual subject.",
+    "id": "SC-replace_noise",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-f9bf4edff783",
+    "analyses_lexicales": {
+      "koemmas": [
+        "koemmas"
+      ],
+      "mithilaken": [
+        "mithilak"
+      ],
+      "grypeke": [
+        "grypekar"
+      ],
+      "saerun": [
+        "saerun"
+      ],
+      "gynoeke": [
+        "gynoekar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "destination",
+    "vaeltharyn": "Min tyterom.",
+    "francais_controle": "Nous arrivons à destination.",
+    "english_checked": "We arrive at the destination.",
+    "traitement": "attesté et construction",
+    "note_fr": "Le verbe porte déjà l'arrivée à destination ; davaem signifie affectation ou usage prévu, pas forcément lieu d'arrivée.",
+    "note_en": "The verb already means reaching a destination; davaem means intended assignment or use, not necessarily an arrival place.",
+    "id": "SC-destination",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-77a28d73b0d8",
+    "analyses_lexicales": {
+      "min": [
+        "min"
+      ],
+      "tyterom": [
+        "tyterar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "creating_conditions",
+    "vaeltharyn": "Min thaelom thrirdhithi dhoefyv.",
+    "francais_controle": "Nous formulons des exigences audacieuses.",
+    "english_checked": "We create bold requirements.",
+    "traitement": "construction contextualisée",
+    "note_fr": "Même lecture d'exigences que bold conditions ; une condition logique se construit par ir, sans nouveau mot automatique.",
+    "note_en": "Same requirement reading as bold conditions; a logical condition uses ir, not an automatic new word.",
+    "id": "SC-creating_conditions",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-b3e34076f062",
+    "analyses_lexicales": {
+      "min": [
+        "min"
+      ],
+      "thaelom": [
+        "thaelar"
+      ],
+      "thrirdhithi": [
+        "thrirdhith"
+      ],
+      "dhoefyv": [
+        "dhoefyv"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "only_lips",
+    "vaeltharyn": "Ir vaemili nu velen dhoefyv, sen nu kelen lyrar se.",
+    "francais_controle": "Si des lèvres ne sont pas audacieuses, elles ne peuvent pas le dire.",
+    "english_checked": "If lips are not daring, they cannot say it.",
+    "traitement": "restriction et métaphore",
+    "note_fr": "La restriction de only est conservée par sa condition nécessaire. Skanoem existe mais une portée de focus non définie n'est pas improvisée ; le référent de se vient du vers.",
+    "note_en": "Only is retained as a necessary condition. Skanoem exists, but no undefined focus scope is improvised; the referent of se comes from the line.",
+    "id": "SC-only_lips",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-df72ace68ecf",
+    "analyses_lexicales": {
+      "ir": [
+        "ir"
+      ],
+      "vaemili": [
+        "vaem",
+        "vaemil"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "velen": [
+        "velar"
+      ],
+      "dhoefyv": [
+        "dhoefyv"
+      ],
+      "sen": [
+        "sen"
+      ],
+      "kelen": [
+        "kelar"
+      ],
+      "lyrar": [
+        "lyrar"
+      ],
+      "se": [
+        "se"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "firm_hands",
+    "vaeltharyn": "thimi filthyk",
+    "francais_controle": "mains fermes",
+    "english_checked": "firm hands",
+    "traitement": "attesté et construction",
+    "note_fr": "Fermeté physique ; pour une prise ferme, employer bropaekar ou fraerfysar comme dans les fiches dédiées.",
+    "note_en": "Physical firmness; use bropaekar or fraerfysar for secure gripping as in the dedicated records.",
+    "id": "SC-firm_hands",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-800e672bbcb8",
+    "analyses_lexicales": {
+      "thimi": [
+        "thim"
+      ],
+      "filthyk": [
+        "filthyk"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "universe_blurs",
+    "vaeltharyn": "Fyndhok skemuse min; se rytaeme dhoevom.",
+    "francais_controle": "L'univers nous dépasse ; il devient flou.",
+    "english_checked": "The surrounding universe blurs past us.",
+    "traitement": "métaphore de perception",
+    "note_fr": "Point de vue d'un véhicule en mouvement, pas une affirmation cosmologique ; aucun mélange matériel n'est impliqué.",
+    "note_en": "Viewpoint from a moving vehicle, not a cosmological claim; no material mixing implied.",
+    "id": "SC-universe_blurs",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-c0336458da99",
+    "analyses_lexicales": {
+      "fyndhok": [
+        "fyndhok"
+      ],
+      "skemuse": [
+        "skemusar"
+      ],
+      "min": [
+        "min"
+      ],
+      "se": [
+        "se"
+      ],
+      "rytaeme": [
+        "rytaemar"
+      ],
+      "dhoevom": [
+        "dhoevom"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "absolute_release",
+    "vaeltharyn": "e vruvythath kromer",
+    "francais_controle": "dans un relâchement entier",
+    "english_checked": "in complete release of tension",
+    "traitement": "construction contextualisée",
+    "note_fr": "Lecture de tension qui se relâche ; nypaek convient si release signifie libération. Aucun événement corporel supplémentaire ajouté.",
+    "note_en": "A release-of-tension reading; nypaek fits liberation. No extra bodily event added.",
+    "id": "SC-absolute_release",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-90b50ec9486d",
+    "analyses_lexicales": {
+      "e": [
+        "e"
+      ],
+      "vruvythath": [
+        "vruvyth"
+      ],
+      "kromer": [
+        "kromer"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "six_hundred_six",
+    "vaeltharyn": "sul khar sul transistori",
+    "francais_controle": "six cent six transistors",
+    "english_checked": "six hundred and six transistors",
+    "traitement": "nombre et flexion",
+    "note_fr": "606 = sul khar sul. Ce compte littéral ne constitue pas une description technique de la TR-606.",
+    "note_en": "606 is sul khar sul. This literal count is not asserted as a technical description of the TR-606.",
+    "id": "SC-six_hundred_six",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-9bb727e8d015",
+    "analyses_lexicales": {
+      "sul": [
+        "sul"
+      ],
+      "khar": [
+        "khar"
+      ],
+      "transistori": [
+        "transistor"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "sequence",
+    "vaeltharyn": "thrufon",
+    "francais_controle": "séquence ordonnée",
+    "english_checked": "ordered sequence",
+    "traitement": "attesté",
+    "note_fr": "Une séquence n'est pas par définition une boucle ni une répétition.",
+    "note_en": "A sequence is not by definition a loop or repetition.",
+    "id": "SC-sequence",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-eed766d2c2e5",
+    "analyses_lexicales": {
+      "thrufon": [
+        "thrufon"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "no_repetition",
+    "vaeltharyn": "nul broedaek",
+    "francais_controle": "aucune répétition",
+    "english_checked": "no repetition",
+    "traitement": "construction",
+    "note_fr": "Nul devant le nom ; pas nu devant un fragment nominal.",
+    "note_en": "Nul before the noun; not nu before a noun fragment.",
+    "id": "SC-no_repetition",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-0a2dc9d35d38",
+    "analyses_lexicales": {
+      "nul": [
+        "nul"
+      ],
+      "broedaek": [
+        "broedaek"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "lingers",
+    "vaeltharyn": "Se momlaeve.",
+    "francais_controle": "Cela demeure.",
+    "english_checked": "It lingers.",
+    "traitement": "attesté et construction",
+    "note_fr": "Momlaevar permet le maintien dans un état ; furrolar privilégie une persistance de volonté.",
+    "note_en": "Momlaevar allows remaining in a state; furrolar emphasizes persistence of resolve.",
+    "id": "SC-lingers",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-447e0cd10c2a",
+    "analyses_lexicales": {
+      "se": [
+        "se"
+      ],
+      "momlaeve": [
+        "momlaevar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "memory_shape",
+    "vaeltharyn": "Nael momlaeve poekekun e remirath ya min nu rakutykom.",
+    "francais_controle": "La mémoire reste immobilisée dans une forme que nous n'avons pas oubliée.",
+    "english_checked": "Memory remains frozen in an unforgotten shape.",
+    "traitement": "métaphore et construction",
+    "note_fr": "Unforgotten = non oublié en fait ; slolnodoel signifierait impossible à oublier et changerait la portée. Le sujet réel doit remplacer min si nécessaire.",
+    "note_en": "Unforgotten means actually not forgotten; slolnodoel would mean impossible to forget and change the scope. Replace min with the actual subject when needed.",
+    "id": "SC-memory_shape",
+    "statut": "construction proposée selon les règles ; contexte et limites précisés",
+    "force": 0,
+    "schema_a_completer": false,
+    "expression_id": "SCEX-b29a7b9511a5",
+    "analyses_lexicales": {
+      "nael": [
+        "nael"
+      ],
+      "momlaeve": [
+        "momlaevar"
+      ],
+      "poekekun": [
+        "poekekar"
+      ],
+      "e": [
+        "e"
+      ],
+      "remirath": [
+        "remir"
+      ],
+      "ya": [
+        "ya"
+      ],
+      "min": [
+        "min"
+      ],
+      "nu": [
+        "nu"
+      ],
+      "rakutykom": [
+        "kutykar"
+      ]
+    },
+    "references": [
+      "PROJECT"
+    ]
+  }
+]

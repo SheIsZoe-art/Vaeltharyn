@@ -1,0 +1,10 @@
+{
+  "status": "pass",
+  "plugin_version": "0.8.0",
+  "corpus_version": "1.6.0",
+  "structure_version": "4.1.0",
+  "exact_package_allowlists": true,
+  "indexed_expression_schema": true,
+  "standalone_lookup": true,
+  "installation_protection": true
+}

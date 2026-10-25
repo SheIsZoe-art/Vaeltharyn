@@ -1,0 +1,44 @@
+{
+  "method": "Exact lexical candidate IDs; full CLI wall time including Python startup, one warm-up and three measured runs. Indexed lookup also consults expression registries. Same source inputs; no historical Git objects required. Local timings, not a universal guarantee.",
+  "structure_version": "4.1.0",
+  "results": [
+    {
+      "lang": "fr",
+      "terms": [
+        "faim",
+        "colère"
+      ],
+      "median_ms": {
+        "linear": 646.78,
+        "indexed": 116.47
+      },
+      "speedup": 5.6
+    },
+    {
+      "lang": "en",
+      "terms": [
+        "synthesizer",
+        "harmonic frequency",
+        "badass",
+        "exchange for mine"
+      ],
+      "median_ms": {
+        "linear": 867.19,
+        "indexed": 121.59
+      },
+      "speedup": 7.1
+    },
+    {
+      "lang": "vh",
+      "terms": [
+        "saevron",
+        "haem"
+      ],
+      "median_ms": {
+        "linear": 462.57,
+        "indexed": 136.29
+      },
+      "speedup": 3.4
+    }
+  ]
+}

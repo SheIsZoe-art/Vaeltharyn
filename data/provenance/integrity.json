@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "corpus_version": "1.6.0",
+  "entries": 65045,
+  "spellings": 65042,
+  "verbs": 6539,
+  "expression_records": 456,
+  "neutral_aliases": 1041,
+  "algorithm": "sha256",
+  "source_files": {
+    "data/lexicon/fr/entries.csv": "59be409bd847aec5474ee9d71548bf7ac8c8f76be77a0946a97b3b4956968eff",
+    "data/lexicon/en/entries.csv": "d0c997dc8bd95b73a8609fd3a85cc8a70e4d00e43699a3bdcffbc5579281741a",
+    "data/expressions/register/expressions.json": "7d9debd18ee9e46fa01ab2570565a9f611241982d2fa759c5f209cf46d840c77",
+    "data/expressions/idioms/sens.json": "37cf7abd65a3c8d4e555d9ee111da64a3ea2dd7de39b378da1a23ea8542fcf8b",
+    "data/expressions/sound-body/sens.json": "e0b526fafbf02303abea07de5beb86336ca06c6cda216441b6b9e8d4801c1e45",
+    "data/expressions/aliases.json": "953bcb472892e8d9c0df50f5d6f56d642e8c5d4392724375e4d07dfb4be396a9",
+    "data/provenance/references.json": "73a6c37299207b17f779ea5afecb0ddbef2a9968dcd8587296e514806a1620a1",
+    "data/provenance/definitions-sourcees.jsonl": "9f136dea88c1ec57ad123cec38b8f3c2c4f7957caedcf19854548ae3b06456f7",
+    "data/provenance/renvois-heritage.csv": "68d5c5449c13c67390ae81cf9b3bddb6c2e68371afd3880cac30e5e1de5f9fed",
+    "data/expressions/emotions-dialogue/sens.json": "7d5c0b5e0e41b3518491e7dfcd9d1f2d216173c103d3c8ec32426cf4d7b3983e"
+  }
+}

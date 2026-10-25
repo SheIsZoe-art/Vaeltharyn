@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "vaeltharyn-translator",
+  "version": "0.8.0",
+  "description": "French, English and Vaeltharyn translation with a portable indexed corpus / Traduction avec corpus indexé autonome.",
+  "author": {
+    "name": "SheIsZoe"
+  },
+  "repository": "https://github.com/SheIsZoe-art/Vaeltharyn",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Traducteur Vaeltharyn",
+        "shortDescription": "Traduire en Vaeltharyn",
+        "longDescription": "Traduit et analyse le Vaeltharyn selon le dictionnaire et la grammaire versionnés du dépôt canonique. Signale les propositions non validées.",
+        "developerName": "SheIsZoe",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Traduis ce passage en Vaeltharyn en respectant les formes canoniques et en signalant les mots incertains."
+      }
+    }
+  }
+}

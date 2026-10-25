@@ -1,0 +1,682 @@
+[
+  {
+    "key": "tender_anger",
+    "id": "ED-tender_anger",
+    "expression_id": "EDEX-b02b78b68f48",
+    "vaeltharyn": "vyr ko grufav",
+    "francais_controle": "colère mêlée de tendresse",
+    "english_checked": "anger mixed with tenderness",
+    "note_fr": "Les deux sentiments coexistent ; aucune intensité ni menace n’est ajoutée.",
+    "note_en": "The feelings coexist; no degree of intensity or threat is implied.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "fragile_relief",
+    "id": "ED-fragile_relief",
+    "expression_id": "EDEX-9702091ae84c",
+    "vaeltharyn": "saelraev nevalun",
+    "francais_controle": "soulagement fragile",
+    "english_checked": "fragile relief",
+    "note_fr": "Le soulagement est réel mais peu assuré ; ne signifie pas guérison.",
+    "note_en": "Relief is present but precarious; this does not mean recovery.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "bittersweet_joy",
+    "id": "ED-bittersweet_joy",
+    "expression_id": "EDEX-16bce4d15f4f",
+    "vaeltharyn": "laeth ko thrymdhom",
+    "francais_controle": "joie mêlée de tristesse",
+    "english_checked": "joy mixed with sadness",
+    "note_fr": "Équivalent descriptif de bittersweet dans ce contexte émotionnel ; pas de goût amer.",
+    "note_en": "A descriptive emotional reading of bittersweet; not a bitter taste.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "fearful_hope",
+    "id": "ED-fearful_hope",
+    "expression_id": "EDEX-8963a8b5f7c4",
+    "vaeltharyn": "thrael ko kaeth",
+    "francais_controle": "espoir mêlé de peur",
+    "english_checked": "hope mixed with fear",
+    "note_fr": "L’espoir et la peur restent distincts ; ne désigne pas un diagnostic.",
+    "note_en": "Hope and fear remain distinct; no diagnosis is intended.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "fragile_trust",
+    "id": "ED-fragile_trust",
+    "expression_id": "EDEX-24ff7b241ec9",
+    "vaeltharyn": "dhael nevalun",
+    "francais_controle": "confiance fragile",
+    "english_checked": "fragile trust",
+    "note_fr": "Confiance précaire ; ne garantit ni réciprocité ni sécurité objective.",
+    "note_en": "Precarious trust; neither reciprocity nor objective safety is guaranteed.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "nostalgia_without_resentment",
+    "id": "ED-nostalgia_without_resentment",
+    "expression_id": "EDEX-9a427f6542ef",
+    "vaeltharyn": "vaelnael sen skaehoen",
+    "francais_controle": "nostalgie sans rancœur",
+    "english_checked": "nostalgia without resentment",
+    "note_fr": "Ne pas remplacer rancœur par le goût amer sloekoem. La nostalgie n’implique pas le désir de revenir.",
+    "note_en": "Do not use the taste noun sloekoem for resentment. Nostalgia does not entail wanting to return.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "tender_touch",
+    "id": "ED-tender_touch",
+    "expression_id": "EDEX-9ccfc0d58519",
+    "vaeltharyn": "Mi kaenem slyrol en thim ti-en.",
+    "francais_controle": "Je touche tendrement ta main.",
+    "english_checked": "I touch your hand tenderly.",
+    "note_fr": "L’adverbe exprime la tendresse affective, pas la douceur matérielle bylvek. Le geste décrit n’accorde aucune permission implicite.",
+    "note_en": "The adverb describes affection, not tactile softness bylvek. Describing a touch grants no implicit permission.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "soothing_voice",
+    "id": "ED-soothing_voice",
+    "expression_id": "EDEX-2c65bb742448",
+    "vaeltharyn": "thaem vomtyn",
+    "francais_controle": "voix apaisante",
+    "english_checked": "soothing voice",
+    "note_fr": "Une qualité affective de la voix ; pas une fréquence acoustique déterminée.",
+    "note_en": "An emotional quality of the voice, not a specified acoustic frequency.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "hesitate",
+    "id": "ED-hesitate",
+    "expression_id": "EDEX-ce8a390a4a5b",
+    "vaeltharyn": "Mi trukoemem.",
+    "francais_controle": "J’hésite.",
+    "english_checked": "I hesitate.",
+    "note_fr": "Indécision présente ; ni refus définitif ni trouble de la parole.",
+    "note_en": "Present indecision; neither a final refusal nor a speech disorder.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "hand_warmth",
+    "id": "ED-hand_warmth",
+    "expression_id": "EDEX-e934c667bd31",
+    "vaeltharyn": "thim-raelun",
+    "francais_controle": "chaleur physique des mains",
+    "english_checked": "physical warmth of hands",
+    "note_fr": "Nom composé, noyau raelun ; conserver le sens tactile.",
+    "note_en": "Compound headed by raelun; retain the tactile sense.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "composé productif",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "voice_memory",
+    "id": "ED-voice_memory",
+    "expression_id": "EDEX-b82610ab5041",
+    "vaeltharyn": "thaem-nael",
+    "francais_controle": "souvenir mental d’une voix",
+    "english_checked": "mental memory of a voice",
+    "note_fr": "Souvenir, pas bande enregistrée ; la personne dont on se souvient est à préciser en contexte.",
+    "note_en": "Recollection, not recorded tape; identify the person in context.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "composé productif",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "relief_sigh",
+    "id": "ED-relief_sigh",
+    "expression_id": "EDEX-7a2dde50520b",
+    "vaeltharyn": "saelraev-dathak",
+    "francais_controle": "soupir exprimant le soulagement",
+    "english_checked": "sigh expressing relief",
+    "note_fr": "Un type de soupir ; ne permet pas de déduire une émotion de tout soupir réel.",
+    "note_en": "A type of sigh; not a rule for inferring emotions from every real sigh.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "composé productif",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "hesitate_but_speak",
+    "id": "ED-hesitate_but_speak",
+    "expression_id": "EDEX-abb37bab9775",
+    "vaeltharyn": "Mi trukoemem, ath mi vaethunem lyrar.",
+    "francais_controle": "J’hésite, mais j’ose parler.",
+    "english_checked": "I hesitate, but I dare to speak.",
+    "note_fr": "Le même sujet hésite et ose ; l’hésitation peut persister pendant la prise de parole.",
+    "note_en": "The same subject hesitates and dares; hesitation can persist while speaking.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "want_stay_afraid",
+    "id": "ED-want_stay_afraid",
+    "expression_id": "EDEX-72775094d5cd",
+    "vaeltharyn": "Mi vaelem momlaevar, ath mi dhavem kaeth.",
+    "francais_controle": "Je veux rester, mais j’ai peur.",
+    "english_checked": "I want to stay, but I am afraid.",
+    "note_fr": "Le motif de la peur n’est pas attribué automatiquement à l’interlocuteur.",
+    "note_en": "The cause of fear is not automatically attributed to the listener.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "still_love_leave",
+    "id": "ED-still_love_leave",
+    "expression_id": "EDEX-628c5fc19255",
+    "vaeltharyn": "Mi maelem vrifoel ti, ath mi naethalem.",
+    "francais_controle": "Je t’aime encore, mais je pars.",
+    "english_checked": "I still love you, but I am leaving.",
+    "note_fr": "Encore est continuatif, non again ; partir n’implique pas cesser d’aimer.",
+    "note_en": "Still is continuative, not again; leaving does not entail ceasing to love.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "not_ready",
+    "id": "ED-not_ready",
+    "expression_id": "EDEX-7459d64cb848",
+    "vaeltharyn": "Mi nu velem vrethoer.",
+    "francais_controle": "Je ne suis pas prêt.",
+    "english_checked": "I am not ready.",
+    "note_fr": "Prêt à l’action dont il est question ; aucun genre grammatical.",
+    "note_en": "Ready for the action in context; no grammatical gender.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "can_wait",
+    "id": "ED-can_wait",
+    "expression_id": "EDEX-1de199eef6c9",
+    "vaeltharyn": "Mi kelem vaenar.",
+    "francais_controle": "Je peux attendre.",
+    "english_checked": "I can wait.",
+    "note_fr": "Kelar exprime une capacité, pas l’octroi d’une permission.",
+    "note_en": "Kelar expresses ability, not permission.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "touch_boundary",
+    "id": "ED-touch_boundary",
+    "expression_id": "EDEX-81224004d5f8",
+    "vaeltharyn": "Nu kaena mi, lei mi maelem ti.",
+    "francais_controle": "Ne me touche pas, bien que je t’aime.",
+    "english_checked": "Do not touch me, although I love you.",
+    "note_fr": "Impératif négatif singulier ; aimer ne retire pas le refus du geste.",
+    "note_en": "Negative singular imperative; love does not cancel refusal of the touch.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "can_refuse",
+    "id": "ED-can_refuse",
+    "expression_id": "EDEX-36e2a0d23c5d",
+    "vaeltharyn": "Ti keles slymvaetoelar.",
+    "francais_controle": "Tu peux refuser.",
+    "english_checked": "You can refuse.",
+    "note_fr": "Possibilité de refuser une demande contextuelle ; ne transforme pas kelar en verbe de permission.",
+    "note_en": "Ability to refuse the request in context; kelar does not become a permission verb.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "breathe_without_fear",
+    "id": "ED-breathe_without_fear",
+    "expression_id": "EDEX-d6dbd5ed6490",
+    "vaeltharyn": "Mi vaelem dhaemar sen kaeth.",
+    "francais_controle": "Je veux respirer sans peur.",
+    "english_checked": "I want to breathe without fear.",
+    "note_fr": "La peur est niée comme accompagnement ; aucune promesse médicale.",
+    "note_en": "Fear is excluded as an accompaniment; no medical promise.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "tired_keep_going",
+    "id": "ED-tired_keep_going",
+    "expression_id": "EDEX-5d13466328eb",
+    "vaeltharyn": "Mi velem gedhoek, ath mi alu saerem.",
+    "francais_controle": "Je suis fatigué, mais je continue d’aller.",
+    "english_checked": "I am tired, but I keep going.",
+    "note_fr": "Aller désigne ici le déplacement ; la persévérance abstraite demande un contexte explicite.",
+    "note_en": "Going denotes movement here; abstract perseverance needs explicit context.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "reluctant_leave",
+    "id": "ED-reluctant_leave",
+    "expression_id": "EDEX-a38e87f8ce12",
+    "vaeltharyn": "Mi nu vaelem naethalar.",
+    "francais_controle": "Je ne veux pas partir.",
+    "english_checked": "I do not want to leave.",
+    "note_fr": "Négation du vouloir ; ne dit pas que partir est impossible.",
+    "note_en": "Negates willingness, not ability to leave.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "cannot_promise",
+    "id": "ED-cannot_promise",
+    "expression_id": "EDEX-8a513ebca01d",
+    "vaeltharyn": "Mi nu kelem lyloevar se.",
+    "francais_controle": "Je ne peux pas le promettre.",
+    "english_checked": "I cannot promise it.",
+    "note_fr": "Se reprend une proposition ou un engagement identifiable ; pas une personne promise.",
+    "note_en": "Se resumes an identifiable proposition or commitment, not a person being promised.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "listen_without_resentment",
+    "id": "ED-listen_without_resentment",
+    "expression_id": "EDEX-d2159c0841c9",
+    "vaeltharyn": "Mi lisem ti sen skaehoen.",
+    "francais_controle": "Je t’écoute sans rancœur.",
+    "english_checked": "I listen to you without resentment.",
+    "note_fr": "Écouter n’implique ni approuver ni pardonner.",
+    "note_en": "Listening entails neither agreement nor forgiveness.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "tender_speech_angry",
+    "id": "ED-tender_speech_angry",
+    "expression_id": "EDEX-016dfaffbb4b",
+    "vaeltharyn": "Mi lyrem slyrol, lei mi dhavem vyr.",
+    "francais_controle": "Je parle tendrement, bien que je sois en colère.",
+    "english_checked": "I speak tenderly, although I am angry.",
+    "note_fr": "Le ton et l’émotion sont distincts ; douceur affective, pas faible volume imposé.",
+    "note_en": "Tone and emotion are distinct; affection does not prescribe low volume.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "laugh_with_grief",
+    "id": "ED-laugh_with_grief",
+    "expression_id": "EDEX-6875f02ade4a",
+    "vaeltharyn": "Mi laethem, ath mi dhavem naethun.",
+    "francais_controle": "Je ris, mais j’ai du chagrin.",
+    "english_checked": "I laugh, but I feel grief.",
+    "note_fr": "Le rire ne prouve pas la joie et n’annule pas le chagrin.",
+    "note_en": "Laughter does not prove joy or cancel grief.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "tremble_want_stay",
+    "id": "ED-tremble_want_stay",
+    "expression_id": "EDEX-8623b10f4662",
+    "vaeltharyn": "Mi thimlem, ath mi nu vaelem naethalar.",
+    "francais_controle": "Je tremble, mais je ne veux pas partir.",
+    "english_checked": "I tremble, but I do not want to leave.",
+    "note_fr": "La cause du tremblement reste ouverte ; aucune peur ou attirance déduite.",
+    "note_en": "The cause of trembling is unspecified; neither fear nor attraction is inferred.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "trust_and_doubt",
+    "id": "ED-trust_and_doubt",
+    "expression_id": "EDEX-de1b7d277abc",
+    "vaeltharyn": "Mi dhavem dhael, lei mi dhavem ulvaen.",
+    "francais_controle": "J’ai confiance, bien que j’aie des doutes.",
+    "english_checked": "I have trust, although I have doubts.",
+    "note_fr": "Le doute peut porter sur une partie de la situation ; pas une défiance totale.",
+    "note_en": "Doubt may concern part of the situation; not total distrust.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "gratitude_and_grief",
+    "id": "ED-gratitude_and_grief",
+    "expression_id": "EDEX-ac05625a7ff0",
+    "vaeltharyn": "Mi gedaenem haermael an naethun.",
+    "francais_controle": "J’éprouve de la gratitude et du chagrin.",
+    "english_checked": "I feel gratitude and grief.",
+    "note_fr": "Deux objets coordonnés du même verbe de sensation ; aucune cause inventée.",
+    "note_en": "Two coordinated objects of the same feeling verb; no invented cause.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "desire_not_consent",
+    "id": "ED-desire_not_consent",
+    "expression_id": "EDEX-1d7841c0fb79",
+    "vaeltharyn": "Mi dhavem vael, ath mi nu vaerem thaevlyren.",
+    "francais_controle": "J’ai du désir, mais je ne donne pas mon consentement.",
+    "english_checked": "I feel desire, but I do not give consent.",
+    "note_fr": "Vael n’est pas limité au désir sexuel ; l’acte concerné doit être connu. Un désir ne vaut pas consentement.",
+    "note_en": "Vael is not restricted to sexual desire; the relevant act must be known. Desire does not constitute consent.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "want_be_heard",
+    "id": "ED-want_be_heard",
+    "expression_id": "EDEX-9da4653edd76",
+    "vaeltharyn": "Mi vaelem dhe ti lises mi.",
+    "francais_controle": "Je veux que tu m’écoutes.",
+    "english_checked": "I want you to listen to me.",
+    "note_fr": "Sujets différents : complétive dhe, pas deux verbes partageant implicitement mi.",
+    "note_en": "Different subjects require a dhe clause; both verbs do not implicitly share mi.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "silent_listening",
+    "id": "ED-silent_listening",
+    "expression_id": "EDEX-c4b44582dca2",
+    "vaeltharyn": "Mi nu lyrem, ath mi lisem.",
+    "francais_controle": "Je ne parle pas, mais j’écoute.",
+    "english_checked": "I am not speaking, but I am listening.",
+    "note_fr": "L’absence de parole n’est pas une approbation et ne signifie pas absence de bruit ambiant.",
+    "note_en": "Not speaking is not agreement and does not entail an acoustically silent setting.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "chosen_company",
+    "id": "ED-chosen_company",
+    "expression_id": "EDEX-bc74b8ab0107",
+    "vaeltharyn": "Mi vaelem momlaevar ko ti.",
+    "francais_controle": "Je veux rester avec toi.",
+    "english_checked": "I want to stay with you.",
+    "note_fr": "Ko marque la compagnie ; aucune relation romantique ou exclusivité imposée.",
+    "note_en": "Ko marks company; no romantic relationship or exclusivity is implied.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "chosen_solitude",
+    "id": "ED-chosen_solitude",
+    "expression_id": "EDEX-91c9f1b0f140",
+    "vaeltharyn": "Mi vaelem momlaevar bromav.",
+    "francais_controle": "Je veux rester seul.",
+    "english_checked": "I want to remain alone.",
+    "note_fr": "Solitude voulue ; ne signifie ni abandon ni sentiment de solitude.",
+    "note_en": "Chosen solitude, not abandonment or loneliness.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "absence_felt",
+    "id": "ED-absence_felt",
+    "expression_id": "EDEX-6ecda72e0be8",
+    "vaeltharyn": "Mi gedaenem en palvul ti-en.",
+    "francais_controle": "Je ressens ton absence.",
+    "english_checked": "I feel your absence.",
+    "note_fr": "Peut exprimer tu me manques dans un contexte affectif. Ne pas employer roenythar, réservé au coup d’arme qui ne part pas.",
+    "note_en": "Can express I miss you in an emotional context. Do not use roenythar, whose sense concerns a weapon failing to fire.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "voice_soothes",
+    "id": "ED-voice_soothes",
+    "expression_id": "EDEX-718f68fa0c7b",
+    "vaeltharyn": "En thaem ti-en polpune mi.",
+    "francais_controle": "Ta voix m’apaise.",
+    "english_checked": "Your voice soothes me.",
+    "note_fr": "Effet affectif sur le locuteur ; aucune propriété thérapeutique ou fréquence spéciale.",
+    "note_en": "An emotional effect on the speaker, not a therapeutic property or special frequency.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "tremble_but_calm",
+    "id": "ED-tremble_but_calm",
+    "expression_id": "EDEX-5919995c6cdb",
+    "vaeltharyn": "Mi thimlem, lei mi velem saerv.",
+    "francais_controle": "Je tremble, bien que je sois calme.",
+    "english_checked": "I tremble, although I am calm.",
+    "note_fr": "Calme décrit ici l’état émotionnel ; le mouvement physique ne le contredit pas nécessairement.",
+    "note_en": "Calm describes the emotional state; physical movement need not contradict it.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "nostalgia_not_stay",
+    "id": "ED-nostalgia_not_stay",
+    "expression_id": "EDEX-f97bf149160f",
+    "vaeltharyn": "Mi gedaenem vaelnael, ath mi nu vaelem momlaevar.",
+    "francais_controle": "J’éprouve de la nostalgie, mais je ne veux pas rester.",
+    "english_checked": "I feel nostalgia, but I do not want to stay.",
+    "note_fr": "La nostalgie ne détermine pas la décision présente.",
+    "note_en": "Nostalgia does not determine the present decision.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "wanted_hand_touch",
+    "id": "ED-wanted_hand_touch",
+    "expression_id": "EDEX-847fb0ae0e68",
+    "vaeltharyn": "Mi vaelem kaenar en thim ti-en.",
+    "francais_controle": "Je veux toucher ta main.",
+    "english_checked": "I want to touch your hand.",
+    "note_fr": "Exprime le souhait du locuteur ; aucune permission ni réciprocité n’est affirmée.",
+    "note_en": "Expresses the speaker’s wish, not permission or reciprocity.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  },
+  {
+    "key": "ready_but_hesitant",
+    "id": "ED-ready_but_hesitant",
+    "expression_id": "EDEX-ea8f9925fc98",
+    "vaeltharyn": "Mi velem vrethoer, ath mi trukoemem.",
+    "francais_controle": "Je suis prêt, mais j’hésite.",
+    "english_checked": "I am ready, but I hesitate.",
+    "note_fr": "Préparation et décision sont différentes ; prêt ne signifie pas forcément décidé.",
+    "note_en": "Preparation differs from decision; being ready does not necessarily mean having decided.",
+    "force": 0,
+    "statut": "proposition non validée ; construction contrôlée à l’écrit",
+    "traitement": "construction productive",
+    "schema_a_completer": false,
+    "references": [
+      "PROJECT"
+    ]
+  }
+]

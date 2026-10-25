@@ -1,0 +1,7 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+data/** -text -whitespace
+*.zip binary

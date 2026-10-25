@@ -1,0 +1,107 @@
+[
+  {
+    "id": "PROJECT",
+    "title": "Vaeltharyn",
+    "url": "https://github.com/SheIsZoe-art/Vaeltharyn",
+    "license": "CC BY-SA 4.0",
+    "notice": "LICENSE.md",
+    "attribution": "Vaeltharyn — SheIsZoe"
+  },
+  {
+    "id": "WIKTIONARY",
+    "title": "Contributeurs du Wiktionnaire via Kaikki / Wiktextract",
+    "url": "https://kaikki.org/frwiktionary/",
+    "license": "CC BY-SA / GFDL as declared by the source",
+    "notice": "LICENSE.md; per-entry source URLs and source-definition records"
+  },
+  {
+    "id": "REF-PISSED",
+    "url": "https://www.collinsdictionary.com/us/dictionary/english/pissed",
+    "title": "Collins — pissed"
+  },
+  {
+    "id": "REF-BADASS",
+    "url": "https://dictionary.cambridge.org/us/dictionary/english/badass",
+    "title": "Cambridge — badass"
+  },
+  {
+    "id": "REF-CUNT",
+    "url": "https://dictionary.cambridge.org/us/dictionary/english/cunt",
+    "title": "Cambridge — cunt"
+  },
+  {
+    "id": "REF-JOBARD",
+    "url": "https://www.dictionnaire-academie.fr/article/A9J0220",
+    "title": "Académie française — jobard"
+  },
+  {
+    "id": "REF-CUISTRE",
+    "url": "https://www.dictionnaire-academie.fr/article/A9C5228",
+    "title": "Académie française — cuistre"
+  },
+  {
+    "id": "REF-KNUCKLEHEAD",
+    "url": "https://www.dictionary.com/browse/knucklehead",
+    "title": "Dictionary.com — knucklehead"
+  },
+  {
+    "id": "REF-SNITCH",
+    "url": "https://dictionary.cambridge.org/dictionary/english/snitch",
+    "title": "Cambridge — snitch"
+  },
+  {
+    "id": "REF-SHITFACED",
+    "url": "https://www.oxfordlearnersdictionaries.com/definition/english/shit-faced",
+    "title": "Oxford Learner’s — shit-faced"
+  },
+  {
+    "id": "REF-PEUCHERE",
+    "url": "https://www.dictionnaire-academie.fr/article/A9P1862",
+    "title": "Académie française — peuchère"
+  },
+  {
+    "id": "REF-TRAILER",
+    "url": "https://dictionary.cambridge.org/dictionary/english/trailer-trash",
+    "title": "Cambridge — trailer trash"
+  },
+  {
+    "id": "ROLAND-808",
+    "url": "https://support.roland.com/hc/en-us/articles/201963539-TR-808-Technical-Specifications",
+    "title": "Roland — TR-808 technical specifications"
+  },
+  {
+    "id": "ROLAND-606",
+    "url": "https://support.roland.com/hc/en-us/articles/6145882578715-T-8-Can-I-change-the-sound-for-each-part",
+    "title": "Roland — T-8 sound sources including TR-606"
+  },
+  {
+    "id": "ROLAND-PADS",
+    "url": "https://static.roland.com/manuals/s-1_manual_v102/eng/87294693.html",
+    "title": "Roland S-1 — keyboard pads and envelope"
+  },
+  {
+    "id": "ROLAND-SOUND-PAD",
+    "url": "https://cdn.roland.com/assets/media/pdf/gaia_sh-01_guidebook.pdf",
+    "title": "Roland GAIA SH-01 guidebook"
+  },
+  {
+    "id": "OPENSTAX-RESONANCE",
+    "url": "https://openstax.org/books/physics/pages/14-4-sound-interference-and-resonance",
+    "title": "OpenStax — Sound interference and resonance"
+  },
+  {
+    "id": "OPENSTAX-TIMBRE",
+    "url": "https://openstax.org/books/college-physics-2e/pages/17-6-hearing",
+    "title": "OpenStax — Hearing"
+  },
+  {
+    "id": "TI-TRANSISTORS",
+    "url": "https://www.ti.com/document-viewer/lit/html/SSZTAH9/GUID-9AFA0B17-038E-457B-8B5E-C7F89561163A",
+    "title": "Texas Instruments — transistor amplifier and switch"
+  },
+  {
+    "id": "LEX-ZOEA",
+    "title": "Merriam-Webster — zoea",
+    "url": "https://scrabble.merriam.com/finder/zoea"
+  }
+]
