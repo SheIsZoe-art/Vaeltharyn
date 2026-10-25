@@ -46,3 +46,8 @@ There is no need to approve every entry individually before writing. Use the cor
 ## Documented 1.4.0 extension — 25 October 2026
 
 [Extended expressive inventory](24_Inventaire_expressif_FR_EN.md): all 719 supplied rows are documented through 226 sense records and nine added lemmas. Four rows explicitly lack an established equivalent. Current CSVs: 65,026 entries, 65,023 spellings, 6,538 verbs. Earlier volume counts are historical. Additions remain unvalidated proposals.
+
+
+## 1.5.0 extension — sound, body and imagery
+
+[FR/EN construction guide](25_Son_corps_et_images.md): 111 contextual records and fifteen added entries: eight roots and seven compounds. Current corpus: 65,041 entries, 65,038 spellings, 6,538 verbs. Earlier counts are historical; additions remain proposals checked in writing.

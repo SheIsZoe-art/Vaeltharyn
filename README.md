@@ -8,7 +8,7 @@ Prononciation : **VAÈÈL-tha-rün**, /ˈvæːl.θa.ryn/.
 
 Le Vaeltharyn possède une grammaire productive, une conjugaison régulière et un dictionnaire français ↔ Vaeltharyn. Son univers sonore évoque des inspirations nordiques et celtiques ; sa grammaire et ses racines sont des créations du projet.
 
-> **Édition de travail 1.4.0, compléments lexicaux des 24 et 25 octobre 2026.** Le corpus comprend 65 026 entrées, 65 023 graphies distinctes et 6 538 verbes. Le grand supplément contient 62 083 propositions attribuées automatiquement, avec définitions sourcées, encore à relire individuellement. Le volume du lexique ne constitue pas une validation de chaque mot.
+> **Édition de travail 1.5.0, compléments lexicaux des 24 et 25 octobre 2026.** Le corpus comprend 65 041 entrées, 65 038 graphies distinctes et 6 538 verbes. Le grand supplément contient 62 083 propositions attribuées automatiquement, avec définitions sourcées, encore à relire individuellement. Le volume du lexique ne constitue pas une validation de chaque mot.
 
 ## Découvrir la langue
 
@@ -50,3 +50,8 @@ Les créations originales du projet sont publiées sous **CC BY-SA 4.0**, selon 
 ## Extension documentée 1.4.0 — 25 octobre 2026
 
 [Inventaire expressif FR/EN](24_Inventaire_expressif_FR_EN.md) : les 719 lignes fournies sont documentées, avec 226 fiches de sens et neuf ajouts lexicaux. Quatre lignes restent sans équivalent établi, explicitement signalées. CSV actuels : 65,026 entrées, 65,023 graphies, 6,538 verbes. Les chiffres antérieurs des volumes restent historiques. Les ajouts sont des propositions non validées.
+
+
+## Extension 1.5.0 — son, corps et images
+
+[Guide de construction FR/EN](25_Son_corps_et_images.md) : 111 fiches contextualisées, quinze entrées supplémentaires, huit racines et sept composés. Corpus courant : 65 041 entrées, 65 038 graphies, 6 538 verbes. Les comptes antérieurs restent historiques ; les ajouts restent des propositions vérifiées à l’écrit.

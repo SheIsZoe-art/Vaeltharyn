@@ -53,3 +53,8 @@ Pour les technologies modernes, former un composé descriptif quand il est clair
 4. Vérifier graphie, sonorité, homonymes, pluriel et conjugaison.
 5. Ajouter un exemple traduisible et mettre à jour les deux dictionnaires.
 6. Enregistrer la date et la version dans [08_Canon_et_controles](08_Canon_et_controles.md).
+
+
+## Extension 1.5.0 — son, corps et images
+
+[Guide de construction FR/EN](25_Son_corps_et_images.md) : 111 fiches contextualisées, quinze entrées supplémentaires, huit racines et sept composés. Corpus courant : 65 041 entrées, 65 038 graphies, 6 538 verbes. Les comptes antérieurs restent historiques ; les ajouts restent des propositions vérifiées à l’écrit.

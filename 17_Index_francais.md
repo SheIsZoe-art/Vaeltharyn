@@ -182,3 +182,8 @@ Retour : [15_Grand_dictionnaire](15_Grand_dictionnaire.md). Recherche plein text
 ## Extension documentée 1.4.0 — 25 octobre 2026
 
 [Inventaire expressif FR/EN](24_Inventaire_expressif_FR_EN.md) : les 719 lignes fournies sont documentées, avec 226 fiches de sens et neuf ajouts lexicaux. Quatre lignes restent sans équivalent établi, explicitement signalées. CSV actuels : 65,026 entrées, 65,023 graphies, 6,538 verbes. Les chiffres antérieurs des volumes restent historiques. Les ajouts sont des propositions non validées.
+
+
+## Extension 1.5.0 — son, corps et images
+
+[Guide de construction FR/EN](25_Son_corps_et_images.md) : 111 fiches contextualisées, quinze entrées supplémentaires, huit racines et sept composés. Corpus courant : 65 041 entrées, 65 038 graphies, 6 538 verbes. Les comptes antérieurs restent historiques ; les ajouts restent des propositions vérifiées à l’écrit.

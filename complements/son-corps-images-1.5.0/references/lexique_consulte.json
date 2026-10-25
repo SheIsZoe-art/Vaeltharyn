@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "VX-cfacad28f8fc14a9",
+    "mot": "aelun",
+    "categorie": "n",
+    "definition_fr": "lumière",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-9d556c2525aa9bfc",
+    "mot": "thyr",
+    "categorie": "n",
+    "definition_fr": "ombre",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-124c33796d3bc7e6",
+    "mot": "grum",
+    "categorie": "n",
+    "definition_fr": "tonnerre",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-6aea6b75f10d25a1",
+    "mot": "pyrel",
+    "categorie": "n",
+    "definition_fr": "étincelle",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-a6fa0a16d9b5cb06",
+    "mot": "thalen",
+    "categorie": "n",
+    "definition_fr": "personne",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-ad15a88d5b61f6a5",
+    "mot": "nayr",
+    "categorie": "n",
+    "definition_fr": "famille",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-1fddb9f70926db51",
+    "mot": "thaem",
+    "categorie": "n",
+    "definition_fr": "voix",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-bc5a19b5721da78e",
+    "mot": "thim",
+    "categorie": "n",
+    "definition_fr": "main",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-bf5bc5e40492eba7",
+    "mot": "thal",
+    "categorie": "n",
+    "definition_fr": "bras",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-dc58c0665709932e",
+    "mot": "vaem",
+    "categorie": "n",
+    "definition_fr": "bouche",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-c8d85f089dd03691",
+    "mot": "nael",
+    "categorie": "n",
+    "definition_fr": "mémoire",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-ccdb5c21bc841165",
+    "mot": "vael",
+    "categorie": "n",
+    "definition_fr": "désir, volonté",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-23b3797e41069d3a",
+    "mot": "saerun",
+    "categorie": "n",
+    "definition_fr": "paix",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-4b727e78d07f9ae8",
+    "mot": "vaethun",
+    "categorie": "n",
+    "definition_fr": "courage",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-1b2ef5bd487d50bc",
+    "mot": "thaev",
+    "categorie": "n",
+    "definition_fr": "vérité",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-f413e7755427b50d",
+    "mot": "kaerv",
+    "categorie": "n",
+    "definition_fr": "ville",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-98f1b3acdf4ecef4",
+    "mot": "lyrven",
+    "categorie": "n",
+    "definition_fr": "rencontre",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-7f97b0085fc3485e",
+    "mot": "naev",
+    "categorie": "adj",
+    "definition_fr": "profond",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-b7d36f3ab389654c",
+    "mot": "thar",
+    "categorie": "adj",
+    "definition_fr": "grand",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-6fa06043dd3cea0a",
+    "mot": "vaenal",
+    "categorie": "adj",
+    "definition_fr": "ancien",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-84a8b9b69ad72996",
+    "mot": "naiv",
+    "categorie": "adj",
+    "definition_fr": "nouveau",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-0bab75f8b24eafb2",
+    "mot": "haelv",
+    "categorie": "adj",
+    "definition_fr": "haut",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-ba025fb1ef347032",
+    "mot": "dhorv",
+    "categorie": "adj",
+    "definition_fr": "bas",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-629a43d3147c0ac0",
+    "mot": "saerv",
+    "categorie": "adj",
+    "definition_fr": "calme",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-be8dd4e7302c24ad",
+    "mot": "kaervil",
+    "categorie": "adj",
+    "definition_fr": "caché",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-097a77ebf568e3c9",
+    "mot": "neir",
+    "categorie": "adj",
+    "definition_fr": "proche",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-0e6dd85b9145ca32",
+    "mot": "saerel",
+    "categorie": "adj",
+    "definition_fr": "simple",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-4f1945024c195cca",
+    "mot": "velar",
+    "categorie": "v",
+    "definition_fr": "être, demeurer dans un état",
+    "valence": "copule",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-60319c0ac2e00ea8",
+    "mot": "lyrar",
+    "categorie": "v",
+    "definition_fr": "parler",
+    "valence": "tr/intr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-6d71ac1af030e23b",
+    "mot": "mirar",
+    "categorie": "v",
+    "definition_fr": "voir",
+    "valence": "tr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-79ff35992b15b3b7",
+    "mot": "vaelar",
+    "categorie": "v",
+    "definition_fr": "vouloir",
+    "valence": "modal/tr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-289e700caa013f1f",
+    "mot": "kelar",
+    "categorie": "v",
+    "definition_fr": "pouvoir, être capable",
+    "valence": "modal",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-59b902d32e6a75b7",
+    "mot": "thalar",
+    "categorie": "v",
+    "definition_fr": "vivre",
+    "valence": "intr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-0a5faba26a687e9d",
+    "mot": "saerar",
+    "categorie": "v",
+    "definition_fr": "aller",
+    "valence": "intr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-30f0ac4575c1ce60",
+    "mot": "vaerar",
+    "categorie": "v",
+    "definition_fr": "donner",
+    "valence": "tr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-26709216851e5061",
+    "mot": "vaethar",
+    "categorie": "v",
+    "definition_fr": "ouvrir",
+    "valence": "tr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-54c5f468a448cd10",
+    "mot": "aelunar",
+    "categorie": "v",
+    "definition_fr": "briller",
+    "valence": "intr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-4bf3cc5028dfc8f9",
+    "mot": "thaelar",
+    "categorie": "v",
+    "definition_fr": "créer",
+    "valence": "tr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-9b378a15c5c65903",
+    "mot": "laethar",
+    "categorie": "v",
+    "definition_fr": "rire",
+    "valence": "intr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-14847ef38f366d03",
+    "mot": "vaenar",
+    "categorie": "v",
+    "definition_fr": "attendre",
+    "valence": "tr/intr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-788b6ab2b1996095",
+    "mot": "kaenar",
+    "categorie": "v",
+    "definition_fr": "toucher",
+    "valence": "tr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-1d025bd44c07503f",
+    "mot": "thaemar",
+    "categorie": "v",
+    "definition_fr": "appeler de la voix",
+    "valence": "tr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-25978870e122d09c",
+    "mot": "mi",
+    "categorie": "part",
+    "definition_fr": "je",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-7a64ccb191170281",
+    "mot": "ti",
+    "categorie": "part",
+    "definition_fr": "tu",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-2b58a597fbd7e273",
+    "mot": "se",
+    "categorie": "part",
+    "definition_fr": "il, elle, iel, cela ; sujet impersonnel",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-c7aebc8e280bda28",
+    "mot": "min",
+    "categorie": "part",
+    "definition_fr": "nous",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-79bc02a65619cc16",
+    "mot": "sen",
+    "categorie": "part",
+    "definition_fr": "ils, elles, iels ; sans, devant un nominal",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-0696128c46d959e3",
+    "mot": "si",
+    "categorie": "part",
+    "definition_fr": "soi, réfléchi",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-7cd139595525a36e",
+    "mot": "ith",
+    "categorie": "part",
+    "definition_fr": "ceci, déterminant proche",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-1688280177898e60",
+    "mot": "nu",
+    "categorie": "part",
+    "definition_fr": "ne pas, négation verbale",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-dbed84e5e97a601b",
+    "mot": "nul",
+    "categorie": "part",
+    "definition_fr": "aucun ; nombre 0",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-a3636f1e1378f661",
+    "mot": "an",
+    "categorie": "part",
+    "definition_fr": "et",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-86c842c003306cb4",
+    "mot": "dhe",
+    "categorie": "part",
+    "definition_fr": "que, complétive",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-f5fe29138c97b25b",
+    "mot": "ir",
+    "categorie": "part",
+    "definition_fr": "si, condition",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-8db079c395e6544c",
+    "mot": "thar",
+    "categorie": "part",
+    "definition_fr": "parce que",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-2a54a14fa66ea2bc",
+    "mot": "ya",
+    "categorie": "part",
+    "definition_fr": "qui, que, relatif",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-c45bcb1e995f4e0e",
+    "mot": "e",
+    "categorie": "part",
+    "definition_fr": "dans, avec locatif",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-8b87531ad55eed26",
+    "mot": "to",
+    "categorie": "part",
+    "definition_fr": "vers, avec locatif",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-6b9983a13496f9ff",
+    "mot": "fra",
+    "categorie": "part",
+    "definition_fr": "depuis, hors de ; agent du passif, avec locatif",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-f8cbfa9eb542840e",
+    "mot": "bri",
+    "categorie": "part",
+    "definition_fr": "entre, avec locatif",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-14df3b60f786d69b",
+    "mot": "ko",
+    "categorie": "part",
+    "definition_fr": "avec, compagnie, avec cas direct",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-fc6af905e23f4cf2",
+    "mot": "mer",
+    "categorie": "part",
+    "definition_fr": "plus, comparatif",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-312382e48d9b2802",
+    "mot": "sha",
+    "categorie": "part",
+    "definition_fr": "très, intensif",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-b878dcea2f8135b3",
+    "mot": "inu",
+    "categorie": "part",
+    "definition_fr": "aspect inchoatif",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-53838839555480a0",
+    "mot": "vethen",
+    "categorie": "part",
+    "definition_fr": "chaque",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-e8f0d7e53eba7da2",
+    "mot": "dhais",
+    "categorie": "adv",
+    "definition_fr": "déjà",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-f45e6a6a92341dad",
+    "mot": "naevris",
+    "categorie": "adv",
+    "definition_fr": "lentement",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-b8d327b0bbeb9044",
+    "mot": "dai",
+    "categorie": "num",
+    "definition_fr": "deux, 2",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-f97ef652922a6de5",
+    "mot": "sul",
+    "categorie": "num",
+    "definition_fr": "six, 6",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-f5a11b29051a348d",
+    "mot": "khar",
+    "categorie": "num",
+    "definition_fr": "cent, 100",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-0a9f942c067de534",
+    "mot": "vaemil",
+    "categorie": "n",
+    "definition_fr": "lèvre",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-bca47823270e9d9e",
+    "mot": "naevrel",
+    "categorie": "n",
+    "definition_fr": "poitrine",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-74dffce4ad45362a",
+    "mot": "saevmar",
+    "categorie": "n",
+    "definition_fr": "sucre",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-a521f26037ed8866",
+    "mot": "kaenkar",
+    "categorie": "n",
+    "definition_fr": "cuir",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-3792f9678539a1e0",
+    "mot": "saunrel",
+    "categorie": "n",
+    "definition_fr": "semaine",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-a7efda5ccedad884",
+    "mot": "maerunvaer",
+    "categorie": "n",
+    "definition_fr": "politesse",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-649b10a3c86d26bf",
+    "mot": "naivmael",
+    "categorie": "n",
+    "definition_fr": "curiosité",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-97f624a28da7d4ce",
+    "mot": "thaemgrael",
+    "categorie": "n",
+    "definition_fr": "haut-parleur",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-c94742a0e5a38468",
+    "mot": "korthir",
+    "categorie": "n",
+    "definition_fr": "fréquence physique",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-4d348029679c4d35",
+    "mot": "iskiv",
+    "categorie": "adj",
+    "definition_fr": "gelé",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-d1ed677ed373b93e",
+    "mot": "kraeliv",
+    "categorie": "adj",
+    "definition_fr": "électrique",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-71b8578b390db984",
+    "mot": "haelkarar",
+    "categorie": "v",
+    "definition_fr": "soulever",
+    "valence": "tr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-e0887a3c7eb2aade",
+    "mot": "kaenraerar",
+    "categorie": "v",
+    "definition_fr": "danser",
+    "valence": "intr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-dbbd34b6072194ab",
+    "mot": "naelraerar",
+    "categorie": "v",
+    "definition_fr": "fleurir",
+    "valence": "intr",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-2e4bfc82c3c678ea",
+    "mot": "thirvaris",
+    "categorie": "adv",
+    "definition_fr": "longtemps",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-2203908bffc1fdc0",
+    "mot": "thirkaeris",
+    "categorie": "adv",
+    "definition_fr": "auparavant",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-c869561d399c45c5",
+    "mot": "maerunvaerva",
+    "categorie": "adj",
+    "definition_fr": "relatif à : politesse",
+    "valence": "",
+    "source": "Vaeltharyn 1.1.0",
+    "source_licence": "statut antérieur conservé"
+  },
+  {
+    "id": "VX-0688764e41fd5c89",
+    "mot": "thrisav",
+    "categorie": "adj",
+    "definition_fr": "Qui arrive par accident.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/accidentel#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-dda48498be989c32",
+    "mot": "kremlyk",
+    "categorie": "adj",
+    "definition_fr": "Qui sert à modifier ou à percevoir les sons.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/acoustique#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-58559eb0ebd045ab",
+    "mot": "gytyr",
+    "categorie": "adj",
+    "definition_fr": "Qui procure un sentiment de légère gaieté, de bonheur ou encore de bien-être.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/agr%C3%A9able#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-07119580f19ee718",
+    "mot": "bropaekar",
+    "categorie": "v",
+    "definition_fr": "Saisir de façon très ferme, avide ou désespérée.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/agripper#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-68348cc5a76ee980",
+    "mot": "kimuk",
+    "categorie": "n",
+    "definition_fr": "Mélange gazeux constituant l’atmosphère.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/air#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-a084b327cae28316",
+    "mot": "mumpikothar",
+    "categorie": "v",
+    "definition_fr": "Divertir par des choses agréables.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/amuser#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-27a50280b23e80a0",
+    "mot": "gynoekar",
+    "categorie": "v",
+    "definition_fr": "Devenir visible ; se manifester.",
+    "valence": "intr",
+    "source": "https://fr.wiktionary.org/wiki/appara%C3%AEtre#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-9b20f3fdd4b0a19e",
+    "mot": "nyvaenar",
+    "categorie": "v",
+    "definition_fr": "Acquérir une connaissance ou un savoir-faire.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/apprendre#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-c9fa3b9927043a9c",
+    "mot": "nesoen",
+    "categorie": "adv",
+    "definition_fr": "S’emploie adverbialement par ellipse.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/apr%C3%A8s#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-ed7bd46a279901a9",
+    "mot": "tyterar",
+    "categorie": "v",
+    "definition_fr": "Parvenir à destination.",
+    "valence": "intr",
+    "source": "https://fr.wiktionary.org/wiki/arriver#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-b8e85de9eac4d827",
+    "mot": "throldhuth",
+    "categorie": "n",
+    "definition_fr": "Confiance en soi-même.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/assurance#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-b181b9886c7dd9ef",
+    "mot": "remnuhoer",
+    "categorie": "adj",
+    "definition_fr": "Qui manque de symétrie.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/asym%C3%A9trique#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-d2a253b6e0206eb6",
+    "mot": "dhoefyv",
+    "categorie": "adj",
+    "definition_fr": "Qui a de l’audace, hardi, osé.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/audacieux#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-8f3f785118ef8165",
+    "mot": "throelev",
+    "categorie": "n",
+    "definition_fr": "Route réservée à la circulation automobile, sur laquelle était bannies les circulations hippomobile et piétonne.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/autoroute#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-c55d38773689b602",
+    "mot": "pipyrar",
+    "categorie": "v",
+    "definition_fr": "Confesser et reconnaître qu’une chose est ou n’est pas, témoigner de la vérité.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/avouer#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-0e11928b987c418f",
+    "mot": "brifuth",
+    "categorie": "adj",
+    "definition_fr": "Tout plein, trop plein.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/bond%C3%A9#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-c20514db16134b7e",
+    "mot": "koemmas",
+    "categorie": "n",
+    "definition_fr": "Manifestation sonore déplaisante due au mélange de sons de fréquence et d’intensité diverses.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/bruit#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-e0a78a7c67c3c550",
+    "mot": "pomul",
+    "categorie": "adj",
+    "definition_fr": "Qui calcule ; qui a pour habitude de prévoir et d’anticiper.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/calculateur#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-5996db4bdc27a674",
+    "mot": "dhalruth",
+    "categorie": "n",
+    "definition_fr": "Véhicule terrestre automobile équipé d’un, deux ou trois essieux directeurs ainsi que de un à trois essieux porteurs et destiné au transport de marchandises.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/camion#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-65f76beba45320fc",
+    "mot": "gokevar",
+    "categorie": "v",
+    "definition_fr": "Séduire, gagner.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/captiver#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-ffa4d0fe6d8d9f75",
+    "mot": "runkus",
+    "categorie": "n",
+    "definition_fr": "Assurance pleine et entière d’une chose.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/certitude#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-d9390fcd93a83daf",
+    "mot": "kenur",
+    "categorie": "n",
+    "definition_fr": "D’un livre, d’un traité, d’un récit, destinée à le structurer ou à en faciliter la lecture.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/chapitre#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-01c9b5e59b25e43f",
+    "mot": "broedutun",
+    "categorie": "n",
+    "definition_fr": "Instrument de percussion idiophone composé d'une paire de cymbales accrochées à un pied à pédale.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/charleston#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-6f664b31845cb805",
+    "mot": "nufaedhor",
+    "categorie": "adj",
+    "definition_fr": "De température plus haute que la normale, de température élevée.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/chaud#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-92b07dfa45f39050",
+    "mot": "skoendhoem",
+    "categorie": "n",
+    "definition_fr": "Objet, idée ou abstraction quelconque, sans pouvoir, vouloir, ou devoir l’identifier ou la nommer. Note d’usage : La signification du mot chose se déduit par la manière dont on l’emploie dans la phrase, où il remplace ce qu’il n’est pas possible (ou pas souhaitable) de nommer. Peut aussi remplacer un ensemble d’objets inanimés (ou d’idées) qu’on devine par le contexte.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/chose#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-4420e4b003b597e6",
+    "mot": "toemul",
+    "categorie": "n",
+    "definition_fr": "Acolyte ; comparse.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/complice#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-925754621993bb14",
+    "mot": "noelhikar",
+    "categorie": "v",
+    "definition_fr": "Faire ou avoir fait l’expérience permettant une représentation mentale de quelque chose ou quelqu’un, avoir l’idée, la notion d’une personne ou d’une chose.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/conna%C3%AEtre#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-cfd982d9e66f22cc",
+    "mot": "guraeraem",
+    "categorie": "adj",
+    "definition_fr": "Qui présente une cavité, un trou intérieur.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/creux#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-d50d358342afbb86",
+    "mot": "skemusar",
+    "categorie": "v",
+    "definition_fr": "Aller au-delà de quelque chose.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/d%C3%A9passer#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-418318943107ed5b",
+    "mot": "rytaemar",
+    "categorie": "v",
+    "definition_fr": "Commencer à être ce qu’on n’était pas ; passer d’une situation, d’un état à un autre.",
+    "valence": "intr",
+    "source": "https://fr.wiktionary.org/wiki/devenir#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-956220c14fce3da3",
+    "mot": "roenaem",
+    "categorie": "n",
+    "definition_fr": "Action de discuter.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/discussion#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-c8300c35d3dd8057",
+    "mot": "grypekar",
+    "categorie": "v",
+    "definition_fr": "Cesser de paraître ; ne plus être visible.",
+    "valence": "intr",
+    "source": "https://fr.wiktionary.org/wiki/dispara%C3%AEtre#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-68998c6d6f97ca11",
+    "mot": "brakuk",
+    "categorie": "n",
+    "definition_fr": "Extrémité articulée des mains de l’être humain.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/doigt#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-7ee5107737a06aa2",
+    "mot": "faedhor",
+    "categorie": "adv",
+    "definition_fr": "D’une manière douce.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/doucement#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-9c23947bdc3a7da3",
+    "mot": "dipir",
+    "categorie": "adj",
+    "definition_fr": "Qui n’a honte de rien.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/effront%C3%A9#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-65a33f6e777f4540",
+    "mot": "krimsuk",
+    "categorie": "n",
+    "definition_fr": "Ce qu’on énonce.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/%C3%A9nonc%C3%A9#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-c5e8fc92cd28d9a1",
+    "mot": "pedysar",
+    "categorie": "v",
+    "definition_fr": "Mettre ou disposer autour ; être ou se tenir autour de ; cerner.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/entourer#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-9632d86052a1c6d2",
+    "mot": "vedal",
+    "categorie": "n",
+    "definition_fr": "Action d’éprouver quelque chose ou quelqu'un, essai, expérience, test qu’on fait de quelque chose à surmonter.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/%C3%A9preuve#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-c453d720c77106b0",
+    "mot": "frysiv",
+    "categorie": "n",
+    "definition_fr": "Étendue indéfinie.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/espace#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-c849c5449176a197",
+    "mot": "kraevetol",
+    "categorie": "n",
+    "definition_fr": "Action ou manière de presser entre ses bras ou ses mains.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/%C3%A9treinte#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-d6a6af802ab6a7fd",
+    "mot": "thrirdhith",
+    "categorie": "n",
+    "definition_fr": "Ce que l’on attend, ce que l’on exige de quelqu’un.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/exigence#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-32ebf4d4dd3ba9e0",
+    "mot": "hythikar",
+    "categorie": "v",
+    "definition_fr": "Demander quelque chose en vertu d’un droit légitime ou prétendu tel.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/exiger#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-8f6db53a6675b3d3",
+    "mot": "filthyk",
+    "categorie": "adj",
+    "definition_fr": "Qui a de la consistance, qui offre une certaine résistance.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/ferme#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-cb56a86b824e8c34",
+    "mot": "thromnumar",
+    "categorie": "v",
+    "definition_fr": "Être porté par de l’eau, ou par un autre liquide.",
+    "valence": "intr",
+    "source": "https://fr.wiktionary.org/wiki/flotter#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-9aa41f5e80482fe2",
+    "mot": "dhoevom",
+    "categorie": "adj",
+    "definition_fr": "D'un coloris sans vigueur, qui manque de netteté des contours ou des arêtes.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/flou#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-63b40035e7ecab72",
+    "mot": "fukel",
+    "categorie": "n",
+    "definition_fr": "Faculté naturelle d’agir vigoureusement, en particulier en parlant de l’être humain et des animaux.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/force#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-72345f000f68e4e5",
+    "mot": "remir",
+    "categorie": "n",
+    "definition_fr": "Aspect extérieur, configuration caractéristique ou particulière d’une chose.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/forme#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-3799beae0ba690c8",
+    "mot": "sykim",
+    "categorie": "n",
+    "definition_fr": "Créature mythologique qui est semblable à un homme, mais de très grande taille.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/g%C3%A9ant#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-77c59851699e9ba2",
+    "mot": "grihak",
+    "categorie": "adv",
+    "definition_fr": "D’une manière graduelle, par gradation, étape par étape, petit à petit.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/graduellement#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-6ab3eec2d8e9fabd",
+    "mot": "skikykar",
+    "categorie": "v",
+    "definition_fr": "Accompagner quelqu’un pour lui montrer le chemin.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/guider#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-b0cb050b30872857",
+    "mot": "goesum",
+    "categorie": "n",
+    "definition_fr": "Un son harmonique est une composante d’un son périodique, dont la fréquence est un multiple entier d'une fréquence fondamentale.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/harmonique#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-3bdfdc8b8f875a1c",
+    "mot": "dhobov",
+    "categorie": "n",
+    "definition_fr": "Élévation, hauteur.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/haut#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-226d25984d6b4411",
+    "mot": "trukoem",
+    "categorie": "n",
+    "definition_fr": "Action d'hésiter, doute, indécision qu’une personne manifeste par ses mouvements, par sa conduite, etc.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/h%C3%A9sitation#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-dc29081c556c9412",
+    "mot": "thrynaek",
+    "categorie": "n",
+    "definition_fr": "Poème chanté.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/hymne#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-46a0307884183927",
+    "mot": "skethithar",
+    "categorie": "v",
+    "definition_fr": "Se représenter quelque chose dans l’esprit.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/imaginer#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-084a4341936d0dd3",
+    "mot": "poekekar",
+    "categorie": "v",
+    "definition_fr": "Maintenir dans l’immobilité.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/immobiliser#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-65cc3f5cd462c94f",
+    "mot": "doeboes",
+    "categorie": "adj",
+    "definition_fr": "Auquel on ne s’attendait pas.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/inattendu#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-09218f29e2a6704c",
+    "mot": "hirlum",
+    "categorie": "n",
+    "definition_fr": "État d’une personne irrésolue sur ce qu’elle doit faire, ou incertaine de ce qui doit arriver.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/incertitude#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-c2f19b0b3d573812",
+    "mot": "thrugak",
+    "categorie": "adj",
+    "definition_fr": "Que l’on ne peut dénier, que l’on ne peut refuser de reconnaître sans être taxé de mauvaise foi.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/ind%C3%A9niable#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-28f9bfc42cfb6738",
+    "mot": "faenlathar",
+    "categorie": "v",
+    "definition_fr": "Examiner avec attention.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/inspecter#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-f67d996bf1f0262f",
+    "mot": "gegan",
+    "categorie": "n",
+    "definition_fr": "Mouvement de l’âme par lequel on tend à quelque fin.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/intention#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-595ce703a315e97a",
+    "mot": "pulynar",
+    "categorie": "v",
+    "definition_fr": "Faire qu’une chose soit plus haut qu’elle n’était.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/lever#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-81f7a4f4633b8c55",
+    "mot": "slaeldomas",
+    "categorie": "n",
+    "definition_fr": "Restriction ; point réel fini au-delà duquel on ne doit pas aller.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/limite#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-fbb27da417206552",
+    "mot": "poemnaes",
+    "categorie": "adj",
+    "definition_fr": "Relatif à l’aimant, qui a les propriétés de l’aimant, ou qui se rattache à ces propriétés.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/magn%C3%A9tique#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-254f7e9acd9cb933",
+    "mot": "fraerfysar",
+    "categorie": "v",
+    "definition_fr": "Tenir ferme et fixe.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/maintenir#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-71b14f178863523d",
+    "mot": "gorrov",
+    "categorie": "n",
+    "definition_fr": "Partie du vêtement, de forme et de dimension variable, dans laquelle on passe le bras et qui le recouvre en totalité ou en partie.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/manche#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-c9e286a2fab04635",
+    "mot": "rymfuvov",
+    "categorie": "adj",
+    "definition_fr": "Qui appartient à la mélodie.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/m%C3%A9lodique#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-92f5de2ab503be2b",
+    "mot": "grygel",
+    "categorie": "adj",
+    "definition_fr": "Qui n’est pas autre, qui n’est pas différent.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/m%C3%AAme#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-f8377fdbc3737b3c",
+    "mot": "vrelloen",
+    "categorie": "adj",
+    "definition_fr": "Qui cause une grande admiration, mêlée d’une sorte de surprise.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/merveilleux#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-b814b871412c007f",
+    "mot": "gylgoesyk",
+    "categorie": "n",
+    "definition_fr": "Point dans le temps.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/moment#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-117b3ac0a83727e6",
+    "mot": "mithilak",
+    "categorie": "n",
+    "definition_fr": "Ensemble des choses et des êtres existants.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/monde#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-3c8efbe6e4168a6a",
+    "mot": "taeroek",
+    "categorie": "n",
+    "definition_fr": "Ingénuité, simplicité d’une personne qui manifeste naturellement ses opinions et ses sentiments.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/na%C3%AFvet%C3%A9#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-2294765218088303",
+    "mot": "fraefaev",
+    "categorie": "adj",
+    "definition_fr": "Rusé, moqueur, ironique, malicieux.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/narquois#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-d2a6cf0f29bd5e22",
+    "mot": "duraen",
+    "categorie": "n",
+    "definition_fr": "Absence partielle ou totale de lumière.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/obscurit%C3%A9#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-65affe7819c43006",
+    "mot": "kihomar",
+    "categorie": "v",
+    "definition_fr": "Concéder, accorder comme une faveur.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/octroyer#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-88ecd76a2a3cd4ba",
+    "mot": "keposar",
+    "categorie": "v",
+    "definition_fr": "Se déplacer alternativement en deux sens contraires.",
+    "valence": "intr",
+    "source": "https://fr.wiktionary.org/wiki/osciller#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-940471bf81f92acc",
+    "mot": "kutykar",
+    "categorie": "v",
+    "definition_fr": "Perdre le souvenir de quelqu'un ou quelque chose.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/oublier#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-b74ff28ce932e591",
+    "mot": "vroloek",
+    "categorie": "n",
+    "definition_fr": "Suspension ou interruption momentanée d’une action.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/pause#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-843a527afc979524",
+    "mot": "kedhoekar",
+    "categorie": "v",
+    "definition_fr": "Incliner ; baisser quelque chose de quelque côté ; mettre quelque chose hors d’aplomb.",
+    "valence": "tr/intr",
+    "source": "https://fr.wiktionary.org/wiki/pencher#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-35dc219571e901d6",
+    "mot": "dhyhunar",
+    "categorie": "v",
+    "definition_fr": "Badiner, dire ou faire quelque chose pour amuser, pour faire rire les autres.",
+    "valence": "tr/intr",
+    "source": "https://fr.wiktionary.org/wiki/plaisanter#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-dd084ce7742a945f",
+    "mot": "braepav",
+    "categorie": "n",
+    "definition_fr": "Situation dans une structure, place dans un ensemble de coordonnées ; lieu, point où une chose est placée, situation.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/position#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-8c6a63bc03612451",
+    "mot": "madhys",
+    "categorie": "n",
+    "definition_fr": "Interrogation, demande que l’on fait pour s’informer de quelque chose.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/question#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-75d87556677871ac",
+    "mot": "graedoen",
+    "categorie": "n",
+    "definition_fr": "Ce qui réconforte.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/r%C3%A9confort#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-b4c08b6a2033847c",
+    "mot": "throenen",
+    "categorie": "n",
+    "definition_fr": "Manière de diriger les yeux vers quelque chose afin de voir.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/regard#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-1db160e34af409cc",
+    "mot": "vruvyth",
+    "categorie": "n",
+    "definition_fr": "État d’une chose qui devient moins tendue qu’elle n’était, qui a perdu de son ressort.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/rel%C3%A2chement#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-9dc8888d49d48c63",
+    "mot": "felhukar",
+    "categorie": "v",
+    "definition_fr": "Se désister de quelque chose, soit par acte exprès, soit autrement.",
+    "valence": "tr/intr",
+    "source": "https://fr.wiktionary.org/wiki/renoncer#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-0b0c461606638a26",
+    "mot": "broedaek",
+    "categorie": "n",
+    "definition_fr": "Action de répéter, redite.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/r%C3%A9p%C3%A9tition#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-cf46b0a1f2b37e6e",
+    "mot": "froefyl",
+    "categorie": "n",
+    "definition_fr": "Parole dite, ou acte effectué, en réaction à une question posée, une demande, ou à une déclaration, ou encore à un évènement.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/r%C3%A9ponse#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-1f543e5a5fdf9737",
+    "mot": "nydem",
+    "categorie": "n",
+    "definition_fr": "Demande écrite ou verbale ; prière.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/requ%C3%AAte#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-83ebdaf9719f82c6",
+    "mot": "thranurer",
+    "categorie": "n",
+    "definition_fr": "Opposition aux desseins, aux volontés, aux sentiments d’un autre, ou à ses propres passions.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/r%C3%A9sistance#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-d9ccf83de3320a3c",
+    "mot": "tynoer",
+    "categorie": "n",
+    "definition_fr": "Propriété de résonner que possèdent certains objets, certains milieux.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/r%C3%A9sonance#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-00b235de432fe33e",
+    "mot": "momlaevar",
+    "categorie": "v",
+    "definition_fr": "Continuer d’être à un endroit ou dans un état.",
+    "valence": "intr",
+    "source": "https://fr.wiktionary.org/wiki/rester#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-171ecc9e5f15bb44",
+    "mot": "thrudhun",
+    "categorie": "n",
+    "definition_fr": "Arrivée au lieu d’où l’on était parti.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/retour#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-3ea3ca9501895af0",
+    "mot": "dhynmunar",
+    "categorie": "v",
+    "definition_fr": "Découvrir, déclarer, faire savoir une chose qui était inconnue et secrète.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/r%C3%A9v%C3%A9ler#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-ee4c455419c0d2c6",
+    "mot": "pofer",
+    "categorie": "n",
+    "definition_fr": "État de l’esprit occupé d’idées vagues qui l’intéressent, de pensées riantes ou tristes auxquelles il se laisse aller, où il se complaît.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/r%C3%AAverie#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-a11cbba41f568f75",
+    "mot": "pimuv",
+    "categorie": "n",
+    "definition_fr": "Action de rire.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/rire#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-36483b95ad230b6b",
+    "mot": "foembym",
+    "categorie": "n",
+    "definition_fr": "Action de se ruer, se précipiter. Il se dit surtout en parlant de grandes masses.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/ru%C3%A9e#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-62b2709626b43205",
+    "mot": "sitik",
+    "categorie": "n",
+    "definition_fr": "Pièce d’une habitation ouverte aux visiteurs.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/salle#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-f5eb8592a7f13499",
+    "mot": "kogur",
+    "categorie": "adj",
+    "definition_fr": "Qui n’est connu que d’une personne ou de fort peu de gens ; que l’on tient caché, dont on dérobe la connaissance aux autres.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/secret#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-06e257508380ce7c",
+    "mot": "gedaenar",
+    "categorie": "v",
+    "definition_fr": "Recevoir quelque impression par le moyen des sens, éprouver en soi quelque chose d’agréable ou de pénible.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/sentir#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-4ac8f4ea6b2cbf0a",
+    "mot": "thrufon",
+    "categorie": "n",
+    "definition_fr": "Suite ordonnée d’éléments.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/s%C3%A9quence#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-423044498460e1bf",
+    "mot": "braeltyner",
+    "categorie": "adj",
+    "definition_fr": "Relatif au sexe, chez l’être humain, les animaux et les plantes.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/sexuel#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-1489611a6bce6bbe",
+    "mot": "gaebyk",
+    "categorie": "adj",
+    "definition_fr": "Qui ne ressemble pas aux autres.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/singulier#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-f63f9d76662349b0",
+    "mot": "thrylkim",
+    "categorie": "n",
+    "definition_fr": "Quelque chose que l’on peut écouter ou entendre.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/son#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-ab0b91bcb0398e3f",
+    "mot": "thaehynar",
+    "categorie": "v",
+    "definition_fr": "Rendre un son.",
+    "valence": "tr/intr",
+    "source": "https://fr.wiktionary.org/wiki/sonner#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-b3769989f3815dee",
+    "mot": "bohom",
+    "categorie": "adj",
+    "definition_fr": "Qui est subit, prompt.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/soudain#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-8cdf42337d9bb8c4",
+    "mot": "morhem",
+    "categorie": "n",
+    "definition_fr": "Vœu, désir qu’une chose s’accomplisse.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/souhait#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-d7c7d8c8ee5dd4a2",
+    "mot": "vrimyth",
+    "categorie": "n",
+    "definition_fr": "Saillie en forme d’arc, garnie de poils, qui se trouve au-dessus de chaque œil.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/sourcil#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-81d1bc8f67bea8aa",
+    "mot": "daefivan",
+    "categorie": "n",
+    "definition_fr": "Action de sourire ou son résultat.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/sourire#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-07866aa61a80b10e",
+    "mot": "kymoethyn",
+    "categorie": "adj",
+    "definition_fr": "Qui reste en place, dans une situation ferme. Qui ne varie pas.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/stable#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-48f620c876f6110e",
+    "mot": "toebivar",
+    "categorie": "v",
+    "definition_fr": "Pendre quelqu'objet en l’air, l’attacher de telle sorte qu’il ne porte sur rien.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/suspendre#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-fd6677141566e73b",
+    "mot": "trymdhael",
+    "categorie": "adj",
+    "definition_fr": "Qui n’est pas formellement exprimé, mais qui est sous-entendu, ou qui peut se sous-entendre.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/tacite#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-4cf67c799a1f12e8",
+    "mot": "dhavil",
+    "categorie": "adj",
+    "definition_fr": "Qui est d’une hardiesse imprudente ou inconsidérée ; qui est hasardeux.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/t%C3%A9m%C3%A9raire#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-e3fd8d863849d1cc",
+    "mot": "kromer",
+    "categorie": "adj",
+    "definition_fr": "Qui comprend l’intégrité, l’entièreté, la totalité d’une chose considérée par rapport au nombre, à l’étendue ou à l’intensité de l’énergie.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/tout#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-79c3adebad8c8db6",
+    "mot": "sloehil",
+    "categorie": "adv",
+    "definition_fr": "Entièrement, complètement, sans exception, sans réserve, tout à fait.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/tout#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-151eeda9c8bf7c82",
+    "mot": "roevaerar",
+    "categorie": "v",
+    "definition_fr": "Tirer des traits, indiquer les lignes d’une figure, etc.",
+    "valence": "tr",
+    "source": "https://fr.wiktionary.org/wiki/tracer#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-e04d4e468b211556",
+    "mot": "fyndhok",
+    "categorie": "n",
+    "definition_fr": "Le monde entier, l’ensemble de tout ce qui existe.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/univers#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-45ae6861a3bb4f81",
+    "mot": "methuv",
+    "categorie": "n",
+    "definition_fr": "Engin mobile servant au transport des personnes et des marchandises.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/v%C3%A9hicule#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-169a09dde2f1e627",
+    "mot": "kragaevil",
+    "categorie": "n",
+    "definition_fr": "Étoffe à poil court et serré.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/velours#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-45ea904d7a1475f9",
+    "mot": "dhoetinar",
+    "categorie": "v",
+    "definition_fr": "Exécuter des vibrations.",
+    "valence": "tr/intr",
+    "source": "https://fr.wiktionary.org/wiki/vibrer#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-0316a9748c33eea1",
+    "mot": "hodhok",
+    "categorie": "n",
+    "definition_fr": "Partie de la chaussée dédiée et suffisante pour permettre le déroulement d’une file d’automobiles autres que des motocycles.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/voie#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-372e670d3aa75827",
+    "mot": "tibon",
+    "categorie": "n",
+    "definition_fr": "Organe en forme de roue par le moyen duquel on donne la direction à un véhicule automobile.",
+    "valence": "",
+    "source": "https://fr.wiktionary.org/wiki/volant#fr",
+    "source_licence": "Définition : contributeurs du Wiktionnaire via Kaikki, CC BY-SA / GFDL ; voir 18_Sources_et_licences"
+  },
+  {
+    "id": "VX-0bc66def8c5b0536",
+    "mot": "synth",
+    "categorie": "n",
+    "definition_fr": "Instrument ou dispositif électronique qui produit et façonne des sons par synthèse ; synthé est un renvoi au même lemme.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-55e940873679f7d3",
+    "mot": "klavir",
+    "categorie": "n",
+    "definition_fr": "Ensemble de touches permettant de jouer des notes ou de piloter un instrument musical. Ne désigne ni un porte-clefs ni tout clavier informatique.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-e90ab37fb52f3d1e",
+    "mot": "konsol",
+    "categorie": "n",
+    "definition_fr": "Ensemble de commandes et de surfaces de contrôle d'un véhicule ou d'un appareil ; le complément précise console automobile ou musicale. Distinct du support architectural dharok.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-c88430ee8c4fa340",
+    "mot": "paed",
+    "categorie": "n",
+    "definition_fr": "Son ou texture de synthèse tenu dans la durée, souvent utilisé comme fond harmonique. Ne désigne pas le coussinet physique qui déclenche une note.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-4e3e750224745011",
+    "mot": "transistor",
+    "categorie": "n",
+    "definition_fr": "Composant semi-conducteur utilisé notamment pour amplifier ou commuter des signaux électriques. Ne désigne pas par défaut un poste de radio.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-4a1dfdf18d7e45c6",
+    "mot": "kikoe",
+    "categorie": "n",
+    "definition_fr": "Percussion de grosse caisse ; dans le contexte d'une boîte à rythmes, son électronique qui la représente. Ne désigne pas un coup de pied donné à une personne.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-196c2963cf52e81c",
+    "mot": "snaer",
+    "categorie": "n",
+    "definition_fr": "Tambour à timbres de caisse claire ; en synthèse, son qui en représente le rôle. Ne désigne pas un piège ni le timbre d'une voix.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-0c8760ef5074252b",
+    "mot": "saevron",
+    "categorie": "n",
+    "definition_fr": "Partie du tronc située entre le bas des côtes et les hanches, notamment l'endroit où les mains peuvent entourer le corps. Ne désigne ni la stature ni une manière de couper.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-490f97f58bddfa33",
+    "mot": "methuv-lymdhaev",
+    "categorie": "n",
+    "definition_fr": "Espace intérieur d'un véhicule destiné au conducteur et aux occupants, distinct de la zone de chargement. Le génitif dhalruthen précise un camion.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-24577c3bf7939dfd",
+    "mot": "kaeneth-dolgik",
+    "categorie": "n",
+    "definition_fr": "Surface de commande que l'on touche ou frappe pour déclencher ou contrôler un événement musical ; distinct d'une nappe sonore paed.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-90c562ecec05d1eb",
+    "mot": "thrylkim-molpyv",
+    "categorie": "n",
+    "definition_fr": "Qualité perceptive qui aide à distinguer des sons de même hauteur et intensité, liée notamment à leur spectre et à leur évolution temporelle ; le génitif thaemen précise la voix.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-c99e824658a31721",
+    "mot": "thrylkim-braesyr",
+    "categorie": "n",
+    "definition_fr": "Bande servant de support à un enregistrement sonore ; poemnaes précise une bande magnétique. Ne désigne pas un simple ruban textile.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-8f32f6332762e831",
+    "mot": "maev-sityn",
+    "categorie": "n",
+    "definition_fr": "Image, scène ou scénario construit dans l'imagination ; peut être érotique si l'adjectif braeltyner ou le contexte le précise. Aucun trouble perceptif n'est impliqué.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-d70969deef591217",
+    "mot": "rydhem-fythiv",
+    "categorie": "n",
+    "definition_fr": "Action ou contrepartie convenue dans un jeu, notamment après une défaite ; ne désigne ni une sûreté de dette ni une peine légale. Une contrepartie affective doit être explicitée par le contexte.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  },
+  {
+    "id": "VX-6e9c9ebc286476c6",
+    "mot": "graelven-thavrel",
+    "categorie": "n",
+    "definition_fr": "Seuil et espace d'entrée domestique protégés par un toit ; ne suppose ni temple ni palais, ni nécessairement un escalier extérieur.",
+    "valence": "",
+    "source": "SheIsZoe — création du projet, bases lexicales du corpus et références du complément 1.5.0",
+    "source_licence": "Création originale du projet : CC BY-SA 4.0 ; voir LICENSE.md"
+  }
+]

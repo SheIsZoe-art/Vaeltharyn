@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "baseline": "6d13eb624d29bb5b824cf151c900f4331cb02c67",
+  "previous_entries_preserved": 65026,
+  "entries": 65041,
+  "new_entries": 15,
+  "new_roots": 8,
+  "new_compounds": 7,
+  "new_verb_paradigms": 0,
+  "new_noun_case_forms_checked": 150,
+  "context_records": 111,
+  "reused_physical_frequency": "korthir",
+  "semantic_duplicate_rejected": "frekven",
+  "inflection_collision_rejected": "kik",
+  "template_records": [
+    "exchange_mine"
+  ],
+  "scope": "written lexical, phonographic and morphological checks; no audio trial; examples remain context-sensitive"
+}

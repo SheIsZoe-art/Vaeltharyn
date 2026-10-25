@@ -1,0 +1,18 @@
+{
+  "version": "1.5.0",
+  "baseline": "6d13eb624d29bb5b824cf151c900f4331cb02c67",
+  "new_entries": 15,
+  "new_roots": 8,
+  "new_compounds": 7,
+  "context_records": 111,
+  "distinct_formulations": 111,
+  "template_records": [
+    "exchange_mine"
+  ],
+  "entries": 65041,
+  "distinct_spellings": 65038,
+  "verbs": 6538,
+  "preserved_entries": 65026,
+  "creator": "SheIsZoe",
+  "validation": "written checks, not acoustic testing or individual creator approval"
+}

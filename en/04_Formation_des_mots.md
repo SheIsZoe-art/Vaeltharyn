@@ -56,3 +56,8 @@ For modern technologies, form a descriptive compound when it is clear; otherwise
 
 ---
 [French source](../04_Formation_des_mots.md). English working translation; see [translation status](TRANSLATION.md).
+
+
+## 1.5.0 extension — sound, body and imagery
+
+[FR/EN construction guide](25_Son_corps_et_images.md): 111 contextual records and fifteen added entries: eight roots and seven compounds. Current corpus: 65,041 entries, 65,038 spellings, 6,538 verbs. Earlier counts are historical; additions remain proposals checked in writing.

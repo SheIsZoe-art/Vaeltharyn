@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ROLAND-808",
+    "titre": "Roland — TR-808 technical specifications",
+    "url": "https://support.roland.com/hc/en-us/articles/201963539-TR-808-Technical-Specifications",
+    "note_fr": "Noms des parties et modèle ; aucun compte de 606 transistors n’en est déduit.",
+    "note_en": "Instrument parts and model; no count of 606 transistors is inferred.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "ROLAND-606",
+    "titre": "Roland — T-8 sound sources including TR-606",
+    "url": "https://support.roland.com/hc/en-us/articles/6145882578715-T-8-Can-I-change-the-sound-for-each-part",
+    "note_fr": "Distinction sons de caisse claire, grosse caisse et charlestons.",
+    "note_en": "Distinguishes snare, bass drum and hi-hat sounds.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "ROLAND-PADS",
+    "titre": "Roland S-1 — keyboard pads and envelope",
+    "url": "https://static.roland.com/manuals/s-1_manual_v102/eng/87294693.html",
+    "note_fr": "Pads physiques de clavier et commande de l’enveloppe, distincts d’une nappe sonore.",
+    "note_en": "Physical keyboard pads and envelope control, distinct from a pad sound.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "ROLAND-SOUND-PAD",
+    "titre": "Roland GAIA SH-01 guidebook",
+    "url": "https://cdn.roland.com/assets/media/pdf/gaia_sh-01_guidebook.pdf",
+    "note_fr": "Distinction de la nappe de synthèse ; aperçu du guide consulté, téléchargement intégral non exploité.",
+    "note_en": "Synth pad distinction; guide preview consulted, full PDF not ingested.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "OPENSTAX-RESONANCE",
+    "titre": "OpenStax — Sound interference and resonance",
+    "url": "https://openstax.org/books/physics/pages/14-4-sound-interference-and-resonance",
+    "note_fr": "Fréquence propre et résonance ; ne pas confondre avec un simple écho.",
+    "note_en": "Natural frequency and resonance, not just an echo.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "OPENSTAX-TIMBRE",
+    "titre": "OpenStax — Hearing",
+    "url": "https://openstax.org/books/college-physics-2e/pages/17-6-hearing",
+    "note_fr": "Distinction entre fréquence/hauteur, niveau sonore et timbre.",
+    "note_en": "Distinguishes frequency/pitch, loudness and timbre.",
+    "date_consultation": "2026-10-25"
+  },
+  {
+    "id": "TI-TRANSISTORS",
+    "titre": "Texas Instruments — transistor amplifier and switch",
+    "url": "https://www.ti.com/document-viewer/lit/html/SSZTAH9/GUID-9AFA0B17-038E-457B-8B5E-C7F89561163A",
+    "note_fr": "Usages des transistors pour amplification et commutation ; pas une radio complète.",
+    "note_en": "Transistors used for amplification and switching, not a whole radio.",
+    "date_consultation": "2026-10-25"
+  }
+]

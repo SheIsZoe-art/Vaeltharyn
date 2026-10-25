@@ -1,0 +1,47 @@
+[
+  {
+    "forme": "frekven",
+    "raison_fr": "Doublon sémantique rejeté : korthir désigne déjà la fréquence physique.",
+    "reason_en": "Rejected semantic duplicate: korthir already denotes physical frequency."
+  },
+  {
+    "forme": "kik",
+    "raison_fr": "Forme écartée : le génitif kiken et le datif kikor entrent en collision avec des lemmes antérieurs. Kikoe évite ces collisions.",
+    "reason_en": "Rejected: genitive kiken and dative kikor collide with earlier lemmas. Kikoe avoids these collisions."
+  },
+  {
+    "forme": "potul",
+    "raison_fr": "Porte-clefs, pas clavier musical.",
+    "reason_en": "Key ring, not a musical keyboard."
+  },
+  {
+    "forme": "fulan",
+    "raison_fr": "Sens pathologique ancien, pas scénario imaginaire libre.",
+    "reason_en": "Inherited pathological sense, not a freely imagined scenario."
+  },
+  {
+    "forme": "doebyn",
+    "raison_fr": "Taille par découpe, pas région du tronc.",
+    "reason_en": "Cutting, not the waist."
+  },
+  {
+    "forme": "kafoevar",
+    "raison_fr": "Faire un testament, pas éprouver un objet.",
+    "reason_en": "Make a will, not test an object."
+  },
+  {
+    "forme": "kraevetol metothun",
+    "raison_fr": "Étreinte divisée/distribuée, pas expérience commune.",
+    "reason_en": "An embrace divided/distributed, not a shared experience."
+  },
+  {
+    "forme": "Se vele bri pimuv an runkus.",
+    "raison_fr": "Les noms après bri ont besoin du locatif.",
+    "reason_en": "The nouns after bri need locative cases."
+  },
+  {
+    "forme": "Vaemili dhoefyv kelen lyrar se.",
+    "raison_fr": "Insuffisant pour ONLY daring lips : la restriction exclusive est perdue.",
+    "reason_en": "Insufficient for ONLY daring lips: the restrictive meaning is lost."
+  }
+]

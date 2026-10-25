@@ -12,8 +12,8 @@ for name in ['lexique.csv','lexique_detaille.csv','en/lexique.csv','en/lexique_d
  blob=subprocess.run(['git','show','cbd0428:'+name],cwd=P,check=True,stdout=subprocess.PIPE).stdout
  old=list(csv.DictReader(io.StringIO(blob.decode('utf-8-sig')),delimiter=';'))
  assert len(old)==65017 and current[:65017]==old,name
- assert len(current)==65026,name
-assert len({r['mot'] for r in fr})==65023
+ assert len(current)>=65026,name
+assert len({r['mot'] for r in fr})>=65023
 assert sum(r['categorie']=='v' for r in fr)==6538
 assert [(r['mot'],r['categorie'],r['id']) for r in fr]==[(r['word'],r['category'],r['id']) for r in en]
 assert len({r['id'] for r in fr})==len(fr)
