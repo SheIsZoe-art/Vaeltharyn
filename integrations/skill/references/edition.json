@@ -1,0 +1,8 @@
+{
+  "corpus_version": "1.5.0",
+  "structure_version": "2.0.0",
+  "creator": "SheIsZoe",
+  "linguistic_revision": "d30199ad5a2595aea63688881f301cb6988be21b",
+  "format": "indexed",
+  "build_command": "python scripts/build_distribution.py"
+}

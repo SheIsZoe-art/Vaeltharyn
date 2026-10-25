@@ -3,8 +3,9 @@ from pathlib import Path,PurePosixPath
 import argparse,hashlib,json,stat,zipfile
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='0.4.0'
-ARCHIVE=ROOT/'distributions'/f'vaeltharyn-translator-{VERSION}.zip'
+LATEST=json.loads((ROOT/'distributions/latest.json').read_text(encoding='utf-8'))
+VERSION=LATEST['plugin_version']
+ARCHIVE=ROOT/'distributions'/LATEST['plugin']['file']
 
 def prepare(destination):
  expected=(ARCHIVE.with_suffix('.zip.sha256')).read_text(encoding='utf-8').split()[0]
@@ -40,7 +41,7 @@ def prepare(destination):
 
 def main():
  parser=argparse.ArgumentParser(description=__doc__)
- parser.add_argument('--destination',type=Path,default=ROOT/'dist'/f'vaeltharyn-{VERSION}',help='Dossier dédié au catalogue ; défaut : dist/vaeltharyn-0.4.0 dans le dépôt')
+ parser.add_argument('--destination',type=Path,default=ROOT/'dist'/f'vaeltharyn-{VERSION}',help='Dossier dédié au catalogue ; défaut : dist/vaeltharyn-<version> dans le dépôt')
  args=parser.parse_args()
  try:destination=prepare(args.destination)
  except (OSError,ValueError,KeyError,zipfile.BadZipFile) as exc:parser.exit(2,str(exc)+'\n')

@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "plugin_version": "0.5.0",
+  "corpus_version": "1.5.0",
+  "creator": "SheIsZoe",
+  "independent_snapshot_lookup": "pass",
+  "bilingual_records": 65041,
+  "expression_records": 416,
+  "hashes_and_archive_integrity": "pass",
+  "explicit_invalid_root_rejected": true,
+  "installer_idempotence_and_overwrite_protection": "pass",
+  "identity_and_default_prompt_preserved": true
+}

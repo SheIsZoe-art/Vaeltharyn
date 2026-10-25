@@ -1,0 +1,57 @@
+{
+  "method": "CLI wall time including Python startup; one warm-up and three measured runs; same source data; local machine, not a universal guarantee",
+  "baseline": "90cbfb4",
+  "indexed_version": "2.0.0",
+  "results": [
+    {
+      "lang": "fr",
+      "terms": [
+        "faim",
+        "colère"
+      ],
+      "median_ms": {
+        "linear": 840.43,
+        "indexed": 104.62
+      },
+      "speedup": 8.0,
+      "output_bytes": {
+        "linear": 1784,
+        "indexed": 1780
+      }
+    },
+    {
+      "lang": "en",
+      "terms": [
+        "synthesizer",
+        "harmonic frequency",
+        "badass",
+        "exchange for mine"
+      ],
+      "median_ms": {
+        "linear": 1060.29,
+        "indexed": 102.96
+      },
+      "speedup": 10.3,
+      "output_bytes": {
+        "linear": 8649,
+        "indexed": 7834
+      }
+    },
+    {
+      "lang": "vh",
+      "terms": [
+        "saevron",
+        "haem"
+      ],
+      "median_ms": {
+        "linear": 624.72,
+        "indexed": 104.68
+      },
+      "speedup": 6.0,
+      "output_bytes": {
+        "linear": 3994,
+        "indexed": 3515
+      }
+    }
+  ]
+}

@@ -1,59 +1,32 @@
-# Vaeltharyn
+# Vaeltharyn · SheIsZoe
 
-**Français** · [English edition](en/README.md)
+Langue construite pour la traduction et la chanson · A constructed language for translation and songwriting.
 
-**Plugin de traduction 0.4.0 — SheIsZoe :** [installation](INSTALLATION.md) · [téléchargement](distributions/vaeltharyn-translator-0.4.0.zip). Corpus embarqué : 1.5.0.
+**[Français](docs/fr/README.md) · [English](docs/en/README.md)**
 
-**Une langue construite pour le chant, la poésie et les récits.**
+Corpus **1.5.0** · organisation / structure **2.0.0** · plugin **0.5.0**.
+65 041 entrées / entries · 65 038 graphies / spellings · 6 538 verbes / verbs.
+Les statuts de validation restent propres à chaque fiche. / Approval status belongs to each record.
 
-Prononciation : **VAÈÈL-tha-rün**, /ˈvæːl.θa.ryn/.
+| Besoin / Need | Accès / Access |
+|---|---|
+| Installer / Install | [FR](docs/fr/integration/installation.md) · [EN](docs/en/integration/installation.md) |
+| Traduire / Translate | [FR](docs/fr/integration/agents.md) · [EN](docs/en/integration/agents.md) |
+| Rechercher / Lookup | [FR](docs/fr/integration/lookup.md) · [EN](docs/en/integration/lookup.md) |
+| Règles / Rules | [Grammaire](docs/fr/reference/grammar.md) · [Grammar](docs/en/reference/grammar.md) |
+| Données / Data | [corpus.json](corpus.json) · [data/](data/) |
+| Sources et licences / Sources and licenses | [FR](docs/fr/reference/sources-and-licenses.md) · [EN](docs/en/reference/sources-and-licenses.md) · [LICENSE](LICENSE.md) |
+| Anciennes adresses / Old paths | [FR](docs/fr/integration/structure.md) · [EN](docs/en/integration/structure.md) |
 
-Le Vaeltharyn possède une grammaire productive, une conjugaison régulière et un dictionnaire français ↔ Vaeltharyn. Son univers sonore évoque des inspirations nordiques et celtiques ; sa grammaire et ses racines sont des créations du projet.
+```text
+python -m vaeltharyn --lang en "synthesizer" "harmonic frequency"
+python -m vaeltharyn --lang fr "faim"
+python -m vaeltharyn --info
+```
 
-> **Édition de travail 1.5.0, compléments lexicaux des 24 et 25 octobre 2026.** Le corpus comprend 65 041 entrées, 65 038 graphies distinctes et 6 538 verbes. Le grand supplément contient 62 083 propositions attribuées automatiquement, avec définitions sourcées, encore à relire individuellement. Le volume du lexique ne constitue pas une validation de chaque mot.
+Python 3.10+ ; bibliothèque standard uniquement / standard library only.
+Premier accès au dépôt : construction automatique de l’index. Les distributions contiennent déjà cet index.
+First source lookup builds the index automatically. Distributions include a prebuilt index.
 
-## Découvrir la langue
-
-1. [Présentation et première phrase](00_Accueil.md)
-2. [Sons et prononciation](01_Sons_et_chant.md)
-3. [Grammaire](02_Grammaire.md) et [conjugaison](03_Conjugaison.md)
-4. [Formation des mots](04_Formation_des_mots.md)
-5. [Textes, exemples et chant](07_Textes_et_Suno.md)
-
-**Mi thaerem; aelun vele e mi-en saelath.**  
-Je chante ; la lumière demeure dans mon âme.
-
-## Chercher un mot
-
-- [Guide du grand dictionnaire](15_Grand_dictionnaire.md)
-- [Index Vaeltharyn → français](16_Index_Vaeltharyn.md)
-- [Index français → Vaeltharyn](17_Index_francais.md)
-- [Complément lexical « royaume »](22_Complement_lexical_royaume.md)
-- [Lexique CSV](lexique.csv) et [lexique détaillé CSV](lexique_detaille.csv) : UTF-8, séparateur point-virgule. Le fichier détaillé se télécharge pour une consultation locale.
-
-Les volumes de la grande édition sont des instantanés historiques ; les CSV incluent les six ajouts « royaume » et les dix entrées expressives ; leurs compléments servent d’index pour ces ajouts.
-
-## Comprendre le statut des ressources
-
-Les entrées héritées conservent leur statut antérieur. Les nouvelles propositions du grand lexique sont identifiées comme telles ; leur présence dans ce dépôt ne les transforme pas en mots validés individuellement. Consulter le [canon et les contrôles](08_Canon_et_controles.md), le [bilan éditorial](21_Bilan_grande_edition.md) et les [limites du dictionnaire](11_Couverture_et_limites.md).
-
-## Participer et réutiliser
-
-Les corrections et propositions sont bienvenues : voir [CONTRIBUTING.md](CONTRIBUTING.md). Une proposition devient une référence du projet après validation par sa personne responsable.
-
-Les créations originales du projet sont publiées sous **CC BY-SA 4.0**, selon le choix de leur titulaire. Les définitions issues du Wiktionnaire conservent leurs crédits et conditions propres. Voir [LICENSE.md](LICENSE.md) et [sources et attributions](18_Sources_et_licences.md).
-
-
-## Jurons, insultes et expressions — 25 octobre 2026
-
-[Complément expressif bilingue](23_Jurons_insultes_expressions.md) : 10 entrées proposées, 79 expressions et leurs lectures littérales. Les CSV actuels contiennent 65 017 entrées ; les volumes historiques gardent leur périmètre.
-
-
-## Extension documentée 1.4.0 — 25 octobre 2026
-
-[Inventaire expressif FR/EN](24_Inventaire_expressif_FR_EN.md) : les 719 lignes fournies sont documentées, avec 226 fiches de sens et neuf ajouts lexicaux. Quatre lignes restent sans équivalent établi, explicitement signalées. CSV actuels : 65,026 entrées, 65,023 graphies, 6,538 verbes. Les chiffres antérieurs des volumes restent historiques. Les ajouts sont des propositions non validées.
-
-
-## Extension 1.5.0 — son, corps et images
-
-[Guide de construction FR/EN](25_Son_corps_et_images.md) : 111 fiches contextualisées, quinze entrées supplémentaires, huit racines et sept composés. Corpus courant : 65 041 entrées, 65 038 graphies, 6 538 verbes. Les comptes antérieurs restent historiques ; les ajouts restent des propositions vérifiées à l’écrit.
+Les nouveautés sont publiées sur `feat/jurons-insultes-fr-en`, dans [PR #2](https://github.com/SheIsZoe-art/Vaeltharyn/pull/2), avant intégration à `main`.
+The current additions are published on that branch and PR, pending merge into `main`.

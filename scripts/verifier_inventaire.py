@@ -1,14 +1,18 @@
 """Independent preservation, coverage, morphology and reference checks for 1.4.0."""
 from pathlib import Path
+import sys
+from urllib.parse import unquote
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
+from vaeltharyn.resources import legacy_path
 import csv,io,json,re,hashlib,subprocess,collections
 P=Path(__file__).resolve().parents[1]
-A=P/'registres/inventaire-2026-10-25'
+A=legacy_path(P,'registres/inventaire-2026-10-25')
 def js(p):return json.loads(p.read_text(encoding='utf-8'))
 def read(p):
  with p.open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f,delimiter=';'))
-fr=read(P/'lexique_detaille.csv');en=read(P/'en/lexique_detaille.csv')
+fr=read(legacy_path(P,'lexique_detaille.csv'));en=read(legacy_path(P,'en/lexique_detaille.csv'))
 for name in ['lexique.csv','lexique_detaille.csv','en/lexique.csv','en/lexique_detaille.csv']:
- current=read(P/name)
+ current=read(legacy_path(P,name))
  blob=subprocess.run(['git','show','cbd0428:'+name],cwd=P,check=True,stdout=subprocess.PIPE).stdout
  old=list(csv.DictReader(io.StringIO(blob.decode('utf-8-sig')),delimiter=';'))
  assert len(old)==65017 and current[:65017]==old,name
@@ -87,13 +91,14 @@ assert keys['causes_fear']['vaeltharyn']=='Se dityle mi, vrask.'
 refs=js(A/'references/sources.json');refids={r['id'] for r in refs};assert len(refids)==12
 assert all(set(r['references'])<=refids for r in routes+senses)
 for filename in ['24_Inventaire_expressif_FR_EN.md','en/24_Inventaire_expressif_FR_EN.md']:
- doc=P/filename;t=doc.read_text(encoding='utf-8')
+ doc=legacy_path(P,filename);t=doc.read_text(encoding='utf-8')
  for link in re.findall(r'\]\(([^)]+)\)',t):
   if link.startswith('https://'):continue
-  path,_,anchor=link.partition('#')
+  path,_,anchor=link.partition('#');path=unquote(path)
   target=doc.parent/path if path else doc
   assert target.is_file(),(filename,link)
   if not path and anchor:assert '### '+anchor.upper().replace('S-','S-',1) in t.upper(),anchor
 report={'status':'pass','source_rows':719,'sense_records':226,'new_lemmas':9,'entries':65026,'old_entries_preserved':65017,'new_canonical_expressions':200,'unestablished_source_rows':4,'validation':'written lexical, morphological, preservation, source coverage and link checks; no audio validation'}
-(A/'verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+(P/'.cache').mkdir(exist_ok=True)
+(P/'.cache'/('verifier_inventaire.py.json')).write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(json.dumps(report,ensure_ascii=False,indent=2))

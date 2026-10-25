@@ -1,52 +1,79 @@
-"""Vérifie le paquet autonome et la préparation d’une installation dans un dossier temporaire."""
-from pathlib import Path
-import hashlib,json,re,subprocess,sys,tempfile,zipfile
-
+"""Verify portable packages, installer behavior, provenance and lookup."""
+from pathlib import Path,PurePosixPath
+from contextlib import closing
+import hashlib,json,os,sqlite3,subprocess,sys,tempfile,zipfile
 ROOT=Path(__file__).resolve().parents[1]
-ARCHIVE=ROOT/'distributions/vaeltharyn-translator-0.4.0.zip'
-def run(*args):return subprocess.check_output([sys.executable,'-X','utf8',*map(str,args)],encoding='utf-8')
 
-(ROOT/'dist').mkdir(exist_ok=True)
-with tempfile.TemporaryDirectory(prefix='verification-',dir=ROOT/'dist') as temp:
- assert Path(temp).resolve().is_relative_to((ROOT/'dist').resolve())
- destination=Path(temp)/'catalogue avec espaces'
- for _ in range(2):run(ROOT/'scripts/installer_plugin.py','--destination',destination)
- catalog=json.loads((destination/'.agents/plugins/marketplace.json').read_text(encoding='utf-8'))
- plugin=destination/catalog['plugins'][0]['source']['path']
- assert plugin.resolve().is_relative_to(destination.resolve())
- with zipfile.ZipFile(ARCHIVE) as archive:
-  assert archive.testzip() is None
-  for name in archive.namelist():
-   assert archive.read(name)==(plugin/name).read_bytes(),name
-  source=ROOT/'plugins/vaeltharyn-translator'
-  for name in ['plugin.json','skills/translate-vaeltharyn/SKILL.md','skills/translate-vaeltharyn/scripts/chercher.py','skills/translate-vaeltharyn/agents/openai.yaml','skills/translate-vaeltharyn/references/edition.json']:
-   assert archive.read(name).replace(b'\r\n',b'\n')==(source/name).read_bytes().replace(b'\r\n',b'\n'),name
- manifest=json.loads((plugin/'plugin.json').read_text(encoding='utf-8'))
- assert manifest['version']=='0.4.0' and manifest['name']=='vaeltharyn-translator'
- assert manifest['author']['name']=='SheIsZoe'
- assert manifest['extensions']['com.openai']['interface']['developerName']=='SheIsZoe'
- skill=plugin/'skills/translate-vaeltharyn'
- edition=json.loads((skill/'references/edition.json').read_text(encoding='utf-8'))
- for name,digest in edition['sha256'].items():
-  assert hashlib.sha256((skill/'references/corpus'/name).read_bytes()).hexdigest()==digest,name
- def query(lang,term):
-  return json.loads(run(skill/'scripts/chercher.py','--root',skill/'references/corpus','--lang',lang,term,'--limit','2'))['results'][term]
- assert query('vh','slusoemar')['entries'][0]['valence']=='tr'
- assert query('en','badass')['expressions'][0]['key']=='badass'
- assert query('fr','Gognand')['expressions'][0]['vaeltharyn']==''
- assert query('en','harmonic frequency')['expressions'][0]['vaeltharyn']=='korthir goesumen'
- assert query('vh','saevron')['entries'][0]['definition_fr'].startswith('Partie du tronc')
- assert query('en','exchange for mine')['expressions'][0]['schema_a_completer']
- assert edition['entries']==65041
- # Refuse a different file instead of overwriting a prior installation.
- (plugin/'plugin.json').write_text('{}',encoding='utf-8')
- failed=subprocess.run([sys.executable,str(ROOT/'scripts/installer_plugin.py'),'--destination',str(destination)],stdout=subprocess.PIPE,stderr=subprocess.PIPE)
- assert failed.returncode==2 and (plugin/'plugin.json').read_text(encoding='utf-8')=='{}'
+def run(script,*args,cwd=None,success=True):
+    env=dict(os.environ);env.pop('VAELTHARYN_ROOT',None)
+    r=subprocess.run([sys.executable,'-X','utf8',str(script),*map(str,args)],cwd=cwd,env=env,capture_output=True,encoding='utf-8')
+    assert (r.returncode==0)==success,(r.returncode,r.stderr)
+    return r.stdout
 
-for doc in [ROOT/'INSTALLATION.md',ROOT/'plugins/vaeltharyn-translator/README.md']:
- for target in re.findall(r'\]\(([^)]+)\)',doc.read_text(encoding='utf-8')):
-  if target.startswith('https://'):continue
-  assert (doc.parent/target.split('#')[0]).is_file(),target
-report={'status':'pass','plugin_version':'0.4.0','corpus_edition':'1.5.0','corpus_revision':edition['revision'],'archive_sha256':hashlib.sha256(ARCHIVE.read_bytes()).hexdigest(),'checks':['archive integrity','identical bundled source','installation in path with spaces','idempotent preparation','refusal to overwrite different files','embedded corpus hashes','FR/EN/Vaeltharyn queries','uncertain expression preserved','documentation local links'],'scope':'package preparation and lookup verified; host installation commands follow official Codex documentation'}
-(ROOT/'distributions/verification-0.4.0.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-print(json.dumps(report,ensure_ascii=False,indent=2))
+def verify_skill(skill,cwd):
+    corpus=skill/'references/corpus';m=json.loads((corpus/'corpus.json').read_text(encoding='utf-8'))
+    assert m['corpus_version']=='1.5.0' and m['distribution']['format']=='indexed'
+    index=corpus/m['distribution']['index']
+    assert hashlib.sha256(index.read_bytes()).hexdigest()==m['distribution']['index_sha256']
+    assert not list(corpus.rglob('entries.csv'))
+    with closing(sqlite3.connect(index.resolve().as_uri()+'?mode=ro',uri=True)) as db:
+        assert db.execute('PRAGMA quick_check').fetchone()[0]=='ok'
+        assert db.execute("SELECT count(*) FROM records WHERE kind='entry'").fetchone()[0]==65041
+        assert db.execute("SELECT count(*) FROM records WHERE kind='expression'").fetchone()[0]==416
+        raw=db.execute("SELECT payload FROM records WHERE kind='expression'").fetchall()
+        assert sum(len(json.loads(x[0]).get('source_routes',[])) for x in raw)>=719
+    script=skill/'scripts/chercher.py'
+    result=json.loads(run(script,'--lang','en','harmonic frequency','exchange for mine',cwd=cwd))
+    assert Path(result['corpus_root']).resolve()==corpus.resolve()
+    assert result['results']['harmonic frequency']['expressions'][0]['vaeltharyn']=='korthir goesumen'
+    assert result['results']['exchange for mine']['expressions'][0]['schema_a_completer']
+    fr=json.loads(run(script,'--lang','fr','faim',cwd=cwd))
+    assert fr['results']['faim']['entries'][0]['word']=='haem'
+    senses=json.loads(run(script,'--lang','vh','Thalen moelom!',cwd=cwd))
+    assert {'weird_warning','unusual'}<={r.get('key') for r in senses['results']['Thalen moelom!']['expressions']}
+    run(script,'--root',cwd/'missing-corpus','--lang','fr','faim',cwd=cwd,success=False)
+    run(script,'--lang','fr','faim','--limit','101',cwd=cwd,success=False)
+    return result
+
+def main():
+    latest=json.loads((ROOT/'distributions/latest.json').read_text(encoding='utf-8'))
+    (ROOT/'dist').mkdir(exist_ok=True)
+    with tempfile.TemporaryDirectory(prefix='verification-',dir=ROOT/'dist') as temp:
+        temp=Path(temp);assert temp.resolve().is_relative_to((ROOT/'dist').resolve())
+        for kind in ('plugin','skill'):
+            archive=ROOT/'distributions'/latest[kind]['file']
+            assert hashlib.sha256(archive.read_bytes()).hexdigest()==latest[kind]['sha256']
+            assert archive.stat().st_size<100_000_000
+            with zipfile.ZipFile(archive) as z:
+                assert z.testzip() is None
+                for info in z.infolist():
+                    path=PurePosixPath(info.filename)
+                    assert not path.is_absolute() and '..' not in path.parts and '\\' not in info.filename and ':' not in info.filename
+                    assert not ('__pycache__' in path.parts or info.filename.endswith('.pyc'))
+                    if info.filename.endswith(('.md','.json','.yaml','.py')):
+                        content=z.read(info)
+                        assert b'C:/Users/user/' not in content and b'C:\\Users\\user\\' not in content,info.filename
+                z.extractall(temp/kind)
+        plugin=temp/'plugin'
+        a=json.loads((plugin/'plugin.json').read_text(encoding='utf-8'));b=json.loads((plugin/'.codex-plugin/plugin.json').read_text(encoding='utf-8'))
+        assert a['name']==b['name']=='vaeltharyn-translator'
+        assert a['version']==b['version']==latest['plugin_version']=='0.5.0'
+        assert a['author']['name']==b['author']['name']=='SheIsZoe'
+        assert a['extensions']['com.openai']['interface']==b['interface']
+        assert b['interface']['developerName']=='SheIsZoe'
+        assert b['interface']['defaultPrompt']=='Traduis ce passage en Vaeltharyn en respectant les formes canoniques et en signalant les mots incertains.'
+        x=verify_skill(plugin/'skills/translate-vaeltharyn',temp)
+        y=verify_skill(temp/'skill',temp)
+        assert x['results']==y['results']
+        destination=temp/'catalogue avec espaces'
+        for repeat in range(2):run(ROOT/'scripts/installer_plugin.py','--destination',destination,cwd=temp)
+        catalog=json.loads((destination/'.agents/plugins/marketplace.json').read_text(encoding='utf-8'))
+        installed=destination/catalog['plugins'][0]['source']['path']
+        assert json.loads((installed/'plugin.json').read_text(encoding='utf-8'))['version']=='0.5.0'
+        (installed/'README.md').write_text('Changed local source',encoding='utf-8')
+        run(ROOT/'scripts/installer_plugin.py','--destination',destination,cwd=temp,success=False)
+    report={'status':'pass','plugin_version':'0.5.0','corpus_version':'1.5.0','creator':'SheIsZoe','independent_snapshot_lookup':'pass','bilingual_records':65041,'expression_records':416,'hashes_and_archive_integrity':'pass','explicit_invalid_root_rejected':True,'installer_idempotence_and_overwrite_protection':'pass','identity_and_default_prompt_preserved':True}
+    (ROOT/'distributions/verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    print(json.dumps(report,ensure_ascii=False,indent=2))
+
+if __name__=='__main__':main()

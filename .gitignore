@@ -10,3 +10,7 @@ Thumbs.db
 *.sqlite
 *.sqlite-journal
 dist/
+
+.cache/
+*.sqlite3
+*.sqlite3-*

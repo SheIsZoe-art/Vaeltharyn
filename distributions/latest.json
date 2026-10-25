@@ -1,0 +1,22 @@
+{
+  "plugin_version": "0.5.0",
+  "corpus_version": "1.5.0",
+  "structure_version": "2.0.0",
+  "creator": "SheIsZoe",
+  "counts": {
+    "corpus_version": "1.5.0",
+    "entries": 65041,
+    "expressions": 416
+  },
+  "index_bytes": 337108992,
+  "plugin": {
+    "file": "vaeltharyn-translator-0.5.0.zip",
+    "sha256": "4eb2fc541746e7458e8e2e31239d2ed5589c83cba38d528e7b69b0e38b95b349",
+    "bytes": 36020364
+  },
+  "skill": {
+    "file": "vaeltharyn-skill-1.5.0-structure-2.0.0.zip",
+    "sha256": "c63325701e2454e127a3c879e941d3d5694673e4611ea2ce1a3295dea4eab2f4",
+    "bytes": 36013018
+  }
+}

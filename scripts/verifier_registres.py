@@ -2,14 +2,18 @@
 Optional --baseline validates preservation against an existing Git revision.
 """
 from pathlib import Path
+import sys
+from urllib.parse import unquote
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
+from vaeltharyn.resources import legacy_path
 from collections import Counter
 import csv,io,json,re,subprocess,argparse
 P=Path(__file__).resolve().parents[1]
 ap=argparse.ArgumentParser();ap.add_argument('--baseline');args=ap.parse_args()
 def read(p):
  with p.open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f,delimiter=';'))
-fr=read(P/'lexique_detaille.csv');en=read(P/'en/lexique_detaille.csv')
-fs=read(P/'lexique.csv');es=read(P/'en/lexique.csv')
+fr=read(legacy_path(P,'lexique_detaille.csv'));en=read(legacy_path(P,'en/lexique_detaille.csv'))
+fs=read(legacy_path(P,'lexique.csv'));es=read(legacy_path(P,'en/lexique.csv'))
 assert len(fr)==len(en)==len(fs)==len(es)>=65017
 assert len({r['mot'] for r in fr})>=65014
 assert [(r['mot'],r['categorie'],r['id']) for r in fr]==[(r['word'],r['category'],r['id']) for r in en]
@@ -19,8 +23,8 @@ if args.baseline:
   blob=subprocess.run(['git','show',args.baseline+':'+filename],cwd=P,check=True,stdout=subprocess.PIPE).stdout.decode('utf-8-sig')
   old=list(csv.DictReader(io.StringIO(blob),delimiter=';'))
   assert len(old)==65007 and current[:len(old)]==old,filename
-new=json.loads((P/'registres/entrees_nouvelles.json').read_text(encoding='utf-8'))
-expressions=json.loads((P/'registres/expressions.json').read_text(encoding='utf-8'))
+new=json.loads((legacy_path(P,'registres/entrees_nouvelles.json')).read_text(encoding='utf-8'))
+expressions=json.loads((legacy_path(P,'registres/expressions.json')).read_text(encoding='utf-8'))
 assert len(new)==10 and len(expressions)==79
 frmap={(x['mot'],x['categorie']):x for x in fr};enmap={(x['word'],x['category']):x for x in en}
 for item in new:
@@ -63,9 +67,9 @@ for e in expressions:
 assert len({e['id'] for e in expressions})==len(expressions)
 assert len({e['vaeltharyn'] for e in expressions})==len(expressions)
 byid={e['id']:e for e in expressions}
-aliases=read(P/'registres/renvois_fr_en.csv')
+aliases=read(legacy_path(P,'registres/renvois_fr_en.csv'))
 for x in aliases:assert byid[x['id_expression']]['vaeltharyn']==x['expression']
-for doc in [P/'23_Jurons_insultes_expressions.md',P/'en/23_Jurons_insultes_expressions.md']:
+for doc in [legacy_path(P,'23_Jurons_insultes_expressions.md'),legacy_path(P,'en/23_Jurons_insultes_expressions.md')]:
  text=doc.read_text(encoding='utf-8')
  for e in expressions:assert e['id'] in text and e['vaeltharyn'] in text
  for x in new:assert x['fr']['id'] in text

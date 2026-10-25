@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "structure_version": "2.0.0",
+  "corpus_version": "1.5.0",
+  "creator": "SheIsZoe",
+  "linguistic_revision": "d30199ad5a2595aea63688881f301cb6988be21b",
+  "distribution": {
+    "format": "source"
+  },
+  "counts": {
+    "entries": 65041,
+    "spellings": 65038,
+    "verbs": 6538
+  },
+  "lexicon": {
+    "fr": {
+      "detailed": "data/lexicon/fr/entries.csv",
+      "summary": "data/lexicon/fr/summary.csv"
+    },
+    "en": {
+      "detailed": "data/lexicon/en/entries.csv",
+      "summary": "data/lexicon/en/summary.csv"
+    }
+  },
+  "expressions": [
+    {
+      "id": "register-1.3.0",
+      "records": "data/expressions/register-1.3.0/expressions.json",
+      "aliases": "data/expressions/register-1.3.0/renvois_fr_en.csv",
+      "kind": "initial"
+    },
+    {
+      "id": "idioms-1.4.0",
+      "records": "data/expressions/idioms-1.4.0/sens.json",
+      "routes": "data/expressions/idioms-1.4.0/couverture.json",
+      "kind": "senses"
+    },
+    {
+      "id": "sound-body-1.5.0",
+      "records": "data/expressions/sound-body-1.5.0/sens.json",
+      "kind": "senses"
+    }
+  ],
+  "resources": {
+    "start": {
+      "fr": "docs/fr/start.md",
+      "en": "docs/en/start.md"
+    },
+    "phonology": {
+      "fr": "docs/fr/reference/phonology.md",
+      "en": "docs/en/reference/phonology.md"
+    },
+    "grammar": {
+      "fr": "docs/fr/reference/grammar.md",
+      "en": "docs/en/reference/grammar.md"
+    },
+    "conjugation": {
+      "fr": "docs/fr/reference/conjugation.md",
+      "en": "docs/en/reference/conjugation.md"
+    },
+    "word_formation": {
+      "fr": "docs/fr/reference/word-formation.md",
+      "en": "docs/en/reference/word-formation.md"
+    },
+    "texts": {
+      "fr": "docs/fr/examples/texts-and-suno.md",
+      "en": "docs/en/examples/texts-and-suno.md"
+    },
+    "canon": {
+      "fr": "docs/fr/reference/canon-and-controls.md",
+      "en": "docs/en/reference/canon-and-controls.md"
+    },
+    "paradigms": {
+      "fr": "docs/fr/reference/verb-paradigms.md",
+      "en": "docs/en/reference/verb-paradigms.md"
+    },
+    "dictionary_guide": {
+      "fr": "docs/fr/guides/dictionary.md",
+      "en": "docs/en/guides/dictionary.md"
+    },
+    "limits": {
+      "fr": "docs/fr/guides/coverage-and-limits.md",
+      "en": "docs/en/guides/coverage-and-limits.md"
+    },
+    "distinctions": {
+      "fr": "docs/fr/guides/meaning-distinctions.md",
+      "en": "docs/en/guides/meaning-distinctions.md"
+    },
+    "editions": {
+      "fr": "docs/fr/guides/dictionary-editions.md",
+      "en": "docs/en/guides/dictionary-editions.md"
+    },
+    "sources": {
+      "fr": "docs/fr/reference/sources-and-licenses.md",
+      "en": "docs/en/reference/sources-and-licenses.md"
+    },
+    "songs": {
+      "fr": "docs/fr/examples/song-workshop.md",
+      "en": "docs/en/examples/song-workshop.md"
+    },
+    "conjugating_lexicon": {
+      "fr": "docs/fr/guides/conjugating-the-lexicon.md",
+      "en": "docs/en/guides/conjugating-the-lexicon.md"
+    },
+    "kingdom": {
+      "fr": "docs/fr/extensions/kingdom.md",
+      "en": "docs/en/extensions/kingdom.md"
+    },
+    "register": {
+      "fr": "docs/fr/extensions/register.md",
+      "en": "docs/en/extensions/register.md"
+    },
+    "idioms": {
+      "fr": "docs/fr/extensions/idioms.md",
+      "en": "docs/en/extensions/idioms.md"
+    },
+    "sound_body": {
+      "fr": "docs/fr/extensions/sound-body.md",
+      "en": "docs/en/extensions/sound-body.md"
+    }
+  },
+  "legacy_paths": "archives/legacy-paths.json",
+  "lookup": {
+    "module": "vaeltharyn",
+    "schema_version": 1,
+    "default_limit": 8,
+    "maximum_limit": 100
+  },
+  "status": "Working corpus; entries retain their own approval status. No linguistic change in this structural release."
+}

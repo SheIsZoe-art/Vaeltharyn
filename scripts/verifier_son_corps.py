@@ -1,9 +1,13 @@
 """Checks the 1.5.0 supplement against its exact pre-extension Git baseline."""
 from pathlib import Path
+import sys
+from urllib.parse import unquote
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
+from vaeltharyn.resources import legacy_path
 import csv,io,json,re,subprocess,hashlib,collections
-P=Path(__file__).resolve().parents[1];A=P/'complements/son-corps-images-1.5.0';BASE='6d13eb624d29bb5b824cf151c900f4331cb02c67'
+P=Path(__file__).resolve().parents[1];A=legacy_path(P,'complements/son-corps-images-1.5.0');BASE='6d13eb624d29bb5b824cf151c900f4331cb02c67'
 def read(name):
- with (P/name).open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f,delimiter=';'))
+ with legacy_path(P,name).open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f,delimiter=';'))
 def js(name):return json.loads((A/name).read_text(encoding='utf-8'))
 fr=read('lexique_detaille.csv');en=read('en/lexique_detaille.csv')
 for name in ['lexique.csv','lexique_detaille.csv','en/lexique.csv','en/lexique_detaille.csv']:
@@ -96,11 +100,12 @@ for n in new:
 refs=js('references/sources.json');assert len(refs)==7 and len({r['id'] for r in refs})==7
 rejected=js('contre_exemples.json');assert any(r['forme']=='frekven' for r in rejected) and any(r['forme']=='kik' for r in rejected)
 assert hashlib.sha256((A/'references/source_utilisateur.txt').read_bytes()).hexdigest()==js('references/provenance.json')['source_file_sha256']
-for path in [P/'25_Son_corps_et_images.md',P/'en/25_Son_corps_et_images.md']:
+for path in [legacy_path(P,'25_Son_corps_et_images.md'),legacy_path(P,'en/25_Son_corps_et_images.md')]:
  for link in re.findall(r'\]\(([^)]+)\)',path.read_text(encoding='utf-8')):
   if link.startswith('https://'):continue
-  assert (path.parent/link.split('#')[0]).is_file(),link
-assert not list((P/'distributions').glob('*0.3.*')),'Do not reintroduce withdrawn legacy plugin archives'
+  assert (path.parent/unquote(link.split('#')[0])).is_file(),link
+assert not list((legacy_path(P,'distributions')).glob('*0.3.*')),'Do not reintroduce withdrawn legacy plugin archives'
 report={'status':'pass','baseline':BASE,'previous_entries_preserved':65026,'entries':65041,'new_entries':15,'new_roots':8,'new_compounds':7,'new_verb_paradigms':0,'new_noun_case_forms_checked':150,'context_records':111,'reused_physical_frequency':'korthir','semantic_duplicate_rejected':'frekven','inflection_collision_rejected':'kik','template_records':['exchange_mine'],'scope':'written lexical, phonographic and morphological checks; no audio trial; examples remain context-sensitive'}
-(A/'verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+(P/'.cache').mkdir(exist_ok=True)
+(P/'.cache'/('verifier_son_corps.py.json')).write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(json.dumps(report,ensure_ascii=False,indent=2))
