@@ -3,3 +3,4 @@
 *.csv text eol=lf
 *.json text eol=lf
 *.jsonl text eol=lf
+registres/inventaire-2026-10-25/references/inventaire-fourni.txt -text
